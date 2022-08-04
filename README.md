@@ -965,6 +965,7 @@
 
 ## Python 
 
+- [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
 - [Dionis-90/my-g-photo](https://github.com/Dionis-90/my-g-photo) - This is a console application that gets media files and media metadata from your Google Photo storage to your local storage.
@@ -1277,7 +1278,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit provides a simple, human-readable, portable and platform-independent CLI and JSON API to automate and unify DevOps and MLOps across diverse and continuously changing software and hardware
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit helps you to add simple, human-readable and platform-independent CLI, API, JSON/YAML metadata and UID to your DevOps and MLOps automation scripts and artifacts to make them more portable,
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -1477,7 +1478,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console) - A jekyll theme inspired by linux consoles for hackers, developers and script kiddies.
 - [bitbrain/jekyll-dash](https://github.com/bitbrain/jekyll-dash) - 🌒 Light and dark blog theme for Jekyll, inspired by Dash UI for Atom.
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog  :rocket: in minutes built for developers.
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog with Admin :rocket: in minutes built for developers.
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [Albejr/ngx-timeline](https://github.com/Albejr/ngx-timeline) - Component for rendering timelines from the your data.
 
