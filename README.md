@@ -71,6 +71,7 @@
 
 ## C 
 
+- [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh) - An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)
@@ -118,6 +119,7 @@
 
 ## C# # 
 
+- [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [erwinkramer/SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync) - Improvement fork
 - [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - An open standard that breaks down the walls between music services.
@@ -223,6 +225,7 @@
 
 ## Go 
 
+- [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
@@ -347,6 +350,12 @@
 
 ## JavaScript 
 
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create an automatic portfolio based on GitHub profile.
+- [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create beautiful-looking cards for your GitHub profile or GitHub repo!
+- [paschmann/changd](https://github.com/paschmann/changd) - Changd is a open source web monitoring  application for monitoring visual site changes using screenshots, XPath's or API's.
+- [ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software to create aliases for commands, applications to type in cmd, terminal.
+- [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
+- [umaar/export-github-stars](https://github.com/umaar/export-github-stars) - A Node.js webapp to scrape the stars of specified GitHub users
 - [nextcloud/weather](https://github.com/nextcloud/weather) - ⛅️ Weather app for Nextcloud
 - [nextcloud/integration_twitter](https://github.com/nextcloud/integration_twitter) - 🐦 Twitter integration into Nextcloud
 - [nextcloud/integration_reddit](https://github.com/nextcloud/integration_reddit) - 🛸 Reddit integration into Nextcloud
@@ -693,6 +702,9 @@
 
 ## Others 
 
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
+- [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny command line interface to export all your starred repositories as JSON or whatever. A tiny command line interface to export all your starred repositories as JSON or whatever.
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
@@ -912,6 +924,7 @@
 
 ## PHP 
 
+- [violethaze74/nextcloud-webhooks](https://github.com/violethaze74/nextcloud-webhooks) - Webhooks app for Nextcloud :globe_with_meridians: :zap:
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [nextcloud/circles](https://github.com/nextcloud/circles) - 👪 Create groups with other users on a Nextcloud instance and share with them
@@ -988,6 +1001,8 @@
 
 ## Python 
 
+- [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
+- [karlicoss/ghexport](https://github.com/karlicoss/ghexport) - Export your Github activity: events, repositories, stars, etc.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
@@ -1301,7 +1316,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit helps you to add simple, human-readable and platform-independent CLI, API, JSON/YAML metadata and UID to your DevOps and MLOps automation scripts and artifacts to make them more portable,
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit helps you to add simple, human-readable and platform-independent CLI, API and metadata to your MLOps and DevOps automation scripts and artifacts to make them more portable, reusable, inte
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -1507,6 +1522,9 @@
 
 ## Shell 
 
+- [fankijo/ncocc](https://github.com/fankijo/ncocc) - Runs Nextclouds occ commands without the need to type "sudo -u www-data........"
+- [CedricGoby/nextcloud-occ-scripts](https://github.com/CedricGoby/nextcloud-occ-scripts) - 
+- [floalt/Nextcloud-OCC-Scripts](https://github.com/floalt/Nextcloud-OCC-Scripts) - various OCC Scripts für Nextcloud
 - [jancborchardt/nextcloud-scripts](https://github.com/jancborchardt/nextcloud-scripts) - ☁️ Scripts to easier set up & update Nextcloud
 - [nico-castell/PopOS-Setup](https://github.com/nico-castell/PopOS-Setup) - A script to set up Pop!_OS in the best way possible
 - [Correia-jpv/fucking-awesome-zsh-plugins](https://github.com/Correia-jpv/fucking-awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. With repository stars⭐ and forks🍴
