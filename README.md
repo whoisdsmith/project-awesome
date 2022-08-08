@@ -204,6 +204,7 @@
 
 ## Elixir 
 
+- [lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome bookmarks into markdown files
 - [digitalbias/journal_converter](https://github.com/digitalbias/journal_converter) - An elixir program created to convert simple markdown journal files into something that can be imported into Day One
 
 ## Elm 
@@ -351,6 +352,10 @@
 
 ## JavaScript 
 
+- [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
+- [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [azedo/raindrop-io-github-starred-repos](https://github.com/azedo/raindrop-io-github-starred-repos) - Add all of your starred repos to raindrop.io
 - [ProfessorKolodziej/idea-generator](https://github.com/ProfessorKolodziej/idea-generator) - An idea generator, powered by a selected set of bookmarks on Raindrop.io.
@@ -597,7 +602,6 @@
 ## Objective-C 
 
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
-- [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [Traurige/Ve](https://github.com/Traurige/Ve) - Natively integrated notification logger
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [cosm/Data-Logger-for-iPhone](https://github.com/cosm/Data-Logger-for-iPhone) - Data Logger for iPhone can be used for storing and sharing various types of data with Pachube.com.
@@ -709,6 +713,7 @@
 
 ## Others 
 
+- [chlohal/obsidian-terminal](https://github.com/chlohal/obsidian-terminal) - A terminal panel for Obsidian
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [CodeDotJS/allstars](https://github.com/CodeDotJS/allstars) - :sparkles: A tiny command line interface to export all your starred repositories as JSON or whatever. A tiny command line interface to export all your starred repositories as JSON or whatever.
@@ -1032,7 +1037,7 @@
 - [yarrm80s/orpheusdl](https://github.com/yarrm80s/orpheusdl) - 
 - [agent255/clspotify](https://github.com/agent255/clspotify) - Spotify song downloader without injecting into the windows client
 - [jbh-cloud/spotify_sync](https://github.com/jbh-cloud/spotify_sync) - A schedulable, configurable CLI downloader for Spotify accounts
-- [azuline/repertoire](https://github.com/azuline/repertoire) - A music server for cataloguing and exploring large music libraries. (WIP)
+- [azuline/repertoire](https://github.com/azuline/repertoire) - whoops never finished this lol, don't look it's old and embarrassing
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [arnowelzel/netdata-nextcloud](https://github.com/arnowelzel/netdata-nextcloud) - A plugin for netdata to monitor Nextcloud servers
@@ -1594,6 +1599,7 @@
 - [loopwerk/Parsley](https://github.com/loopwerk/Parsley) - A Markdown parser for Swift, using Github Flavored Markdown and Metadata
 - [ososoio/txtool](https://github.com/ososoio/txtool) - Text Tool
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
+- [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [vigneshrajsb/Day-One-Journal-Clone](https://github.com/vigneshrajsb/Day-One-Journal-Clone) - 
 - [chanmadsen/JournalCoreDataDayOne](https://github.com/chanmadsen/JournalCoreDataDayOne) - 
 - [yashbhojgarhia/DayOneClone](https://github.com/yashbhojgarhia/DayOneClone) - Day One Journaling iOS Application Clone
@@ -1623,6 +1629,9 @@
 
 ## TypeScript 
 
+- [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
+- [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - 
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [scriptify/thesoundofus](https://github.com/scriptify/thesoundofus) - Connect your Google Photos and Spotify Account, select a photo album and a Spotify playlist, and the web app will create an interactive photo album with music from the time the photo was taken. Intend
@@ -1706,6 +1715,7 @@
 
 ## Vue 
 
+- [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A bookmarks manager Chrome extension.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Desktop music streaming browser
 - [Alexandr-web/MusicApplicationPEVN](https://github.com/Alexandr-web/MusicApplicationPEVN) - 🎵🎶 This is a musical project written in PEVN
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
