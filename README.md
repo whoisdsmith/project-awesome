@@ -154,6 +154,7 @@
 
 ## CSS 
 
+- [kamranahmedse/github-pages-blog-action](https://github.com/kamranahmedse/github-pages-blog-action) - Create good looking blog from your markdown files in a GitHub repository
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An api for 'is it down or just me' monitor.
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [TheUltimateC0der/Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - deemixrr manages your artists and playlists completely automated. You add your favorite artists and playlists, and deemixrr does the rest for you.
@@ -189,7 +190,7 @@
 
 ## Dart 
 
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Synced lyrics, playlists & visuals. Built-in YouTube Music client.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift & more.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [wardsquid/journal](https://github.com/wardsquid/journal) - Inkling is your journaling partner. It utilizes the latent data your phone collects throughout your day to build a journal entry that you can easily edit, save, and share with loved ones.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -198,6 +199,7 @@
 
 ## Dockerfile 
 
+- [github-actions-x/hugo](https://github.com/github-actions-x/hugo) - Build you site with Hugo
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [84KaliPleXon3/ParrotSec-docker-images](https://github.com/84KaliPleXon3/ParrotSec-docker-images) - 
@@ -226,6 +228,7 @@
 
 ## Go 
 
+- [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .json file for Hugo
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -352,6 +355,12 @@
 
 ## JavaScript 
 
+- [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [TimBroddin/raindrop-to-wpcom](https://github.com/TimBroddin/raindrop-to-wpcom) - Lambda function to post raindrop.io bookmarks to wpcom
+- [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files.
+- [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog) - Fetch & Display Your Hashnode blog posts.
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -713,6 +722,7 @@
 
 ## Others 
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [chlohal/obsidian-terminal](https://github.com/chlohal/obsidian-terminal) - A terminal panel for Obsidian
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -1000,7 +1010,7 @@
 
 ## PowerShell 
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [jmtornetta/extract-bookmarks](https://github.com/jmtornetta/extract-bookmarks) - Exports and extracts bookmarks from Windows browsers into a folder that can be easily archived by launchers like Windows Search, Cortana, Launchy, Wox, Everything and PowerToys Run.
 - [moe-k/GoogleTakeout](https://github.com/moe-k/GoogleTakeout) - Script to reorganize photos and videos taken from Google Photos takeout download
 - [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline of Active Directory changes with replication metadata
@@ -1013,6 +1023,9 @@
 
 ## Python 
 
+- [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
+- [isacmlee/csv-to-playlist](https://github.com/isacmlee/csv-to-playlist) - A Python script that converts .csv playlist files into a Spotify Playlist.
+- [th3c0d3br34ker/github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) - ✨ This GitHub action helps to add cool Stats to your GitHub profile README.
 - [YousufSSyed/Raindrop.io-Scripts](https://github.com/YousufSSyed/Raindrop.io-Scripts) - Python scripts to interact with the raindrop.io Bookmarking Service.
 - [rchangmh/bookmarks-management](https://github.com/rchangmh/bookmarks-management) - Manage your links saved in Pocket and Raindrop.io.
 - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services.
@@ -1331,7 +1344,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit helps you to add simple, human-readable and platform-independent CLI, API and metadata to your MLOps and DevOps automation scripts and artifacts to make them more portable, reusable, inte
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit helps you to add simple, human-readable and platform-independent CLI, API and metadata to ad-hoc MLOps and DevOps scripts and artifacts to make them more portable, reusable, interoperable
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -1537,6 +1550,8 @@
 
 ## Shell 
 
+- [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
+- [jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) - 
 - [fankijo/ncocc](https://github.com/fankijo/ncocc) - Runs Nextclouds occ commands without the need to type "sudo -u www-data........"
 - [CedricGoby/nextcloud-occ-scripts](https://github.com/CedricGoby/nextcloud-occ-scripts) - 
 - [floalt/Nextcloud-OCC-Scripts](https://github.com/floalt/Nextcloud-OCC-Scripts) - various OCC Scripts für Nextcloud
@@ -1629,6 +1644,11 @@
 
 ## TypeScript 
 
+- [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way 🚀 The best profile readme generator you will find ⚡
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
+- [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
+- [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
 - [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - 
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github
@@ -1679,7 +1699,7 @@
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [wilsonparson/day-one-to-markdown](https://github.com/wilsonparson/day-one-to-markdown) - Script to convert Day One journal entries to markdown files.
-- [noctiverse/hawk](https://github.com/noctiverse/hawk) - get a bird's eye view of you
+- [lacunaverse/hawk](https://github.com/lacunaverse/hawk) - get a bird's eye view of you
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
