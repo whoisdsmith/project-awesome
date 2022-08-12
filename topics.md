@@ -650,6 +650,8 @@
 
 ## css 
 
+- [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
+- [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
@@ -799,6 +801,7 @@
 
 ## documentation 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [hikerpig/foam-template-gatsby-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - A Foam/Obsidian template using gatsby-theme-kb for publishing your knowledge base
@@ -948,6 +951,7 @@
 
 ## github 
 
+- [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme
@@ -1095,6 +1099,7 @@
 
 ## hacktoberfest 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
 - [DiptoChakrabarty/Resume-Generator](https://github.com/DiptoChakrabarty/Resume-Generator) - A Resume builder which allows users to build their own custom resumes  with details like experience,projects , skills ,education etc. Users can also have the feature to  download their resumes .  To c
@@ -1179,6 +1184,7 @@
 
 ## html 
 
+- [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [MichaelCurrin/html-timeline-generator](https://github.com/MichaelCurrin/html-timeline-generator) - Browser tool to create pretty HTML timelines
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
@@ -1204,6 +1210,8 @@
 
 ## html5 
 
+- [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
+- [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -1297,6 +1305,8 @@
 
 ## javascript 
 
+- [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
+- [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [terror/github-timeline](https://github.com/terror/github-timeline) - Timeline generator using Github API
 - [Satyam1203/resume-github](https://github.com/Satyam1203/resume-github) - Generate a Resume of your Github Profile using your username.
 - [resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) - An open source progressive resume builder which works offline
@@ -1355,6 +1365,7 @@
 
 ## jekyll 
 
+- [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
@@ -1604,7 +1615,7 @@
 - [mnapoli/FrontYAML](https://github.com/mnapoli/FrontYAML) - YAML Front matter parser
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
-- [secure-77/Perlite](https://github.com/secure-77/Perlite) - A webbased markdown viewer optimized for Obsidian
+- [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1832,6 +1843,9 @@
 
 ## others 
 
+- [actions/deploy-pages](https://github.com/actions/deploy-pages) - 
+- [actions/jekyll-build-pages](https://github.com/actions/jekyll-build-pages) - A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages.
+- [guilhermeborgesbastos/live-resume](https://github.com/guilhermeborgesbastos/live-resume) - Stand out of the crowd by showing a professional website/resume. Building fast and easy the best Personal Web Application resume!
 - [GabrieleVir/Timeline-generator](https://github.com/GabrieleVir/Timeline-generator) - A generator of timelines
 - [kodestudio/neon](https://github.com/kodestudio/neon) - Simple static site generator (not sure) for display the repository's (GitHub) events on a timeline.
 - [molly/static-timeline-generator](https://github.com/molly/static-timeline-generator) - Create static timeline webpages.
@@ -2730,11 +2744,13 @@
 
 ## pwa 
 
+- [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [lybekk/offPIM](https://github.com/lybekk/offPIM) - Decentralized, Offline-first, Personal Information Manager (PIM) using PouchDB/CouchDB. Includes task-, note-, and contact-management, as well as journaling.
 
 ## python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [mnrkbys/ma2tl](https://github.com/mnrkbys/ma2tl) - macOS forensic timeline generator using the analysis result DBs of mac_apt
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
@@ -2894,6 +2910,8 @@
 
 ## react 
 
+- [kaustubhai/portfolio-template](https://github.com/kaustubhai/portfolio-template) - An Open-Sourced Template for developers to show-off there skills. Made with ReactJS
+- [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [suddi/suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.io/)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2944,6 +2962,7 @@
 
 ## reactjs 
 
+- [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [Satyam1203/resume-github](https://github.com/Satyam1203/resume-github) - Generate a Resume of your Github Profile using your username.
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
@@ -3065,6 +3084,7 @@
 
 ## shell 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -3162,6 +3182,8 @@
 
 ## terminal 
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software to create aliases for commands, applications to type in cmd, terminal.
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
@@ -3245,6 +3267,7 @@
 
 ## vue 
 
+- [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy) - CV generator built with Nuxt.js, TailwindCSS, deployed on Netlify.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -3288,10 +3311,12 @@
 
 ## webpack 
 
+- [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [suddi/suddi.github.io](https://github.com/suddi/suddi.github.io) - A static single-page application resume-builder developed using React.js and JSON Resume schema (https://suddi.io/)
 
 ## website 
 
+- [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
