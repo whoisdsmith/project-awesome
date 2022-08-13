@@ -149,6 +149,7 @@
 
 ## CSS 
 
+- [sanvishal/Exoplanet-Explore](https://github.com/sanvishal/Exoplanet-Explore) - An Interactive data visualization of Exoplanets
 - [kaustubhai/portfolio-template](https://github.com/kaustubhai/portfolio-template) - An Open-Sourced Template for developers to show-off there skills. Made with ReactJS
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [Tanuj-tj/PortfolioGenerator](https://github.com/Tanuj-tj/PortfolioGenerator) - DevSearch is a Professional Portfolio generator web application where users are allowed to maintain their profiles, add projects, and also can interact with one another.
@@ -360,6 +361,8 @@
 
 ## JavaScript 
 
+- [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
+- [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [actions/deploy-pages](https://github.com/actions/deploy-pages) - 
 - [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
@@ -533,7 +536,7 @@
 - [arangodb-foxx/ifttt-example](https://github.com/arangodb-foxx/ifttt-example) - IFTTT Webhook example
 - [dylan-mitchell/memex](https://github.com/dylan-mitchell/memex) - Import data from Google Takeout to search and analyze
 - [soulintzis/Google-maps-Location-Takeout-Visualizer](https://github.com/soulintzis/Google-maps-Location-Takeout-Visualizer) - Crowdsourcing application using Google Timeline Data
-- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - open source version of Pryv.io
+- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [jlfwong/messenger-to-markdown](https://github.com/jlfwong/messenger-to-markdown) - Chrome plugin to convert conversations on messenger.com to markdown
 - [pwaldhauer/elizabeth](https://github.com/pwaldhauer/elizabeth) - Moves.app data exporter
 - [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk) - Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
@@ -1625,6 +1628,7 @@
 
 ## TypeScript 
 
+- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
 - [sramezani/resume-builder](https://github.com/sramezani/resume-builder) - Modern real-time design and 100% free resume builder.
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
@@ -1701,7 +1705,7 @@
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [danobot/notorious](https://github.com/danobot/notorious) - Offline-first note taking and knowledge management application for desktop and the web. Supports nested notebooks, tags, real-time sync, images and file attachments. Optimised for efficiency with keyb
-- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
