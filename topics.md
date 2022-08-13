@@ -246,6 +246,7 @@
 
 ## automation 
 
+- [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
 - [Correia-jpv/fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions) - A curated list of awesome actions to use on GitHub. With repository stars⭐ and forks🍴
@@ -554,7 +555,7 @@
 - [Botffy/Timeline.fm](https://github.com/Botffy/Timeline.fm) - Chrome extension to display Last.fm scrobbles in the Google Maps Timeline
 - [reinzor/timeline-exporter](https://github.com/reinzor/timeline-exporter) - Google maps timeline exporter Chrome extension
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## cli 
@@ -692,6 +693,7 @@
 
 ## data-science 
 
+- [sanvishal/Exoplanet-Explore](https://github.com/sanvishal/Exoplanet-Explore) - An Interactive data visualization of Exoplanets
 - [mfarragher/obsidiantools](https://github.com/mfarragher/obsidiantools) - Obsidian tools - a Python package for analysing an Obsidian.md vault
 - [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
@@ -754,6 +756,7 @@
 
 ## design 
 
+- [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Rightpoint/BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift
@@ -1305,6 +1308,7 @@
 
 ## javascript 
 
+- [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
 - [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [terror/github-timeline](https://github.com/terror/github-timeline) - Timeline generator using Github API
@@ -1355,7 +1359,7 @@
 - [gmhafiz/timeline](https://github.com/gmhafiz/timeline) - Your Personal Timeline written in golang and javascript (vis.js)
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [simonwongwong/Facebook-Messenger-JSON-viewer](https://github.com/simonwongwong/Facebook-Messenger-JSON-viewer) - If you've downloaded your Facebook data in JSON format, this tool lets you read the chats more intuitively
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -1731,6 +1735,7 @@
 
 ## nextjs 
 
+- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2198,7 +2203,7 @@
 - [top-on/life-vault](https://github.com/top-on/life-vault) - Using selenium to automate google takeout routines
 - [cosm/Data-Logger-for-iPhone](https://github.com/cosm/Data-Logger-for-iPhone) - Data Logger for iPhone can be used for storing and sharing various types of data with Pachube.com.
 - [ryanseys/iphone-sms-stats](https://github.com/ryanseys/iphone-sms-stats) - Parses an SQLite database from an iPhone and runs statistical analysis on these messages.
-- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - open source version of Pryv.io
+- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [adamtow/geocuts](https://github.com/adamtow/geocuts) - GeoCuts runs shortcuts or sends messages using your current location, automatically when paired with Cronios.
 - [mattdutson/imessage-to-html](https://github.com/mattdutson/imessage-to-html) - A script for converting macOS iMessage history into a searchable HTML file, written for my lovely wife Itzel
 - [wilsonparson/day-one-to-markdown](https://github.com/wilsonparson/day-one-to-markdown) - Script to convert Day One journal entries to markdown files.
@@ -2750,6 +2755,7 @@
 
 ## python 
 
+- [sanvishal/Exoplanet-Explore](https://github.com/sanvishal/Exoplanet-Explore) - An Interactive data visualization of Exoplanets
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [mnrkbys/ma2tl](https://github.com/mnrkbys/ma2tl) - macOS forensic timeline generator using the analysis result DBs of mac_apt
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -2910,6 +2916,7 @@
 
 ## react 
 
+- [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [kaustubhai/portfolio-template](https://github.com/kaustubhai/portfolio-template) - An Open-Sourced Template for developers to show-off there skills. Made with ReactJS
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
@@ -2962,6 +2969,7 @@
 
 ## reactjs 
 
+- [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [Satyam1203/resume-github](https://github.com/Satyam1203/resume-github) - Generate a Resume of your Github Profile using your username.
@@ -3238,7 +3246,7 @@
 - [proyecto26/MyAPI](https://github.com/proyecto26/MyAPI) - A template to create awesome APIs easily ⚡️
 - [apricote/Listory](https://github.com/apricote/Listory) - Track your Spotify listens
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
-- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
 ## ubuntu 
 
