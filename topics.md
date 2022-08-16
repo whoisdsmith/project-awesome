@@ -185,6 +185,7 @@
 
 ## ai 
 
+- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [sarifsystems/sarif](https://github.com/sarifsystems/sarif) - A distributed system serving as a personal assistant
@@ -267,6 +268,8 @@
 
 ## awesome 
 
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
@@ -385,6 +388,8 @@
 
 ## awesome-list 
 
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
@@ -513,6 +518,7 @@
 
 ## bootstrap 
 
+- [themefisher/phantom](https://github.com/themefisher/phantom) - Phantom is an exciting professional Bootstrap resume template. It’s exclusively crafted to convince employers in an impressive way.
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A free HTML portfolio template for developers.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
@@ -561,6 +567,7 @@
 
 ## cli 
 
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
@@ -652,6 +659,8 @@
 
 ## css 
 
+- [BenSouchet/cvbuilder.dev](https://github.com/BenSouchet/cvbuilder.dev) - Write your CV / Resume Easily with HTML & CSS!
+- [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [sleepyqadir/TechFolio](https://github.com/sleepyqadir/TechFolio) - An Open Sourced Creative Portfolio for Developer and Tech Geeks  😀
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A free HTML portfolio template for developers.
 - [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
@@ -868,6 +877,7 @@
 
 ## express 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [reubn/daylight](https://github.com/reubn/daylight) - Your life, on a map.
 
 ## finance 
@@ -957,6 +967,7 @@
 
 ## github 
 
+- [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1080,6 +1091,7 @@
 
 ## hacking 
 
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches.
 - [I2rys/SherNode](https://github.com/I2rys/SherNode) - ⚡ Fast, easily configurable and simplified codes NodeJS version of Sherlock.
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
@@ -1106,6 +1118,7 @@
 
 ## hacktoberfest 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [vimal-verma/Master-Portfolio](https://github.com/vimal-verma/Master-Portfolio) - A clean, beautiful, responsive and 100% customizable portfolio template for Developers!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
@@ -1192,6 +1205,10 @@
 
 ## html 
 
+- [BenSouchet/cvbuilder.dev](https://github.com/BenSouchet/cvbuilder.dev) - Write your CV / Resume Easily with HTML & CSS!
+- [sneas/cv-template](https://github.com/sneas/cv-template) - An easy way to create HTML and PDF versions of your resume, and automatically host them on GitHub Pages.
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A free HTML portfolio template for developers.
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [MichaelCurrin/html-timeline-generator](https://github.com/MichaelCurrin/html-timeline-generator) - Browser tool to create pretty HTML timelines
@@ -1219,6 +1236,9 @@
 
 ## html5 
 
+- [BenSouchet/cvbuilder.dev](https://github.com/BenSouchet/cvbuilder.dev) - Write your CV / Resume Easily with HTML & CSS!
+- [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
+- [supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This is a simple template to help you write your CV, in a readable markdown file; and use CSS to publish/print it.  I got a lot of positive responses, concerning this format I chose to use for my CV. 
 - [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
 - [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
@@ -1228,6 +1248,7 @@
 
 ## http 
 
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 
 ## icon-font 
@@ -1314,6 +1335,7 @@
 
 ## javascript 
 
+- [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
 - [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
@@ -1375,6 +1397,9 @@
 
 ## jekyll 
 
+- [supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This is a simple template to help you write your CV, in a readable markdown file; and use CSS to publish/print it.  I got a lot of positive responses, concerning this format I chose to use for my CV. 
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1403,6 +1428,7 @@
 
 ## json 
 
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1466,6 +1492,7 @@
 
 ## latex 
 
+- [thehale/expressive-resume](https://github.com/thehale/expressive-resume) - A beautiful resume/cover letter LaTeX template pair that are extraordinarily easy to use.
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1595,6 +1622,8 @@
 
 ## markdown 
 
+- [supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This is a simple template to help you write your CV, in a readable markdown file; and use CSS to publish/print it.  I got a lot of positive responses, concerning this format I chose to use for my CV. 
+- [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -1756,6 +1785,7 @@
 
 ## node 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
@@ -1764,6 +1794,8 @@
 
 ## nodejs 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
+- [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -1854,6 +1886,18 @@
 
 ## others 
 
+- [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) - Free subdomain for everyone.
+- [fransallen/thedev.id](https://github.com/fransallen/thedev.id) - Identity for developers on the web.
+- [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
+- [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo. If you like it then use it
+- [temidayoxyz/vCard](https://github.com/temidayoxyz/vCard) - My portfolio website built with HTML, CSS, and Javascript
+- [OpenSourceGround/CoolFolio](https://github.com/OpenSourceGround/CoolFolio) - ⚡ Vue.js Customizable Portfolio
+- [ramiboutas/coverletters](https://github.com/ramiboutas/coverletters) - Download multiple cover letters in minutes. No registration required. Totally free
+- [Super-Coding-Ninja-TM/markdown-cv](https://github.com/Super-Coding-Ninja-TM/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+- [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
+- [bedimcode/responsive-resume-cv-smith](https://github.com/bedimcode/responsive-resume-cv-smith) - Responsive Resume Cv Website Using HTML CSS And JavaScript
+- [sonnysangha/Resume-Portfolio-Starter-pack](https://github.com/sonnysangha/Resume-Portfolio-Starter-pack) - 
+- [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 - [benefiction/resume-reader](https://github.com/benefiction/resume-reader) - An interpreter for resume JSON data.
 - [perminder-klair/resume-parser](https://github.com/perminder-klair/resume-parser) - A Simple NodeJs library to parse Resume / CV to JSON.
 - [gogsbread/ResumeParser](https://github.com/gogsbread/ResumeParser) - Resume Parser using rule based approach. Developed using framework provided by GATE
@@ -2765,6 +2809,7 @@
 
 ## python 
 
+- [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [OmkarPathak/ResumeParser](https://github.com/OmkarPathak/ResumeParser) - A simple resume parser used for extracting information from resumes
 - [sanvishal/Exoplanet-Explore](https://github.com/sanvishal/Exoplanet-Explore) - An Interactive data visualization of Exoplanets
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
@@ -2928,6 +2973,9 @@
 
 ## react 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
+- [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
+- [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [vimal-verma/Master-Portfolio](https://github.com/vimal-verma/Master-Portfolio) - A clean, beautiful, responsive and 100% customizable portfolio template for Developers!
 - [sleepyqadir/TechFolio](https://github.com/sleepyqadir/TechFolio) - An Open Sourced Creative Portfolio for Developer and Tech Geeks  😀
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
@@ -2983,6 +3031,7 @@
 
 ## reactjs 
 
+- [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
@@ -3051,6 +3100,7 @@
 
 ## sass 
 
+- [mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A free HTML portfolio template for developers.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
@@ -3062,6 +3112,7 @@
 
 ## security 
 
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [Nekurone/PIG-Tools](https://github.com/Nekurone/PIG-Tools) - An Online Collection of Open Source Intelligence Tools
@@ -3290,6 +3341,9 @@
 
 ## vue 
 
+- [awakentrue/simple-resume-vue](https://github.com/awakentrue/simple-resume-vue) - Simple universal resume based on Vue
+- [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
+- [rszamszur/pdf-resume-builder](https://github.com/rszamszur/pdf-resume-builder) - Simple, stateless, single-page application for creating neat PDF resume from JSON data.
 - [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy) - CV generator built with Nuxt.js, TailwindCSS, deployed on Netlify.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
@@ -3324,6 +3378,7 @@
 
 ## webapp 
 
+- [BenSouchet/cvbuilder.dev](https://github.com/BenSouchet/cvbuilder.dev) - Write your CV / Resume Easily with HTML & CSS!
 - [resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) - An open source progressive resume builder which works offline
 - [Biswajee/CV-Generator](https://github.com/Biswajee/CV-Generator) - A web app that generates impressive resume for free. Built on Django and Jinja2 template engine. This web app comes with its own API which returns user's resume data as json object.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -3339,6 +3394,9 @@
 
 ## website 
 
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+- [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
 - [ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A fully responsive progressive web app that I'm currently working on which will contain an about section, showcase, contact etc.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
