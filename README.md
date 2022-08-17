@@ -1056,7 +1056,7 @@
 - [th3c0d3br34ker/github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) - ✨ This GitHub action helps to add cool Stats to your GitHub profile README.
 - [YousufSSyed/Raindrop.io-Scripts](https://github.com/YousufSSyed/Raindrop.io-Scripts) - Python scripts to interact with the raindrop.io Bookmarking Service.
 - [rchangmh/bookmarks-management](https://github.com/rchangmh/bookmarks-management) - Manage your links saved in Pocket and Raindrop.io.
-- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services.
+- [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 🚚 Dashboard Icons has moved to another home!
 - [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
 - [karlicoss/ghexport](https://github.com/karlicoss/ghexport) - Export your Github activity: events, repositories, stars, etc.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
