@@ -2097,7 +2097,6 @@
 - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
-- [TheCaduceus/Packer-and-Extractor-of-Google-Drive](https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive) - The Most Simple yet Powerful and Advanced  Google Colab Notebook for  Zip, Unzip, Tar, UnTar, RaR, UnRaR Files in Google Drive
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
 - [m1rkwood/google-photos-takeout-scripts](https://github.com/m1rkwood/google-photos-takeout-scripts) - Useful scripts to get out of Google Photos
 - [fokion/google_drive_extractor](https://github.com/fokion/google_drive_extractor) - Extract and migrate photos and videos when you takeout your data from Google
