@@ -2936,7 +2936,7 @@
 - [tyguy-1122/qs-location-dashboard](https://github.com/tyguy-1122/qs-location-dashboard) - A quantified-self project that displays charts representing location data from Google Takeout. The user inputs a file path for downloaded JSON Google Takeout location data and the coordinates for plac
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
-- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana but more automated and less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana, more automated but less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [Zarcolio/sitedorks](https://github.com/Zarcolio/sitedorks) - Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with a default set of websites, bug bounty programs or custom collection.
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
