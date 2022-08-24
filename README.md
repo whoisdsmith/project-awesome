@@ -1260,7 +1260,7 @@
 - [82Flex/DCRM](https://github.com/82Flex/DCRM) - Darwin Cydia Repo Manager - v4 redesigned in Django.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
-- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana but more automated and less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
+- [TebbaaX/GRecon](https://github.com/TebbaaX/GRecon) - Another version of katana, more automated but less stable. the purpose of this small tool is to run a Google based passive recon against your scope.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor) - ⛏️ Extract accounts info from personal pages on various sites for OSINT purpose
