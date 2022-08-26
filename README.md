@@ -1022,7 +1022,6 @@
 - [davorg/svg-timeline](https://github.com/davorg/svg-timeline) - Create timelines with SVG
 - [arcterex/dayone2csvimport](https://github.com/arcterex/dayone2csvimport) - Day One v2 Import of CSV file
 - [bernuli/smsExport](https://github.com/bernuli/smsExport) - smsExport is a Perl script that reads your iOS device backup files and creates a CSV file of your text messages.  It uses the messages sql database and matches up phone numbers with the addressbook da
-- [biggiecam/biggie.github.io](https://github.com/biggiecam/biggie.github.io) - c4m3r0n ( a.k.a Biggie) personal repo for jailbreak tweaks
 - [ShazStar/privrepo](https://github.com/ShazStar/privrepo) - Personal Repo for Jailbreak needs.
 - [XueshiQiao/FLEXLoader](https://github.com/XueshiQiao/FLEXLoader) - A jailbreak iOS device tweak which can load FLEX dynamiclly
 
