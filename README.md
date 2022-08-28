@@ -374,6 +374,9 @@
 
 ## JavaScript 
 
+- [themattmayfield/SpotifyDashboard](https://github.com/themattmayfield/SpotifyDashboard) - 
+- [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
+- [mbaronetti/spotify-dash](https://github.com/mbaronetti/spotify-dash) - Simple and easy to use Spotify dashboard
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [ramiboutas/coverletters](https://github.com/ramiboutas/coverletters) - Download multiple cover letters in minutes. No registration required. Totally free
@@ -628,6 +631,7 @@
 
 ## Jupyter Notebook 
 
+- [rtedwards/spotify-data-visualizations](https://github.com/rtedwards/spotify-data-visualizations) - An app that monitors a user's Spotify account and creates a dashboard to visualize usage over time.
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most Advanced yet simple Multi Cloud tool to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
@@ -963,6 +967,7 @@
 
 ## PHP 
 
+- [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [violethaze74/nextcloud-webhooks](https://github.com/violethaze74/nextcloud-webhooks) - Webhooks app for Nextcloud :globe_with_meridians: :zap:
@@ -1040,6 +1045,7 @@
 
 ## Python 
 
+- [lucas-nelson-uiuc/spotipy_analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis) - home of the Spotify Analysis Dashboard
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
@@ -1663,6 +1669,8 @@
 
 ## TypeScript 
 
+- [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
+- [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
 - [benefiction/resume-reader](https://github.com/benefiction/resume-reader) - An interpreter for resume JSON data.
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
