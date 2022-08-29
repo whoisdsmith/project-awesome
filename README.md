@@ -149,6 +149,7 @@
 
 ## CSS 
 
+- [hrshainik/bookmark-manager](https://github.com/hrshainik/bookmark-manager) - Here you can bookmark your favourite website links and this links stored in local storage that's why you find this bookmarks any time it's won't vanish.
 - [Super-Coding-Ninja-TM/markdown-cv](https://github.com/Super-Coding-Ninja-TM/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This is a simple template to help you write your CV, in a readable markdown file; and use CSS to publish/print it.  I got a lot of positive responses, concerning this format I chose to use for my CV. 
 - [sanvishal/Exoplanet-Explore](https://github.com/sanvishal/Exoplanet-Explore) - An Interactive data visualization of Exoplanets
@@ -354,6 +355,7 @@
 
 ## Java 
 
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
 - [mpfthprblmtq/moose](https://github.com/mpfthprblmtq/moose) - A music management system that reads and modifies id3 tags and stuff
@@ -374,6 +376,11 @@
 
 ## JavaScript 
 
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+- [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
+- [openXapps/web-apps-bookmarker-mui](https://github.com/openXapps/web-apps-bookmarker-mui) - Updated bookmarker app rebuilt in MUI framework
+- [dribehub/nord-startpage](https://github.com/dribehub/nord-startpage) - Nord-themed startpage written in pure js
+- [raindropio/app](https://github.com/raindropio/app) - 
 - [themattmayfield/SpotifyDashboard](https://github.com/themattmayfield/SpotifyDashboard) - 
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
 - [mbaronetti/spotify-dash](https://github.com/mbaronetti/spotify-dash) - Simple and easy to use Spotify dashboard
@@ -631,6 +638,7 @@
 
 ## Jupyter Notebook 
 
+- [sejaldua/lyrical-sentiment-analysis](https://github.com/sejaldua/lyrical-sentiment-analysis) - Using Spotify API to obtain audio feature data and lyrics and Tableau to produce sick visualizations.
 - [rtedwards/spotify-data-visualizations](https://github.com/rtedwards/spotify-data-visualizations) - An app that monitors a user's Spotify account and creates a dashboard to visualize usage over time.
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most Advanced yet simple Multi Cloud tool to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
@@ -786,6 +794,7 @@
 
 ## Others 
 
+- [tussanakorn/spotify-dashboard-with-tableau](https://github.com/tussanakorn/spotify-dashboard-with-tableau) - Spotify Dataset with Tableau
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
@@ -885,7 +894,6 @@
 - [tIsGoud/save-safari-tabs-to-day-one](https://github.com/tIsGoud/save-safari-tabs-to-day-one) - Save all your Safari tabs in a Day One 2 entry.
 - [davzoku/awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - 🏃💨 List of custom search engines & shortcuts to improve your daily workflow
 - [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
-- [holzschu/a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - shell commands, pre-compiled to webAssembly, ready to use in a-Shell
 - [matthewrankin/tagdayone](https://github.com/matthewrankin/tagdayone) - Go-based CLI to add tags to JSON Day One journal entries
 - [philochang/All-DayOne-Journal-to-Evernote](https://github.com/philochang/All-DayOne-Journal-to-Evernote) - If you want to quit using DayOne and begin using Evernote as you primary journal app, try this.
 - [ejb/DayOneMap](https://github.com/ejb/DayOneMap) - Turn your Day One journal into a dynamic map
@@ -967,6 +975,8 @@
 
 ## PHP 
 
+- [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
+- [giventofly/teikirize-bookmarks](https://github.com/giventofly/teikirize-bookmarks) - Your self host solution for bookmarks saving.
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -1045,6 +1055,8 @@
 
 ## Python 
 
+- [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator) - The first Python validation library to validate files using type, mime, extension and magic numbers ✅
+- [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [lucas-nelson-uiuc/spotipy_analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis) - home of the Spotify Analysis Dashboard
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
 - [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
@@ -1497,6 +1509,7 @@
 
 ## Ruby 
 
+- [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [GabrieleVir/Timeline-generator](https://github.com/GabrieleVir/Timeline-generator) - A generator of timelines
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
@@ -1538,6 +1551,7 @@
 
 ## Rust 
 
+- [fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
@@ -1600,6 +1614,7 @@
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
 - [davidbosman/Day-One-OSX-Gallery](https://github.com/davidbosman/Day-One-OSX-Gallery) - Display a photo gallery on OS X based on Day One's pictures
+- [holzschu/a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - shell commands, pre-compiled to webAssembly, ready to use in a-Shell
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [kshigeyama/mdImportDayOne](https://github.com/kshigeyama/mdImportDayOne) - MarkDown ( and other text files ) import DayOne Journal bash Script
 - [jannerchang/AppleScript](https://github.com/jannerchang/AppleScript) - 
@@ -1669,6 +1684,8 @@
 
 ## TypeScript 
 
+- [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
+- [eramdam/starry-raindrop](https://github.com/eramdam/starry-raindrop) - Sync GitHub starred repos to a Raindrop.io collection
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
 - [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
 - [benefiction/resume-reader](https://github.com/benefiction/resume-reader) - An interpreter for resume JSON data.
