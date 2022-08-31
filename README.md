@@ -194,7 +194,7 @@
 
 ## Dart 
 
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [wardsquid/journal](https://github.com/wardsquid/journal) - Inkling is your journaling partner. It utilizes the latent data your phone collects throughout your day to build a journal entry that you can easily edit, save, and share with loved ones.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -356,6 +356,7 @@
 
 ## Java 
 
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [mpatric/mp3agic](https://github.com/mpatric/mp3agic) - A java library for reading mp3 files and reading / manipulating the ID3 tags (ID3v1 and ID3v2.2 through ID3v2.4).
@@ -377,6 +378,7 @@
 
 ## JavaScript 
 
+- [cocktail-forensics/macCocktail](https://github.com/cocktail-forensics/macCocktail) - Parses forensic artifacts from macOS file systems
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
 - [openXapps/web-apps-bookmarker-mui](https://github.com/openXapps/web-apps-bookmarker-mui) - Updated bookmarker app rebuilt in MUI framework
@@ -489,7 +491,7 @@
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile + Flomo + Rss Reader
 - [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [afaqurk/linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
+- [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [guastallaigor/vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js (works with Vue 2 & Vue 3)
 - [makinacorpus/Leaflet.FileLayer](https://github.com/makinacorpus/Leaflet.FileLayer) - Loads files locally (GeoJSON, KML, GPX) as layers using HTML5 File API
@@ -1057,6 +1059,10 @@
 
 ## Python 
 
+- [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
+- [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
+- [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
+- [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
 - [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator) - The first Python validation library to validate files using type, mime, extension and magic numbers ✅
 - [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [lucas-nelson-uiuc/spotipy_analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis) - home of the Spotify Analysis Dashboard
@@ -1686,7 +1692,9 @@
 
 ## TypeScript 
 
-- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [Yukaii/messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - Browse and view the exported Facebook Messenger data / messages.
+- [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
 - [eramdam/starry-raindrop](https://github.com/eramdam/starry-raindrop) - Sync GitHub starred repos to a Raindrop.io collection
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
