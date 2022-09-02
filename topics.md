@@ -1679,6 +1679,7 @@
 
 - [supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This is a simple template to help you write your CV, in a readable markdown file; and use CSS to publish/print it.  I got a lot of positive responses, concerning this format I chose to use for my CV. 
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
+- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
@@ -1831,7 +1832,7 @@
 - [Yukaii/messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - Browse and view the exported Facebook Messenger data / messages.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
-- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - write the (w)right way!
+- [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
