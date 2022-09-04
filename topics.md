@@ -788,6 +788,7 @@
 - [rob-miller/rTracker](https://github.com/rob-miller/rTracker) - A generic, customizable personal data tracker for iOS
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit turns any automation scripts into reusable, portable and customizable components, workflows, applications and web-services that can automatically adapt to continuously changing software a
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 
 ## deep-learning 
@@ -1625,6 +1626,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [quickgrid/AI-Resources](https://github.com/quickgrid/AI-Resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit turns any automation scripts into reusable, portable and customizable components, workflows, applications and web-services that can automatically adapt to continuously changing software a
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
