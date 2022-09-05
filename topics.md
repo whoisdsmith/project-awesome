@@ -221,6 +221,7 @@
 
 ## angular 
 
+- [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
@@ -271,7 +272,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit turns any automation scripts into reusable, portable and customizable components, workflows, applications and web-services that can automatically adapt to continuously changing software a
+- [mlcommons/ck](https://github.com/mlcommons/ck) - There are many great automation tools and workflow frameworks - some are good for researchers and some for engineers. We are developing a portable meta-framework that is good for both.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
@@ -788,7 +789,6 @@
 - [rob-miller/rTracker](https://github.com/rob-miller/rTracker) - A generic, customizable personal data tracker for iOS
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit turns any automation scripts into reusable, portable and customizable components, workflows, applications and web-services that can automatically adapt to continuously changing software a
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 
 ## deep-learning 
@@ -919,6 +919,7 @@
 
 ## express 
 
+- [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [reubn/daylight](https://github.com/reubn/daylight) - Your life, on a map.
 
@@ -944,6 +945,7 @@
 
 ## flask 
 
+- [Mikolaj-Mroz/Statsify](https://github.com/Mikolaj-Mroz/Statsify) - A web app to check your spotify statistics.
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
 - [DiptoChakrabarty/Resume-Generator](https://github.com/DiptoChakrabarty/Resume-Generator) - A Resume builder which allows users to build their own custom resumes  with details like experience,projects , skills ,education etc. Users can also have the feature to  download their resumes .  To c
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
@@ -1163,6 +1165,7 @@
 
 ## hacktoberfest 
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [vimal-verma/Master-Portfolio](https://github.com/vimal-verma/Master-Portfolio) - A clean, beautiful, responsive and 100% customizable portfolio template for Developers!
@@ -1383,6 +1386,8 @@
 
 ## javascript 
 
+- [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
+- [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
 - [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
@@ -1626,7 +1631,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [quickgrid/AI-Resources](https://github.com/quickgrid/AI-Resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This toolkit turns any automation scripts into reusable, portable and customizable components, workflows, applications and web-services that can automatically adapt to continuously changing software a
+- [mlcommons/ck](https://github.com/mlcommons/ck) - There are many great automation tools and workflow frameworks - some are good for researchers and some for engineers. We are developing a portable meta-framework that is good for both.
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -1755,6 +1760,7 @@
 
 ## mongodb 
 
+- [anyrange/measurify](https://github.com/anyrange/measurify) - Spotify listening stats [Last.fm + Stats.fm clone]
 - [reubn/daylight](https://github.com/reubn/daylight) - Your life, on a map.
 
 ## monitoring 
@@ -1775,6 +1781,8 @@
 
 ## music 
 
+- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A Spotstats (stats.fm) integration for building customzable custom charts.
+- [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
 - [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -1830,6 +1838,8 @@
 
 ## nextjs 
 
+- [arekminajj/spotify-you](https://github.com/arekminajj/spotify-you) - 🎵 Spotify listening stats web application, build in Next.js
+- [otaviozin/Statsfy](https://github.com/otaviozin/Statsfy) - Spotify Web API with Next.js
 - [Yukaii/messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - Browse and view the exported Facebook Messenger data / messages.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
@@ -1857,6 +1867,7 @@
 
 ## nodejs 
 
+- [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
@@ -1951,6 +1962,9 @@
 
 ## others 
 
+- [dlccyes/playlastify](https://github.com/dlccyes/playlastify) - simple webapp for some Spotify playlist stats using Spotify WebAPI & last.fm API, written in JavaScript & Python using jQuery & Django, hosted on Heroku
+- [raad1masum/SpotiStats](https://github.com/raad1masum/SpotiStats) - 🎵 A website to get stats about your Spotify playlists.
+- [nnsdev/spotify-stats](https://github.com/nnsdev/spotify-stats) - Spotify Statistics for your top tracks and artists all-time/past 4 weeks/past 6 months with ability to create playlists.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics
 - [mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython code to analyze one's text messages.  Intended to work out of the box, see README for details.
 - [dsouzarc/iMessageAnalyzer](https://github.com/dsouzarc/iMessageAnalyzer) - Analyzes a user's iMessage
@@ -2571,7 +2585,7 @@
 - [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying to complete all projects from http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 - [wmjan/Odysseus](https://github.com/wmjan/Odysseus) - Odysseus for Windows
 - [henrik4433/cylinder-master](https://github.com/henrik4433/cylinder-master) - 
-- [MagikModder/iRecord](https://github.com/MagikModder/iRecord) - A screen recorder for IOS 8
+- [SupremacyXI/iRecord](https://github.com/SupremacyXI/iRecord) - A screen recorder for IOS 8
 - [lavaalone/iControl](https://github.com/lavaalone/iControl) - Control the iOS devices.
 - [theiostream/utilities](https://github.com/theiostream/utilities) - My own open-source replacements for popular command-line tools from the jailbreaking community.
 - [ap4y/iSAP](https://github.com/ap4y/iSAP) - Implementation of the RSAP protocol fo the iphone. Based on the BTStack(http://code.google.com/p/btstack/)
@@ -2835,6 +2849,7 @@
 
 ## php 
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [giventofly/teikirize-bookmarks](https://github.com/giventofly/teikirize-bookmarks) - Your self host solution for bookmarks saving.
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
@@ -3068,6 +3083,10 @@
 
 ## react 
 
+- [zenje/spotify-visual-app](https://github.com/zenje/spotify-visual-app) - visualize personal spotify stats, react-based app
+- [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
+- [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
+- [wobsoriano/spotify-stats](https://github.com/wobsoriano/spotify-stats) - 🎧 Your spotify profile's top artists and tracks with charts and playlist creator.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [Yukaii/messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - Browse and view the exported Facebook Messenger data / messages.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
@@ -3131,6 +3150,7 @@
 
 ## reactjs 
 
+- [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [amitmishrg/code-resume](https://github.com/amitmishrg/code-resume) - Build your own Resume  📖 in seconds
@@ -3154,6 +3174,7 @@
 
 ## rest-api 
 
+- [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
@@ -3306,6 +3327,7 @@
 
 ## statistics 
 
+- [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
@@ -3403,6 +3425,8 @@
 
 ## typescript 
 
+- [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
+- [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
@@ -3446,6 +3470,8 @@
 
 ## vue 
 
+- [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
+- [anyrange/measurify](https://github.com/anyrange/measurify) - Spotify listening stats [Last.fm + Stats.fm clone]
 - [awakentrue/simple-resume-vue](https://github.com/awakentrue/simple-resume-vue) - Simple universal resume based on Vue
 - [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
 - [rszamszur/pdf-resume-builder](https://github.com/rszamszur/pdf-resume-builder) - Simple, stateless, single-page application for creating neat PDF resume from JSON data.
@@ -3483,6 +3509,7 @@
 
 ## webapp 
 
+- [Mikolaj-Mroz/Statsify](https://github.com/Mikolaj-Mroz/Statsify) - A web app to check your spotify statistics.
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [BenSouchet/cvbuilder.dev](https://github.com/BenSouchet/cvbuilder.dev) - Write your CV / Resume Easily with HTML & CSS!
 - [resume-nation/resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) - An open source progressive resume builder which works offline
