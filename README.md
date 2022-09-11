@@ -1399,7 +1399,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - There are many great automation tools and workflow frameworks - some are good for researchers and some for engineers. We are developing a portable meta-framework that is good for both to make it easie
+- [mlcommons/ck](https://github.com/mlcommons/ck) - There are many great automation tools and workflow frameworks - some are good for researchers and some for engineers. We are developing a portable automation meta-framework that is good for both. Join
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
