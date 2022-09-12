@@ -381,6 +381,7 @@
 
 ## JavaScript 
 
+- [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [zenje/spotify-visual-app](https://github.com/zenje/spotify-visual-app) - visualize personal spotify stats, react-based app
 - [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
