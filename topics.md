@@ -203,6 +203,7 @@
 
 ## android 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asse
@@ -550,6 +551,8 @@
 
 ## chrome 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome bookmarks into markdown files
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -847,6 +850,8 @@
 
 ## docker 
 
+- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
 - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 🚚 Dashboard Icons has moved to another home!
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -930,12 +935,15 @@
 
 ## firebase 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog with Admin :rocket: in minutes built for developers.
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
 ## firefox 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -956,6 +964,7 @@
 
 ## flutter 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -1032,7 +1041,7 @@
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create an automatic portfolio based on GitHub profile.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create beautiful-looking cards for your GitHub profile or GitHub repo!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
@@ -1066,7 +1075,7 @@
 - [Satyam1203/resume-github](https://github.com/Satyam1203/resume-github) - Generate a Resume of your Github Profile using your username.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
-- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create an automatic portfolio based on GitHub profile.
+- [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [karlicoss/ghexport](https://github.com/karlicoss/ghexport) - Export your Github activity: events, repositories, stars, etc.
@@ -1075,6 +1084,8 @@
 
 ## go 
 
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
+- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
@@ -1090,6 +1101,8 @@
 
 ## golang 
 
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
+- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1166,6 +1179,8 @@
 
 ## hacktoberfest 
 
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
@@ -1231,6 +1246,7 @@
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [davorg/svg-timeline](https://github.com/davorg/svg-timeline) - Create timelines with SVG
@@ -1299,6 +1315,9 @@
 
 ## http 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 
@@ -1309,6 +1328,8 @@
 
 ## ios 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) - A curated list of awesome Scriptable scripts and widgets.
 - [evilpenguin/SSLBypass](https://github.com/evilpenguin/SSLBypass) - iOS SSL Pinning Bypass (iOS 8 - 14)
@@ -1387,6 +1408,9 @@
 
 ## javascript 
 
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
@@ -1529,6 +1553,7 @@
 
 ## kubernetes 
 
+- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asse
@@ -1575,6 +1600,7 @@
 
 ## linux 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
@@ -1638,6 +1664,7 @@
 
 ## macos 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
 - [mnrkbys/ma2tl](https://github.com/mnrkbys/ma2tl) - macOS forensic timeline generator using the analysis result DBs of mac_apt
@@ -1684,6 +1711,7 @@
 
 ## markdown 
 
+- [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [supercodingninja/markdown-cv](https://github.com/supercodingninja/markdown-cv) - This is a simple template to help you write your CV, in a readable markdown file; and use CSS to publish/print it.  I got a lot of positive responses, concerning this format I chose to use for my CV. 
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
@@ -1767,6 +1795,7 @@
 
 ## monitoring 
 
+- [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
@@ -1841,6 +1870,7 @@
 
 ## nextjs 
 
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [arekminajj/spotify-you](https://github.com/arekminajj/spotify-you) - 🎵 Spotify listening stats web application, build in Next.js
 - [otaviozin/Statsfy](https://github.com/otaviozin/Statsfy) - Spotify Web API with Next.js
@@ -1871,6 +1901,7 @@
 
 ## nodejs 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
@@ -1966,6 +1997,9 @@
 
 ## others 
 
+- [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
+- [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+- [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [dlccyes/playlastify](https://github.com/dlccyes/playlastify) - simple webapp for some Spotify playlist stats using Spotify WebAPI & last.fm API, written in JavaScript & Python using jQuery & Django, hosted on Heroku
 - [raad1masum/SpotiStats](https://github.com/raad1masum/SpotiStats) - 🎵 A website to get stats about your Spotify playlists.
 - [nnsdev/spotify-stats](https://github.com/nnsdev/spotify-stats) - Spotify Statistics for your top tracks and artists all-time/past 4 weeks/past 6 months with ability to create playlists.
@@ -2255,7 +2289,6 @@
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - The Ultimate Markdown Cheat Sheet
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
-- [cyanzhong/dev.taio.app](https://github.com/cyanzhong/dev.taio.app) - Dev notes for the https://taio.app
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [fezfox/dylogger](https://github.com/fezfox/dylogger) - 
 - [onlyhavecans/tootlogger](https://github.com/onlyhavecans/tootlogger) - Command-line tool to archive your Mastodon toots to DayOne
@@ -2841,6 +2874,7 @@
 
 ## parsing 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [rpearce/parse-md](https://github.com/rpearce/parse-md) - Parse Markdown file's metadata from its content
 - [cyb3rk0tik/maigret](https://github.com/cyb3rk0tik/maigret) - Collect a dossier on a person by username from a huge number of sites
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -2918,6 +2952,7 @@
 
 ## python 
 
+- [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator) - a Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
@@ -3087,6 +3122,8 @@
 
 ## react 
 
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
+- [winhtaikaung/react-tiny-link](https://github.com/winhtaikaung/react-tiny-link) - Convert your links into rich previews
 - [zenje/spotify-visual-app](https://github.com/zenje/spotify-visual-app) - visualize personal spotify stats, react-based app
 - [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
@@ -3141,6 +3178,7 @@
 
 ## react-native 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [markwk/mindset_journaling_app](https://github.com/markwk/mindset_journaling_app) - A Smart Journaling App with NLP and Sentiment Analysis
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -3270,15 +3308,16 @@
 
 ## server 
 
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [zelon88/HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!
 
 ## serverless 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 
@@ -3343,6 +3382,7 @@
 
 ## swift 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [loopwerk/Parsley](https://github.com/loopwerk/Parsley) - A Markdown parser for Swift, using Github Flavored Markdown and Metadata
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
@@ -3429,6 +3469,7 @@
 
 ## typescript 
 
+- [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
@@ -3505,6 +3546,7 @@
 
 ## web 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
@@ -3546,6 +3588,7 @@
 
 ## windows 
 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software to create aliases for commands, applications to type in cmd, terminal.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -3572,6 +3615,7 @@
 
 ## wordpress 
 
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js - The Headless WordPress Framework
 - [davidgoy/reflect](https://github.com/davidgoy/reflect) - Static site generator for WordPress.
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
