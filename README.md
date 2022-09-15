@@ -118,7 +118,7 @@
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [erwinkramer/SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync) - Improvement fork
-- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - An open standard that breaks down the walls between music services.
+- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Breaking down the walls between music services
 - [runerasmussen/google-photos-upload](https://github.com/runerasmussen/google-photos-upload) - Upload a local image directory into an Album in Google Photos (works on mac/pc/linux). Coded in C# .NET Core 3.0
 - [silnshadow/InstagramMessages](https://github.com/silnshadow/InstagramMessages) - This project is an attempt to make Instagram backup messages from Json to readable format.
 - [Sungchul/DayOne.NET](https://github.com/Sungchul/DayOne.NET) - Day One Journal for Windows(based on .net framework)
@@ -237,7 +237,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .json file for Hugo
-- [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
+- [ubverse/list-github-stars](https://github.com/ubverse/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
@@ -681,6 +681,7 @@
 
 ## Kotlin 
 
+- [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [tobiasschuerg/Photo-Organizer](https://github.com/tobiasschuerg/Photo-Organizer) - Tool to help organizing large (unorganized) collections of photos, such as from Google Takeout.
 - [Heapy/vipassana](https://github.com/Heapy/vipassana) - Life and collaboration assistant.
@@ -1408,7 +1409,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - There are many great automation tools and workflow frameworks - some are good for researchers and some for engineers. We are developing a portable automation meta-framework that is good for both. Join
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort.
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
