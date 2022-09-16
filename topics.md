@@ -125,6 +125,7 @@
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
+- [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
@@ -2006,6 +2007,43 @@
 
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 
+## osint 
+
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+- [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+- [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
+- [devXprite/infoooze](https://github.com/devXprite/infoooze) - Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches.
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [KanekiWeb/Email-Osint](https://github.com/KanekiWeb/Email-Osint) - 🔍 EMAIL OSINT is an OSINT Tool for emails. It helps you gather information about the target email.
+- [Nekurone/PIG-Tools](https://github.com/Nekurone/PIG-Tools) - An Online Collection of Open Source Intelligence Tools
+- [I2rys/SherNode](https://github.com/I2rys/SherNode) - ⚡ Fast, easily configurable and simplified codes NodeJS version of Sherlock.
+- [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
+- [soxoj/maigret-adapter](https://github.com/soxoj/maigret-adapter) - Connect Maigret with other tools
+- [cyb3rk0tik/maigret](https://github.com/cyb3rk0tik/maigret) - Collect a dossier on a person by username from a huge number of sites
+- [antonio-hickey/gDash](https://github.com/antonio-hickey/gDash) - gDash ( g- ) Open Source Intelligence Dashboard
+- [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
+- [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project
+- [ninoseki/apullo](https://github.com/ninoseki/apullo) - A scanner for taking basic fingerprints
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [P3run/otwartezrodla](https://github.com/P3run/otwartezrodla) - Polskie rozszerzenie OSINT framework - Polish extension of OSINT framework
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor) - ⛏️ Extract accounts info from personal pages on various sites for OSINT purpose
+- [Zarcolio/sitedorks](https://github.com/Zarcolio/sitedorks) - Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with a default set of websites, bug bounty programs or custom collection.
+- [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
+- [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+- [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
+- [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
+- [DavidJKTofan/CyberSec-resources](https://github.com/DavidJKTofan/CyberSec-resources) - A repo of useful CyberSec tools/urls, OSINT, Linux security resources, and more.
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+
 ## others 
 
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
@@ -2201,8 +2239,6 @@
 - [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
 - [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark.
 - [blacklanternsecurity/spiderfoot-neo4j](https://github.com/blacklanternsecurity/spiderfoot-neo4j) - Import, visualize, and analyze SpiderFoot scans in Neo4j, a graph database
-- [KanekiWeb/Email-Osint](https://github.com/KanekiWeb/Email-Osint) - 🔍 EMAIL OSINT is an OSINT Tool for emails. It helps you gather information about the target email.
-- [soxoj/maigret-adapter](https://github.com/soxoj/maigret-adapter) - Connect Maigret with other tools
 - [ChmaraX/forensix](https://github.com/ChmaraX/forensix) - Google Chrome forensic tool to process, analyze and visualize browsing artifacts
 - [colbyfayock/md-to-wp](https://github.com/colbyfayock/md-to-wp) - Upload a directory of markdown files to WordPress
 - [ransurf/obsidian-resources](https://github.com/ransurf/obsidian-resources) - I can't seem to upload .md files on WordPress, so this will have to do.
@@ -2557,15 +2593,12 @@
 - [thezeroalpha/zerotab-old](https://github.com/thezeroalpha/zerotab-old) - My old custom startpage, based off WebOasis. No longer in use because it's super heavy.
 - [PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - :sparkling_heart: A curated list of awesome things
 - [sawankumar/Google-Drive-Index](https://github.com/sawankumar/Google-Drive-Index) - A Google Drive Index Running on CloudFlare Workers.
-- [ninoseki/apullo](https://github.com/ninoseki/apullo) - A scanner for taking basic fingerprints
 - [pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
-- [P3run/otwartezrodla](https://github.com/P3run/otwartezrodla) - Polskie rozszerzenie OSINT framework - Polish extension of OSINT framework
 - [WebBreacher/yoga](https://github.com/WebBreacher/yoga) - Your OSINT Graphical Analyzer
 - [barba99/barba_music](https://github.com/barba99/barba_music) - #este  script descarca de facebook spotify y youtube
 - [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
 - [hackerspider1/EchoPwn](https://github.com/hackerspider1/EchoPwn) - Recon Automation for hackers by hackers
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
 - [Igglybuff/awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
 - [DenisIzmaylov/awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots) - Collection of examples, libraries and starter-kits for Telegram Bots
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
