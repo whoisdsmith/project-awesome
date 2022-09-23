@@ -1085,7 +1085,7 @@
 ## Python 
 
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
-- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A Spotstats (stats.fm) integration for building customzable custom charts.
+- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm) integration for building customzable custom charts.
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
 - [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
@@ -1408,7 +1408,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
