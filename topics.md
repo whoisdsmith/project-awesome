@@ -253,7 +253,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 
 ## arduino 
 
@@ -276,7 +276,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
@@ -630,7 +630,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## clojure 
@@ -830,7 +830,7 @@
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, which can distill insights to improve engineering productivity.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 
 ## discord 
 
@@ -1669,7 +1669,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [quickgrid/AI-Resources](https://github.com/quickgrid/AI-Resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -1825,7 +1825,7 @@
 
 ## music 
 
-- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A Spotstats (stats.fm) integration for building customzable custom charts.
+- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm) integration for building customzable custom charts.
 - [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
 - [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
@@ -2002,7 +2002,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 
 ## operating-system 
 
@@ -2997,6 +2997,7 @@
 ## python 
 
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
+- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm) integration for building customzable custom charts.
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator) - a Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
@@ -3095,7 +3096,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 - [codelucas/flask_reddit](https://github.com/codelucas/flask_reddit) - Reddit clone in flask + python + nginx + https. View site:
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -3387,7 +3388,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join our education and reproducibi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge: cross-platform meta-framework to manage, connect and reuse any artifacts, scripts and workflows in a non-intrusive way and with minimal effort. Join the open MLPerf workgroup to 
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## software 
