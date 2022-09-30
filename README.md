@@ -263,7 +263,7 @@
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [arman-ashrafian/DayOneParse](https://github.com/arman-ashrafian/DayOneParse) - Parse Day One Journal XML
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights such as DORA metrics for engineering excellence.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [tmthrgd/booked](https://github.com/tmthrgd/booked) - A Facebook data export visualizer tool.
 - [tagatac/bagoup](https://github.com/tagatac/bagoup) - Mac OS Messages export
 - [jpoehls/go-dayone](https://github.com/jpoehls/go-dayone) - Go package for reading Day One journal files (http://dayoneapp.com)
