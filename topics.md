@@ -725,7 +725,7 @@
 - [dreftymac/awesome-yaml](https://github.com/dreftymac/awesome-yaml) - YAML awesomeness
 - [michabirklbauer/instagram_json_viewer](https://github.com/michabirklbauer/instagram_json_viewer) - Transforms Instagram's *.json / backup data - that you get via the Data Download Tool - to a readable format!
 - [Adoliin/insta-data-styled](https://github.com/Adoliin/insta-data-styled) - A program to format your Instagram's "messages.json" into a beautiful and readable web format.
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights such as DORA metrics for engineering excellence.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [seanbreckenridge/google_takeout_parser](https://github.com/seanbreckenridge/google_takeout_parser) - Parses data out of your Google Takeout (History, Activity, Youtube, Locations, etc...)
 - [uttamo/messenger-data-analysis](https://github.com/uttamo/messenger-data-analysis) - Analyse Messenger data exports from Facebook
 - [memair/apps](https://github.com/memair/apps) - App Store for Memair
@@ -742,7 +742,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [vizzuhq/vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights such as DORA metrics for engineering excellence.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [mcwaage1/qs](https://github.com/mcwaage1/qs) - Quantified Self: A Personal Data Aggregator and Dashboard for Self-Trackers and Quantified Self Enthusiasts
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [DistrictDataLabs/cultivar](https://github.com/DistrictDataLabs/cultivar) - Multidimensional data explorer and visualization tool.
@@ -834,7 +834,7 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights such as DORA metrics for engineering excellence.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the op
@@ -1127,7 +1127,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights such as DORA metrics for engineering excellence.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [dmk2014/momento2dayone](https://github.com/dmk2014/momento2dayone) - A command line tool to parse and then import a Momento export into DayOne.
 - [gmhafiz/timeline](https://github.com/gmhafiz/timeline) - Your Personal Timeline written in golang and javascript (vis.js)
@@ -1278,6 +1278,7 @@
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -2018,7 +2019,7 @@
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights such as DORA metrics for engineering excellence.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asse
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
