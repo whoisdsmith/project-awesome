@@ -115,6 +115,7 @@
 
 ## C# # 
 
+- [vdetstvepil/plugin-manager](https://github.com/vdetstvepil/plugin-manager) - Plugin Manager for Cakewalk
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [erwinkramer/SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync) - Improvement fork
@@ -134,6 +135,7 @@
 
 ## C++ 
 
+- [pedrolcl/wrk2mid](https://github.com/pedrolcl/wrk2mid) - Cakewalk to Standard MIDI Files Command Line Utility Translator (mirror)
 - [swl-x/MystiQ](https://github.com/swl-x/MystiQ) - Qt5/C++ FFmpeg Media Converter
 - [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -822,6 +824,7 @@
 
 ## Others 
 
+- [misuroz/Music-Composition-with-Cakewalk-CAL](https://github.com/misuroz/Music-Composition-with-Cakewalk-CAL) - Hundreds of tools for composers that will save a lot of time when writing music, skipping routine tasks and providing inspiration.
 - [Phileosopher/toolbox](https://github.com/Phileosopher/toolbox) - A toolbox of useful things, mostly computer-related.
 - [raindropio/developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
 - [tussanakorn/spotify-dashboard-with-tableau](https://github.com/tussanakorn/spotify-dashboard-with-tableau) - Spotify Dataset with Tableau
@@ -1087,6 +1090,7 @@
 
 ## Python 
 
+- [jtauber/wrk-reader](https://github.com/jtauber/wrk-reader) - exploring how to read old Cakewalk WRK files
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
 - [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm) integration for building customzable custom charts.
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
@@ -1715,6 +1719,7 @@
 
 ## TeX 
 
+- [dev-plvlml/Cakewalk-MIDI-Instruments](https://github.com/dev-plvlml/Cakewalk-MIDI-Instruments) - A bunch of Cakewalk (tm) MIDI instrument definitions
 - [thehale/expressive-resume](https://github.com/thehale/expressive-resume) - A beautiful resume/cover letter LaTeX template pair that are extraordinarily easy to use.
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
