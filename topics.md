@@ -1265,6 +1265,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
@@ -2070,6 +2071,11 @@
 
 ## others 
 
+- [misuroz/Music-Composition-with-Cakewalk-CAL](https://github.com/misuroz/Music-Composition-with-Cakewalk-CAL) - Hundreds of tools for composers that will save a lot of time when writing music, skipping routine tasks and providing inspiration.
+- [dev-plvlml/Cakewalk-MIDI-Instruments](https://github.com/dev-plvlml/Cakewalk-MIDI-Instruments) - A bunch of Cakewalk (tm) MIDI instrument definitions
+- [vdetstvepil/plugin-manager](https://github.com/vdetstvepil/plugin-manager) - Plugin Manager for Cakewalk
+- [jtauber/wrk-reader](https://github.com/jtauber/wrk-reader) - exploring how to read old Cakewalk WRK files
+- [pedrolcl/wrk2mid](https://github.com/pedrolcl/wrk2mid) - Cakewalk to Standard MIDI Files Command Line Utility Translator (mirror)
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
