@@ -283,6 +283,7 @@
 
 ## HTML 
 
+- [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [dlccyes/playlastify](https://github.com/dlccyes/playlastify) - simple webapp for some Spotify playlist stats using Spotify WebAPI & last.fm API, written in JavaScript & Python using jQuery & Django, hosted on Heroku
@@ -366,6 +367,7 @@
 
 ## Java 
 
+- [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [raad1masum/SpotiStats](https://github.com/raad1masum/SpotiStats) - 🎵 A website to get stats about your Spotify playlists.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
@@ -389,6 +391,7 @@
 
 ## JavaScript 
 
+- [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -522,7 +525,7 @@
 - [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
 - [quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A markdown formatter intended for writing specifications
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
-- [devXprite/infoooze](https://github.com/devXprite/infoooze) - Infoooze is a Basic Open-source intelligence (OSINT) tool. It provides various modules that allow efficient searches.
+- [devXprite/infoooze](https://github.com/devXprite/infoooze) - Infoooze is an OSINT tool. It helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [I2rys/SherNode](https://github.com/I2rys/SherNode) - ⚡ Fast, easily configurable and simplified codes NodeJS version of Sherlock.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [ChmaraX/forensix](https://github.com/ChmaraX/forensix) - Google Chrome forensic tool to process, analyze and visualize browsing artifacts
@@ -1090,6 +1093,8 @@
 
 ## Python 
 
+- [vaibhavk97/GoBooDo](https://github.com/vaibhavk97/GoBooDo) - A Google book downloader with proxy support.
+- [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [jtauber/wrk-reader](https://github.com/jtauber/wrk-reader) - exploring how to read old Cakewalk WRK files
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
 - [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm) integration for building customzable custom charts.
@@ -1593,6 +1598,8 @@
 
 ## Rust 
 
+- [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics
 - [fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
