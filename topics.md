@@ -880,6 +880,7 @@
 
 ## documentation 
 
+- [ObsidianPublisher/obsidian-mkdocs-publisher-docs](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-docs) - Documentation for Obsidian Mkdocs Publisher
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
@@ -1311,6 +1312,7 @@
 
 ## html 
 
+- [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [BenSouchet/cvbuilder.dev](https://github.com/BenSouchet/cvbuilder.dev) - Write your CV / Resume Easily with HTML & CSS!
@@ -2091,6 +2093,15 @@
 
 ## others 
 
+- [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
+- [Zerokei/TextConverter](https://github.com/Zerokei/TextConverter) - A tool to convert text from obsidian markdown format into mkdocs markfown format.
+- [agreatfool/obsidian-utils](https://github.com/agreatfool/obsidian-utils) - Command line tools to help obsidian stuff
+- [basilioss/obsidian-scrapers](https://github.com/basilioss/obsidian-scrapers) - Get information from link for Obsidian
+- [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - A tool to get plugin statistics of Obsidian plugin ecosystem.
+- [shakedlokits/obsidian-bellboy](https://github.com/shakedlokits/obsidian-bellboy) - Opinionated file structure manager for the Obsidian knowledge base.
+- [tkat0/obsidian-scrapbox-flavored](https://github.com/tkat0/obsidian-scrapbox-flavored) - Scrapbox-flavored grid view and efficient list operations for Obsidian
+- [czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri) - A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.
+- [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [patheticGeek/improved-potato](https://github.com/patheticGeek/improved-potato) - Chrome extension to export bookmarks sanely
 - [liamfrazer/frz.dev](https://github.com/liamfrazer/frz.dev) - An automated Second Brain workflow between Obsidian Notes &gt; docs.frz.dev
 - [atsuoishimoto/python-raindropio](https://github.com/atsuoishimoto/python-raindropio) - Python wrapper for Raindrop.io API.
@@ -3362,7 +3373,6 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -3576,6 +3586,7 @@
 
 ## typescript 
 
+- [otaviocc/obsidian-microblog](https://github.com/otaviocc/obsidian-microblog) - Micro.publish is an Obsidian plugin to publish notes directly to Micro.blog, written in TypeScript
 - [AlexW00/obsidian-3d-graph](https://github.com/AlexW00/obsidian-3d-graph) - 👓 A 3D graph for Obsidian!
 - [ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
 - [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
