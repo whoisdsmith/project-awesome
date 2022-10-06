@@ -236,6 +236,8 @@
 
 ## Go 
 
+- [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars
+- [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -283,6 +285,11 @@
 
 ## HTML 
 
+- [inspurer/ChromeBookmarkVisual](https://github.com/inspurer/ChromeBookmarkVisual) - a visaul project for chrome browser bookmark; which can make access to muti-depth bookmark more easily.
+- [hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML bookmarks files
+- [bookmarks-tools/bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - :bookmark: Parses Firefox/Chrome HTML bookmarks files
+- [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+- [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [ObsidianPublisher/obsidian-mkdocs-publisher-docs](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-docs) - Documentation for Obsidian Mkdocs Publisher
 - [viperadnan-git/gdtot-bypasser](https://github.com/viperadnan-git/gdtot-bypasser) - A web scraper to convert GDToT links to Google Drive and direct download links
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
@@ -393,6 +400,16 @@
 
 ## JavaScript 
 
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
+- [OXOYO/bookmark2md](https://github.com/OXOYO/bookmark2md) - Convert chrome bookmarks to md files and push them to GitHub repository.
+- [thlorenz/parse-link-header](https://github.com/thlorenz/parse-link-header) - Parses a link header and returns paging information for each contained link.
+- [thiiagoms/mark-parse](https://github.com/thiiagoms/mark-parse) - Extract and validate links from markdown files :books:
+- [ralphtheninja/parse-markdown-links](https://github.com/ralphtheninja/parse-markdown-links) - Get all links from a markdown string.
+- [CCharlieLi/bookmark-parser](https://github.com/CCharlieLi/bookmark-parser) - Find and parse Firefox/Chrome bookmark HTML and jsonlz4 file into useable JSON object or export as JSON file.
+- [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
+- [ryanmcdermott/starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
+- [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats) - awesome GitHub repo star statistics generator
+- [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [basilioss/obsidian-scrapers](https://github.com/basilioss/obsidian-scrapers) - Get information from link for Obsidian
 - [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -831,6 +848,7 @@
 
 ## Others 
 
+- [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [liamfrazer/frz.dev](https://github.com/liamfrazer/frz.dev) - An automated Second Brain workflow between Obsidian Notes &gt; docs.frz.dev
 - [misuroz/Music-Composition-with-Cakewalk-CAL](https://github.com/misuroz/Music-Composition-with-Cakewalk-CAL) - Hundreds of tools for composers that will save a lot of time when writing music, skipping routine tasks and providing inspiration.
 - [Phileosopher/toolbox](https://github.com/Phileosopher/toolbox) - A toolbox of useful things, mostly computer-related.
@@ -1015,6 +1033,10 @@
 
 ## PHP 
 
+- [shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP library to parse Netscape bookmark files
+- [kafene/netscape-bookmark-parser](https://github.com/kafene/netscape-bookmark-parser) - a php script (function) to parse netscape format bookmark files
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+- [Colllect/Colllect](https://github.com/Colllect/Colllect) - Your visual bookmark manager
 - [davidgoy/reflect](https://github.com/davidgoy/reflect) - Static site generator for WordPress.
 - [nnsdev/spotify-stats](https://github.com/nnsdev/spotify-stats) - Spotify Statistics for your top tracks and artists all-time/past 4 weeks/past 6 months with ability to create playlists.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -1098,6 +1120,12 @@
 
 ## Python 
 
+- [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
+- [yannickperrenet/bookmarkdown](https://github.com/yannickperrenet/bookmarkdown) - ✅ Parse your browser's exported HTML bookmark file to Markdown.
+- [DavidMetcalfe/Chrome-Bookmarks-Parser](https://github.com/DavidMetcalfe/Chrome-Bookmarks-Parser) - Back up and parse Google Chrome's Bookmarks.bak file
+- [FlyingWolFox/Netscape-Bookmarks-File-Parser](https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser) - Parser and creator for Netscape Bookmarks file format that is used when exporting bookmarks from browsers
+- [bookmarks-tools/bookmarks2db](https://github.com/bookmarks-tools/bookmarks2db) - :bookmark: examples of storing bookmarks data in a database (Neo4j, PostgreSQL using mptt and ltree)
+- [JeffCarpenter/export-stars](https://github.com/JeffCarpenter/export-stars) - Export (your) GitHub stars to a CSV file
 - [obheda12/GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 - [Zerokei/TextConverter](https://github.com/Zerokei/TextConverter) - A tool to convert text from obsidian markdown format into mkdocs markfown format.
 - [atsuoishimoto/python-raindropio](https://github.com/atsuoishimoto/python-raindropio) - Python wrapper for Raindrop.io API.
@@ -1701,6 +1729,7 @@
 
 ## Svelte 
 
+- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
 - [alombi/alombi.xyz](https://github.com/alombi/alombi.xyz) - My personal website and my blog, live at alombi.xyz
 
@@ -1745,6 +1774,10 @@
 
 ## TypeScript 
 
+- [nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link) - 
+- [sentialx/node-bookmarks-parser](https://github.com/sentialx/node-bookmarks-parser) - Parses Chrome HTML bookmarks files
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate) - 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 - [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - A tool to get plugin statistics of Obsidian plugin ecosystem.
 - [shakedlokits/obsidian-bellboy](https://github.com/shakedlokits/obsidian-bellboy) - Opinionated file structure manager for the Obsidian knowledge base.
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
@@ -1869,6 +1902,7 @@
 
 ## Vue 
 
+- [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
 - [OpenSourceGround/CoolFolio](https://github.com/OpenSourceGround/CoolFolio) - ⚡ Vue.js Customizable Portfolio
