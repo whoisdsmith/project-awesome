@@ -67,6 +67,7 @@
 
 ## C 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -115,6 +116,7 @@
 
 ## C# # 
 
+- [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [vdetstvepil/plugin-manager](https://github.com/vdetstvepil/plugin-manager) - Plugin Manager for Cakewalk
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
@@ -152,6 +154,8 @@
 
 ## CSS 
 
+- [cuigh/obelisk](https://github.com/cuigh/obelisk) - A markdown document publishing tool
+- [SaraVieira/obsidian-notes-publish-plugin](https://github.com/SaraVieira/obsidian-notes-publish-plugin) - An Obsidian plugin to publish your notes
 - [agreatfool/obsidian-utils](https://github.com/agreatfool/obsidian-utils) - Command line tools to help obsidian stuff
 - [hrshainik/bookmark-manager](https://github.com/hrshainik/bookmark-manager) - Here you can bookmark your favourite website links and this links stored in local storage that's why you find this bookmarks any time it's won't vanish.
 - [Super-Coding-Ninja-TM/markdown-cv](https://github.com/Super-Coding-Ninja-TM/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
@@ -190,6 +194,7 @@
 
 ## Clojure 
 
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 
 ## Crystal 
@@ -238,6 +243,7 @@
 
 ## Go 
 
+- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars
 - [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
@@ -288,6 +294,8 @@
 
 ## HTML 
 
+- [Newdevprojects/publish](https://github.com/Newdevprojects/publish) - Obsidian notes
+- [yoursamlan/pubsidian](https://github.com/yoursamlan/pubsidian) - An Obsidian-Publish alternative but it's FREE
 - [SyedAbuTalib/Github-Stars](https://github.com/SyedAbuTalib/Github-Stars) - Saves time by listing all starred repos in one page
 - [inspurer/ChromeBookmarkVisual](https://github.com/inspurer/ChromeBookmarkVisual) - a visaul project for chrome browser bookmark; which can make access to muti-depth bookmark more easily.
 - [hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML bookmarks files
@@ -404,6 +412,10 @@
 
 ## JavaScript 
 
+- [JoshSweaterGuy/lava](https://github.com/JoshSweaterGuy/lava) - Lava is a markup generation tool built for obsidian
+- [wchorski/obsidian-developer](https://github.com/wchorski/obsidian-developer) - tutorials, set up, self hosted, routing, tooling, home lab, etc
+- [CommitSans/obsidian-gitbook](https://github.com/CommitSans/obsidian-gitbook) - A quick tool to publish an Obsidian Vault on GitBook
+- [isanchop/stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 - [CoolElectronics/bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Exploit chrome's profile sync for free cloud storage
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
@@ -648,7 +660,7 @@
 - [gamma032steam/fbtimestamp](https://github.com/gamma032steam/fbtimestamp) - Exports Facebook messenger timestamps for analysis.
 - [appium/appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 - [cube-js/awesome-tools](https://github.com/cube-js/awesome-tools) - Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
-- [lockys/Awesome.json](https://github.com/lockys/Awesome.json) - :eyeglasses: Awesome lists parsed in JSON. (Daily update)
+- [lockys/Awesome.json](https://github.com/lockys/Awesome.json) - :eyeglasses: Awesome lists parsed in JSON.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [leso-kn/tineline](https://github.com/leso-kn/tineline) - Tineline is a file format for describing schedules and rendering them in a horizontal timeline.
@@ -701,6 +713,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
@@ -723,6 +736,7 @@
 
 ## Kotlin 
 
+- [darthmachina/obsidian-neural-link](https://github.com/darthmachina/obsidian-neural-link) - Tool to automate Obsidian data
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
 - [tobiasschuerg/Photo-Organizer](https://github.com/tobiasschuerg/Photo-Organizer) - Tool to help organizing large (unorganized) collections of photos, such as from Google Takeout.
@@ -864,6 +878,9 @@
 
 ## Others 
 
+- [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
+- [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media Service
+- [blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS) - OSINT
 - [linyows/github-wiki-search](https://github.com/linyows/github-wiki-search) - :octocat: Search wiki of the repository on Github
 - [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - Cheatsheets, References, and notes on various red teaming/pentesting topics.
 - [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce) search and its awesomeness
@@ -1052,6 +1069,8 @@
 
 ## PHP 
 
+- [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP library to parse Netscape bookmark files
 - [kafene/netscape-bookmark-parser](https://github.com/kafene/netscape-bookmark-parser) - a php script (function) to parse netscape format bookmark files
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
@@ -1139,6 +1158,13 @@
 
 ## Python 
 
+- [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
+- [guomo/ObsidianHelper](https://github.com/guomo/ObsidianHelper) - Simple scripts to generate local hierarchies for us with the popular obsidian not taking tool.
+- [Jachimo/obstagtools](https://github.com/Jachimo/obstagtools) - Obsidian YAML+Markdown document tagging tools
+- [lhaze/obsidian-github-formatter](https://github.com/lhaze/obsidian-github-formatter) - Utility tool to reformat markdown files of an Obsidian Vault to be naturally readable via GitHub Web.
+- [pythonadventurer/ObsidianTools](https://github.com/pythonadventurer/ObsidianTools) - Miscellaneous tools for the Obsidian note taking app.
+- [PabloLION/free-lightweight-obsidian-publisher](https://github.com/PabloLION/free-lightweight-obsidian-publisher) - 
+- [DobyTang/LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
 - [grtfou/github-stars](https://github.com/grtfou/github-stars) - List stars of Github account to markdown file
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
 - [yannickperrenet/bookmarkdown](https://github.com/yannickperrenet/bookmarkdown) - ✅ Parse your browser's exported HTML bookmark file to Markdown.
@@ -1205,7 +1231,7 @@
 - [zabbix/community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates repository
 - [vpistis/OrganizeMediaFiles](https://github.com/vpistis/OrganizeMediaFiles) - a collection of Python scripts that help you organize media files into a directory tree "year/month" based on metadata , using exiftool
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [codePerfectPlus/awesomeScripts](https://github.com/codePerfectPlus/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
+- [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [mfarragher/obsidiantools](https://github.com/mfarragher/obsidiantools) - Obsidian tools - a Python package for analysing an Obsidian.md vault
@@ -1656,6 +1682,7 @@
 
 ## Rust 
 
+- [jason1105/mdtools](https://github.com/jason1105/mdtools) - A little tools to edit markdown file. Such as adding tags, making footlinks.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
@@ -1695,6 +1722,7 @@
 
 ## Shell 
 
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [KevCui/download-github-stars](https://github.com/KevCui/download-github-stars) - :star2: Download Github user's stars information to local md/json file
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) - 
@@ -1798,6 +1826,14 @@
 
 ## TypeScript 
 
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
+- [ordo-pink/ordo-electron](https://github.com/ordo-pink/ordo-electron) - Ordo is a knowledge management tool for you, your team, and the humanity.
+- [aidenlx/obsidian-icon-shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) - Obsidian Plugin: Insert emoji and custom icons with shortcodes
+- [mgmeyers/obsidian-icon-swapper](https://github.com/mgmeyers/obsidian-icon-swapper) - Allows swapping out Obsidian's icons
+- [reorx/obsidian-telegraph-publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
+- [jaynguyens/obsidian-ghost-publish](https://github.com/jaynguyens/obsidian-ghost-publish) - Write on Obsidian. Publish to Ghost with a single click.
+- [mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
+- [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [hadynz/obsidian-sidekick](https://github.com/hadynz/obsidian-sidekick) - A companion to identify hidden connections that match your tags and pages
 - [lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count) - Counts the words of selected text in the editor.
 - [tomzorz/obsidian-link-archive](https://github.com/tomzorz/obsidian-link-archive) - Link Archive plugin for Obsidian
@@ -1930,7 +1966,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 
 ## Vim Script 
@@ -1960,7 +1996,7 @@
 - [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy) - CV generator built with Nuxt.js, TailwindCSS, deployed on Netlify.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A bookmarks manager Chrome extension.
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Desktop music streaming browser
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
 - [Alexandr-web/MusicApplicationPEVN](https://github.com/Alexandr-web/MusicApplicationPEVN) - 🎵🎶 This is a musical project written in PEVN
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [one-tab-group/chrome-web-bookmark](https://github.com/one-tab-group/chrome-web-bookmark) - One-click turn any link into a visual web bookmark, and it looks Like Twitter cards or Notion web bookmark.
@@ -1984,6 +2020,7 @@
 
 ## Zig 
 
+- [lun-4/obsidian2web](https://github.com/lun-4/obsidian2web) - my obsidian publish knockoff that generates (largely static) websites
 - [squeek502/audiometa](https://github.com/squeek502/audiometa) - An audio metadata/tag reading library written in Zig
 
 
