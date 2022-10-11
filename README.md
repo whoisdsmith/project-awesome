@@ -726,7 +726,7 @@
 ## Jupyter Notebook 
 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython code to analyze one's text messages.  Intended to work out of the box, see README for details.
@@ -1198,7 +1198,7 @@
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [jtauber/wrk-reader](https://github.com/jtauber/wrk-reader) - exploring how to read old Cakewalk WRK files
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
-- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm) integration for building customzable custom charts.
+- [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm integration for building custom charts.
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
 - [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
 - [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
