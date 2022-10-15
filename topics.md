@@ -1002,7 +1002,7 @@
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [trashhalo/obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks) - Connect obsidian to the internet of things via webhooks
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog with Admin :rocket: in minutes built for developers.
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Jekyll Site/Blog with CMS :rocket: in minutes built for developers.
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
@@ -1350,7 +1350,7 @@
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
-- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Static Jekyll Site/Blog with Admin :rocket: in minutes built for developers.
+- [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - Launch your Jekyll Site/Blog with CMS :rocket: in minutes built for developers.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
@@ -1365,7 +1365,9 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [davorg/svg-timeline](https://github.com/davorg/svg-timeline) - Create timelines with SVG
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
