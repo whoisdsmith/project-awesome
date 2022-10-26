@@ -600,7 +600,7 @@
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [web0asis/web0asis.github.io](https://github.com/web0asis/web0asis.github.io) - Hi, This is clone of Weboas.is Dev posted about his/her suicide on the forum few days ago, as sad it is I wanted to make sure their legacy stays online for everyone who used this awesome website. I do
-- [blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) - Archive of Weboas.is to keep alive | RIP Webby 1992-2022
+- [blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) - 
 - [unkn0wn95/weboas.is](https://github.com/unkn0wn95/weboas.is) - All of source code of weboas.is
 - [szymboro/weboasis](https://github.com/szymboro/weboasis) - Fork of weboas.is
 - [shreeshjha/WebOas-is](https://github.com/shreeshjha/WebOas-is) - This is the copy of famous WebOas-is using the resources provided by Webby...
@@ -1041,6 +1041,7 @@
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
 - [cyberglot/awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
@@ -1821,7 +1822,6 @@
 - [vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - A free program for extracting data (like voicemails) from iPhone and iPad backups.
 - [bryan1anderson/iMessage-to-Day-One-Importer](https://github.com/bryan1anderson/iMessage-to-Day-One-Importer) - Grabs all the iMessages from Chat.db and begins an import into Day One App
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [Rightpoint/BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift
 - [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress for iOS - Official repository
