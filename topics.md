@@ -2520,7 +2520,7 @@
 - [xyvs/visualtree](https://github.com/xyvs/visualtree) - A tool that allows you to visualize and interact with the output of your tree command.
 - [MergenStudios/memento](https://github.com/MergenStudios/memento) - Command line tool written in Go for sorting and categorizing personal files like screenshots, recordings, logs and more.
 - [Swivro/weboasis-continued](https://github.com/Swivro/weboasis-continued) - An attempt to recreate and continue the now defunct Weboasis (was accessible via weboas.is, but is now down). RIP Webby 1992-2022.
-- [blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) - Archive of Weboas.is to keep alive | RIP Webby 1992-2022
+- [blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) - 
 - [unkn0wn95/weboas.is](https://github.com/unkn0wn95/weboas.is) - All of source code of weboas.is
 - [benhays42/WebOasis](https://github.com/benhays42/WebOasis) - A Fork of weboas.is
 - [szymboro/weboasis](https://github.com/szymboro/weboasis) - Fork of weboas.is
