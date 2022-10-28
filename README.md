@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -64,8 +65,14 @@
 - [johnvining/dayonealfred](https://github.com/johnvining/dayonealfred) - Helps ya help Alfred log stuff to Day One
 - [RobTrew/tree-tools](https://github.com/RobTrew/tree-tools) - Various scripts for working with nested text outlines
 
+## Batchfile 
+
+- [aryankashyap7/CheatSheets-for-Developers](https://github.com/aryankashyap7/CheatSheets-for-Developers) - This Cheat sheet list has been made to enhance the workflow and efficiency. This well curated list will save you time when you just can't remember the code.
+
 ## C 
 
+- [Siguza/imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
+- [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
@@ -115,6 +122,9 @@
 
 ## C# # 
 
+- [kekyo/MarkTheRipper](https://github.com/kekyo/MarkTheRipper) - Fantastic faster generates static site comes from simply Markdowns.
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+- [przemsen/BookmarksBase](https://github.com/przemsen/BookmarksBase) - Searching through all bookmarked web sites
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [vdetstvepil/plugin-manager](https://github.com/vdetstvepil/plugin-manager) - Plugin Manager for Cakewalk
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
@@ -136,6 +146,9 @@
 
 ## C++ 
 
+- [software-made-easy/html2md](https://github.com/software-made-easy/html2md) - Simple and fast HTML to Markdown conversion library with table support
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
 - [pedrolcl/wrk2mid](https://github.com/pedrolcl/wrk2mid) - Cakewalk to Standard MIDI Files Command Line Utility Translator (mirror)
 - [swl-x/MystiQ](https://github.com/swl-x/MystiQ) - Qt5/C++ FFmpeg Media Converter
@@ -153,6 +166,8 @@
 
 ## CSS 
 
+- [bxrlin/blossom-night-startpage](https://github.com/bxrlin/blossom-night-startpage) - Aesthetic Startpage with Essential Bookmarks
+- [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets) - This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
 - [cuigh/obelisk](https://github.com/cuigh/obelisk) - A markdown document publishing tool
@@ -204,6 +219,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -244,6 +260,7 @@
 
 ## Go 
 
+- [chuhlomin/genblog](https://github.com/chuhlomin/genblog) - Generates static site (blog) from Markdown files
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars
@@ -295,6 +312,10 @@
 
 ## HTML 
 
+- [adarsh500/mark](https://github.com/adarsh500/mark) - a super useful bookmark management web app with sleek UI and dark mode
+- [dotcli/memex](https://github.com/dotcli/memex) - Simple bookmarks and notes
+- [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
+- [AnzenKodo/awesome-ak](https://github.com/AnzenKodo/awesome-ak) - Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [Newdevprojects/publish](https://github.com/Newdevprojects/publish) - Obsidian notes
 - [yoursamlan/pubsidian](https://github.com/yoursamlan/pubsidian) - An Obsidian-Publish alternative but it's FREE
@@ -391,6 +412,7 @@
 
 ## Java 
 
+- [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [IvoLimmen/mystart](https://github.com/IvoLimmen/mystart) - Google Bookmarks clone with extra's
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [raad1masum/SpotiStats](https://github.com/raad1masum/SpotiStats) - 🎵 A website to get stats about your Spotify playlists.
@@ -416,6 +438,22 @@
 
 ## JavaScript 
 
+- [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
+- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought.
+- [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
+- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
+- [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
+- [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
+- [kewbish/matter](https://github.com/kewbish/matter) - An RSS links page + bookmarking tool.
+- [DBDoco/Better-Bookmarks](https://github.com/DBDoco/Better-Bookmarks) - JavaScript Google Chrome extension that improves default bookmark feature by adding ability to include notes byside given bookmarks.
+- [Manpreet-Singh001/bookmarks](https://github.com/Manpreet-Singh001/bookmarks) - web-app to store the bookmarks in a way i like.
+- [rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A mobile-responsive website that allows user to locally save and edit bookmarks of any website links.
+- [pfcao/asnote](https://github.com/pfcao/asnote) - Consider bookmarks as notes.
+- [hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
+- [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
+- [AkashRajpurohit/clipper](https://github.com/AkashRajpurohit/clipper) - 📋 Cross Platform Desktop App to Save history of all information you copy and use them whenever with a solitary snap
+- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
+- [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
@@ -727,6 +765,7 @@
 
 ## Jupyter Notebook 
 
+- [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -892,6 +931,17 @@
 
 ## Others 
 
+- [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
+- [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A single place for all the markdown syntaxes I have learned so far.
+- [VillainsRule4000/Bookmarklets](https://github.com/VillainsRule4000/Bookmarklets) - Bookmarklets to make your life easier.
+- [etsy/MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [J2TEAM/awesome-AutoIt](https://github.com/J2TEAM/awesome-AutoIt) - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
+- [ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) - A curated list of awesome resources related to the Ada and SPARK programming language
+- [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
+- [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
 - [cwinfosec/redteam_obsidian_templates](https://github.com/cwinfosec/redteam_obsidian_templates) - Red Team Templates For Obsidian.md
@@ -1087,6 +1137,9 @@
 
 ## PHP 
 
+- [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) - Your content driven static site generator.
+- [edwardcodelab/bookmark2wiki](https://github.com/edwardcodelab/bookmark2wiki) - to send bookmark from browser to dokuwiki
+- [maize-tech/laravel-markable](https://github.com/maize-tech/laravel-markable) - Integrate likes, bookmarks, favorites, reactions and custom made marks into your application
 - [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP library to parse Netscape bookmark files
@@ -1152,6 +1205,7 @@
 
 ## Perl 
 
+- [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
 - [tmo1/sms-db](https://github.com/tmo1/sms-db) - sms-db is a tool to build an SQLite database out of collections of SMS and MMS messages in various formats. The database can then be queried using standard SQLite queries, and the messages in the data
 - [BooneJS/OhLife2DayOne](https://github.com/BooneJS/OhLife2DayOne) - Convert OhLife entries to Day One
 - [goerz/activity_logger](https://github.com/goerz/activity_logger) - Scripts to log and analyze computer usage
@@ -1172,6 +1226,21 @@
 
 ## Python 
 
+- [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
+- [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
+- [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
+- [googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
+- [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The iOS Security Testing Framework
+- [pstirparo/mac4n6](https://github.com/pstirparo/mac4n6) - Collection of forensics artifacs location for Mac OS X and iOS
+- [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
+- [selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python utilities for the personal knowledge management tool "Obsidian"
+- [bboerzel/raindrop-to-obsidian](https://github.com/bboerzel/raindrop-to-obsidian) - 
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator
+- [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
+- [9gits/windsribe-account-generator-confirmation](https://github.com/9gits/windsribe-account-generator-confirmation) - 
+- [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
+- [Rust1667/a-FMHY-search-engine](https://github.com/Rust1667/a-FMHY-search-engine) - A search engine for the link collection FMHY (https://www.reddit.com/r/FREEMEDIAHECKYEAH/)
 - [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 - [dubs3c/Bookie](https://github.com/dubs3c/Bookie) - Save all your bookmarks!
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
@@ -1657,6 +1726,8 @@
 
 ## Ruby 
 
+- [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
+- [dmayer/idb](https://github.com/dmayer/idb) - idb is a tool to simplify some common tasks for iOS pentesting and research
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [GabrieleVir/Timeline-generator](https://github.com/GabrieleVir/Timeline-generator) - A generator of timelines
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
@@ -1699,6 +1770,7 @@
 
 ## Rust 
 
+- [ftd-lang/fpm](https://github.com/ftd-lang/fpm) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
 - [jason1105/mdtools](https://github.com/jason1105/mdtools) - A little tools to edit markdown file. Such as adding tags, making footlinks.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
@@ -1739,6 +1811,7 @@
 
 ## Shell 
 
+- [S3Jensen/iRET](https://github.com/S3Jensen/iRET) - 
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [KevCui/download-github-stars](https://github.com/KevCui/download-github-stars) - :star2: Download Github user's stars information to local md/json file
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
@@ -1803,6 +1876,10 @@
 
 ## Swift 
 
+- [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
+- [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
+- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
+- [luckymarmot/ThemeKit](https://github.com/luckymarmot/ThemeKit) - macOS theming library
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 - [loopwerk/Parsley](https://github.com/loopwerk/Parsley) - A Markdown parser for Swift, using Github Flavored Markdown and Metadata
@@ -1842,6 +1919,22 @@
 
 ## TypeScript 
 
+- [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.
+- [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
+- [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
+- [vishnugopal/bookmarks-to-obsidian](https://github.com/vishnugopal/bookmarks-to-obsidian) - Syncs Netscape bookmarks.html to Markdown files for use in Obsidian
+- [woywro/Linkly](https://github.com/woywro/Linkly) - :zap: Open source tool to manage bookmarks. Each link can be assigned to collection and each collection can be shared with other users.
+- [arn4v/markbox](https://github.com/arn4v/markbox) - Markbox (FKA Bookmarky) is tag-based bookmarking tool inspired by Pinboard.in
+- [pajecawav/pockly](https://github.com/pajecawav/pockly) - Bookmark manager
+- [serogbp/startpage-react](https://github.com/serogbp/startpage-react) - Kanban-like bookmark manager
+- [andreasphil/bookmarks](https://github.com/andreasphil/bookmarks) - 🐿 A collection of useful and mostly free resources and tools around web development, design, and programming in general
+- [balogunpraise/bookmarkapp](https://github.com/balogunpraise/bookmarkapp) - A simple bookmark application using nestjs
+- [squarebitchris/raindropio-to-obsidian](https://github.com/squarebitchris/raindropio-to-obsidian) - Sync Raindrop data into Obsidian
 - [kcabo/bookmark-file-prettify](https://github.com/kcabo/bookmark-file-prettify) - improve the visual appearanceof NETSCAPE-Bookmark-files
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [garyng/obsidian-temple](https://github.com/garyng/obsidian-temple) - A plugin for templating in Obsidian, powered by Nunjucks.
@@ -2006,6 +2099,7 @@
 
 ## Vue 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
