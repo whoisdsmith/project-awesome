@@ -44,6 +44,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -238,7 +239,6 @@
 
 ## Dockerfile 
 
-- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [github-actions-x/hugo](https://github.com/github-actions-x/hugo) - Build you site with Hugo
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
@@ -267,6 +267,8 @@
 
 ## Go 
 
+- [cryptix/gombrella](https://github.com/cryptix/gombrella) - extract bookmarks from raindrop.io
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -451,6 +453,9 @@
 
 ## JavaScript 
 
+- [Virgile-fr/Raindrop-HomePage](https://github.com/Virgile-fr/Raindrop-HomePage) - Raindrop HomePage is a minimalist interface to display your Raindrop.io bookmarks marked as favorites. This application is not intended to replicate the interface of Raindrop.io.
+- [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
+- [hilja/file-batcher](https://github.com/hilja/file-batcher) - Bulk edit Front Matter Markdown files with ease
 - [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This application provides free college ID cards for students.
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
@@ -843,6 +848,8 @@
 
 ## Markdown 
 
+- [Anmol-Baranwal/Hack-Your-Growth](https://github.com/Anmol-Baranwal/Hack-Your-Growth) - Make your life easier with these awesome resources 🚀
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
@@ -961,6 +968,10 @@
 
 ## Others 
 
+- [slhck/sanitize-filenames](https://github.com/slhck/sanitize-filenames) - macOS workflow to sanitize filenames
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+- [doanhthong/awesome-pkm](https://github.com/doanhthong/awesome-pkm) - A curated list of awesome tools to take notes and build your own PKM. PRs are welcome.
 - [piyushmaurya23/free-for-student](https://github.com/piyushmaurya23/free-for-student) - A list of developers tools & services which are free for students. This repo will also contains list of free tier services.
 - [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive, money is elusive and piracy is...evil!
 - [wowchemy/hugo-second-brain-theme](https://github.com/wowchemy/hugo-second-brain-theme) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
@@ -1271,6 +1282,9 @@
 
 ## Python 
 
+- [imanzarrabian/StarsToRain](https://github.com/imanzarrabian/StarsToRain) - Simple Python script that exports all Github Stars for a given user into an HTML file importable by Raindrop.io
+- [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
+- [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps tools, platforms and resources
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
@@ -1857,6 +1871,10 @@
 - [hydecorp/hydejack](https://github.com/hydecorp/hydejack) - A boutique Jekyll theme for hackers, nerds, and academics
 - [Albejr/ngx-timeline](https://github.com/Albejr/ngx-timeline) - Component for rendering timelines from the your data.
 
+## SVG 
+
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+
 ## Shell 
 
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
@@ -1864,6 +1882,7 @@
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [S3Jensen/iRET](https://github.com/S3Jensen/iRET) - 
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [KevCui/download-github-stars](https://github.com/KevCui/download-github-stars) - :star2: Download Github user's stars information to local md/json file
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) - 
@@ -1971,6 +1990,9 @@
 
 ## TypeScript 
 
+- [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
+- [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
