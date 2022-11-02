@@ -83,6 +83,7 @@
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
+- [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -168,6 +169,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [sketch](#sketch)
 - [software](#software)
 - [spacevim](#spacevim)
 - [sql](#sql)
@@ -213,6 +215,7 @@
 
 ## android 
 
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
@@ -300,6 +303,11 @@
 
 ## awesome 
 
+- [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -440,6 +448,13 @@
 
 ## awesome-list 
 
+- [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
+- [Anmol-Baranwal/Hack-Your-Growth](https://github.com/Anmol-Baranwal/Hack-Your-Growth) - Make your life easier with these awesome resources 🚀
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
+- [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+- [doanhthong/awesome-pkm](https://github.com/doanhthong/awesome-pkm) - A curated list of awesome tools to take notes and build your own PKM. PRs are welcome.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -578,7 +593,7 @@
 - [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A collection of awesome terminal utilities
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -658,6 +673,8 @@
 
 ## cli 
 
+- [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
@@ -691,7 +708,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -730,6 +747,7 @@
 
 ## coding 
 
+- [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
 - [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) - CODING iOS 客户端源代码
 
@@ -929,6 +947,7 @@
 
 ## design 
 
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
@@ -1191,6 +1210,11 @@
 
 ## github 
 
+- [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
+- [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [Olwiba/Kickass-markdown](https://github.com/Olwiba/Kickass-markdown) - A collection of Github markdown tricks for writing kickass READMEs, Pull Requests & Comments.
@@ -1256,6 +1280,7 @@
 
 ## github-api 
 
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [grtfou/github-stars](https://github.com/grtfou/github-stars) - List stars of Github account to markdown file
 - [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats) - awesome GitHub repo star statistics generator
 - [terror/github-timeline](https://github.com/terror/github-timeline) - Timeline generator using Github API
@@ -1271,6 +1296,7 @@
 
 ## go 
 
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
@@ -1291,6 +1317,7 @@
 
 ## golang 
 
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
@@ -1347,6 +1374,10 @@
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
+## hackathon 
+
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+
 ## hacking 
 
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -1379,6 +1410,8 @@
 
 ## hacktoberfest 
 
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -1443,7 +1476,6 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [nextcloud/registration](https://github.com/nextcloud/registration) - User registration app for Nextcloud
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
@@ -1453,7 +1485,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
 - [aromalanil/markItDown](https://github.com/aromalanil/markItDown) - 📱 A React app to preview and edit Markdown✍. You can also export it as HTML.
@@ -1842,6 +1874,7 @@
 
 ## languages 
 
+- [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - link of all daily dev tools and a little bit data about them
 
 ## laravel 
@@ -1973,7 +2006,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A collection of awesome terminal utilities
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -2005,6 +2038,9 @@
 
 ## markdown 
 
+- [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
+- [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [wowchemy/hugo-second-brain-theme](https://github.com/wowchemy/hugo-second-brain-theme) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [symkat/MarkdownSite](https://github.com/symkat/MarkdownSite) - Create a website from a git repository in one click
@@ -2169,6 +2205,7 @@
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache status page; PHP web application that renders server-status page and makes it readable; even for load balanced websites
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -2242,6 +2279,7 @@
 
 ## nextjs 
 
+- [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [elmasse/nextein](https://github.com/elmasse/nextein) - A static site generator with markdown + react for Next.js
@@ -2269,6 +2307,7 @@
 
 ## nlp 
 
+- [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
@@ -2364,6 +2403,7 @@
 
 ## open-source 
 
+- [Anmol-Baranwal/Hack-Your-Growth](https://github.com/Anmol-Baranwal/Hack-Your-Growth) - Make your life easier with these awesome resources 🚀
 - [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A single place for all the markdown syntaxes I have learned so far.
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2434,7 +2474,7 @@
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [blueudp/Deep-Explorer](https://github.com/blueudp/Deep-Explorer) - Deep Explorer is a ( 1 day developed ) tool made in python which purpose is the search of hidden services in tor network, using Ahmia Browser and crawling the links obtained
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering & OSINT framework for phone numbers
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
@@ -2443,6 +2483,13 @@
 
 ## others 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [slhck/sanitize-filenames](https://github.com/slhck/sanitize-filenames) - macOS workflow to sanitize filenames
+- [imanzarrabian/StarsToRain](https://github.com/imanzarrabian/StarsToRain) - Simple Python script that exports all Github Stars for a given user into an HTML file importable by Raindrop.io
+- [cryptix/gombrella](https://github.com/cryptix/gombrella) - extract bookmarks from raindrop.io
+- [Virgile-fr/Raindrop-HomePage](https://github.com/Virgile-fr/Raindrop-HomePage) - Raindrop HomePage is a minimalist interface to display your Raindrop.io bookmarks marked as favorites. This application is not intended to replicate the interface of Raindrop.io.
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
+- [hilja/file-batcher](https://github.com/hilja/file-batcher) - Bulk edit Front Matter Markdown files with ease
 - [piyushmaurya23/free-for-student](https://github.com/piyushmaurya23/free-for-student) - A list of developers tools & services which are free for students. This repo will also contains list of free tier services.
 - [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This application provides free college ID cards for students.
 - [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive, money is elusive and piracy is...evil!
@@ -2729,7 +2776,6 @@
 - [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
 - [othmar52/slimpd](https://github.com/othmar52/slimpd) - PHP/JS based MPD-web-client for large music collections
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
-- [axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache status page; PHP web application that renders server-status page and makes it readable; even for load balanced websites
 - [arnowelzel/netdata-nextcloud](https://github.com/arnowelzel/netdata-nextcloud) - A plugin for netdata to monitor Nextcloud servers
 - [y-u-r/nextcloud-zabbix](https://github.com/y-u-r/nextcloud-zabbix) - With this tamplate you can monitor a nextcloud via the xml file
 - [zabbix/community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates repository
@@ -3478,6 +3524,7 @@
 - [cn-tools/cntools_FreshRssExtensions](https://github.com/cn-tools/cntools_FreshRssExtensions) - This repository contains my unofficial FreshRSS extensions
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
+- [axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache status page; PHP web application that renders server-status page and makes it readable; even for load balanced websites
 - [amnuts/opcache-gui](https://github.com/amnuts/opcache-gui) - A clean, effective and responsive interface for Zend OPcache
 - [jonlabelle/ci-markdown](https://github.com/jonlabelle/ci-markdown) - CI Markdown is a CodeIgniter library for parsing Markdown to HTML.
 - [mnapoli/FrontYAML](https://github.com/mnapoli/FrontYAML) - YAML Front matter parser
@@ -3506,6 +3553,7 @@
 
 ## programming 
 
+- [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
@@ -3533,6 +3581,9 @@
 
 ## python 
 
+- [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
+- [springload/Wrangler.py](https://github.com/springload/Wrangler.py) - A Python static site generator
+- [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - An Otter Wiki is Python-based software for collaborative content management, called a wiki. The content is stored in a git repository, which keeps track of all changes. Markdown is used as markup lang
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
@@ -3663,6 +3714,7 @@
 
 ## python3 
 
+- [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
@@ -3728,6 +3780,7 @@
 
 ## react 
 
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
@@ -3865,6 +3918,7 @@
 
 ## ruby 
 
+- [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [SyedAbuTalib/Github-Stars](https://github.com/SyedAbuTalib/Github-Stars) - Saves time by listing all starred repos in one page
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
@@ -3974,7 +4028,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
@@ -3988,6 +4042,10 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+
+## sketch 
+
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
 
 ## software 
 
@@ -4093,7 +4151,7 @@
 - [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A collection of awesome terminal utilities
 - [unjs/consola](https://github.com/unjs/consola) - Elegant Console Logger for Node.js and Browser 🐨
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -4122,6 +4180,7 @@
 
 ## typescript 
 
+- [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
 - [Acmenlei/markdown-transform-html](https://github.com/Acmenlei/markdown-transform-html) - A Markdown parser developed in typescript that provides code highlighting + line number display
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [arn4v/markbox](https://github.com/arn4v/markbox) - Markbox (FKA Bookmarky) is tag-based bookmarking tool inspired by Pinboard.in
@@ -4139,7 +4198,7 @@
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
 - [eugustavo/github-badges](https://github.com/eugustavo/github-badges) - Application made to create badges for your readme 📑
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [CesiumLabs/frost](https://github.com/CesiumLabs/frost) - 🚀 A static site generator.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -4176,6 +4235,7 @@
 
 ## visual-studio-code 
 
+- [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 
@@ -4214,6 +4274,7 @@
 
 ## web 
 
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
