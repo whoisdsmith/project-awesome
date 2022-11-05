@@ -241,6 +241,7 @@
 
 ## angular 
 
+- [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -272,7 +273,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 
 ## arduino 
 
@@ -300,7 +301,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
@@ -737,7 +738,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## clojure 
@@ -952,6 +953,7 @@
 
 ## deployment 
 
+- [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
@@ -975,7 +977,7 @@
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 
 ## discord 
 
@@ -1177,6 +1179,7 @@
 
 ## frontend 
 
+- [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
@@ -1390,6 +1393,7 @@
 
 ## graphql 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [sleepyqadir/TechFolio](https://github.com/sleepyqadir/TechFolio) - An Open Sourced Creative Portfolio for Developer and Tech Geeks  😀
@@ -1435,6 +1439,7 @@
 
 ## hacktoberfest 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [svengreb/tmpl](https://github.com/svengreb/tmpl) - A collection of template repositories for new projects.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
@@ -1491,7 +1496,6 @@
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome bookmarks into markdown files
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create beautiful-looking cards for your GitHub profile or GitHub repo!
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
@@ -1727,6 +1731,7 @@
 
 ## javascript 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
@@ -2015,7 +2020,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -2262,7 +2267,7 @@
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [lev-kochergin/levboard](https://github.com/lev-kochergin/levboard) - A stats.fm integration for building custom charts.
-- [dlccyes/playlastify](https://github.com/dlccyes/playlastify) - A webapp visualizing your Spotify playlist stats with Spotify WebAPI & Last.fm API, written in jQuery & Django, deployed on Heroku
+- [dlccyes/playlastify](https://github.com/dlccyes/playlastify) - A webapp visualizing your Spotify playlist stats with Spotify WebAPI & Last.fm API
 - [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
 - [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
@@ -2319,6 +2324,7 @@
 
 ## nextjs 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
@@ -2476,7 +2482,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 
 ## operating-system 
 
@@ -2526,6 +2532,8 @@
 
 ## others 
 
+- [Tosoju/awesome-piracy](https://github.com/Tosoju/awesome-piracy) - A curated list of awesome warez and piracy links [but i actually update it]
+- [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [Akshay090/svg-banners](https://github.com/Akshay090/svg-banners) - Styled banners for your Readme made with html/css in SVG !!
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
@@ -3750,7 +3758,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 - [codelucas/flask_reddit](https://github.com/codelucas/flask_reddit) - Reddit clone in flask + python + nginx + https. View site:
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -3827,6 +3835,8 @@
 
 ## react 
 
+- [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -3922,6 +3932,7 @@
 
 ## reactjs 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [siegblink/webdev-resources](https://github.com/siegblink/webdev-resources) - Collection of helpful web development resources.
 - [ordo-pink/ordo-electron](https://github.com/ordo-pink/ordo-electron) - Ordo is a knowledge management tool for you, your team, and the humanity.
@@ -4093,7 +4104,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Cross-platform automation meta-framework to manage, connect and reuse any artifacts, scripts and workflows on any platform with any software in a non-intrusive way and with minimal effort. Join the ML
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with minimal effor
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## sketch 
@@ -4237,6 +4248,7 @@
 
 ## typescript 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
 - [Acmenlei/markdown-transform-html](https://github.com/Acmenlei/markdown-transform-html) - A Markdown parser developed in typescript that provides code highlighting + line number display
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
@@ -4298,6 +4310,7 @@
 
 ## vue 
 
+- [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Vuectron/Astrolabe](https://github.com/Vuectron/Astrolabe) - [WIP] Manage your GitHub stars with one desktop app.
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
