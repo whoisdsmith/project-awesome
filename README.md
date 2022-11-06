@@ -268,6 +268,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [cryptix/gombrella](https://github.com/cryptix/gombrella) - extract bookmarks from raindrop.io
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -326,6 +327,12 @@
 
 ## HTML 
 
+- [nasa8x/markdown-parser](https://github.com/nasa8x/markdown-parser) - HTML-to-Markdown converter
+- [tahaluindo/Sofware-Tools](https://github.com/tahaluindo/Sofware-Tools) - Tempat Sofware Tools 👻
+- [mdnice/sitdown](https://github.com/mdnice/sitdown) - turn html to nice markdown
+- [island205/h2m](https://github.com/island205/h2m) - Tool for converting HTML to Markdown, like html2markdown.
+- [cata-list/cata-list.github.io](https://github.com/cata-list/cata-list.github.io) - Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.
+- [tnb24/awesome-piracy-website](https://github.com/tnb24/awesome-piracy-website) - A curated list of awesome warez and piracy links
 - [Tosoju/awesome-piracy](https://github.com/Tosoju/awesome-piracy) - A curated list of awesome warez and piracy links [but i actually update it]
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -455,6 +462,12 @@
 
 ## JavaScript 
 
+- [viktomas/url-to-markdown](https://github.com/viktomas/url-to-markdown) - Script that fetches page content fromo URL and turns it into Markdown
+- [joriewong/html2md](https://github.com/joriewong/html2md) - :fax:html2MD
+- [OS-expected/EzGitDoc](https://github.com/OS-expected/EzGitDoc) - Simple & fast WYSIWYG repo documentation generator with personal enchacements.
+- [croqaz/clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
+- [WebMemex/webmemex-extension](https://github.com/WebMemex/webmemex-extension) - 📇 Your digital memory extension, as a browser extension
+- [tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic website in which I store my favorites, useful software etc.
 - [svengreb/tmpl](https://github.com/svengreb/tmpl) - A collection of template repositories for new projects.
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -980,6 +993,7 @@
 
 ## Others 
 
+- [lovelacecoding/Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources) - A collection of helpful and educational resources I found on social media
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
@@ -1299,6 +1313,7 @@
 
 ## Python 
 
+- [gaojiuli/tomd](https://github.com/gaojiuli/tomd) - Convert HTML to Markdown.
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [webalorn/md2book](https://github.com/webalorn/md2book) - Convert markdown files to beautiful books using a simple configuration file
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
@@ -1900,6 +1915,7 @@
 
 ## Shell 
 
+- [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
@@ -2014,6 +2030,8 @@
 
 ## TypeScript 
 
+- [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 to Discord flavored markdown
+- [ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An assist for creating CSS snippets for Obsidian
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
