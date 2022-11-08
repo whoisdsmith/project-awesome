@@ -82,6 +82,7 @@
 - [github-config](#github-config)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
@@ -218,6 +219,7 @@
 
 ## android 
 
+- [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
@@ -680,6 +682,7 @@
 
 ## cli 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
@@ -806,6 +809,8 @@
 
 ## css 
 
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
+- [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
@@ -1006,6 +1011,7 @@
 
 ## docker 
 
+- [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [dubs3c/Bookie](https://github.com/dubs3c/Bookie) - Save all your bookmarks!
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
@@ -1051,6 +1057,7 @@
 
 ## electron 
 
+- [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
 - [AkashRajpurohit/clipper](https://github.com/AkashRajpurohit/clipper) - 📋 Cross Platform Desktop App to Save history of all information you copy and use them whenever with a solitary snap
 - [Vuectron/Astrolabe](https://github.com/Vuectron/Astrolabe) - [WIP] Manage your GitHub stars with one desktop app.
@@ -1141,6 +1148,7 @@
 
 ## flask 
 
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - An Otter Wiki is Python-based software for collaborative content management, called a wiki. The content is stored in a git repository, which keeps track of all changes. Markdown is used as markup lang
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [viperadnan-git/gdtot-bypasser](https://github.com/viperadnan-git/gdtot-bypasser) - A web scraper to convert GDToT links to Google Drive and direct download links
@@ -1182,6 +1190,7 @@
 
 ## frontend 
 
+- [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
@@ -1232,6 +1241,8 @@
 
 ## github 
 
+- [asrvd/gitbanner](https://github.com/asrvd/gitbanner) - Generate Banner for you Profile Readme on GitHub. GitHub Readme Banner Generator with Name, About section and Profile Picture.
+- [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -1371,8 +1382,14 @@
 - [orsinium-labs/generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 
+## good-first-issue 
+
+- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
+
 ## google 
 
+- [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
+- [thomasleplus/google-apps-scripts](https://github.com/thomasleplus/google-apps-scripts) - A collection of useful Google Apps Scripts.
 - [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, and link building strategies and tactics to help improve search engine results and ranking.
 - [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to downloa
 - [thomasleplus/gphotos-archive](https://github.com/thomasleplus/gphotos-archive) - Archiving tool for Google Photos
@@ -1444,6 +1461,9 @@
 
 ## hacktoberfest 
 
+- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
+- [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
+- [shreyasminocha/regex-for-regular-folk](https://github.com/shreyasminocha/regex-for-regular-folk) - 🔍💪 Regular Expressions for Regular Folk — A visual, example-based introduction to RegEx [BETA]
 - [tahaluindo/Sofware-Tools](https://github.com/tahaluindo/Sofware-Tools) - Tempat Sofware Tools 👻
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
@@ -1584,6 +1604,8 @@
 
 ## html 
 
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
+- [conway-markdown/conway-markdown.github.io](https://github.com/conway-markdown/conway-markdown.github.io) - GitHub pages documentation for Conway-Markdown (CMD).
 - [joriewong/html2md](https://github.com/joriewong/html2md) - :fax:html2MD
 - [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 to Discord flavored markdown
 - [OS-expected/EzGitDoc](https://github.com/OS-expected/EzGitDoc) - Simple & fast WYSIWYG repo documentation generator with personal enchacements.
@@ -1630,6 +1652,7 @@
 
 ## html5 
 
+- [asrvd/gitbanner](https://github.com/asrvd/gitbanner) - Generate Banner for you Profile Readme on GitHub. GitHub Readme Banner Generator with Name, About section and Profile Picture.
 - [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 to Discord flavored markdown
 - [software-made-easy/html2md](https://github.com/software-made-easy/html2md) - Simple and fast HTML to Markdown conversion library with table support
 - [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
@@ -1743,6 +1766,8 @@
 
 ## javascript 
 
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
+- [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set of constants that can help you to parse markdown content
 - [OS-expected/EzGitDoc](https://github.com/OS-expected/EzGitDoc) - Simple & fast WYSIWYG repo documentation generator with personal enchacements.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
@@ -1972,6 +1997,7 @@
 
 ## linux 
 
+- [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -2041,6 +2067,7 @@
 
 ## macos 
 
+- [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
@@ -2092,6 +2119,9 @@
 
 ## markdown 
 
+- [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
+- [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set of constants that can help you to parse markdown content
+- [conway-markdown/conway-markdown.github.io](https://github.com/conway-markdown/conway-markdown.github.io) - GitHub pages documentation for Conway-Markdown (CMD).
 - [viktomas/url-to-markdown](https://github.com/viktomas/url-to-markdown) - Script that fetches page content fromo URL and turns it into Markdown
 - [joriewong/html2md](https://github.com/joriewong/html2md) - :fax:html2MD
 - [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 to Discord flavored markdown
@@ -2256,12 +2286,14 @@
 
 ## mongodb 
 
+- [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
 - [anyrange/measurify](https://github.com/anyrange/measurify) - Spotify listening stats [Last.fm + Stats.fm clone]
 - [reubn/daylight](https://github.com/reubn/daylight) - Your life, on a map.
 
 ## mongoose 
 
+- [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
 
 ## monitoring 
@@ -2397,6 +2429,8 @@
 
 ## nodejs 
 
+- [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
+- [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [viktomas/url-to-markdown](https://github.com/viktomas/url-to-markdown) - Script that fetches page content fromo URL and turns it into Markdown
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
@@ -2438,6 +2472,7 @@
 
 ## npm 
 
+- [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set of constants that can help you to parse markdown content
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - Infoooze is an OSINT tool. It helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
@@ -2513,6 +2548,7 @@
 
 ## osint 
 
+- [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS) - OSINT
 - [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
@@ -2555,6 +2591,32 @@
 
 ## others 
 
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
+- [patheticGeek/gdrive-index](https://github.com/patheticGeek/gdrive-index) - An index server for Google Drive
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets
+- [thebrandonc/gdrive-file-auditor](https://github.com/thebrandonc/gdrive-file-auditor) - This repo contains a script that turns Google Sheets into a file permissions auditor for Google Drive. The script adds a new menu item to the Sheet with an option to run the file auditing process. Whi
+- [LeeluPradhan/G-Index](https://github.com/LeeluPradhan/G-Index) - Google Drive Directory Index Running on CloudFlare Workers [Search + DarkMode] [ENGLISH]
+- [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex) - Customized Mirror for Bhadoo Google Drive Index repo from GitLab
+- [nfway/gdrive-index](https://github.com/nfway/gdrive-index) - fork from http://github.com/Aicirou/goindex-theme-acrou/   remove the tracking code, for good.
+- [cheems/goindex-extended](https://github.com/cheems/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
+- [shashankdeshpande/github-profile-generator](https://github.com/shashankdeshpande/github-profile-generator) - Generate README for GitHub profile using this web app!
+- [marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create thumbnails, and banners with HTML5 canvas
+- [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
+- [dustinknopoff/obsidian-snippets](https://github.com/dustinknopoff/obsidian-snippets) - a communal collection of obsidian snippets for theming, plugin development, and power usage.
+- [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian) - Snippets plugin for obsidian
+- [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
+- [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
+- [luckman212/obsidian-plugin-downloader](https://github.com/luckman212/obsidian-plugin-downloader) - Search, download and explore the growing library of Obsidian plugins!
+- [Nerd-of-Iron/obsidian-betterfrontmatter](https://github.com/Nerd-of-Iron/obsidian-betterfrontmatter) - Provides full YAML front matter editing capabilities to Obsidian (https://obsidian.md/) from either another plugin or a plugin that allows you to execute JavaScript like DataView JS..
+- [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
+- [johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write and format your next book directly from Obsidian
+- [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
+- [nogira/obsidian-better-links](https://github.com/nogira/obsidian-better-links) - Converts a URL to a pretty formatted link.
+- [J-E-J-S/autograph-obsidian](https://github.com/J-E-J-S/autograph-obsidian) - Automatic knowledge graph generation for Obsidian.md
+- [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
+- [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
+- [lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
 - [mdnice/sitdown](https://github.com/mdnice/sitdown) - turn html to nice markdown
 - [island205/h2m](https://github.com/island205/h2m) - Tool for converting HTML to Markdown, like html2markdown.
 - [ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An assist for creating CSS snippets for Obsidian
@@ -3665,6 +3727,7 @@
 
 ## python 
 
+- [conway-markdown/conway-markdown.github.io](https://github.com/conway-markdown/conway-markdown.github.io) - GitHub pages documentation for Conway-Markdown (CMD).
 - [gaojiuli/tomd](https://github.com/gaojiuli/tomd) - Convert HTML to Markdown.
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
@@ -3801,6 +3864,7 @@
 
 ## python3 
 
+- [shockz-offsec/DriveMyFiles](https://github.com/shockz-offsec/DriveMyFiles) - DriveMyFiles offers through an intuitive and easy to use interface, the possibility to easily backup manually or automatically to Google Drive the files/directories you want by selecting them through 
 - [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
@@ -3964,6 +4028,7 @@
 
 ## reactjs 
 
+- [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [siegblink/webdev-resources](https://github.com/siegblink/webdev-resources) - Collection of helpful web development resources.
@@ -4030,6 +4095,7 @@
 
 ## rust 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - An Obsidian plugin to automatically create new links between notes.
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
@@ -4183,6 +4249,7 @@
 
 ## swift 
 
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
 - [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -4231,6 +4298,7 @@
 
 ## terminal 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [tahaluindo/Sofware-Tools](https://github.com/tahaluindo/Sofware-Tools) - Tempat Sofware Tools 👻
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
@@ -4281,6 +4349,8 @@
 
 ## typescript 
 
+- [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
+- [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
 - [Acmenlei/markdown-transform-html](https://github.com/Acmenlei/markdown-transform-html) - A Markdown parser developed in typescript that provides code highlighting + line number display
@@ -4343,6 +4413,7 @@
 
 ## vue 
 
+- [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Vuectron/Astrolabe](https://github.com/Vuectron/Astrolabe) - [WIP] Manage your GitHub stars with one desktop app.
@@ -4377,6 +4448,7 @@
 
 ## web 
 
+- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -4388,6 +4460,7 @@
 
 ## webapp 
 
+- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [Colllect/Colllect](https://github.com/Colllect/Colllect) - Your visual bookmark manager
 - [Mikolaj-Mroz/Statsify](https://github.com/Mikolaj-Mroz/Statsify) - A web app to check your spotify statistics.
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
@@ -4407,6 +4480,7 @@
 
 ## website 
 
+- [developeranaz/Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega nz heroku index, Serves mega.nz to http via heroku web. It Alters downloading speed and stability
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [symkat/MarkdownSite](https://github.com/symkat/MarkdownSite) - Create a website from a git repository in one click
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
@@ -4424,6 +4498,7 @@
 
 ## windows 
 
+- [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
@@ -4466,6 +4541,7 @@
 
 ## xcode 
 
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress for iOS - Official repository
