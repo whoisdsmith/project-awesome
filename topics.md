@@ -287,7 +287,7 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
-- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
+- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## atom 
@@ -344,7 +344,7 @@
 - [AnzenKodo/awesome-ak](https://github.com/AnzenKodo/awesome-ak) - Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [GNU-Linux-libre/Awesome-Browser-Search-Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) - Awesome Browser Search engine streaming live git Privacy Alternative Alternatives 搜索引擎大全 浏览器大全
 - [scriptingislife/Awesome-Custom-Search-Engines](https://github.com/scriptingislife/Awesome-Custom-Search-Engines) - A collection of custom search engines that can be used in the address bar to speed up workflow.
-- [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, and link building strategies and tactics to help improve search engine results and ranking.
+- [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, link building strategies and tactics, along with educational opportunities to help improve search engine results and ranking.
 - [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats) - awesome GitHub repo star statistics generator
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -492,7 +492,7 @@
 - [AnzenKodo/awesome-ak](https://github.com/AnzenKodo/awesome-ak) - Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [GNU-Linux-libre/Awesome-Browser-Search-Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) - Awesome Browser Search engine streaming live git Privacy Alternative Alternatives 搜索引擎大全 浏览器大全
 - [scriptingislife/Awesome-Custom-Search-Engines](https://github.com/scriptingislife/Awesome-Custom-Search-Engines) - A collection of custom search engines that can be used in the address bar to speed up workflow.
-- [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, and link building strategies and tactics to help improve search engine results and ranking.
+- [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, link building strategies and tactics, along with educational opportunities to help improve search engine results and ranking.
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
@@ -568,7 +568,7 @@
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
+- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
@@ -791,7 +791,7 @@
 ## computer-vision 
 
 - [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media Service
-- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
+- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 
 ## config 
 
@@ -969,7 +969,7 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
-- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
+- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
 
@@ -1412,7 +1412,7 @@
 - [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone) - Clone a shared google drive link to your own google drive
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [thomasleplus/google-apps-scripts](https://github.com/thomasleplus/google-apps-scripts) - A collection of useful Google Apps Scripts.
-- [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, and link building strategies and tactics to help improve search engine results and ranking.
+- [thospfuller/awesome-search-engine-optimization](https://github.com/thospfuller/awesome-search-engine-optimization) - A curated list of backlink, social signal opportunities, link building strategies and tactics, along with educational opportunities to help improve search engine results and ranking.
 - [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to downloa
 - [thomasleplus/gphotos-archive](https://github.com/thomasleplus/gphotos-archive) - Archiving tool for Google Photos
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
@@ -1599,7 +1599,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -2082,6 +2081,7 @@
 ## lua 
 
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -2098,7 +2098,7 @@
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
+- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [mlcommons/ck](https://github.com/mlcommons/ck) - Portable automation meta-framework to manage, describe, connect and reuse any artifacts, scripts, tools and workflows on any platform with any software and hardware in a non-intrusive way and with min
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
@@ -2638,6 +2638,9 @@
 
 ## others 
 
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+- [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - just a concept for now
+- [cheems/Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [Loli-Killer/TgFolderClone](https://github.com/Loli-Killer/TgFolderClone) - Telegram bot for using folderclone
 - [jonathanTIE/googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader) - Python script to download google drive files even if the daily limit of download has excedeed.
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
@@ -2647,7 +2650,7 @@
 - [gilbarbara/alfred-workflows](https://github.com/gilbarbara/alfred-workflows) - Collection of Alfred workflows
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
 - [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
-- [zeus-12/fmhy](https://github.com/zeus-12/fmhy) - frontend for a popular reddit community, fmhy. Migrated from cra to vite.
+- [zeus-12/fmhy-ui](https://github.com/zeus-12/fmhy-ui) - frontend for a popular reddit community, fmhy. Migrated from cra to vite.
 - [polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump imap inbox to a local folder in a regular backupable format: html, json and attachements
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [patheticGeek/gdrive-index](https://github.com/patheticGeek/gdrive-index) - An index server for Google Drive
@@ -2662,11 +2665,9 @@
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
 - [dustinknopoff/obsidian-snippets](https://github.com/dustinknopoff/obsidian-snippets) - a communal collection of obsidian snippets for theming, plugin development, and power usage.
 - [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian) - Snippets plugin for obsidian
-- [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [luckman212/obsidian-plugin-downloader](https://github.com/luckman212/obsidian-plugin-downloader) - Search, download and explore the growing library of Obsidian plugins!
-- [Nerd-of-Iron/obsidian-betterfrontmatter](https://github.com/Nerd-of-Iron/obsidian-betterfrontmatter) - Provides full YAML front matter editing capabilities to Obsidian (https://obsidian.md/) from either another plugin or a plugin that allows you to execute JavaScript like DataView JS..
 - [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
 - [johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write and format your next book directly from Obsidian
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
@@ -3056,7 +3057,7 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
-- [kochrt/markwhen](https://github.com/kochrt/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [Birdie0/discord-ifttt](https://github.com/Birdie0/discord-ifttt) - https://discord-ifttt.vercel.app
 - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
@@ -3965,7 +3966,7 @@
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [jinfagang/alfred](https://github.com/jinfagang/alfred) - alfred-py: A deep learning utility library for **human**, more detail about the usage of lib to: https://zhuanlan.zhihu.com/p/341446046
-- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc.
+- [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 
 ## qt 
 
