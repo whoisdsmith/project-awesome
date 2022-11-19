@@ -2697,7 +2697,6 @@
 - [piyushmaurya23/free-for-student](https://github.com/piyushmaurya23/free-for-student) - A list of developers tools & services which are free for students. This repo will also contains list of free tier services.
 - [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This application provides free college ID cards for students.
 - [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive, money is elusive and piracy is...evil!
-- [wchorski/nextjs-obsidian-publish](https://github.com/wchorski/nextjs-obsidian-publish) - alternative to Obsidian Publish
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [Saber2pr/wiki-builder](https://github.com/Saber2pr/wiki-builder) - powered by saber2pr.github.io
@@ -2742,7 +2741,7 @@
 - [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 - [kcabo/bookmark-file-prettify](https://github.com/kcabo/bookmark-file-prettify) - improve the visual appearanceof NETSCAPE-Bookmark-files
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
-- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
 - [garyng/obsidian-temple](https://github.com/garyng/obsidian-temple) - A plugin for templating in Obsidian, powered by Nunjucks.
 - [cwinfosec/redteam_obsidian_templates](https://github.com/cwinfosec/redteam_obsidian_templates) - Red Team Templates For Obsidian.md
@@ -3163,7 +3162,7 @@
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
 - [holzschu/a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - shell commands, pre-compiled to webAssembly, ready to use in a-Shell
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
-- [Jailbreak-Update/jailbreak-update.github.io](https://github.com/Jailbreak-Update/jailbreak-update.github.io) - This is a dedicated repository for jailbreak and other iPhone related projects.
+- [Jailbreak-Update-zz/jailbreak-update.github.io](https://github.com/Jailbreak-Update-zz/jailbreak-update.github.io) - This is a dedicated repository for jailbreak and other iPhone related projects.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [geoffreylitt/wildcard](https://github.com/geoffreylitt/wildcard) - A browser extension for customizing web apps with a spreadsheet view
 - [LifeScopeLabs/lifescope-app](https://github.com/LifeScopeLabs/lifescope-app) - Search and Explore the internet of you
@@ -3855,7 +3854,7 @@
 - [antonio-hickey/gDash](https://github.com/antonio-hickey/gDash) - gDash ( g- ) Open Source Intelligence Dashboard
 - [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
-- [rhysyim/pyClipboardLogger](https://github.com/rhysyim/pyClipboardLogger) - A tool that logs the text in clipboard
+- [rhysyim/ClipboardLogger](https://github.com/rhysyim/ClipboardLogger) - A tool that logs the text in clipboard
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [michabirklbauer/instagram_json_viewer](https://github.com/michabirklbauer/instagram_json_viewer) - Transforms Instagram's *.json / backup data - that you get via the Data Download Tool - to a readable format!
