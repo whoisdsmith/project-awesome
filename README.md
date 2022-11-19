@@ -171,7 +171,6 @@
 ## CSS 
 
 - [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
-- [wchorski/nextjs-obsidian-publish](https://github.com/wchorski/nextjs-obsidian-publish) - alternative to Obsidian Publish
 - [symkat/MarkdownSite](https://github.com/symkat/MarkdownSite) - Create a website from a git repository in one click
 - [nWODT-Cobalt/markown-utilities](https://github.com/nWODT-Cobalt/markown-utilities) - Markdown stylesheets and other minutiae
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
@@ -412,7 +411,7 @@
 - [lukekarrys/metalsmith-dayone-example](https://github.com/lukekarrys/metalsmith-dayone-example) - An example Metalsmith site built from Day One data.
 - [synox/dayone-convert](https://github.com/synox/dayone-convert) - 
 - [vmogilev/dop](https://github.com/vmogilev/dop) - Day One Parser
-- [Jailbreak-Update/jailbreak-update.github.io](https://github.com/Jailbreak-Update/jailbreak-update.github.io) - This is a dedicated repository for jailbreak and other iPhone related projects.
+- [Jailbreak-Update-zz/jailbreak-update.github.io](https://github.com/Jailbreak-Update-zz/jailbreak-update.github.io) - This is a dedicated repository for jailbreak and other iPhone related projects.
 - [michael-danello/iMessageWrappedRelease](https://github.com/michael-danello/iMessageWrappedRelease) - Data and Visualizations on all your 2020 iMessages
 - [michael-danello/iMessageWrapped](https://github.com/michael-danello/iMessageWrapped) - Visualizing and Exploring iMessage data
 - [Macronius/day-one-clone](https://github.com/Macronius/day-one-clone) - clone of the Day One journal app on iOS
@@ -1517,7 +1516,7 @@
 - [normanlorrain/gt-cleanup](https://github.com/normanlorrain/gt-cleanup) - Restructure the photos from Google Takeout into a folder structure, removing duplicates and extra files.
 - [MaeglynD/bulk-modify](https://github.com/MaeglynD/bulk-modify) - i hate google photos so god damn much
 - [brraghav/simpleTools](https://github.com/brraghav/simpleTools) - This Repository is intended to create and maintain simple Tools that anyone can use without having to code. The tools can be as simple as extracting few keywords from text, but with lot of options and
-- [rhysyim/pyClipboardLogger](https://github.com/rhysyim/pyClipboardLogger) - A tool that logs the text in clipboard
+- [rhysyim/ClipboardLogger](https://github.com/rhysyim/ClipboardLogger) - A tool that logs the text in clipboard
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [Lisandra-dev/obsidian-hub](https://github.com/Lisandra-dev/obsidian-hub) - Resource hub for Obsidian resources.
@@ -2310,7 +2309,7 @@
 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
-- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
