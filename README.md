@@ -475,7 +475,7 @@
 - [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - just a concept for now
 - [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone) - Clone a shared google drive link to your own google drive
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - Publish your digital garden
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - Publish your digital garden, docs or any markdown based site easily, quickly and elegantly
 - [Redd-Developer/howurls.work](https://github.com/Redd-Developer/howurls.work) - Learn how URLs work by visually inspecting their structure.
 - [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
@@ -1908,7 +1908,7 @@
 - [morisunshine/DayOne](https://github.com/morisunshine/DayOne) - Ruby Module to create Day One Journal entries
 - [simonjefford/rdayone](https://github.com/simonjefford/rdayone) - A ruby gem for accessing Day One (http://dayoneapp.com/) journals
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
-- [smarj/Ulysses-Journal-Import](https://github.com/smarj/Ulysses-Journal-Import) - Import Day One JSON export into Ulysses
+- [smarj/Convert-Journal-Markdown](https://github.com/smarj/Convert-Journal-Markdown) - Import Day One JSON export into Ulysses
 - [papatangosierra/livejournal-archive-tools](https://github.com/papatangosierra/livejournal-archive-tools) - 
 - [acdpnk/.scrpt](https://github.com/acdpnk/.scrpt) - 
 - [jyruzicka/rb-dayone](https://github.com/jyruzicka/rb-dayone) - A ruby library for creating (and, one day, editing and removing) DayOne.app entries
