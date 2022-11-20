@@ -2159,7 +2159,7 @@
 
 ## markdown 
 
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - Publish your digital garden
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - Publish your digital garden, docs or any markdown based site easily, quickly and elegantly
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
 - [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set of constants that can help you to parse markdown content
@@ -3230,7 +3230,7 @@
 - [k-donn/journal-times](https://github.com/k-donn/journal-times) - A way to visual Day One entries
 - [yashbhojgarhia/DayOneClone](https://github.com/yashbhojgarhia/DayOneClone) - Day One Journaling iOS Application Clone
 - [akeemphilbert/joplin-dayone](https://github.com/akeemphilbert/joplin-dayone) - Joplin Plugin that makes it easier to transition from Day One Journal
-- [smarj/Ulysses-Journal-Import](https://github.com/smarj/Ulysses-Journal-Import) - Import Day One JSON export into Ulysses
+- [smarj/Convert-Journal-Markdown](https://github.com/smarj/Convert-Journal-Markdown) - Import Day One JSON export into Ulysses
 - [Macronius/day-one-clone](https://github.com/Macronius/day-one-clone) - clone of the Day One journal app on iOS
 - [dionysus11-source/dayonetoTxt](https://github.com/dionysus11-source/dayonetoTxt) - Change JSON file of dayone app to txt for Bear App
 - [jheddings/dayone-import](https://github.com/jheddings/dayone-import) - Utilities for importing entries into the Day One journal app.
