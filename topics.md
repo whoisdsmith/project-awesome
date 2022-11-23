@@ -781,7 +781,7 @@
 
 - [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
-- [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) - CODING iOS 客户端源代码
+- [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 
 ## compiler 
 
@@ -1121,7 +1121,7 @@
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) - CODING iOS 客户端源代码
+- [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 
 ## english 
 
@@ -1677,7 +1677,7 @@
 - [Chris3Arcadia/Evernote-to-DayOne](https://github.com/Chris3Arcadia/Evernote-to-DayOne) - Python script for converting Evernote notes to Day One journal entries using Day One's official command line interface.
 - [syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - syahravi timeline - a timeline of important events in my life.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
-- [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) - CODING iOS 客户端源代码
+- [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 
 ## html5 
 
@@ -1755,7 +1755,7 @@
 - [Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - An elegant and simple iOS music player.
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
-- [Coding/Coding-iOS](https://github.com/Coding/Coding-iOS) - CODING iOS 客户端源代码
+- [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 - [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [argp/iBoot64helper](https://github.com/argp/iBoot64helper) - IDAPython loader to help with AArch64 iBoot, iBEC, and SecureROM reverse engineering
 - [NetEaseGame/ATX](https://github.com/NetEaseGame/ATX) - Smart phone automation tool. Support iOS, Android, WebApp and game.
@@ -3786,6 +3786,7 @@
 
 ## python 
 
+- [paramt/url-checker](https://github.com/paramt/url-checker) - A GitHub action to test for broken links
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
 - [conway-markdown/conway-markdown.github.io](https://github.com/conway-markdown/conway-markdown.github.io) - GitHub pages documentation for Conway-Markdown (CMD).
