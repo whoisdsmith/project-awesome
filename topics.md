@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -96,6 +97,7 @@
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -219,6 +221,19 @@
 
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 
+## analytics 
+
+- [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
+- [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :cactus: Your Spotify stats all in one place.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [hamilton/microfiche](https://github.com/hamilton/microfiche) - ALPHA ~ A web extension framework for collecting rich, customized browsing history datasets.
+- [vijayvardhan94/Personal-Analytics-Resources](https://github.com/vijayvardhan94/Personal-Analytics-Resources) - List of categorized resources in the field of Personal Analytics. Simply put, personal analytics is an extension of quantified self that includes tracking and analyzing more parameters compared to jus
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+- [apricote/Listory](https://github.com/apricote/Listory) - Track your Spotify listens
+- [simonwongwong/Facebook-Messenger-Statistics](https://github.com/simonwongwong/Facebook-Messenger-Statistics) - Discover fun stats about your Facebook Messenger usage such as: most used words, most active year, most active hours, etc. using this Jupyter Notebook
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
 ## android 
 
 - [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
@@ -297,6 +312,7 @@
 
 ## automation 
 
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [extratone/shortcuts](https://github.com/extratone/shortcuts) - Can it be... that we can really maintain a public archive of installable Shortcuts files once again?
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
@@ -320,6 +336,7 @@
 
 ## awesome 
 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
@@ -468,6 +485,8 @@
 
 ## awesome-list 
 
+- [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 - [IliasHad/Developer-Tools-and-Resources](https://github.com/IliasHad/Developer-Tools-and-Resources) - The Best Tools and Resources for developers
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
@@ -600,6 +619,7 @@
 
 ## aws 
 
+- [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asse
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 
@@ -1258,6 +1278,11 @@
 
 ## github 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
+- [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [alexwlchan/github_alfred_shortcuts](https://github.com/alexwlchan/github_alfred_shortcuts) - An Alfred workflow that links to GitHub repos I use regularly
 - [asrvd/gitbanner](https://github.com/asrvd/gitbanner) - Generate Banner for you Profile Readme on GitHub. GitHub Readme Banner Generator with Name, About section and Profile Picture.
@@ -1357,6 +1382,7 @@
 
 ## go 
 
+- [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
@@ -1486,6 +1512,7 @@
 
 ## hacktoberfest 
 
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [realodix/urlhub](https://github.com/realodix/urlhub) - ✂️ URL shortener web application based on the Laravel PHP Framework.
 - [crwlrsoft/url](https://github.com/crwlrsoft/url) - Swiss Army knife for urls.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
@@ -1707,6 +1734,10 @@
 
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+
+## image-processing 
+
+- [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 
 ## ios 
 
@@ -2160,6 +2191,7 @@
 
 ## markdown 
 
+- [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - Publish your digital garden, docs or any markdown based site easily, quickly and elegantly
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
 - [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
@@ -2639,6 +2671,10 @@
 
 ## others 
 
+- [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
+- [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
+- [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - just a concept for now
 - [cheems/Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
@@ -3289,7 +3325,6 @@
 - [wogong/dayone-to-roam](https://github.com/wogong/dayone-to-roam) - Day One to Roam Research
 - [Essux/Quantified-Self-Reports](https://github.com/Essux/Quantified-Self-Reports) - Personal activity reports that go directly to your inbox.
 - [lacunaverse/hawk](https://github.com/lacunaverse/hawk) - get a bird's eye view of you
-- [vijayvardhan94/Personal-Analytics-Resources](https://github.com/vijayvardhan94/Personal-Analytics-Resources) - List of categorized resources in the field of Personal Analytics. Simply put, personal analytics is an extension of quantified self that includes tracking and analyzing more parameters compared to jus
 - [pleonova/data-diary](https://github.com/pleonova/data-diary) - My life dashboard - automatically track and visualize your data. Using common tracker APIs to create a minute by minute representation of your day.
 - [goerz/activity_logger](https://github.com/goerz/activity_logger) - Scripts to log and analyze computer usage
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
