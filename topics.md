@@ -630,6 +630,8 @@
 
 ## bash 
 
+- [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [uriel1998/muna](https://github.com/uriel1998/muna) - Clean a series of links, resolving redirects and finding Wayback results if page is gone. Originally written to aid with importing from ArchiveBox.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
@@ -891,6 +893,7 @@
 
 ## cybersecurity 
 
+- [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [BushidoUK/OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators) - 
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -1492,7 +1495,7 @@
 
 ## graphql 
 
-- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
@@ -1509,6 +1512,7 @@
 
 ## hacking 
 
+- [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [Sachin-v3rma/Astra](https://github.com/Sachin-v3rma/Astra) - Astra is a tool to find URLs and secrets inside a webpage/files
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
@@ -1867,7 +1871,7 @@
 
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
-- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [Andrew-Kang-G/url-knife](https://github.com/Andrew-Kang-G/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
 - [AndrejGajdos/link-preview-generator](https://github.com/AndrejGajdos/link-preview-generator) - Get preview data (a title, description, image, domain name) from a url. Library uses puppeteer headless browser to scrape the web site.
 - [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
@@ -2105,6 +2109,8 @@
 
 ## linux 
 
+- [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A list of useful apps, websites, extensions and other stuff I use and recommend.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -2153,7 +2159,6 @@
 ## lua 
 
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -2178,6 +2183,7 @@
 
 ## macos 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
 - [extratone/shortcuts](https://github.com/extratone/shortcuts) - Can it be... that we can really maintain a public archive of installable Shortcuts files once again?
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -2551,9 +2557,10 @@
 
 ## nodejs 
 
+- [limit-zero/url-juicer](https://github.com/limit-zero/url-juicer) - 🍊🔗 Squeeze some juice from URLs: A URL crawler/extraction library.
 - [xyzes/selective-link-checker](https://github.com/xyzes/selective-link-checker) - This program recursively scans a website and outputs all found sub-pages and their broken links to two different CSV files
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
-- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
@@ -2678,6 +2685,7 @@
 
 ## osint 
 
+- [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [B0sintBlanc/Osint-Bookmarklets](https://github.com/B0sintBlanc/Osint-Bookmarklets) - This is a place for all things OSINT & Bookmarklets!
 - [C3n7ral051nt4g3ncy/Obsidian](https://github.com/C3n7ral051nt4g3ncy/Obsidian) - Obsidian Ancestry Investigations
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project
@@ -2737,6 +2745,9 @@
 
 ## others 
 
+- [sindresorhus/urls-md](https://github.com/sindresorhus/urls-md) - Convert URLs to Markdown links: Extracts URLs from text → Gets their article title → Creates Markdown links
+- [obsidianforensics/obsidianforensics](https://github.com/obsidianforensics/obsidianforensics) - 
+- [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [harrisonpim/broken-link-checker](https://github.com/harrisonpim/broken-link-checker) - 🔗  a github action to periodically check a site for broken links
 - [timaschew/link-checker](https://github.com/timaschew/link-checker) - 🚀Superfast link checker for HTML pages
@@ -3899,6 +3910,7 @@
 
 ## python 
 
+- [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [arshadkazmi42/is-broken-link-github](https://github.com/arshadkazmi42/is-broken-link-github) - Github Links Broken Status Checker
 - [Amusa-Paulos/web-links-analysis-reports](https://github.com/Amusa-Paulos/web-links-analysis-reports) - The repository containing the log files of the links analysis reports of web pages, basically broken links report
 - [danhje/dead-link-crawler](https://github.com/danhje/dead-link-crawler) - An efficient, asynchronous crawler that identifies broken links on a given domain.
@@ -4117,7 +4129,7 @@
 
 ## react 
 
-- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
@@ -4215,6 +4227,7 @@
 
 ## reactjs 
 
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -4239,7 +4252,7 @@
 
 ## redux 
 
-- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
+- [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
 - [DaniloNovakovic/chrome-dynamic-bookmarks](https://github.com/DaniloNovakovic/chrome-dynamic-bookmarks) - Chrome extension which dynamically updates bookmarks according to given regular expressions (w/ bookmark manager) 📚
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
@@ -4284,6 +4297,7 @@
 
 ## rust 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
@@ -4379,6 +4393,7 @@
 
 ## shell 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -4498,6 +4513,7 @@
 
 ## terminal 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [tahaluindo/Sofware-Tools](https://github.com/tahaluindo/Sofware-Tools) - Tempat Sofware Tools 👻
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
