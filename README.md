@@ -455,6 +455,7 @@
 
 ## Java 
 
+- [matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project that ingests Facebook Messenger conversations and generates analytics.
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [IvoLimmen/mystart](https://github.com/IvoLimmen/mystart) - Google Bookmarks clone with extra's
@@ -1401,6 +1402,9 @@
 
 ## Python 
 
+- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Turn your chats into artwork
+- [stepva/chatalysis](https://github.com/stepva/chatalysis) - Analyse and visualise your chats - currently supporting Facebook Messenger and Instagram
+- [tsouchlarakis/imessage-extractor](https://github.com/tsouchlarakis/imessage-extractor) - Extract chat data from iMessage and much, much more!
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl
 - [arshadkazmi42/is-broken-link-github](https://github.com/arshadkazmi42/is-broken-link-github) - Github Links Broken Status Checker
@@ -2121,7 +2125,7 @@
 ## Swift 
 
 - [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
-- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur
+- [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur and later
 - [JohnSundell/Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
@@ -2166,6 +2170,7 @@
 
 ## TypeScript 
 
+- [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [harrisonpim/broken-link-checker](https://github.com/harrisonpim/broken-link-checker) - 🔗  a github action to periodically check a site for broken links
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
