@@ -59,6 +59,8 @@
 
 ## AppleScript 
 
+- [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder) - My repository of miscellaneous AppleScripts I've written for OS X
+- [unforswearing/applescript](https://github.com/unforswearing/applescript) - Applescript applets, snippets, resources, and links
 - [Rolias/applescripts](https://github.com/Rolias/applescripts) - Collection project for experiments in AppleScript
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [kraigparkinson/HookPlugins](https://github.com/kraigparkinson/HookPlugins) - Application scripts for Hook (https://hookproductivity.com)
@@ -1402,6 +1404,7 @@
 
 ## Python 
 
+- [ydkhatri/MacForensics](https://github.com/ydkhatri/MacForensics) - Scripts to process macOS forensic artifacts
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Turn your chats into artwork
 - [stepva/chatalysis](https://github.com/stepva/chatalysis) - Analyse and visualise your chats - currently supporting Facebook Messenger and Instagram
 - [tsouchlarakis/imessage-extractor](https://github.com/tsouchlarakis/imessage-extractor) - Extract chat data from iMessage and much, much more!
@@ -1994,6 +1997,7 @@
 
 ## Rust 
 
+- [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust program for extracting most URLs from Discord scrapes. Works with Discord History Tracker and discard2.
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 - [eikendev/urlprobe](https://github.com/eikendev/urlprobe) - A tool for probing URLs for their status code from the command line (to check for broken links in a given list of URLs) :vertical_traffic_light::fire:
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
@@ -2045,6 +2049,8 @@
 
 ## Shell 
 
+- [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
+- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
 - [urlstechie/urlchecker-action](https://github.com/urlstechie/urlchecker-action) - :octocat: :link: GitHub action to extract and check urls in code and documentations.
 - [victoriadrake/link-snitch](https://github.com/victoriadrake/link-snitch) - :octocat: GitHub Action to scan your site for broken links so you can fix them 🔗
@@ -2118,6 +2124,7 @@
 
 ## Svelte 
 
+- [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
 - [alombi/alombi.xyz](https://github.com/alombi/alombi.xyz) - My personal website and my blog, live at alombi.xyz
@@ -2182,7 +2189,6 @@
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
 - [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
 - [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian) - Snippets plugin for obsidian
-- [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
 - [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
