@@ -74,6 +74,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [Siguza/imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -360,7 +361,6 @@
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-- [adarsh500/mark](https://github.com/adarsh500/mark) - a super useful bookmark management web app with sleek UI and dark mode
 - [dotcli/memex](https://github.com/dotcli/memex) - Simple bookmarks and notes
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
 - [AnzenKodo/awesome-ak](https://github.com/AnzenKodo/awesome-ak) - Awesome list of awesome website from my bookmarks. Download bookmarks also.
@@ -488,6 +488,11 @@
 
 ## JavaScript 
 
+- [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
+- [NopeCHA/NopeCHA](https://github.com/NopeCHA/NopeCHA) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
+- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [ridaeh/gitbook-plugin-terminull](https://github.com/ridaeh/gitbook-plugin-terminull) - 🦄 Terminull is a gitbook plugin allows you to create a modern terminal for your gitbook pages in order to documente your commands and it gives you a fast way to copy the command .
 - [aleen42/gitbook-treeview](https://github.com/aleen42/gitbook-treeview) - :evergreen_tree: A gitbook plugin for generating tree view for ech page
 - [limit-zero/url-juicer](https://github.com/limit-zero/url-juicer) - 🍊🔗 Squeeze some juice from URLs: A URL crawler/extraction library.
@@ -570,7 +575,6 @@
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
 - [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought.
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
-- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
 - [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [kewbish/matter](https://github.com/kewbish/matter) - An RSS links page + bookmarking tool.
@@ -578,6 +582,7 @@
 - [Manpreet-Singh001/bookmarks](https://github.com/Manpreet-Singh001/bookmarks) - web-app to store the bookmarks in a way i like.
 - [rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A mobile-responsive website that allows user to locally save and edit bookmarks of any website links.
 - [pfcao/asnote](https://github.com/pfcao/asnote) - Consider bookmarks as notes.
+- [adarsh500/mark](https://github.com/adarsh500/mark) - a super useful bookmark management web app with sleek UI and dark mode
 - [hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [AkashRajpurohit/clipper](https://github.com/AkashRajpurohit/clipper) - 📋 Cross Platform Desktop App to Save history of all information you copy and use them whenever with a solitary snap
@@ -1066,6 +1071,8 @@
 
 ## Others 
 
+- [tahaluindo/Free-Proxies](https://github.com/tahaluindo/Free-Proxies) - 
+- [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy) - $ whoami --&gt; C3n7ral051nt4g3ncy (aka OSINT Tactical)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -1412,9 +1419,10 @@
 
 ## Python 
 
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [mdube99/websiteToMarkdown](https://github.com/mdube99/websiteToMarkdown) - 
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
-- [redc86/slash](https://github.com/redc86/slash) - The Slash OSINT
+- [redc86/slash](https://github.com/redc86/slash) - The Slash OSINT Tool
 - [devsecboy/DomainRecon](https://github.com/devsecboy/DomainRecon) - Based on URL and Organization Name, collect the IP Ranges, subdomains using various tools like Amass, subfinder, etc.. And check for uphost and Run Masscan to grap CNAME entries, take the screenshot o
 - [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
 - [ydkhatri/MacForensics](https://github.com/ydkhatri/MacForensics) - Scripts to process macOS forensic artifacts
@@ -2010,6 +2018,7 @@
 
 ## Rust 
 
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust program for extracting most URLs from Discord scrapes. Works with Discord History Tracker and discard2.
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 - [eikendev/urlprobe](https://github.com/eikendev/urlprobe) - A tool for probing URLs for their status code from the command line (to check for broken links in a given list of URLs) :vertical_traffic_light::fire:
@@ -2191,6 +2200,8 @@
 
 ## TypeScript 
 
+- [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
+- [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [SettingDust/obsidian-web-clipper](https://github.com/SettingDust/obsidian-web-clipper) - Clip web page content to Obsidian as Markdown
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
 - [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
@@ -2231,6 +2242,7 @@
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden 构建你永恒的数字花园
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
