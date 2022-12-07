@@ -2803,6 +2803,8 @@
 
 ## others 
 
+- [barnesoir/chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT
+- [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [anonymousaga/webloc-to-url-mac-app](https://github.com/anonymousaga/webloc-to-url-mac-app) - A GUI Mac app that converts Mac-specific webloc files into equally-functional URL files that also work with windows.
 - [DamianFlynn/py-obsidian-parser](https://github.com/DamianFlynn/py-obsidian-parser) - Obsidian parser, used to create the content for Hugo SSG
