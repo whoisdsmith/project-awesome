@@ -316,6 +316,7 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -490,6 +491,7 @@
 
 ## JavaScript 
 
+- [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
 - [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
@@ -2120,7 +2122,6 @@
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [ItsMeAbhishekRai/Termux-All-Packages-Install](https://github.com/ItsMeAbhishekRai/Termux-All-Packages-Install) - All Packages Install On Termux In One Click
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [pwatk/google-photos-takeout](https://github.com/pwatk/google-photos-takeout) - Sort and organise Google Photos Takeout using exiftool
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
@@ -2205,6 +2206,7 @@
 
 ## TypeScript 
 
+- [barnesoir/chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [SettingDust/obsidian-web-clipper](https://github.com/SettingDust/obsidian-web-clipper) - Clip web page content to Obsidian as Markdown
@@ -2356,7 +2358,6 @@
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take advantage of YAML front-matter in generating notes from templates (for obsidian.md)
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [mehmetsagir/regex-safe-website](https://github.com/mehmetsagir/regex-safe-website) - Easy controls with Regex.
@@ -2366,6 +2367,7 @@
 - [WildPress/obsidian-wp](https://github.com/WildPress/obsidian-wp) - Post directly to your WordPress blog from Obsidian.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [PrettyCoffee/yet-another-generic-startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - This a generic startpage to demonstrate the react startpage library.
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
