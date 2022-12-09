@@ -297,7 +297,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 
 ## arduino 
 
@@ -338,7 +338,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
@@ -806,7 +806,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## clojure 
@@ -1063,7 +1063,7 @@
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 
 ## discord 
 
@@ -1103,6 +1103,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
 - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 🚚 Dashboard Icons has moved to another home!
+- [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
@@ -2248,7 +2249,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -2765,7 +2766,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 
 ## operating-system 
 
@@ -2838,6 +2839,10 @@
 
 ## others 
 
+- [danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts for organizing and reformatting markdown notes
+- [davycloud/obtool](https://github.com/davycloud/obtool) - A command lint tool for Obsidian
+- [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
+- [ergebnis/day-one-to-obsidian-converter](https://github.com/ergebnis/day-one-to-obsidian-converter) - :notebook: Provides a console command for converting DayOne journals to Obsidian notes.
 - [valentine195/obsidian-5e-statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - Create Dungeons and Dragons style statblocks for Obsidian.md
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
 - [jjuliano/markdown-ui](https://github.com/jjuliano/markdown-ui) - Write UI in Markdown Syntax
@@ -4169,7 +4174,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 - [codelucas/flask_reddit](https://github.com/codelucas/flask_reddit) - Reddit clone in flask + python + nginx + https. View site:
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -4545,7 +4550,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 
 ## sketch 
