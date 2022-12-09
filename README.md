@@ -1334,6 +1334,7 @@
 
 ## PHP 
 
+- [ergebnis/day-one-to-obsidian-converter](https://github.com/ergebnis/day-one-to-obsidian-converter) - :notebook: Provides a console command for converting DayOne journals to Obsidian notes.
 - [norberttech/md-link-linter](https://github.com/norberttech/md-link-linter) - 📖✅CLI tool that iterates through all markdown files in given path checking if links used in them are still valid.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [erusev/parsedown-extra](https://github.com/erusev/parsedown-extra) - Markdown Extra Extension for Parsedown
@@ -1431,6 +1432,9 @@
 
 ## Python 
 
+- [danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts for organizing and reformatting markdown notes
+- [davycloud/obtool](https://github.com/davycloud/obtool) - A command lint tool for Obsidian
+- [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
 - [DamianFlynn/py-obsidian-parser](https://github.com/DamianFlynn/py-obsidian-parser) - Obsidian parser, used to create the content for Hugo SSG
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [mdube99/websiteToMarkdown](https://github.com/mdube99/websiteToMarkdown) - 
@@ -1846,7 +1850,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more reusable, portable, deterministic and reproducible across continuously chan
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A small python library to wrap your scripts with a unified Python API, CLI and JSON/YAML meta descriptions to make them more portable, reusable, deterministic and reproducible. It is used to modulariz
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
