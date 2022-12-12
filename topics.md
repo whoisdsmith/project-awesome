@@ -947,6 +947,7 @@
 
 ## data-analysis 
 
+- [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project that ingests Facebook Messenger conversations and generates analytics.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -1013,6 +1014,7 @@
 
 ## database 
 
+- [nomadiz/edma](https://github.com/nomadiz/edma) - An interactive embedded database management system.
 - [IvoLimmen/mystart](https://github.com/IvoLimmen/mystart) - Google Bookmarks clone with extra's
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
@@ -1138,6 +1140,7 @@
 
 ## dotnet 
 
+- [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [benjysugi/InternetArchiveDownloader](https://github.com/benjysugi/InternetArchiveDownloader) - A program that allows you to download folders posted on the Internet Archive in full without using the torrent
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [kekyo/MarkTheRipper](https://github.com/kekyo/MarkTheRipper) - Fantastic faster generates static site comes from simply Markdowns.
@@ -1263,6 +1266,7 @@
 
 ## flutter 
 
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
 - [litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -1753,6 +1757,7 @@
 
 ## html 
 
+- [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
 - [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
@@ -2171,6 +2176,7 @@
 
 ## library 
 
+- [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -2181,6 +2187,7 @@
 
 ## linux 
 
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
@@ -2236,6 +2243,7 @@
 
 ## machine-learning 
 
+- [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian https://obsidian.md
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
@@ -2256,6 +2264,7 @@
 
 ## macos 
 
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [ydkhatri/MacForensics](https://github.com/ydkhatri/MacForensics) - Scripts to process macOS forensic artifacts
@@ -2315,6 +2324,8 @@
 
 ## markdown 
 
+- [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
+- [juliamrch/Obsidian-templates](https://github.com/juliamrch/Obsidian-templates) - A set of business and creativity Obsidian templates in French
 - [norberttech/md-link-linter](https://github.com/norberttech/md-link-linter) - 📖✅CLI tool that iterates through all markdown files in given path checking if links used in them are still valid.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
@@ -2621,6 +2632,7 @@
 
 ## nlp 
 
+- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian https://obsidian.md
 - [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
@@ -2840,10 +2852,21 @@
 
 ## others 
 
+- [onflapp/TextSerPlugins](https://github.com/onflapp/TextSerPlugins) - Plugins for TextSer App
+- [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
+- [lkrimphove/obsidian-templates](https://github.com/lkrimphove/obsidian-templates) - Templates and scripts for obsidian.md
+- [yanenok/obsidian-images-plugin](https://github.com/yanenok/obsidian-images-plugin) - Easy image layouts for Obsidian
+- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
+- [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A one-click version of sd-webui-colab
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [abhishek-nigam/raindrop-backup-bookmarks](https://github.com/abhishek-nigam/raindrop-backup-bookmarks) - A simple tool I use to backup my bookmarks from Raindrop.io service
 - [antonnagorniy/raindrop-io-api-client](https://github.com/antonnagorniy/raindrop-io-api-client) - 
 - [KittenYang/ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
-- [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - ChatGPT Discord Bot
+- [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - Discord ChatGPT Bot
 - [danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts for organizing and reformatting markdown notes
 - [davycloud/obtool](https://github.com/davycloud/obtool) - A command lint tool for Obsidian
 - [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
@@ -4434,6 +4457,7 @@
 
 ## rust 
 
+- [nomadiz/edma](https://github.com/nomadiz/edma) - An interactive embedded database management system.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust program for extracting most URLs from Discord scrapes. Works with Discord History Tracker and discard2.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
@@ -4656,6 +4680,7 @@
 
 ## terminal 
 
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ridaeh/gitbook-plugin-terminull](https://github.com/ridaeh/gitbook-plugin-terminull) - 🦄 Terminull is a gitbook plugin allows you to create a modern terminal for your gitbook pages in order to documente your commands and it gives you a fast way to copy the command .
@@ -4876,6 +4901,8 @@
 
 ## windows 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [benjysugi/InternetArchiveDownloader](https://github.com/benjysugi/InternetArchiveDownloader) - A program that allows you to download folders posted on the Internet Archive in full without using the torrent
 - [sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A list of useful apps, websites, extensions and other stuff I use and recommend.
