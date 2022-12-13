@@ -504,6 +504,7 @@
 
 ## JavaScript 
 
+- [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [lkrimphove/obsidian-templates](https://github.com/lkrimphove/obsidian-templates) - Templates and scripts for obsidian.md
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -1094,6 +1095,7 @@
 
 ## Others 
 
+- [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [juliamrch/Obsidian-templates](https://github.com/juliamrch/Obsidian-templates) - A set of business and creativity Obsidian templates in French
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
@@ -1449,6 +1451,10 @@
 
 ## Python 
 
+- [SingularReza/drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - A simple script to copy folders to Team Drives/Shared Drives in Google Drive
+- [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
+- [runpod/ai-api-workers](https://github.com/runpod/ai-api-workers) - 🧠 | Official set of serverless AI workers provided by RunPod.
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [onflapp/TextSerPlugins](https://github.com/onflapp/TextSerPlugins) - Plugins for TextSer App
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
@@ -2188,6 +2194,7 @@
 
 ## Svelte 
 
+- [breadthe/sd-buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion
 - [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
@@ -2242,6 +2249,7 @@
 
 ## TypeScript 
 
+- [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [yanenok/obsidian-images-plugin](https://github.com/yanenok/obsidian-images-plugin) - Easy image layouts for Obsidian
 - [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
