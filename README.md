@@ -56,6 +56,7 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [YASnippet](#yasnippet)
 - [Zig](#zig)
 
 ## AppleScript 
@@ -133,6 +134,7 @@
 
 ## C# # 
 
+- [LeeReid1/MarkdownToSiteGenerator](https://github.com/LeeReid1/MarkdownToSiteGenerator) - An example of my code style, for C# 11 and .NET Core 7.0. Written from scratch using test-driven-development. The solution builds a static multiple-HTML-page site from a directory of markdown files, h
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [nazuke/SEOMacroscope](https://github.com/nazuke/SEOMacroscope) - SEO Macroscope is a website scanning tool, to check your website for broken links; including some technical SEO functionality, site scraping, Excel reporting, and more.
 - [erlange/wbm-dl](https://github.com/erlange/wbm-dl) - Wayback Machine Downloader. 🔥 Download your entire archived websites from the Internet Archive Wayback Machine.
@@ -184,6 +186,7 @@
 
 ## CSS 
 
+- [wchorski/nextjs-obsidian-publish](https://github.com/wchorski/nextjs-obsidian-publish) - alternative to Obsidian Publish
 - [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 - [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
 - [chetachiezikeuzor/Obsidian-Snippets](https://github.com/chetachiezikeuzor/Obsidian-Snippets) - A repo full of my snippets for Obsidian.md. Use them to customize your workspace and/or add to a theme! 🪄
@@ -288,6 +291,8 @@
 
 ## Go 
 
+- [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
+- [TypicalAM/Static-Site-Generator](https://github.com/TypicalAM/Static-Site-Generator) - A place to view your notes - powered by Go
 - [antonnagorniy/raindrop-io-api-client](https://github.com/antonnagorniy/raindrop-io-api-client) - 
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [suntong/html2md](https://github.com/suntong/html2md) - HTML to Markdown converter
@@ -358,6 +363,7 @@
 
 ## HTML 
 
+- [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [jjuliano/markdown-ui](https://github.com/jjuliano/markdown-ui) - Write UI in Markdown Syntax
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [pjamar/htmls-to-datasette](https://github.com/pjamar/htmls-to-datasette) - Tool to index and serve HTML files. Powered by Datasette.
@@ -504,6 +510,10 @@
 
 ## JavaScript 
 
+- [dabblelab/gptanswers-node](https://github.com/dabblelab/gptanswers-node) - Building a GPT-3 Knowledge Base App (NodeJS)
+- [1000ch/node-github-markdown](https://github.com/1000ch/node-github-markdown) - Parse GitHub flavored markdown to static html.
+- [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
+- [mborne/markdown-to-html](https://github.com/mborne/markdown-to-html) - An experimental markdown renderer based on marked aiming at providing both a static site generator and a live server
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [lkrimphove/obsidian-templates](https://github.com/lkrimphove/obsidian-templates) - Templates and scripts for obsidian.md
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
@@ -1095,6 +1105,9 @@
 
 ## Others 
 
+- [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
+- [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
+- [progrmoiz/awesome-chatgpt](https://github.com/progrmoiz/awesome-chatgpt) - Prompts, resources, demos, and everything
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [juliamrch/Obsidian-templates](https://github.com/juliamrch/Obsidian-templates) - A set of business and creativity Obsidian templates in French
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -1451,6 +1464,9 @@
 
 ## Python 
 
+- [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [SingularReza/drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - A simple script to copy folders to Team Drives/Shared Drives in Google Drive
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [runpod/ai-api-workers](https://github.com/runpod/ai-api-workers) - 🧠 | Official set of serverless AI workers provided by RunPod.
@@ -1460,7 +1476,7 @@
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [abhishek-nigam/raindrop-backup-bookmarks](https://github.com/abhishek-nigam/raindrop-backup-bookmarks) - A simple tool I use to backup my bookmarks from Raindrop.io service
-- [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - Discord ChatGPT Bot
+- [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - Run a ChatGPT Bot in Discord with Docker
 - [danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts for organizing and reformatting markdown notes
 - [davycloud/obtool](https://github.com/davycloud/obtool) - A command lint tool for Obsidian
 - [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
@@ -2064,7 +2080,9 @@
 
 ## Rust 
 
-- [nomadiz/edma](https://github.com/nomadiz/edma) - An interactive embedded database management system.
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [Thatguyjs/idaro](https://github.com/Thatguyjs/idaro) - An easy-to-use static site generator for Markdown pages
+- [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -2101,6 +2119,7 @@
 
 ## SCSS 
 
+- [Farallon-OSINT/OSINT-Project](https://github.com/Farallon-OSINT/OSINT-Project) - This project is using Digital Garden to publish from Obsidian. It can be seen here
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [guilhermeborgesbastos/live-resume](https://github.com/guilhermeborgesbastos/live-resume) - Stand out of the crowd by showing a professional website/resume. Building fast and easy the best Personal Web Application resume!
@@ -2202,6 +2221,7 @@
 
 ## Swift 
 
+- [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
 - [KittenYang/ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
 - [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
 - [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur and later
@@ -2249,6 +2269,14 @@
 
 ## TypeScript 
 
+- [Stage-Whisper/Stage-Whisper](https://github.com/Stage-Whisper/Stage-Whisper) - The main repo for Stage Whisper — a free, secure, and easy-to-use transcription app for journalists, powered by OpenAI's Whisper automatic speech recognition (ASR) machine learning models.
+- [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
+- [Lightning-AI/echo](https://github.com/Lightning-AI/echo) - Production-ready audio and video transcription app that can run on your laptop or in the cloud.
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [belay-labs/gpt-explorer](https://github.com/belay-labs/gpt-explorer) - GPT-3 Explorer
+- [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
+- [addozhang/obsidian-publish-plugin](https://github.com/addozhang/obsidian-publish-plugin) - An obsidian plugin for uploading local images embedded in markdown to remote store and export markdown for publishing to static site.
+- [gBasil/anise](https://github.com/gBasil/anise) - ⭐ A simplistic alternative to Obsidian Publish and Quartz.
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [yanenok/obsidian-images-plugin](https://github.com/yanenok/obsidian-images-plugin) - Easy image layouts for Obsidian
@@ -2516,6 +2544,10 @@
 ## XSLT 
 
 - [fwicht/TunesCloud](https://github.com/fwicht/TunesCloud) - XSLT transformation to export iTunes playlists to Nextcloud/Owncloud Music app
+
+## YASnippet 
+
+- [semiosis/prompts](https://github.com/semiosis/prompts) - A free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
 
 ## Zig 
 
