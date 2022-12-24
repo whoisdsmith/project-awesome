@@ -165,6 +165,7 @@
 
 ## C++ 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [tim-gromeyer/html2md](https://github.com/tim-gromeyer/html2md) - Transform your HTML into clean, easy-to-read markdown with html2md.
@@ -187,6 +188,7 @@
 
 ## CSS 
 
+- [godmayhem7/social-media-stats](https://github.com/godmayhem7/social-media-stats) - 
 - [wchorski/nextjs-obsidian-publish](https://github.com/wchorski/nextjs-obsidian-publish) - alternative to Obsidian Publish
 - [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 - [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
@@ -486,6 +488,8 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+- [Fanping/iveely.search](https://github.com/Fanping/iveely.search) - Pure java realize search engine, try to directly hit the user's search for answers.
 - [matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project that ingests Facebook Messenger conversations and generates analytics.
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
@@ -514,6 +518,11 @@
 
 ## JavaScript 
 
+- [SongoMen/SocialMe](https://github.com/SongoMen/SocialMe) - App to show stats about your fb page or instagram account.
+- [Ellpeck/ObsidianSimpleTimeTracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) - Multi-purpose time trackers for your notes!
+- [kobbled/technical-obsidian-template](https://github.com/kobbled/technical-obsidian-template) - Base template for creating a vault for technical/scientific notes
+- [VMaston/obsidian-scripts](https://github.com/VMaston/obsidian-scripts) - Collection of public obsidian scripts for use with ObsidianMD.
+- [mderoullers/obsidian-life-manager](https://github.com/mderoullers/obsidian-life-manager) - 
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
@@ -1113,6 +1122,8 @@
 
 ## Others 
 
+- [fwends-net/obsidian-templates](https://github.com/fwends-net/obsidian-templates) - Templates for Obsidian
+- [wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal to Obsidian Notes
 - [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [progrmoiz/awesome-chatgpt](https://github.com/progrmoiz/awesome-chatgpt) - Prompts, resources, demos, and everything
@@ -1471,6 +1482,13 @@
 
 ## Python 
 
+- [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
+- [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
+- [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
+- [sturdy-dev/semantic-code-search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer
+- [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [blackberry/pe_tree](https://github.com/blackberry/pe_tree) - Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro and Rekall to dump in-memory PE files and reconstruct imports.
@@ -1479,7 +1497,7 @@
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [SingularReza/drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - A simple script to copy folders to Team Drives/Shared Drives in Google Drive
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
-- [runpod/ai-api-workers](https://github.com/runpod/ai-api-workers) - 🧠 | Official set of serverless AI workers provided by RunPod.
+- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless workers provided by RunPod
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [onflapp/TextSerPlugins](https://github.com/onflapp/TextSerPlugins) - Plugins for TextSer App
@@ -2147,6 +2165,7 @@
 
 ## Shell 
 
+- [natelandau/obsidian-frontmatter](https://github.com/natelandau/obsidian-frontmatter) - Make batch updates to Obsidian frontmatter
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -2230,6 +2249,7 @@
 
 ## Swift 
 
+- [ValarMorghulis-faceless/TwitterStats](https://github.com/ValarMorghulis-faceless/TwitterStats) - 
 - [akaalias/Streamline](https://github.com/akaalias/Streamline) - Streamline is a stream-of-consciousness writer for Obsidian
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
@@ -2280,6 +2300,31 @@
 
 ## TypeScript 
 
+- [jamesmeisler/twitter-stats](https://github.com/jamesmeisler/twitter-stats) - User Twitter Stats
+- [cnrad/d](https://github.com/cnrad/d) - 📊 Minimal dashboard tracking stats of your various social medias
+- [ivoinestrachan/instagram-wrapped](https://github.com/ivoinestrachan/instagram-wrapped) - Lets unwrapped the year of photos and videos
+- [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
+- [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
+- [fnumatic/obsidian-plugin-dynamic-toc](https://github.com/fnumatic/obsidian-plugin-dynamic-toc) - An Obsidian plugin for creating Tables of Contents that stay updated with your document
+- [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
+- [Mocca101/obsidian-plugin-groups](https://github.com/Mocca101/obsidian-plugin-groups) - A plugin that allows you to easily group and manage your other plugins in Obsidian.
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
+- [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
+- [guopenghui/obsidian-text-compiler](https://github.com/guopenghui/obsidian-text-compiler) - Compile text to another format
+- [AleksiVirkkala/obsidian-perspective-plugin](https://github.com/AleksiVirkkala/obsidian-perspective-plugin) - Plugin that makes it possible to give multiple definitions for single concept and switch between them easily
+- [lexwebb/obsidian-story-graph](https://github.com/lexwebb/obsidian-story-graph) - 
+- [dashedstripes/obsidian-to-hugo](https://github.com/dashedstripes/obsidian-to-hugo) - An Obsidian Plugin to export notes to Hugo
+- [mpi31415/Obsidian-Indexator-Plugin](https://github.com/mpi31415/Obsidian-Indexator-Plugin) - 
+- [alangrainger/obsidian-google-photos](https://github.com/alangrainger/obsidian-google-photos) - Connect to Google Photos from Obsidian
+- [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
+- [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
+- [1stprinciples/auto-tagger-obsidian](https://github.com/1stprinciples/auto-tagger-obsidian) - 
+- [verocloud/obsidian-hemingway](https://github.com/verocloud/obsidian-hemingway) - This tool aims to get your mistakes
+- [jmilldotdev/obsidian-gpt](https://github.com/jmilldotdev/obsidian-gpt) - Obsidian plugin for getting language model completions from GPT-3, GPT-J, and others
+- [bramses/summarize-with-gpt3-obsidian](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian (progressive summarization)
+- [rajputd/obsidian-metrics](https://github.com/rajputd/obsidian-metrics) - a simple app to track metrics on obsidian usage
+- [PassionPenguin/obsidian-coded-card](https://github.com/PassionPenguin/obsidian-coded-card) - 
+- [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [ixth/obsidian-stylist](https://github.com/ixth/obsidian-stylist) - Obsidian plugin that allows to add classes and styles on markdown blocks
 - [bobheadxi/clippings](https://github.com/bobheadxi/clippings) - 🌱 An opinionated and minimal highlights and references importer and manager for Obsidian
@@ -2531,6 +2576,7 @@
 
 ## Vue 
 
+- [nathanielastudillo/twitter-stats](https://github.com/nathanielastudillo/twitter-stats) - 
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
