@@ -566,7 +566,7 @@
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [Correia-jpv/fucking-awesome-zsh-plugins](https://github.com/Correia-jpv/fucking-awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
@@ -777,7 +777,7 @@
 ## cli 
 
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
-- [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [eikendev/urlprobe](https://github.com/eikendev/urlprobe) - A tool for probing URLs for their status code from the command line (to check for broken links in a given list of URLs) :vertical_traffic_light::fire:
@@ -1070,6 +1070,7 @@
 
 ## deep-learning 
 
+- [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
@@ -2270,6 +2271,7 @@
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
 - [bearlike/my-popos-setup](https://github.com/bearlike/my-popos-setup) - A list of boring installations and configurations that I have to do every time I flush my PC.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2312,6 +2314,7 @@
 
 ## machine-learning 
 
+- [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
@@ -2714,6 +2717,7 @@
 
 ## nlp 
 
+- [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
@@ -2847,7 +2851,7 @@
 - [ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software to create aliases for commands, applications to type in cmd, terminal.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [dan-smith-tech/shelf](https://github.com/dan-smith-tech/shelf) - A fully customisable, open-source browser startpage.
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
@@ -2959,7 +2963,6 @@
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [1stprinciples/auto-tagger-obsidian](https://github.com/1stprinciples/auto-tagger-obsidian) - 
-- [mderoullers/obsidian-life-manager](https://github.com/mderoullers/obsidian-life-manager) - 
 - [jmilldotdev/obsidian-gpt](https://github.com/jmilldotdev/obsidian-gpt) - Obsidian plugin for getting language model completions from GPT-3, GPT-J, and others
 - [wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal to Obsidian Notes
 - [bramses/summarize-with-gpt3-obsidian](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian (progressive summarization)
@@ -3057,7 +3060,7 @@
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
-- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - just a concept for now
 - [cheems/Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [Loli-Killer/TgFolderClone](https://github.com/Loli-Killer/TgFolderClone) - Telegram bot for using folderclone
@@ -4108,7 +4111,7 @@
 ## package-manager 
 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
-- [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a package manager for Winget and Scoop
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
@@ -4208,6 +4211,7 @@
 
 ## python 
 
+- [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
 - [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
@@ -4747,7 +4751,7 @@
 
 ## software 
 
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
