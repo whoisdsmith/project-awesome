@@ -3064,7 +3064,7 @@
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - just a concept for now
-- [cheems/Mega-to-Google-Drive](https://github.com/cheems/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
+- [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [Loli-Killer/TgFolderClone](https://github.com/Loli-Killer/TgFolderClone) - Telegram bot for using folderclone
 - [jonathanTIE/googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader) - Python script to download google drive files even if the daily limit of download has excedeed.
 - [ericyd/gdrive-copy](https://github.com/ericyd/gdrive-copy) - Web app to copy a Google Drive folder
@@ -3083,7 +3083,7 @@
 - [LeeluPradhan/G-Index](https://github.com/LeeluPradhan/G-Index) - Google Drive Directory Index Running on CloudFlare Workers [Search + DarkMode] [ENGLISH]
 - [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex) - Customized Mirror for Bhadoo Google Drive Index repo from GitLab
 - [nfway/gdrive-index](https://github.com/nfway/gdrive-index) - fork from http://github.com/Aicirou/goindex-theme-acrou/   remove the tracking code, for good.
-- [cheems/goindex-extended](https://github.com/cheems/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
+- [menukaonline/goindex-extended](https://github.com/menukaonline/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
 - [shashankdeshpande/github-profile-generator](https://github.com/shashankdeshpande/github-profile-generator) - Generate README for GitHub profile using this web app!
 - [marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create thumbnails, and banners with HTML5 canvas
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
@@ -4213,6 +4213,7 @@
 
 ## python 
 
+- [SerjSX/pSearch](https://github.com/SerjSX/pSearch) - Searching tool written in Python for Piracy related websites. Read README for more information.
 - [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
@@ -4372,6 +4373,7 @@
 
 ## python3 
 
+- [SerjSX/pSearch](https://github.com/SerjSX/pSearch) - Searching tool written in Python for Piracy related websites. Read README for more information.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [redc86/slash](https://github.com/redc86/slash) - The Slash OSINT Tool
 - [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
