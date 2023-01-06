@@ -521,6 +521,7 @@
 
 ## JavaScript 
 
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [SongoMen/SocialMe](https://github.com/SongoMen/SocialMe) - App to show stats about your fb page or instagram account.
 - [Ellpeck/ObsidianSimpleTimeTracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) - Multi-purpose time trackers for your notes!
 - [kobbled/technical-obsidian-template](https://github.com/kobbled/technical-obsidian-template) - Base template for creating a vault for technical/scientific notes
@@ -624,7 +625,7 @@
 - [johackim/gatsby-remark-obsidian](https://github.com/johackim/gatsby-remark-obsidian) - Gatsby plugin to support Obsidian markdown syntax
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
 - [sphido/sphido](https://github.com/sphido/sphido) - A rocket 🚀 fast, light-weight and flexible static site generator.
-- [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - Your all in one Git, Github and Terminal Cheatsheet!
+- [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - An opensource initiative to which over 38 individuals from all over the world collaborated in order to streamline the process of learning Git and GitHub.
 - [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought.
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
@@ -958,7 +959,7 @@
 - [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython code to analyze one's text messages.  Intended to work out of the box, see README for details.
@@ -1125,6 +1126,7 @@
 
 ## Others 
 
+- [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) - 
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
@@ -1232,7 +1234,7 @@
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
-- [YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls) - 🎉 A curated list of awesome things related to YOURLS
+- [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [ciconia/awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A hub of Free and open-source software for developers
@@ -1331,7 +1333,7 @@
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [Azim-vau/crack-pro](https://github.com/Azim-vau/crack-pro) - NEW FACEBOOK COINING TOOL
+- [Azim-Vau/crack-pro](https://github.com/Azim-Vau/crack-pro) - NEW FACEBOOK COINING TOOL
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [alkashef/timeline-visualization](https://github.com/alkashef/timeline-visualization) - Visualization of parallel timelines in Excel
@@ -1589,7 +1591,7 @@
 - [guomo/ObsidianHelper](https://github.com/guomo/ObsidianHelper) - Simple scripts to generate local hierarchies for us with the popular obsidian not taking tool.
 - [Jachimo/obstagtools](https://github.com/Jachimo/obstagtools) - Obsidian YAML+Markdown document tagging tools
 - [lhaze/obsidian-github-formatter](https://github.com/lhaze/obsidian-github-formatter) - Utility tool to reformat markdown files of an Obsidian Vault to be naturally readable via GitHub Web.
-- [pythonadventurer/ObsidianTools](https://github.com/pythonadventurer/ObsidianTools) - Miscellaneous tools for the Obsidian note taking app.
+- [pythonadventurer/PySidian](https://github.com/pythonadventurer/PySidian) - Miscellaneous tools for the Obsidian note taking app.
 - [PabloLION/free-lightweight-obsidian-publisher](https://github.com/PabloLION/free-lightweight-obsidian-publisher) - 
 - [DobyTang/LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
 - [grtfou/github-stars](https://github.com/grtfou/github-stars) - List stars of Github account to markdown file
