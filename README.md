@@ -150,7 +150,7 @@
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [erwinkramer/SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync) - Improvement fork
-- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Breaking down the walls between music services
+- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Break down the digital walls between your music libraries
 - [runerasmussen/google-photos-upload](https://github.com/runerasmussen/google-photos-upload) - Upload a local image directory into an Album in Google Photos (works on mac/pc/linux). Coded in C# .NET Core 3.0
 - [silnshadow/InstagramMessages](https://github.com/silnshadow/InstagramMessages) - This project is an attempt to make Instagram backup messages from Json to readable format.
 - [Sungchul/DayOne.NET](https://github.com/Sungchul/DayOne.NET) - Day One Journal for Windows(based on .net framework)
@@ -815,7 +815,7 @@
 - [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
 - [quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A markdown formatter intended for writing specifications
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
-- [devXprite/infoooze](https://github.com/devXprite/infoooze) - Infoooze is an OSINT tool. It helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
+- [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [I2rys/SherNode](https://github.com/I2rys/SherNode) - ⚡ Fast, easily configurable and simplified codes NodeJS version of Sherlock.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [ChmaraX/forensix](https://github.com/ChmaraX/forensix) - Google Chrome forensic tool to process, analyze and visualize browsing artifacts
