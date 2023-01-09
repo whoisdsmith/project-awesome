@@ -1290,7 +1290,7 @@
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [Birdie0/discord-webhooks-guide](https://github.com/Birdie0/discord-webhooks-guide) - https://birdie0.github.io/discord-webhooks-guide/
 - [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
-- [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
+- [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
 - [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) - A curated list of awesome Scriptable scripts and widgets.
 - [m1rkwood/google-photos-takeout-scripts](https://github.com/m1rkwood/google-photos-takeout-scripts) - Useful scripts to get out of Google Photos
@@ -2255,7 +2255,6 @@
 ## Svelte 
 
 - [breadthe/sd-buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion
-- [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
 - [alombi/alombi.xyz](https://github.com/alombi/alombi.xyz) - My personal website and my blog, live at alombi.xyz
@@ -2387,6 +2386,7 @@
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
 - [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
 - [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian) - Snippets plugin for obsidian
+- [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
 - [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
