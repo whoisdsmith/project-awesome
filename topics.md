@@ -312,6 +312,7 @@
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
+- [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
@@ -857,6 +858,7 @@
 ## code 
 
 - [pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - link of all daily dev tools and a little bit data about them
+- [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 
 ## code-quality 
 
@@ -2199,6 +2201,7 @@
 
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
 - [Heapy/vipassana](https://github.com/Heapy/vipassana) - Life and collaboration assistant.
 
@@ -2729,6 +2732,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [malcodeman/resumebuilder.dev](https://github.com/malcodeman/resumebuilder.dev) - Free resume builder for developers.
 - [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create beautiful-looking cards for your GitHub profile or GitHub repo!
+- [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [mehmetsagir/regex-safe-website](https://github.com/mehmetsagir/regex-safe-website) - Easy controls with Regex.
 
@@ -3242,7 +3246,7 @@
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
-- [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce) search and its awesomeness
+- [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP library to parse Netscape bookmark files
 - [thlorenz/parse-link-header](https://github.com/thlorenz/parse-link-header) - Parses a link header and returns paging information for each contained link.
 - [nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link) - 
@@ -3389,7 +3393,6 @@
 - [DevonHess/FreshRSS-Extensions](https://github.com/DevonHess/FreshRSS-Extensions) - 
 - [balthisar/xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub) - A FreshRSS Extension to Show a Reddit Subreddit as Part of the Article Title
 - [harleypig/FreshRSS-extensions](https://github.com/harleypig/FreshRSS-extensions) - A collection of FreshRSS extensions to make installation and upgrading easier.
-- [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An api for 'is it down or just me' monitor.
 - [Benrobo/baaymax](https://github.com/Benrobo/baaymax) - easily generate unique portfolio from your github profile
 - [abdulbadii/history-tidying](https://github.com/abdulbadii/history-tidying) - Tidying up Bash command history by putting good control in erasing certain lines.
 - [galonga/OwnCloud-NextCloud-Cron-Wrapper](https://github.com/galonga/OwnCloud-NextCloud-Cron-Wrapper) - 
