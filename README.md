@@ -447,7 +447,7 @@
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
-- [ObsidianPublisher/obsidian-mkdocs-publisher-template](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
+- [ObsidianPublisher/publisher-template-gh-pages](https://github.com/ObsidianPublisher/publisher-template-gh-pages) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
 - [RyanFitzgerald/vertical-timeline](https://github.com/RyanFitzgerald/vertical-timeline) - Responsive, jQuery-based vertical timeline generator
 - [nat-davydova/timeline](https://github.com/nat-davydova/timeline) - HTML/CSS/JS (ES6) Timeline experiment
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
@@ -631,7 +631,7 @@
 - [DBDoco/Better-Bookmarks](https://github.com/DBDoco/Better-Bookmarks) - JavaScript Google Chrome extension that improves default bookmark feature by adding ability to include notes byside given bookmarks.
 - [Manpreet-Singh001/bookmarks](https://github.com/Manpreet-Singh001/bookmarks) - web-app to store the bookmarks in a way i like.
 - [rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A mobile-responsive website that allows user to locally save and edit bookmarks of any website links.
-- [pfcao/asnote](https://github.com/pfcao/asnote) - Consider bookmarks as notes.
+- [pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced bookmark & tab manager
 - [adarsh500/mark](https://github.com/adarsh500/mark) - a super useful bookmark management web app with sleek UI and dark mode
 - [hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
