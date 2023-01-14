@@ -2564,7 +2564,7 @@
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [webiaio/awesome-markdown](https://github.com/webiaio/awesome-markdown) - awesome markdown writing tools
-- [ObsidianPublisher/obsidian-mkdocs-publisher-template](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
+- [ObsidianPublisher/publisher-template-gh-pages](https://github.com/ObsidianPublisher/publisher-template-gh-pages) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
@@ -3169,7 +3169,7 @@
 - [rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A mobile-responsive website that allows user to locally save and edit bookmarks of any website links.
 - [pajecawav/pockly](https://github.com/pajecawav/pockly) - Bookmark manager
 - [przemsen/BookmarksBase](https://github.com/przemsen/BookmarksBase) - Searching through all bookmarked web sites
-- [pfcao/asnote](https://github.com/pfcao/asnote) - Consider bookmarks as notes.
+- [pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced bookmark & tab manager
 - [andreasphil/bookmarks](https://github.com/andreasphil/bookmarks) - 🐿 A collection of useful and mostly free resources and tools around web development, design, and programming in general
 - [hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
 - [dotcli/memex](https://github.com/dotcli/memex) - Simple bookmarks and notes
