@@ -1682,7 +1682,7 @@
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 - [blacklanternsecurity/spiderfoot-neo4j](https://github.com/blacklanternsecurity/spiderfoot-neo4j) - Import, visualize, and analyze SpiderFoot scans in Neo4j, a graph database
 - [KanekiWeb/Email-Osint](https://github.com/KanekiWeb/Email-Osint) - 🔍 EMAIL OSINT is an OSINT Tool for emails. It helps you gather information about the target email.
-- [Nekurone/PIG-Tools](https://github.com/Nekurone/PIG-Tools) - An Online Collection of Open Source Intelligence Tools
+- [X0RBYT3/PIG-Tools](https://github.com/X0RBYT3/PIG-Tools) - An Online Collection of Open Source Intelligence Tools
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [soxoj/maigret-adapter](https://github.com/soxoj/maigret-adapter) - Connect Maigret with other tools
 - [cyb3rk0tik/maigret](https://github.com/cyb3rk0tik/maigret) - Collect a dossier on a person by username from a huge number of sites
@@ -2362,7 +2362,7 @@
 - [kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) - An Obsidian.md plugin to save tweets as Markdown files.
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - AI assistant for Obsidian
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [valentine195/obsidian-5e-statblocks](https://github.com/valentine195/obsidian-5e-statblocks) - Create Dungeons and Dragons style statblocks for Obsidian.md
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
