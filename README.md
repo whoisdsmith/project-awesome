@@ -658,7 +658,7 @@
 - [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did
 - [theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) - A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files.
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
-- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - The HackTricks we have at home. Except some notes are really extensive and include non-conventional ways of doing things
+- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - This repo is my personal repertoire of technology and security-related notes since day one in the field. It is also my attempt to give back to the infosec community. It has all the references, checkli
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
@@ -1482,6 +1482,7 @@
 
 ## PowerShell 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [jmtornetta/extract-bookmarks](https://github.com/jmtornetta/extract-bookmarks) - Exports and extracts bookmarks from Windows browsers into a folder that can be easily archived by launchers like Windows Search, Cortana, Launchy, Wox, Everything and PowerToys Run.
 - [moe-k/GoogleTakeout](https://github.com/moe-k/GoogleTakeout) - Script to reorganize photos and videos taken from Google Photos takeout download
@@ -1503,7 +1504,6 @@
 - [wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal to Obsidian Notes
 - [natelandau/obsidian-frontmatter](https://github.com/natelandau/obsidian-frontmatter) - Make batch updates to Obsidian frontmatter
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [blackberry/pe_tree](https://github.com/blackberry/pe_tree) - Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro and Rekall to dump in-memory PE files and reconstruct imports.
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
@@ -2337,7 +2337,7 @@
 - [rajputd/obsidian-metrics](https://github.com/rajputd/obsidian-metrics) - a simple app to track metrics on obsidian usage
 - [PassionPenguin/obsidian-coded-card](https://github.com/PassionPenguin/obsidian-coded-card) - 
 - [deepfates/silicon](https://github.com/deepfates/silicon) - Add some intelligence to your notes with Silicon AI for Obsidian
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [ixth/obsidian-stylist](https://github.com/ixth/obsidian-stylist) - Obsidian plugin that allows to add classes and styles on markdown blocks
 - [bobheadxi/clippings](https://github.com/bobheadxi/clippings) - 🌱 An opinionated and minimal highlights and references importer and manager for Obsidian
 - [rien7/obsidian-colorful-tag](https://github.com/rien7/obsidian-colorful-tag) - Make your tag more beautiful and powerful!
@@ -2388,6 +2388,7 @@
 - [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
+- [nogira/obsidian-better-links](https://github.com/nogira/obsidian-better-links) - Converts a URL to a pretty formatted link.
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
 - [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 to Discord flavored markdown
 - [ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An assist for creating CSS snippets for Obsidian
