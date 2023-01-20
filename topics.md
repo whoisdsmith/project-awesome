@@ -964,7 +964,7 @@
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
-- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - The HackTricks we have at home. Except some notes are really extensive and include non-conventional ways of doing things
+- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - This repo is my personal repertoire of technology and security-related notes since day one in the field. It is also my attempt to give back to the infosec community. It has all the references, checkli
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [ForbiddenProgrammer/awesome-cybersecurity-news](https://github.com/ForbiddenProgrammer/awesome-cybersecurity-news) - List of sources for cybersecurity news
@@ -3118,6 +3118,7 @@
 - [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
 - [johackim/obsidian-writing](https://github.com/johackim/obsidian-writing) - Write and format your next book directly from Obsidian
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
+- [nogira/obsidian-better-links](https://github.com/nogira/obsidian-better-links) - Converts a URL to a pretty formatted link.
 - [J-E-J-S/autograph-obsidian](https://github.com/J-E-J-S/autograph-obsidian) - Automatic knowledge graph generation for Obsidian.md
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
 - [MaLeLabTs/RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) - This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hi
@@ -4133,7 +4134,7 @@
 
 ## package-manager 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
