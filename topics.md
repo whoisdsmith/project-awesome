@@ -901,7 +901,7 @@
 - [urlstechie/urlchecker-action](https://github.com/urlstechie/urlchecker-action) - :octocat: :link: GitHub action to extract and check urls in code and documentations.
 - [victoriadrake/link-snitch](https://github.com/victoriadrake/link-snitch) - :octocat: GitHub Action to scan your site for broken links so you can fix them 🔗
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [Correia-jpv/fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions) - A curated list of awesome actions to use on GitHub. With repository stars⭐ and forks🍴
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 
@@ -1106,7 +1106,7 @@
 - [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
 
 ## design 
@@ -1742,7 +1742,7 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome bookmarks into markdown files
@@ -2014,7 +2014,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
+- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
@@ -2612,7 +2612,7 @@
 
 ## mongodb 
 
-- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
+- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project that ingests Facebook Messenger conversations and generates analytics.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
@@ -2777,7 +2777,7 @@
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
+- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [limit-zero/url-juicer](https://github.com/limit-zero/url-juicer) - 🍊🔗 Squeeze some juice from URLs: A URL crawler/extraction library.
 - [xyzes/selective-link-checker](https://github.com/xyzes/selective-link-checker) - This program recursively scans a website and outputs all found sub-pages and their broken links to two different CSV files
@@ -2971,6 +2971,9 @@
 
 ## others 
 
+- [coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault parser for the Obsidian note taking app
+- [theiceshelf/esker](https://github.com/theiceshelf/esker) - static site generator for obsidian
+- [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [navaneethkm004/warp-plus](https://github.com/navaneethkm004/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
@@ -3017,7 +3020,7 @@
 - [vilmacio/gslides-maker](https://github.com/vilmacio/gslides-maker) - Generate Google Slides from Wikipedia content
 - [blackberry/pe_tree](https://github.com/blackberry/pe_tree) - Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro and Rekall to dump in-memory PE files and reconstruct imports.
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [Lightning-AI/echo](https://github.com/Lightning-AI/echo) - Production-ready audio and video transcription app that can run on your laptop or in the cloud.
+- [Lightning-Universe/Echo](https://github.com/Lightning-Universe/Echo) - Production-ready audio and video transcription app that can run on your laptop or in the cloud.
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [dabblelab/gptanswers-node](https://github.com/dabblelab/gptanswers-node) - Building a GPT-3 Knowledge Base App (NodeJS)
 - [belay-labs/gpt-explorer](https://github.com/belay-labs/gpt-explorer) - GPT-3 Explorer
@@ -4487,7 +4490,7 @@
 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [Daniel31x13/link-warden](https://github.com/Daniel31x13/link-warden) - A self-hosted bookmark + archive manager to store your useful links.
+- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
