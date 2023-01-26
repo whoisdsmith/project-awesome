@@ -7,6 +7,7 @@
 
 - [AppleScript](#applescript)
 - [Astro](#astro)
+- [AutoHotkey](#autohotkey)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -37,6 +38,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -75,6 +77,10 @@
 ## Astro 
 
 - [aryankashyap7/CheatSheets-for-Developers](https://github.com/aryankashyap7/CheatSheets-for-Developers) - This Cheat sheet list has been made to enhance the workflow and efficiency. This well curated list will save you time when you just can't remember the code.
+
+## AutoHotkey 
+
+- [g-l-i-t-c-h-o-r-s-e/PromptWizard](https://github.com/g-l-i-t-c-h-o-r-s-e/PromptWizard) - Randomize the order of StableDiffusion Prompts & More
 
 ## Awk 
 
@@ -138,6 +144,7 @@
 
 ## C# # 
 
+- [Computr1x/ExNihilo](https://github.com/Computr1x/ExNihilo) - ExNihilo - modern, powerfull and flexible image creation library.
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [LeeReid1/MarkdownToSiteGenerator](https://github.com/LeeReid1/MarkdownToSiteGenerator) - An example of my code style, for C# 11 and .NET Core 7.0. Written from scratch using test-driven-development. The solution builds a static multiple-HTML-page site from a directory of markdown files, h
@@ -375,6 +382,8 @@
 
 ## HTML 
 
+- [aihubgg/MidJourney-Wiki](https://github.com/aihubgg/MidJourney-Wiki) - MidJourney Community Wiki
+- [osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt generator for Midjourney and maybe other AIs in the future.
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
@@ -526,6 +535,10 @@
 
 ## JavaScript 
 
+- [mattnigh/ChatGPT3-Prompt-Engineering](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering) - A free Course and Playbook for ChatGPT3 Prompt Engineering
+- [TiagoMarinho/Soph](https://github.com/TiagoMarinho/Soph) - Discord bot for making AI generated art
+- [JesseKartabani/ai-image-gen](https://github.com/JesseKartabani/ai-image-gen) - AI image generator with Open AI
+- [isekaidev/stable.art](https://github.com/isekaidev/stable.art) - Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)
 - [SongoMen/SocialMe](https://github.com/SongoMen/SocialMe) - App to show stats about your fb page or instagram account.
 - [Ellpeck/ObsidianSimpleTimeTracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker) - Multi-purpose time trackers for your notes!
 - [kobbled/technical-obsidian-template](https://github.com/kobbled/technical-obsidian-template) - Base template for creating a vault for technical/scientific notes
@@ -958,6 +971,10 @@
 
 ## Jupyter Notebook 
 
+- [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
+- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
+- [filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
+- [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A one-click version of sd-webui-colab
@@ -1132,6 +1149,14 @@
 
 ## Others 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+- [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
+- [cobanov/awesome-diffusion](https://github.com/cobanov/awesome-diffusion) - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
+- [Ezagor-dev/Midjourney_Prompt](https://github.com/Ezagor-dev/Midjourney_Prompt) - Midjourney
+- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+- [gjohnpaull/midjourney-templates](https://github.com/gjohnpaull/midjourney-templates) - 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guide and resources for prompt engineering
+- [everyday-cc/ai](https://github.com/everyday-cc/ai) - A.I. Every Day
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) - 
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
@@ -1473,6 +1498,10 @@
 - [warifp/FacebookToolkit](https://github.com/warifp/FacebookToolkit) - a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 
+## Pascal 
+
+- [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
+
 ## Perl 
 
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
@@ -1497,6 +1526,20 @@
 
 ## Python 
 
+- [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
+- [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
+- [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
+- [De-Rune/luna](https://github.com/De-Rune/luna) - text to image generation
+- [rbbrdckybk/ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - For automating the creation of large batches of AI-generated artwork locally.
+- [db0/AI-Horde](https://github.com/db0/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
+- [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
+- [farique1/diffusion-browser](https://github.com/farique1/diffusion-browser) - An easy way to view the images and metadata generated by Stable Diffusion's Automatic1111 WebUI
+- [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
+- [llSourcell/AI_Artist](https://github.com/llSourcell/AI_Artist) - AI Artist for Machine Learning for Hackers #5
+- [526christian/SD-Prompt-Generator](https://github.com/526christian/SD-Prompt-Generator) - Personalized expansion on javi22020's Prompt Generator, that adopts its easy editing. For AI image generation (mainly Stable Diffusion, but Midjourney should be good as well).
+- [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
+- [0ut0flin3/GPTalk](https://github.com/0ut0flin3/GPTalk) - GPT-3 client for Windows and Unix with memories management that supports both text and speech in any language.
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -1519,7 +1562,7 @@
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [SingularReza/drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - A simple script to copy folders to Team Drives/Shared Drives in Google Drive
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
-- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless workers provided by RunPod
+- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless worker provided by RunPod as endpoints.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [onflapp/TextSerPlugins](https://github.com/onflapp/TextSerPlugins) - Plugins for TextSer App
@@ -1811,7 +1854,7 @@
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
 - [NicholasMamo/multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - Multiplex: visualizations that tell stories—A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
-- [brettkromkamp/typed-tree](https://github.com/brettkromkamp/typed-tree) - TypedTree provides a tree data structure that allows adding type information to its nodes and references to other nodes; useful for visualisation purposes
+- [brettkromkamp/typed-tree](https://github.com/brettkromkamp/typed-tree) - TypedTree provides a tree data structure that allows adding type information to both nodes and edges; useful for visualisation purposes
 - [jakubvalenta/automatic-diary](https://github.com/jakubvalenta/automatic-diary) - Create one timeline from various digital sources
 - [FWMSH/timelineViewer](https://github.com/FWMSH/timelineViewer) - Build interactive, multi-touch timelines using a spreadsheet
 - [janw/imessage-parser](https://github.com/janw/imessage-parser) - 
@@ -2321,6 +2364,11 @@
 
 ## TypeScript 
 
+- [KonghaYao/ai-tag](https://github.com/KonghaYao/ai-tag) - It's an AI Tag (Prompt) generator for magic drawer! We have many tags and support to generate prompts easily!
+- [ddPn08/flat](https://github.com/ddPn08/flat) - All-in-one image generation AI (to be...)
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
+- [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault parser for the Obsidian note taking app
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [jordanm88/flame-dashboard](https://github.com/jordanm88/flame-dashboard) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -2602,6 +2650,7 @@
 
 ## Vue 
 
+- [sdras/hero-generator](https://github.com/sdras/hero-generator) - 🦸🏻‍♀️Hero Generator! Create a nice hero image for your site or app
 - [nathanielastudillo/twitter-stats](https://github.com/nathanielastudillo/twitter-stats) - 
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
