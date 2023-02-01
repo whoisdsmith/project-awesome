@@ -541,6 +541,7 @@
 
 ## JavaScript 
 
+- [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [dsymbol/prompts-on-chatgpt](https://github.com/dsymbol/prompts-on-chatgpt) - UserScript that adds prompt commands to ChatGPT
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [TiagoMarinho/Soph](https://github.com/TiagoMarinho/Soph) - Discord bot for making AI generated art
@@ -926,7 +927,6 @@
 - [appium/appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 - [cube-js/awesome-tools](https://github.com/cube-js/awesome-tools) - Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 - [lockys/Awesome.json](https://github.com/lockys/Awesome.json) - :eyeglasses: Awesome lists in JSON format.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [leso-kn/tineline](https://github.com/leso-kn/tineline) - Tineline is a file format for describing schedules and rendering them in a horizontal timeline.
 - [gverni/kairoi](https://github.com/gverni/kairoi) - Project Timelines made easy...
@@ -1031,6 +1031,7 @@
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [aterenin/Photos](https://github.com/aterenin/Photos) - A desktop app for the Google Photos website with dark mode support.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
 - [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
 
@@ -1548,6 +1549,7 @@
 
 ## Python 
 
+- [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [sudoskys/Openaibot](https://github.com/sudoskys/Openaibot) - 🤖 ChatBot/Assistant|🧀 通用事件层/IM/Muti Platform |Async | 👋 Supports continuous conversations | ⚡sh&docker ️deploy|  📦Provide Api Server|🎤 Azure/Vits Voice Chat | 📡Network Support| 🌻Voice Wake Assistants 
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
@@ -1698,7 +1700,7 @@
 - [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
 - [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
 - [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
-- [rzashakeri/file_validator](https://github.com/rzashakeri/file_validator) - a Python validation library to validate files using type, mime, extension, magic numbers and size ✅
+- [rzashakeri/file-validator](https://github.com/rzashakeri/file-validator) - a Python validation library to validate files using type, mime, extension, magic numbers and size ✅
 - [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [lucas-nelson-uiuc/spotipy_analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis) - home of the Spotify Analysis Dashboard
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
@@ -2396,6 +2398,7 @@
 
 ## TypeScript 
 
+- [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [ulisesantana/obsidian-pending-notes](https://github.com/ulisesantana/obsidian-pending-notes) - Obsidian plugin for searching links without notes in your vault.
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
 - [KonghaYao/ai-tag](https://github.com/KonghaYao/ai-tag) - It's an AI Tag (Prompt) generator for magic drawer! We have many tags and support to generate prompts easily!
