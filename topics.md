@@ -25,6 +25,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -787,6 +788,48 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 
+## chatgpt 
+
+- [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - Free GPT powered assistant for Obsidian "inspired by" Notion AI
+- [SmileBuild/ChatGPT-Web](https://github.com/SmileBuild/ChatGPT-Web) - ChatGPT page with API instand of offical pages. You can modify params, save and download the result as txt with prompt.
+- [sjinzh/awesome-ChatGPT](https://github.com/sjinzh/awesome-ChatGPT) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [dsymbol/prompts-on-chatgpt](https://github.com/dsymbol/prompts-on-chatgpt) - UserScript that adds prompt commands to ChatGPT
+- [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
+- [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer. It is used to provide automated customer service, suppo
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - ⚙️ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more. 🌟 Give it a star if you like it.
+- [sudoskys/Openaibot](https://github.com/sudoskys/Openaibot) - 🤖 ChatBot/Assistant|🧀 通用事件层/IM/Muti Platform |Async | 👋 Supports continuous conversations | ⚡sh&docker ️deploy|  📦Provide Api Server|🎤 Azure/Vits Voice Chat | 📡Network Support| 🌻Voice Wake Assistants 
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
+- [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
+- [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
+- [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
+- [Qiamast/ChatGPT-Awesome-Prompts](https://github.com/Qiamast/ChatGPT-Awesome-Prompts) - A collection of creative prompts for the GPT-3 model on GitHub to help improve productivity and efficiency in open-source projects. Join the community and help create more awesome prompts.
+- [eli64s/chatgpt-auto-markdowns](https://github.com/eli64s/chatgpt-auto-markdowns) - ChatGPT automated Markdown documentation generator to kickstart your machine learning projects.
+- [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
+- [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
+- [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
+- [mattnigh/ChatGPT3-Prompt-Engineering](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering) - A free Course and Playbook for ChatGPT3 Prompt Engineering
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
+- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
+- [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
+- [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
+- [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
+- [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
+- [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - Run a ChatGPT Bot in Discord with Docker
+- [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
+- [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+- [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
+
 ## chrome 
 
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
@@ -839,7 +882,7 @@
 
 ## cli 
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
@@ -1496,6 +1539,7 @@
 
 ## github 
 
+- [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
@@ -1552,6 +1596,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog) - Fetch & Display Your Hashnode blog posts.
 - [th3c0d3br34ker/github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) - ✨ This GitHub action helps to add cool Stats to your GitHub profile README.
+- [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
@@ -1752,6 +1797,7 @@
 
 ## hacktoberfest 
 
+- [harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards for your readme
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
@@ -2358,7 +2404,7 @@
 
 ## library 
 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
@@ -2531,6 +2577,8 @@
 
 ## markdown 
 
+- [joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This is a free open source tool, created to speed up the creation time of our readmes files.
+- [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown blocks directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
@@ -2979,6 +3027,7 @@
 
 ## open-source 
 
+- [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [C3n7ral051nt4g3ncy/Obsidian](https://github.com/C3n7ral051nt4g3ncy/Obsidian) - Obsidian Ancestry Investigations
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
@@ -3085,11 +3134,14 @@
 
 ## others 
 
-- [SmileBuild/ChatGPT-Web](https://github.com/SmileBuild/ChatGPT-Web) - ChatGPT page with API instand of offical pages. You can modify params, save and download the result as txt with prompt.
+- [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
+- [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&gt; Docusaurus Converter
+- [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files directly within Obsidian.
+- [malaya-zemlya/gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A repository of methods of bypassing GPT and ChatGPT content filters
+- [AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts](https://github.com/AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts) - 
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, T
-- [sjinzh/awesome-ChatGPT](https://github.com/sjinzh/awesome-ChatGPT) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [ulisesantana/obsidian-pending-notes](https://github.com/ulisesantana/obsidian-pending-notes) - Obsidian plugin for searching links without notes in your vault.
 - [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
 - [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
@@ -3097,12 +3149,6 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
-- [dsymbol/prompts-on-chatgpt](https://github.com/dsymbol/prompts-on-chatgpt) - UserScript that adds prompt commands to ChatGPT
-- [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
-- [sudoskys/Openaibot](https://github.com/sudoskys/Openaibot) - 🤖 ChatBot/Assistant|🧀 通用事件层/IM/Muti Platform |Async | 👋 Supports continuous conversations | ⚡sh&docker ️deploy|  📦Provide Api Server|🎤 Azure/Vits Voice Chat | 📡Network Support| 🌻Voice Wake Assistants 
-- [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
-- [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
-- [mattnigh/ChatGPT3-Prompt-Engineering](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering) - A free Course and Playbook for ChatGPT3 Prompt Engineering
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -3188,11 +3234,9 @@
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A one-click version of sd-webui-colab
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [abhishek-nigam/raindrop-backup-bookmarks](https://github.com/abhishek-nigam/raindrop-backup-bookmarks) - A simple tool I use to backup my bookmarks from Raindrop.io service
 - [antonnagorniy/raindrop-io-api-client](https://github.com/antonnagorniy/raindrop-io-api-client) - 
 - [KittenYang/ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
-- [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - Run a ChatGPT Bot in Discord with Docker
 - [danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts for organizing and reformatting markdown notes
 - [davycloud/obtool](https://github.com/davycloud/obtool) - A command lint tool for Obsidian
 - [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
@@ -3499,7 +3543,6 @@
 - [jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) - 
 - [chlohal/obsidian-terminal](https://github.com/chlohal/obsidian-terminal) - A terminal panel for Obsidian
 - [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
-- [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - 
 - [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A bookmarks manager Chrome extension.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [azedo/raindrop-io-github-starred-repos](https://github.com/azedo/raindrop-io-github-starred-repos) - Add all of your starred repos to raindrop.io
@@ -4752,6 +4795,7 @@
 
 ## reactjs 
 
+- [joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This is a free open source tool, created to speed up the creation time of our readmes files.
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
@@ -4826,6 +4870,7 @@
 
 ## rust 
 
+- [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -4922,6 +4967,7 @@
 
 ## serverless 
 
+- [harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards for your readme
 - [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
 - [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless worker provided by RunPod as endpoints.
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
