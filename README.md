@@ -387,6 +387,7 @@
 
 ## HTML 
 
+- [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
 - [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
 - [aihubgg/MidJourney-Wiki](https://github.com/aihubgg/MidJourney-Wiki) - MidJourney Community Wiki
 - [osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt generator for Midjourney and maybe other AIs in the future.
@@ -541,6 +542,8 @@
 
 ## JavaScript 
 
+- [joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This is a free open source tool, created to speed up the creation time of our readmes files.
+- [harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards for your readme
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [dsymbol/prompts-on-chatgpt](https://github.com/dsymbol/prompts-on-chatgpt) - UserScript that adds prompt commands to ChatGPT
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
@@ -981,6 +984,7 @@
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
+- [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
 - [filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
 - [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
@@ -1159,6 +1163,8 @@
 
 ## Others 
 
+- [malaya-zemlya/gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A repository of methods of bypassing GPT and ChatGPT content filters
+- [AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts](https://github.com/AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts) - 
 - [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) - (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.
 - [jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
 - [onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A curated list of machine learning resources, preferably CoreML
@@ -1446,6 +1452,7 @@
 
 ## PHP 
 
+- [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [ergebnis/day-one-to-obsidian-converter](https://github.com/ergebnis/day-one-to-obsidian-converter) - :notebook: Provides a console command for converting DayOne journals to Obsidian notes.
 - [norberttech/md-link-linter](https://github.com/norberttech/md-link-linter) - 📖✅CLI tool that iterates through all markdown files in given path checking if links used in them are still valid.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -1551,12 +1558,13 @@
 
 ## Python 
 
+- [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&gt; Docusaurus Converter
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [sudoskys/Openaibot](https://github.com/sudoskys/Openaibot) - 🤖 ChatBot/Assistant|🧀 通用事件层/IM/Muti Platform |Async | 👋 Supports continuous conversations | ⚡sh&docker ️deploy|  📦Provide Api Server|🎤 Azure/Vits Voice Chat | 📡Network Support| 🌻Voice Wake Assistants 
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Real browserless ChatGPT library and command line tool. Using official API
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
 - [eli64s/chatgpt-auto-markdowns](https://github.com/eli64s/chatgpt-auto-markdowns) - ChatGPT automated Markdown documentation generator to kickstart your machine learning projects.
@@ -1567,7 +1575,6 @@
 - [rbbrdckybk/ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - For automating the creation of large batches of AI-generated artwork locally.
 - [db0/AI-Horde](https://github.com/db0/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
 - [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
-- [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
 - [farique1/diffusion-browser](https://github.com/farique1/diffusion-browser) - An easy way to view the images and metadata generated by Stable Diffusion's Automatic1111 WebUI
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
 - [llSourcell/AI_Artist](https://github.com/llSourcell/AI_Artist) - AI Artist for Machine Learning for Hackers #5
@@ -2208,6 +2215,7 @@
 
 ## Rust 
 
+- [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
 - [theiceshelf/esker](https://github.com/theiceshelf/esker) - static site generator for obsidian
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Thatguyjs/idaro](https://github.com/Thatguyjs/idaro) - An easy-to-use static site generator for Markdown pages
@@ -2402,6 +2410,9 @@
 
 ## TypeScript 
 
+- [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
+- [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - Free GPT powered assistant for Obsidian "inspired by" Notion AI
+- [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files directly within Obsidian.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown blocks directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [ulisesantana/obsidian-pending-notes](https://github.com/ulisesantana/obsidian-pending-notes) - Obsidian plugin for searching links without notes in your vault.
@@ -2605,7 +2616,7 @@
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
 - [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
-- [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - 
+- [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - A plugin to easily publish note to github using a frontmatter state entry
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
