@@ -797,7 +797,7 @@
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer. It is used to provide automated customer service, suppo
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - ⚙️ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more. 🌟 Give it a star if you like it.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🤖 ChatBot/Assistant|🧀 通用事件层/IM/Muti Platform |Async | 👋 Supports continuous conversations | ⚡sh&docker ️deploy|  📦Provide Api Server|🎤 Azure/Vits Voice Chat | 📡Network Support| 🌻Voice Wake Assistants 
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
@@ -3134,6 +3134,7 @@
 
 ## others 
 
+- [fayeed/github-banner](https://github.com/fayeed/github-banner) - Build custom GitHub banners for your Github profiles, to add some flair to your Readmes. Like the project, star the project.
 - [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
 - [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&gt; Docusaurus Converter
 - [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files directly within Obsidian.
@@ -4878,7 +4879,6 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - An Obsidian plugin to automatically create new links between notes.
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
