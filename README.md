@@ -414,6 +414,7 @@
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [VillainsRule4000/Bookmarklets](https://github.com/VillainsRule4000/Bookmarklets) - Bookmarklets to make your life easier.
 - [dotcli/memex](https://github.com/dotcli/memex) - Simple bookmarks and notes
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
 - [AnzenKodo/awesome-ak](https://github.com/AnzenKodo/awesome-ak) - Awesome list of awesome website from my bookmarks. Download bookmarks also.
@@ -469,6 +470,7 @@
 - [longpdo/neumorphism](https://github.com/longpdo/neumorphism) - Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
 - [Swivro/weboasis-continued](https://github.com/Swivro/weboasis-continued) - An attempt to recreate and continue the now defunct Weboasis (was accessible via weboas.is, but is now down). RIP Webby 1992-2022.
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [ObsidianPublisher/publisher-template-gh-pages](https://github.com/ObsidianPublisher/publisher-template-gh-pages) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
@@ -797,7 +799,6 @@
 - [PaulLereverend/NextcloudExtract](https://github.com/PaulLereverend/NextcloudExtract) - Bring extraction to your nextcloud web interface
 - [nextcloud/external](https://github.com/nextcloud/external) - 🌐 Embed external sites in your Nextcloud
 - [zorn-v/nextcloud-social-login](https://github.com/zorn-v/nextcloud-social-login) - 
-- [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [nextcloud/nextcloud-initial-state](https://github.com/nextcloud/nextcloud-initial-state) - Access data from the server-side initial state API within apps
 - [mattd/google-photos-downloader](https://github.com/mattd/google-photos-downloader) - Downloads photos from Google Photos.
 - [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to downloa
@@ -1163,6 +1164,8 @@
 
 ## Others 
 
+- [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
+- [SmisoMazibuko/Book-of-Prompts](https://github.com/SmisoMazibuko/Book-of-Prompts) - The Book of Prompts: A collection of prompts for large language models like ChatGPT. Collaborate, share, and refine prompts for various domains. Join the community and help build the ultimate resource
 - [malaya-zemlya/gpt-jailbreaks](https://github.com/malaya-zemlya/gpt-jailbreaks) - A repository of methods of bypassing GPT and ChatGPT content filters
 - [AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts](https://github.com/AnbuKumar-maker/ChatGPT-Machine-Learning-Prompts) - 
 - [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) - (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.
@@ -1250,7 +1253,6 @@
 - [Olwiba/Kickass-markdown](https://github.com/Olwiba/Kickass-markdown) - A collection of Github markdown tricks for writing kickass READMEs, Pull Requests & Comments.
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
 - [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A single place for all the markdown syntaxes I have learned so far.
-- [VillainsRule4000/Bookmarklets](https://github.com/VillainsRule4000/Bookmarklets) - Bookmarklets to make your life easier.
 - [etsy/MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1487,6 +1489,7 @@
 - [nextcloud/cms_pico](https://github.com/nextcloud/cms_pico) - 🗃 Integrate Pico CMS and let your users manage their own websites
 - [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud plugin for displaying file metadata.
 - [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator) - Nextcloud app to do preview generation
+- [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [dmlogic/photo-indexer](https://github.com/dmlogic/photo-indexer) - Download and index photos from Google Photos
 - [barryanders/grav-plugin-blackhole](https://github.com/barryanders/grav-plugin-blackhole) - The static site generator for Grav CMS
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
@@ -1558,12 +1561,13 @@
 
 ## Python 
 
+- [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts and wrappers for ChatGPT & GPT-3
 - [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&gt; Docusaurus Converter
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Sear
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
@@ -2725,7 +2729,6 @@
 - [xiaoluoboding/chrome-web-bookmark](https://github.com/xiaoluoboding/chrome-web-bookmark) - One-click turn any link into a visual web bookmark, and it looks Like Twitter cards or Notion web bookmark.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [xyvs/visualtree](https://github.com/xyvs/visualtree) - A tool that allows you to visualize and interact with the output of your tree command.
-- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
 - [pablosirera/timeline-vuejs](https://github.com/pablosirera/timeline-vuejs) - Minimalist Timeline ⏳ with VueJS 💚
