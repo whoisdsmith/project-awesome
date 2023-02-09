@@ -388,6 +388,7 @@
 
 ## HTML 
 
+- [Gewerd-Strauss/ObsidianScripts](https://github.com/Gewerd-Strauss/ObsidianScripts) - A variety of Obsidian.md helpers, in varying states of completion
 - [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
 - [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
 - [aihubgg/MidJourney-Wiki](https://github.com/aihubgg/MidJourney-Wiki) - MidJourney Community Wiki
@@ -544,6 +545,7 @@
 
 ## JavaScript 
 
+- [brianpetro/obsidian-smart-prompts](https://github.com/brianpetro/obsidian-smart-prompts) - Prompt templating tools designed for interacting with language interfaces like OpenAI's ChatGPT in Obsidian.
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This is a free open source tool, created to speed up the creation time of our readmes files.
 - [harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards for your readme
@@ -2228,7 +2230,7 @@
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust program for extracting most URLs from Discord scrapes. Works with Discord History Tracker and discard2.
+- [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust program for extracting most URLs from Discord scrapes. Works with Discord History Tracker, discard2, and DiscordChatExporter.
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 - [eikendev/urlprobe](https://github.com/eikendev/urlprobe) - A tool for probing URLs for their status code from the command line (to check for broken links in a given list of URLs) :vertical_traffic_light::fire:
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
@@ -2415,6 +2417,13 @@
 
 ## TypeScript 
 
+- [0xRusowsky/bookmarks-to-obsidian](https://github.com/0xRusowsky/bookmarks-to-obsidian) - A lil project to sync Twitter bookmarks with an Obsidian vault.
+- [hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - An Obsidian plugin for textlint.
+- [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [maksim77/obsidian-mactagger-plugin](https://github.com/maksim77/obsidian-mactagger-plugin) - 
+- [BambusControl/obsidian-unicode-search](https://github.com/BambusControl/obsidian-unicode-search) - Obsidian plugin for simple Unicode character search
+- [kxxt/obsidian-advanced-paste](https://github.com/kxxt/obsidian-advanced-paste) - Advanced pasting functionality for obsidian
+- [OwenKruse/gpt-helper](https://github.com/OwenKruse/gpt-helper) - Obsidian GPT integration
 - [fayeed/github-banner](https://github.com/fayeed/github-banner) - Build custom GitHub banners for your Github profiles, to add some flair to your Readmes. Like the project, star the project.
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - Free GPT powered assistant for Obsidian "inspired by" Notion AI
@@ -2428,7 +2437,7 @@
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault parser for the Obsidian note taking app
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [jordanm88/flame-dashboard](https://github.com/jordanm88/flame-dashboard) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
