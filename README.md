@@ -1491,7 +1491,7 @@
 - [nextcloud/circles](https://github.com/nextcloud/circles) - 👪 Create groups with other users on a Nextcloud instance and share with them
 - [nextcloud/cms_pico](https://github.com/nextcloud/cms_pico) - 🗃 Integrate Pico CMS and let your users manage their own websites
 - [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud plugin for displaying file metadata.
-- [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator) - Nextcloud app to do preview generation
+- [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator) - Nextcloud app to do preview generation in the background.
 - [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [dmlogic/photo-indexer](https://github.com/dmlogic/photo-indexer) - Download and index photos from Google Photos
 - [barryanders/grav-plugin-blackhole](https://github.com/barryanders/grav-plugin-blackhole) - The static site generator for Grav CMS
