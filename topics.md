@@ -3529,7 +3529,6 @@
 - [nbats/FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 - [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo. If you like it then use it
 - [temidayoxyz/vCard](https://github.com/temidayoxyz/vCard) - My portfolio website built with HTML, CSS, and Javascript
-- [OpenSourceGround/CoolFolio](https://github.com/OpenSourceGround/CoolFolio) - ⚡ Vue.js Customizable Portfolio
 - [ramiboutas/coverletters](https://github.com/ramiboutas/coverletters) - Download multiple cover letters in minutes. No registration required. Totally free
 - [Super-Coding-Ninja-TM/markdown-cv](https://github.com/Super-Coding-Ninja-TM/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
