@@ -393,6 +393,7 @@
 - [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
 - [aihubgg/MidJourney-Wiki](https://github.com/aihubgg/MidJourney-Wiki) - MidJourney Community Wiki
 - [osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt generator for Midjourney and maybe other AIs in the future.
+- [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
@@ -545,6 +546,8 @@
 
 ## JavaScript 
 
+- [ferrufinob/Bookmarkd_Frontend](https://github.com/ferrufinob/Bookmarkd_Frontend) - Pinterest Inspired picture-sharing Web Application with ReactJS/Redux front-end and Rails API back-end.
+- [anadius/mediafire-bulk-importer](https://github.com/anadius/mediafire-bulk-importer) - Import mediafire links to your account in bulk
 - [brianpetro/obsidian-smart-prompts](https://github.com/brianpetro/obsidian-smart-prompts) - Prompt templating tools designed for interacting with language interfaces like OpenAI's ChatGPT in Obsidian.
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This is a free open source tool, created to speed up the creation time of our readmes files.
@@ -992,7 +995,6 @@
 - [filipecalegario/awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
 - [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-- [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A one-click version of sd-webui-colab
 - [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
@@ -1167,6 +1169,7 @@
 
 ## Others 
 
+- [Bluemoondragon07/Obsidian-amazing-snippets](https://github.com/Bluemoondragon07/Obsidian-amazing-snippets) - 
 - [questianon/sdupdates](https://github.com/questianon/sdupdates) - A mega collection of all resources and news related to Stable Diffusion. Focused around AUTOMATIC1111's webui (https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
 - [SmisoMazibuko/Book-of-Prompts](https://github.com/SmisoMazibuko/Book-of-Prompts) - The Book of Prompts: A collection of prompts for large language models like ChatGPT. Collaborate, share, and refine prompts for various domains. Join the community and help build the ultimate resource
@@ -1181,7 +1184,7 @@
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [sjinzh/awesome-ChatGPT](https://github.com/sjinzh/awesome-ChatGPT) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers covering new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /Resources folde
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more. 🌟 Suppor this project by giving it a star.
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
 - [Qiamast/ChatGPT-Awesome-Prompts](https://github.com/Qiamast/ChatGPT-Awesome-Prompts) - A collection of creative prompts for the GPT-3 model on GitHub to help improve productivity and efficiency in open-source projects. Join the community and help create more awesome prompts.
@@ -1199,7 +1202,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [mhmmyu/awesomeAI](https://github.com/mhmmyu/awesomeAI) - curated list artificial intelligence tools around the world wide web
+- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
 - [fwends-net/obsidian-templates](https://github.com/fwends-net/obsidian-templates) - Templates for Obsidian
 - [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
@@ -1564,6 +1567,9 @@
 
 ## Python 
 
+- [nikutopian/DocumentQA](https://github.com/nikutopian/DocumentQA) - Ingest and Index Documents, Search Documents and support Natural Language Question Answering
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [misbahsy/chat-your-data-self-hosted](https://github.com/misbahsy/chat-your-data-self-hosted) - This repo guides you through building a chatbot on your own data with self hosted LLM
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts and wrappers for ChatGPT & GPT-3
@@ -1574,7 +1580,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPTresurrect 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Informa
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/chatgpt-automated-readme](https://github.com/eli64s/chatgpt-automated-readme) - ChatGPT automated Markdown documentation generator to kickstart your machine learning projects.
+- [eli64s/chatgpt-automated-readme-generator](https://github.com/eli64s/chatgpt-automated-readme-generator) - ChatGPT automated Markdown documentation generator to kickstart your machine learning projects.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2223,6 +2229,7 @@
 
 ## Rust 
 
+- [devzbysiu/dox](https://github.com/devzbysiu/dox) - Index and search your documents
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
 - [theiceshelf/esker](https://github.com/theiceshelf/esker) - static site generator for obsidian
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2237,7 +2244,7 @@
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
 - [mattias-p/linky](https://github.com/mattias-p/linky) - Extract and check links from Markdown files.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
-- [ftd-lang/fastn](https://github.com/ftd-lang/fastn) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
+- [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
 - [jason1105/mdtools](https://github.com/jason1105/mdtools) - A little tools to edit markdown file. Such as adding tags, making footlinks.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
@@ -2418,6 +2425,9 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
+- [giselle197/obsidian-external-links-in-document](https://github.com/giselle197/obsidian-external-links-in-document) - panel of External Links
+- [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [0xRusowsky/bookmarks-to-obsidian](https://github.com/0xRusowsky/bookmarks-to-obsidian) - A lil project to sync Twitter bookmarks with an Obsidian vault.
 - [hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - An Obsidian plugin for textlint.
