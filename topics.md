@@ -301,7 +301,7 @@
 
 ## android 
 
-- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
@@ -425,6 +425,7 @@
 
 ## awesome 
 
+- [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
 - [eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - Discover, download, compile & launch different image processing & style transfer CoreML models on iOS.
 - [jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
 - [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
@@ -441,7 +442,7 @@
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
-- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
@@ -585,6 +586,8 @@
 
 ## awesome-list 
 
+- [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
+- [aashutoshrathi/awesome-bashrc](https://github.com/aashutoshrathi/awesome-bashrc) - 🚀 Collection of bash snippets/aliases that will save your time on the terminal
 - [jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
 - [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -779,7 +782,7 @@
 
 ## bot 
 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPTresurrect 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Informa
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - resurrect-ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Inform
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
@@ -812,8 +815,8 @@
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer. It is used to provide automated customer service, suppo
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPTresurrect 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Informa
-- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - resurrect-ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Inform
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
@@ -937,7 +940,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A collection of awesome terminal utilities
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1217,7 +1220,7 @@
 - [cobanov/awesome-diffusion](https://github.com/cobanov/awesome-diffusion) - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
 - [rbbrdckybk/ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - For automating the creation of large batches of AI-generated artwork locally.
 - [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
@@ -1247,7 +1250,7 @@
 
 ## design 
 
-- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
@@ -1578,7 +1581,7 @@
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
-- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.
 - [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
@@ -1684,7 +1687,7 @@
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
-- [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
+- [msa-ali/google-photo-downloader](https://github.com/msa-ali/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
@@ -1712,7 +1715,7 @@
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
-- [Altamashattari/google-photo-downloader](https://github.com/Altamashattari/google-photo-downloader) - Go Application to download Google Photo Album Content
+- [msa-ali/google-photo-downloader](https://github.com/msa-ali/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1814,6 +1817,7 @@
 
 ## hacktoberfest 
 
+- [aashutoshrathi/awesome-bashrc](https://github.com/aashutoshrathi/awesome-bashrc) - 🚀 Collection of bash snippets/aliases that will save your time on the terminal
 - [harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards for your readme
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
@@ -1966,6 +1970,7 @@
 
 ## homebrew 
 
+- [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
 - [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A collection of awesome terminal utilities
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -2010,7 +2015,7 @@
 - [pokiiio/GooglePhotoMarkdowner](https://github.com/pokiiio/GooglePhotoMarkdowner) - GooglePhotoにアップロードした写真を、ブログなどで貼り付けられる形式に変換するアプリです。
 - [dan-smith-tech/shelf](https://github.com/dan-smith-tech/shelf) - A fully customisable, open-source browser startpage.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [aromalanil/markItDown](https://github.com/aromalanil/markItDown) - 📱 A React app to preview and edit Markdown✍. You can also export it as HTML.
 - [artiomn/markdown_articles_tool](https://github.com/artiomn/markdown_articles_tool) - Parse markdown article, download images and replace images URL's with local paths
@@ -2349,6 +2354,7 @@
 ## jupyter-notebook 
 
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [jlumbroso/text-message-analysis-notebook](https://github.com/jlumbroso/text-message-analysis-notebook) - Jupyter notebook with examples on how to visualize the dataset of personal texts 📱, after extracting from an iPhone with PhoneView.
@@ -2357,6 +2363,7 @@
 
 ## kotlin 
 
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
@@ -2536,6 +2543,7 @@
 
 ## macos 
 
+- [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -2723,7 +2731,7 @@
 - [pokiiio/GooglePhotoMarkdowner](https://github.com/pokiiio/GooglePhotoMarkdowner) - GooglePhotoにアップロードした写真を、ブログなどで貼り付けられる形式に変換するアプリです。
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [axiros/terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or MD docs.
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [piotrmurach/tty-markdown-cli](https://github.com/piotrmurach/tty-markdown-cli) - CLI tool for displaying nicely formatted Markdown documents in the terminal
@@ -3159,6 +3167,9 @@
 
 ## others 
 
+- [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
+- [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client) - HeyCLI allows you to use your command line terminal in natural language
+- [jthat/zsh-namelink](https://github.com/jthat/zsh-namelink) - zsh plugin for synchronized mapping of filesystem entries to the named directory hash
 - [anadius/mediafire-bulk-importer](https://github.com/anadius/mediafire-bulk-importer) - Import mediafire links to your account in bulk
 - [giselle197/obsidian-external-links-in-document](https://github.com/giselle197/obsidian-external-links-in-document) - panel of External Links
 - [Bluemoondragon07/Obsidian-amazing-snippets](https://github.com/Bluemoondragon07/Obsidian-amazing-snippets) - 
@@ -3192,7 +3203,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
-- [eli64s/PyDocsAI](https://github.com/eli64s/PyDocsAI) - Automate README creation and documentation to kickstart software and machine learning projects!
+- [eli64s/PydocsAI](https://github.com/eli64s/PydocsAI) - Automated README template generator that creates code documentation, badges, file tree, and more! Powered by OpenAI's language model API 🚀
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -3688,7 +3699,6 @@
 - [netsession/regexSnippets](https://github.com/netsession/regexSnippets) - Regex Snippets
 - [jeffreyshen19/RegEx-Snippets](https://github.com/jeffreyshen19/RegEx-Snippets) - Organized list of useful RegEx snippets
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
-- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most Advanced yet simple Multi Cloud tool to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
 - [nbats/FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
 - [ItsMeAbhishekRai/Termux-All-Packages-Install](https://github.com/ItsMeAbhishekRai/Termux-All-Packages-Install) - All Packages Install On Termux In One Click
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -5047,7 +5057,7 @@
 
 ## sketch 
 
-- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects & portfolios. Fork & add your own.
+- [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.
 
 ## software 
 
@@ -5138,7 +5148,7 @@
 
 ## telegram 
 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPTresurrect 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Informa
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - resurrect-ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Inform
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
 - [alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone) - Clone a shared google drive link to your own google drive
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
