@@ -1203,7 +1203,7 @@
 - [udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) - 
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
+- [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
 - [fwends-net/obsidian-templates](https://github.com/fwends-net/obsidian-templates) - Templates for Obsidian
 - [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
@@ -1274,7 +1274,6 @@
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
 - [cwinfosec/redteam_obsidian_templates](https://github.com/cwinfosec/redteam_obsidian_templates) - Red Team Templates For Obsidian.md
 - [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
-- [blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS) - OSINT
 - [linyows/github-wiki-search](https://github.com/linyows/github-wiki-search) - :octocat: Search wiki of the repository on Github
 - [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [GNU-Linux-libre/Awesome-Browser-Search-Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) - Awesome Browser Search engine streaming live git Privacy Alternative Alternatives 搜索引擎大全 浏览器大全
@@ -1414,7 +1413,7 @@
 - [ivbeg/awesome-data-takeout](https://github.com/ivbeg/awesome-data-takeout) - Awesome list of data export pages/tools for most common online services
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MadhuNimmo/awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) - A list of Reddit channels every programmer should follow
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2573,7 +2572,6 @@
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [garyng/obsidian-temple](https://github.com/garyng/obsidian-temple) - A plugin for templating in Obsidian, powered by Nunjucks.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
-- [ordo-pink/ordo-electron](https://github.com/ordo-pink/ordo-electron) - Ordo is a knowledge management tool for you, your team, and the humanity.
 - [aidenlx/obsidian-icon-shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) - Obsidian Plugin: Insert emoji and custom icons with shortcodes
 - [mgmeyers/obsidian-icon-swapper](https://github.com/mgmeyers/obsidian-icon-swapper) - Allows swapping out Obsidian's icons
 - [reorx/obsidian-telegraph-publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
