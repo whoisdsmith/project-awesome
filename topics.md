@@ -253,7 +253,7 @@
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
+- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [sturdy-dev/semantic-code-search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer
 - [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
@@ -383,7 +383,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
+- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -434,7 +434,7 @@
 - [cobanov/awesome-diffusion](https://github.com/cobanov/awesome-diffusion) - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
+- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -597,7 +597,7 @@
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
+- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
@@ -1224,7 +1224,7 @@
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - curated list artificial intelligence tools around the world wide web
+- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
@@ -3199,7 +3199,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
-- [eli64s/PydocsAI](https://github.com/eli64s/PydocsAI) - Automated README template generator that creates code documentation, badges, file tree, and more! Powered by OpenAI's language model API 🚀
+- [eli64s/README-AI](https://github.com/eli64s/README-AI) - Generate a beautiful README.md with automated code documentation, badges, file tree, and more! Powered by OpenAI's language model API 🚀
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
