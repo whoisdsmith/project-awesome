@@ -1204,7 +1204,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
+- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [fwends-net/obsidian-templates](https://github.com/fwends-net/obsidian-templates) - Templates for Obsidian
 - [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
@@ -1318,7 +1318,7 @@
 - [monizb/vscode-regex-snippets](https://github.com/monizb/vscode-regex-snippets) - Official repository for Regular Expression Snippets Extension on VSCode
 - [jeffreyshen19/RegEx-Snippets](https://github.com/jeffreyshen19/RegEx-Snippets) - Organized list of useful RegEx snippets
 - [nbats/FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
-- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing.
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 - [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio) - A curated list of awesome audio technology resources for developers
 - [ransurf/obsidian-resources](https://github.com/ransurf/obsidian-resources) - I can't seem to upload .md files on WordPress, so this will have to do.
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
@@ -1940,7 +1940,7 @@
 - [dogsheep/google-takeout-to-sqlite](https://github.com/dogsheep/google-takeout-to-sqlite) - Save data from Google Takeout to a SQLite database
 - [dogsheep/healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite) - Convert an Apple Healthkit export zip to a SQLite database
 - [bcbernardo/aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) - An ActivityWatch watcher to pose questions to the user and record her answers.
-- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.   =====UPDATE=====: I made it to solve my specific need, and not re
+- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - day one jsons to markdown converter | I'm not supporting it, check forks for better versions
 - [leerob/facebook-data-analyzer](https://github.com/leerob/facebook-data-analyzer) - 📊Python script to analyze the contents of your Facebook data export
 - [simonwongwong/Facebook-Messenger-Statistics](https://github.com/simonwongwong/Facebook-Messenger-Statistics) - Discover fun stats about your Facebook Messenger usage such as: most used words, most active year, most active hours, etc. using this Jupyter Notebook
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
@@ -2247,7 +2247,7 @@
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
 - [mattias-p/linky](https://github.com/mattias-p/linky) - Extract and check links from Markdown files.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
-- [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
+- [fastn-stack/fastn-old](https://github.com/fastn-stack/fastn-old) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
 - [jason1105/mdtools](https://github.com/jason1105/mdtools) - A little tools to edit markdown file. Such as adding tags, making footlinks.
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
