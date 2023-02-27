@@ -253,7 +253,7 @@
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
+- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [sturdy-dev/semantic-code-search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer
 - [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
@@ -383,7 +383,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
+- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -434,7 +434,7 @@
 - [cobanov/awesome-diffusion](https://github.com/cobanov/awesome-diffusion) - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
+- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -597,7 +597,7 @@
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
+- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
@@ -1224,7 +1224,7 @@
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [1712n/yachay-public](https://github.com/1712n/yachay-public) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
-- [awe50me/awesomeAI](https://github.com/awe50me/awesomeAI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
+- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
@@ -1340,7 +1340,7 @@
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [hikerpig/foam-template-gatsby-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - A Foam/Obsidian template using gatsby-theme-kb for publishing your knowledge base
 - [jobindjohn/obsidian-publish-mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
-- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing.
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
@@ -2687,7 +2687,7 @@
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
+- [fastn-stack/fastn-old](https://github.com/fastn-stack/fastn-old) - 🚧 (Alpha stage software) FTD Package Manager & Static Site Generator 🚧
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -2772,7 +2772,7 @@
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [danobot/notorious](https://github.com/danobot/notorious) - Offline-first note taking and knowledge management application for desktop and the web. Supports nested notebooks, tags, real-time sync, images and file attachments. Optimised for efficiency with keyb
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - Converts jsons from Day One app to Markdown. Intended for transferring from DayOne to Obsidian but should work with everything else.   =====UPDATE=====: I made it to solve my specific need, and not re
+- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - day one jsons to markdown converter | I'm not supporting it, check forks for better versions
 
 ## mastodon 
 
@@ -3079,7 +3079,7 @@
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
-- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing.
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
