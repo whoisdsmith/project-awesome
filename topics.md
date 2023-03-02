@@ -250,7 +250,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT...
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
@@ -830,6 +830,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT...
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
@@ -851,7 +852,7 @@
 
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
-- [VillainsRule4000/Bookmarklets](https://github.com/VillainsRule4000/Bookmarklets) - Bookmarklets to make your life easier.
+- [VillainsRule/Bookmarklets](https://github.com/VillainsRule/Bookmarklets) - Bookmarklets to make your life easier.
 - [linyows/github-wiki-search](https://github.com/linyows/github-wiki-search) - :octocat: Search wiki of the repository on Github
 - [scriptingislife/Awesome-Custom-Search-Engines](https://github.com/scriptingislife/Awesome-Custom-Search-Engines) - A collection of custom search engines that can be used in the address bar to speed up workflow.
 - [sentialx/node-bookmarks-parser](https://github.com/sentialx/node-bookmarks-parser) - Parses Chrome HTML bookmarks files
@@ -2829,6 +2830,7 @@
 
 ## music 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A list of useful apps, websites, extensions and other stuff I use and recommend.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
@@ -4484,6 +4486,7 @@
 
 ## python 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [open-academy/machine-learning](https://github.com/open-academy/machine-learning) - 
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
@@ -4901,7 +4904,7 @@
 
 ## ruby 
 
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with ChatGPT...
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [SyedAbuTalib/Github-Stars](https://github.com/SyedAbuTalib/Github-Stars) - Saves time by listing all starred repos in one page
