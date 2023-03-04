@@ -201,7 +201,6 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -213,6 +212,11 @@
 
 ## ai 
 
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - Build your music algorithms and AI models with the next-gen DAW.
+- [DamiPayne/AI-Music-Composer](https://github.com/DamiPayne/AI-Music-Composer) - A project that trains a LSTM recurrent neural network over a data-set of MIDI files.
+- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - Build your music algorithms and AI models directly into the next-gen DAW.
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [questianon/sdupdates](https://github.com/questianon/sdupdates) - A mega collection of all resources and news related to Stable Diffusion. Focused around AUTOMATIC1111's webui (https://github.com/AUTOMATIC1111/stable-diffusion-webui)
@@ -369,6 +373,7 @@
 
 ## artificial-intelligence 
 
+- [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a dataset of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainly
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
@@ -805,6 +810,7 @@
 
 ## chatgpt 
 
+- [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT prompt curation to use ChatGPT better.
@@ -848,6 +854,7 @@
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
 
 ## chrome 
 
@@ -1213,6 +1220,9 @@
 
 ## deep-learning 
 
+- [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
+- [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a dataset of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainly
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [Yutong-Zhou-cv/Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) - (ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
@@ -2502,6 +2512,9 @@
 
 ## machine-learning 
 
+- [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+- [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a dataset of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainly
+- [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [open-academy/machine-learning](https://github.com/open-academy/machine-learning) - 
@@ -2834,6 +2847,14 @@
 
 ## music 
 
+- [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+- [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - Build your music algorithms and AI models with the next-gen DAW.
+- [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
+- [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
+- [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - Build your music algorithms and AI models directly into the next-gen DAW.
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
+- [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -2893,6 +2914,8 @@
 
 ## neural-network 
 
+- [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
+- [DamiPayne/AI-Music-Composer](https://github.com/DamiPayne/AI-Music-Composer) - A project that trains a LSTM recurrent neural network over a data-set of MIDI files.
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 - [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -2902,6 +2925,7 @@
 
 ## nextjs 
 
+- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
@@ -3170,8 +3194,14 @@
 
 ## others 
 
+- [sadiaafsana138/Music-Genre-Classification](https://github.com/sadiaafsana138/Music-Genre-Classification) - Academic Project Using Python and ML (AI-4.1)
+- [wayne391/sf_segmenter](https://github.com/wayne391/sf_segmenter) - Music segmentation  algorithm, based on SF (structural feature)
+- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
+- [davideriboli/Generative-Music](https://github.com/davideriboli/Generative-Music) - Docs, patches, scripts, tools & utilities mainly related to VCV Rack, Wotjia and Monome Norns. Shield
+- [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
+- [llSourcell/AI_For_Music_Composition](https://github.com/llSourcell/AI_For_Music_Composition) - This is the code for "AI for Music Composition" by Siraj Raval on Youtube
+- [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
 - [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) - 
-- [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client) - HeyCLI allows you to use your command line terminal in natural language
 - [jthat/zsh-namelink](https://github.com/jthat/zsh-namelink) - zsh plugin for synchronized mapping of filesystem entries to the named directory hash
 - [anadius/mediafire-bulk-importer](https://github.com/anadius/mediafire-bulk-importer) - Import mediafire links to your account in bulk
@@ -3214,6 +3244,7 @@
 - [ddPn08/flat](https://github.com/ddPn08/flat) - All-in-one image generation AI (to be...)
 - [osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt generator for Midjourney and maybe other AIs in the future.
 - [llSourcell/AI_Artist](https://github.com/llSourcell/AI_Artist) - AI Artist for Machine Learning for Hackers #5
+- [sdras/hero-generator](https://github.com/sdras/hero-generator) - 🦸🏻‍♀️Hero Generator! Create a nice hero image for your site or app
 - [gjohnpaull/midjourney-templates](https://github.com/gjohnpaull/midjourney-templates) - 
 - [coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault parser for the Obsidian note taking app
 - [theiceshelf/esker](https://github.com/theiceshelf/esker) - static site generator for obsidian
@@ -4491,6 +4522,12 @@
 
 ## python 
 
+- [soundata/soundata](https://github.com/soundata/soundata) - Python library for downloading, loading & working with sound datasets
+- [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
+- [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+- [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector) - MLNLP社区用来更好进行论文搜索的工具。Fully-automated scripts for collecting AI-related papers
+- [DamiPayne/AI-Music-Composer](https://github.com/DamiPayne/AI-Music-Composer) - A project that trains a LSTM recurrent neural network over a data-set of MIDI files.
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -5165,6 +5202,9 @@
 
 ## tensorflow 
 
+- [marl/crepe](https://github.com/marl/crepe) - CREPE: A Convolutional REpresentation for Pitch Estimation -- pre-trained model (ICASSP 2018)
+- [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+- [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
 - [jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [hulk66/timeline](https://github.com/hulk66/timeline) - Timeline - A photo organizer
@@ -5238,6 +5278,7 @@
 
 ## typescript 
 
+- [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
@@ -5343,27 +5384,6 @@
 - [chars-mc/timeline-maker](https://github.com/chars-mc/timeline-maker) - A simple and free tool to create timelines. Using JSON files and export it to PDF.
 - [hulk66/timeline](https://github.com/hulk66/timeline) - Timeline - A photo organizer
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-## vuejs 
-
-- [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
-- [sdras/hero-generator](https://github.com/sdras/hero-generator) - 🦸🏻‍♀️Hero Generator! Create a nice hero image for your site or app
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
-- [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
-- [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
-- [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
-- [rszamszur/pdf-resume-builder](https://github.com/rszamszur/pdf-resume-builder) - Simple, stateless, single-page application for creating neat PDF resume from JSON data.
-- [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy) - CV generator built with Nuxt.js, TailwindCSS, deployed on Netlify.
-- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
-- [nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your memories under your control
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [guastallaigor/vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js (works with Vue 2 & Vue 3)
-- [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
-- [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [santwer/BearSchedule](https://github.com/santwer/BearSchedule) - Simple and clear project management tool. With which it is possible to display one or more projects graphically.
-- [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## web 
 
