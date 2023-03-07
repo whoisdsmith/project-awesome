@@ -214,6 +214,7 @@
 
 ## ai 
 
+- [MatissJurevics/Gene-AI](https://github.com/MatissJurevics/Gene-AI) - An AI assistant plugin for Obsidian
 - [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals text and pitch from music to autogenerate Ultrastar, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
 - [chavinlo/riffusion-manipulation](https://github.com/chavinlo/riffusion-manipulation) - tools to manipulate audio with riffusion
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
@@ -1394,7 +1395,7 @@
 - [benjysugi/InternetArchiveDownloader](https://github.com/benjysugi/InternetArchiveDownloader) - A program that allows you to download folders posted on the Internet Archive in full without using the torrent
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [kekyo/MarkTheRipper](https://github.com/kekyo/MarkTheRipper) - Fantastic faster generates static site comes from simply Markdowns.
-- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Break down the digital walls between your music libraries
+- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - It's your music. Play it your way.
 
 ## electron 
 
@@ -2950,7 +2951,7 @@
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
-- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Break down the digital walls between your music libraries
+- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - It's your music. Play it your way.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [azuline/repertoire](https://github.com/azuline/repertoire) - whoops never finished this lol, don't look it's old and embarrassing
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
@@ -3276,6 +3277,11 @@
 
 ## others 
 
+- [yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) - 
+- [csansoon/ai-web-designer](https://github.com/csansoon/ai-web-designer) - An easy way to create and edit static websites powered by OpenAI's API
+- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
+- [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
+- [olrenso/obsidian-home-tab](https://github.com/olrenso/obsidian-home-tab) - A browser-like search tab for your local files in Obsidian.
 - [Mahamedm/Riffusion_AI_Image_Music-generator_Gardio](https://github.com/Mahamedm/Riffusion_AI_Image_Music-generator_Gardio) - This code includes a collection of tools for processing audio files, specifically for converting spectrogram images to audio waveforms and vice versa.
 - [aecorredor/awesome-music-production](https://github.com/aecorredor/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
 - [kmatheussen/radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
@@ -4599,6 +4605,7 @@
 
 ## publishing 
 
+- [mixasite/obsidian-mixa](https://github.com/mixasite/obsidian-mixa) - Publish your notes and blog posts directly from Obsidian with Mixa
 - [Kollate/truegit-test](https://github.com/Kollate/truegit-test) - A sample blog powered by Truegit
 - [jiuguangw/dayone2latex](https://github.com/jiuguangw/dayone2latex) - DayOne2LaTeX is converts a journal written in the Day One app into a LaTeX book.
 
@@ -5245,6 +5252,7 @@
 
 ## statistics 
 
+- [nevernotmove/obsidian-stats](https://github.com/nevernotmove/obsidian-stats) - Display obsidian plugin download statistics.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
@@ -5541,6 +5549,7 @@
 
 ## website 
 
+- [nevernotmove/obsidian-stats](https://github.com/nevernotmove/obsidian-stats) - Display obsidian plugin download statistics.
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [ruzickap/action-my-markdown-link-checker](https://github.com/ruzickap/action-my-markdown-link-checker) - A GitHub Action for checking broken links in Markdown files
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
