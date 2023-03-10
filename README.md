@@ -1187,6 +1187,7 @@
 
 ## Others 
 
+- [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
 - [aecorredor/awesome-music-production](https://github.com/aecorredor/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
 - [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects
@@ -2354,6 +2355,7 @@
 
 ## Shell 
 
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client) - HeyCLI allows you to use your command line terminal in natural language
 - [jthat/zsh-namelink](https://github.com/jthat/zsh-namelink) - zsh plugin for synchronized mapping of filesystem entries to the named directory hash
