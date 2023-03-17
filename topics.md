@@ -835,7 +835,7 @@
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
-- [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for the OpenAI API and ChatGPT, plus frontend & notebook
+- [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 - [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
 - [SmileBuild/ChatGPT-Web](https://github.com/SmileBuild/ChatGPT-Web) - ChatGPT page with API instand of offical pages. You can modify params, save and download the result as txt with prompt.
 - [sjinzh/awesome-ChatGPT](https://github.com/sjinzh/awesome-ChatGPT) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
@@ -2405,7 +2405,6 @@
 
 ## jupyter-notebook 
 
-- [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for the OpenAI API and ChatGPT, plus frontend & notebook
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
@@ -3355,7 +3354,7 @@
 - [theiceshelf/esker](https://github.com/theiceshelf/esker) - static site generator for obsidian
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
-- [navaneethkm004/warp-plus](https://github.com/navaneethkm004/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
+- [nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [jordanm88/flame-dashboard](https://github.com/jordanm88/flame-dashboard) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) - 
