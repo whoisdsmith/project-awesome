@@ -1022,7 +1022,7 @@
 - [mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython code to analyze one's text messages.  Intended to work out of the box, see README for details.
 - [sejaldua/lyrical-sentiment-analysis](https://github.com/sejaldua/lyrical-sentiment-analysis) - Using Spotify API to obtain audio feature data and lyrics and Tableau to produce sick visualizations.
 - [rtedwards/spotify-data-visualizations](https://github.com/rtedwards/spotify-data-visualizations) - An app that monitors a user's Spotify account and creates a dashboard to visualize usage over time.
-- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your Data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [chingjunetao/medium-article](https://github.com/chingjunetao/medium-article) - Repo for articles in my personal blog and Medium
@@ -1595,6 +1595,7 @@
 
 ## Python 
 
+- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals text and pitch from music to autogenerate Ultrastar, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
 - [stargatedaw/stargate](https://github.com/stargatedaw/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor
@@ -1641,7 +1642,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Gpt-3.5-turbo ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌 API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Infor
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - Generate a beautiful README.md with automated code documentation, badges, file tree, and more! Powered by OpenAI's language model API 🚀
+- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Automates README creation and generates codebase documentation, powered by OpenAI language model APIs.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
