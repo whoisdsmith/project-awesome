@@ -834,6 +834,7 @@
 - [anhthii/Echo](https://github.com/anhthii/Echo) - :musical_note: A music streaming app built with React and Nodejs
 - [nextcloud/registration](https://github.com/nextcloud/registration) - User registration app for Nextcloud
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
+- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [westberliner/checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1268,7 +1269,7 @@
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
-- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+- [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open source projects grow. See the README maturity model to help you keep going.
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
 - [slhck/sanitize-filenames](https://github.com/slhck/sanitize-filenames) - macOS workflow to sanitize filenames
@@ -1540,7 +1541,6 @@
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [shangril/crero](https://github.com/shangril/crero) - CMS for record labels, written to propel Crem Road records initially. Sell your physical releases at fixed price or in a "name your price" manner. Streaming or free download of online music. Digital m
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
 - [othmar52/slimpd](https://github.com/othmar52/slimpd) - PHP/JS based MPD-web-client for large music collections
 - [axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache status page; PHP web application that renders server-status page and makes it readable; even for load balanced websites
@@ -1595,6 +1595,7 @@
 
 ## Python 
 
+- [anonymous-pits/pits](https://github.com/anonymous-pits/pits) - PITS: Variational Pitch Inference for End-to-end Pitch-controllable TTS without External Pitch Predictor
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals text and pitch from music to autogenerate Ultrastar, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
@@ -1642,7 +1643,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Gpt-3.5-turbo ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌 API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Infor
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Automates README creation and generates codebase documentation, powered by OpenAI language model APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Command-line tool for crafting aesthetic, structured, and informative README.md files - powered by OpenAI's language model API. ✨
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -1752,7 +1753,7 @@
 - [selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python interface to your Obsidian notes
 - [bboerzel/raindrop-to-obsidian](https://github.com/bboerzel/raindrop-to-obsidian) - 
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator
+- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator (discontinued in favor of ChatGPT)
 - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 - [9gits/windsribe-account-generator-confirmation](https://github.com/9gits/windsribe-account-generator-confirmation) - 
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
@@ -1793,7 +1794,7 @@
 - [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [lucas-nelson-uiuc/spotipy_analysis](https://github.com/lucas-nelson-uiuc/spotipy_analysis) - home of the Spotify Analysis Dashboard
 - [zekroTJA/stargrab](https://github.com/zekroTJA/stargrab) - Securely mirror your starred repositories.
-- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - This program writes READMEs for you.
+- [tom-doerr/codex-readme](https://github.com/tom-doerr/codex-readme) - Revolutionize your project documentation with the Codex-README generator, utilizing OpenAI's Codex for intelligent README creation.
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [OmkarPathak/ResumeParser](https://github.com/OmkarPathak/ResumeParser) - A simple resume parser used for extracting information from resumes
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
@@ -2499,6 +2500,7 @@
 
 ## TypeScript 
 
+- [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) - 
 - [mixasite/obsidian-mixa](https://github.com/mixasite/obsidian-mixa) - Publish your notes and blog posts directly from Obsidian with Mixa
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
