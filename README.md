@@ -554,6 +554,7 @@
 
 ## JavaScript 
 
+- [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 - [csansoon/ai-web-designer](https://github.com/csansoon/ai-web-designer) - An easy way to create and edit static websites powered by OpenAI's API
 - [hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup language for music creation and analysis! -- https://hlorenzi.github.io/musicode/
 - [pac-dev/AudioMasher](https://github.com/pac-dev/AudioMasher) - Generative Audio Playground
@@ -1000,6 +1001,7 @@
 
 ## Jupyter Notebook 
 
+- [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [Mahamedm/Riffusion_AI_Image_Music-generator_Gardio](https://github.com/Mahamedm/Riffusion_AI_Image_Music-generator_Gardio) - This code includes a collection of tools for processing audio files, specifically for converting spectrogram images to audio waveforms and vice versa.
 - [mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
 - [teticio/audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images.
@@ -1023,7 +1025,7 @@
 - [mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython code to analyze one's text messages.  Intended to work out of the box, see README for details.
 - [sejaldua/lyrical-sentiment-analysis](https://github.com/sejaldua/lyrical-sentiment-analysis) - Using Spotify API to obtain audio feature data and lyrics and Tableau to produce sick visualizations.
 - [rtedwards/spotify-data-visualizations](https://github.com/rtedwards/spotify-data-visualizations) - An app that monitors a user's Spotify account and creates a dashboard to visualize usage over time.
-- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [markwk/qs_ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis
 - [chingjunetao/medium-article](https://github.com/chingjunetao/medium-article) - Repo for articles in my personal blog and Medium
@@ -1187,6 +1189,9 @@
 
 ## Others 
 
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
+- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of tools and resources regarding the GPT-4 language model.
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
 - [aecorredor/awesome-music-production](https://github.com/aecorredor/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
@@ -1753,7 +1758,7 @@
 - [selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python interface to your Obsidian notes
 - [bboerzel/raindrop-to-obsidian](https://github.com/bboerzel/raindrop-to-obsidian) - 
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator (discontinued in favor of ChatGPT)
+- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator
 - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 - [9gits/windsribe-account-generator-confirmation](https://github.com/9gits/windsribe-account-generator-confirmation) - 
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
@@ -2106,7 +2111,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This cross-platform tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the open 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the 
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -2500,6 +2505,8 @@
 
 ## TypeScript 
 
+- [ztjhz/FreeChatGPT](https://github.com/ztjhz/FreeChatGPT) - An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!
+- [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - 
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) - 
 - [mixasite/obsidian-mixa](https://github.com/mixasite/obsidian-mixa) - Publish your notes and blog posts directly from Obsidian with Mixa
