@@ -216,6 +216,7 @@
 
 ## ai 
 
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [MatissJurevics/Gene-AI](https://github.com/MatissJurevics/Gene-AI) - An AI assistant plugin for Obsidian
 - [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals text and pitch from music to autogenerate Ultrastar, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
 - [chavinlo/riffusion-manipulation](https://github.com/chavinlo/riffusion-manipulation) - tools to manipulate audio with riffusion
@@ -383,6 +384,7 @@
 
 ## artificial-intelligence 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a dataset of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainly
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
@@ -436,12 +438,14 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This cross-platform tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the open 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
 ## awesome 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
+- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of tools and resources regarding the GPT-4 language model.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
 - [ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List of articles related to deep learning applied to music
 - [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects
@@ -607,6 +611,8 @@
 
 ## awesome-list 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
+- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of tools and resources regarding the GPT-4 language model.
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
 - [ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List of articles related to deep learning applied to music
@@ -812,7 +818,7 @@
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
-- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator (discontinued in favor of ChatGPT)
+- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [warifp/FacebookToolkit](https://github.com/warifp/FacebookToolkit) - a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.
 
@@ -831,6 +837,9 @@
 
 ## chatgpt 
 
+- [ztjhz/FreeChatGPT](https://github.com/ztjhz/FreeChatGPT) - An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
+- [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
@@ -1248,6 +1257,7 @@
 
 ## deep-learning 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / symbolic music tokenizers for Deep Learning networks 🎶
@@ -1321,7 +1331,7 @@
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This cross-platform tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the open 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the 
 
 ## discord 
 
@@ -2409,7 +2419,7 @@
 ## jupyter-notebook 
 
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
-- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from any cloud to any cloud remotely based on Rclone and other engines remotely.⚡
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [jlumbroso/text-message-analysis-notebook](https://github.com/jlumbroso/text-message-analysis-notebook) - Jupyter notebook with examples on how to visualize the dataset of personal texts 📱, after extracting from an iPhone with PhoneView.
@@ -2569,6 +2579,7 @@
 
 ## machine-learning 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / symbolic music tokenizers for Deep Learning networks 🎶
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List of articles related to deep learning applied to music
@@ -2620,7 +2631,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This cross-platform tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the open 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the 
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -2695,7 +2706,6 @@
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Command-line tool for crafting aesthetic, structured, and informative README.md files - powered by OpenAI's language model API. ✨
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
@@ -2916,6 +2926,7 @@
 
 ## music 
 
+- [olaviinha/MusicWithChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals text and pitch from music to autogenerate Ultrastar, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
@@ -2997,6 +3008,7 @@
 
 ## neural-network 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List of articles related to deep learning applied to music
 - [luuil/Tensorflow-Audio-Classification](https://github.com/luuil/Tensorflow-Audio-Classification) - Audio classification with VGGish as feature extractor in TensorFlow
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
@@ -3218,7 +3230,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This cross-platform tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the open 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the 
 
 ## operating-system 
 
@@ -3290,6 +3302,8 @@
 
 ## others 
 
+- [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - 
+- [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 - [anonymous-pits/pits](https://github.com/anonymous-pits/pits) - PITS: Variational Pitch Inference for End-to-end Pitch-controllable TTS without External Pitch Predictor
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
@@ -4631,6 +4645,7 @@
 
 ## python 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets.
@@ -4698,7 +4713,7 @@
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
 - [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The iOS Security Testing Framework
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator (discontinued in favor of ChatGPT)
+- [daijro/EssayGen](https://github.com/daijro/EssayGen) - Essay generator
 - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
@@ -4871,6 +4886,7 @@
 
 ## pytorch 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [alishdipani/Neural-Style-Transfer-Audio](https://github.com/alishdipani/Neural-Style-Transfer-Audio) - This is PyTorch Implementation of Neural Style Transfer Algorithm which is modified for Audios.
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
 - [KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
@@ -5335,6 +5351,7 @@
 
 ## tensorflow 
 
+- [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [burliEnterprises/tensorflow-music-generator](https://github.com/burliEnterprises/tensorflow-music-generator) - generates music (midi files) using a Tensorflow RNN
 - [luuil/Tensorflow-Audio-Classification](https://github.com/luuil/Tensorflow-Audio-Classification) - Audio classification with VGGish as feature extractor in TensorFlow
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
