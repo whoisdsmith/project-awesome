@@ -149,6 +149,9 @@
 
 ## C# # 
 
+- [hmol/LinkCrawler](https://github.com/hmol/LinkCrawler) - Find broken links in webpage
+- [xeladu/broken-link-checker](https://github.com/xeladu/broken-link-checker) - This tool checks all external links of a website if they are reachable.
+- [msioen/ai-tagger](https://github.com/msioen/ai-tagger) - A small mac utility to watch folders and automatically classify image documents.
 - [AddictedCS/soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting) - Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.
 - [Computr1x/ExNihilo](https://github.com/Computr1x/ExNihilo) - ExNihilo - modern, powerfull and flexible image creation library.
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
@@ -183,6 +186,7 @@
 
 ## C++ 
 
+- [martinic/DrMixAISynth](https://github.com/martinic/DrMixAISynth) - Doctor Mix AI Synth CLAP/VST2/AU synthesizer plugin.
 - [kmatheussen/radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors
@@ -326,7 +330,7 @@
 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [TypicalAM/Static-Site-Generator](https://github.com/TypicalAM/Static-Site-Generator) - A place to view your notes - powered by Go
@@ -561,6 +565,8 @@
 
 ## JavaScript 
 
+- [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
+- [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [djjoa/Obsidian-System-Commands-Execution-Templates](https://github.com/djjoa/Obsidian-System-Commands-Execution-Templates) - Tutorial on executing system commands within Obsidian using Templater and user definied functions.
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - Explore what happens under the hood with the ChatGPT web app. And some speculation, of course.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -1015,6 +1021,7 @@
 
 ## Jupyter Notebook 
 
+- [v8hid/infinite-zoom-stable-diffusion](https://github.com/v8hid/infinite-zoom-stable-diffusion) - resources for creating Ininite zoom video using Stable Diffiusion, you can use multiple prompts and it is easy to use.
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Transcribe and translate audio to text using Whisper and DeepL.
@@ -1207,6 +1214,10 @@
 
 ## Others 
 
+- [JordanEJ/Siri-Shortcut-Collection](https://github.com/JordanEJ/Siri-Shortcut-Collection) - A collection of all the Siri Shortcuts I have made
+- [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
+- [forReason/GPT-Prompt-Templates](https://github.com/forReason/GPT-Prompt-Templates) - this library contains templates and forms which can be used to simply write productive chat gpt prompts
+- [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [marcin-laskowski/awesome-chatgpt-plugins](https://github.com/marcin-laskowski/awesome-chatgpt-plugins) - A curated list of ChatGPT plugins.
 - [itsuka-dev/awesome-chatgpt-plugins](https://github.com/itsuka-dev/awesome-chatgpt-plugins) - Curated list of resources for learning ChatGPT plugins
@@ -1524,6 +1535,7 @@
 
 ## PHP 
 
+- [productivity-rocks/ai-optimizer-website](https://github.com/productivity-rocks/ai-optimizer-website) - Website of the all in one ChatGPT/OpenAI optimizer!
 - [Invis1ble/media-intelligence](https://github.com/Invis1ble/media-intelligence) - A library for processing and analyzing media content, providing tools for audio, video and text analysis.
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [ergebnis/day-one-to-obsidian-converter](https://github.com/ergebnis/day-one-to-obsidian-converter) - :notebook: Provides a console command for converting DayOne journals to Obsidian notes.
@@ -1605,6 +1617,10 @@
 
 ## Pascal 
 
+- [FMXExpress/Text-To-Vector-Desktop-Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client) - Create SVGs using text to vector AI from Illustroke
+- [FMXExpress/Stable-Diffusion-Text-To-Image-Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts) - Cross-platform Stable Diffusion Text to Image Prompts Generator built in Embarcadero Delphi.
+- [FMXExpress/Generative-AI-Prompts](https://github.com/FMXExpress/Generative-AI-Prompts) - Generative AI: Text To Image Prompts Generator for Windows built in Embarcadero Delphi.
+- [FMXExpress/DreamBooth-Desktop-Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client) - Windows, macOS, and Linux desktop client for fine tuning Dreambooth models using Replicate's API.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 
 ## Perl 
@@ -1631,11 +1647,14 @@
 
 ## Python 
 
+- [raul23/convert-to-txt](https://github.com/raul23/convert-to-txt) - Convert documents (pdf, djvu, epub, word) to txt
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
 - [JeanMichelChien/Obsidian-keyword-extractor](https://github.com/JeanMichelChien/Obsidian-keyword-extractor) - Use NLP Rake-NLTK algorithm to tag automatically Obsidian note files and link ideas together easily
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [Anay21110/Machine-Learning-Collection](https://github.com/Anay21110/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
+- [akshata29/chatpdf](https://github.com/akshata29/chatpdf) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT cre
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
 - [haseeb-heaven/OpenAI-ImageGenerator](https://github.com/haseeb-heaven/OpenAI-ImageGenerator) - OpenAI-ImageGenerator is image generator using OpenAPI.
@@ -2416,6 +2435,8 @@
 
 ## Shell 
 
+- [dan-snelson/Setup-Your-Mac](https://github.com/dan-snelson/Setup-Your-Mac) - Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
+- [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.2) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
@@ -2508,6 +2529,8 @@
 
 ## Swift 
 
+- [DanielFiller30/ScriptManager](https://github.com/DanielFiller30/ScriptManager) - Easy to use menu bar-tool for your mac, to run shell-scripts.
+- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
@@ -2577,7 +2600,6 @@
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
 - [devrsi0n/ChatMind](https://github.com/devrsi0n/ChatMind) - Yet another fast and reliable ChatGPT app.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - A Chat GPT Embedding Template
-- [akshata29/chatpdf](https://github.com/akshata29/chatpdf) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
@@ -2592,7 +2614,7 @@
 - [qgrail/obsidian-ai-assistant](https://github.com/qgrail/obsidian-ai-assistant) - AI Assistant Plugin for Obsidian
 - [Tagada216/markdown-chat-gpt](https://github.com/Tagada216/markdown-chat-gpt) - An obsidian plugin to use chat GPT in obsidian file
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
-- [ztjhz/FreeChatGPT](https://github.com/ztjhz/FreeChatGPT) - An amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - Play and chat smarter with Better ChatGPT - an amazing open-source web app with a better UI for exploring OpenAI's ChatGPT API!
 - [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - 
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) - 
