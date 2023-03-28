@@ -54,6 +54,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -149,6 +150,11 @@
 
 ## C# # 
 
+- [Ruzzie/Textorizer](https://github.com/Ruzzie/Textorizer) - Sanitize and 'clean' html for safe consumption in a plain text format.
+- [SeanErvinson/TextFormatter](https://github.com/SeanErvinson/TextFormatter) - Formats texts into programmer specific format
+- [mikeduglas/Multiline-strings-formatter](https://github.com/mikeduglas/Multiline-strings-formatter) - Multiline strings formatter converts raw multiline text (html, xml, json...) into multiline Clarion string constant. It cares about special symbols like a left angle bracket &lt;, a left curly brace {
+- [TechNobre/PowerUtils.Text](https://github.com/TechNobre/PowerUtils.Text) - Helpers, extensions and utilities for manipulating strings
+- [karisigurd4/DocumentLab](https://github.com/karisigurd4/DocumentLab) - OCR using tesseract, ImageMagick, EmguCV, an advanced query language and a fluent query interface for C#
 - [hmol/LinkCrawler](https://github.com/hmol/LinkCrawler) - Find broken links in webpage
 - [xeladu/broken-link-checker](https://github.com/xeladu/broken-link-checker) - This tool checks all external links of a website if they are reachable.
 - [msioen/ai-tagger](https://github.com/msioen/ai-tagger) - A small mac utility to watch folders and automatically classify image documents.
@@ -218,6 +224,7 @@
 
 ## CSS 
 
+- [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer. It is used to provide automated customer service, suppo
 - [godmayhem7/social-media-stats](https://github.com/godmayhem7/social-media-stats) - 
 - [wchorski/nextjs-obsidian-publish](https://github.com/wchorski/nextjs-obsidian-publish) - alternative to Obsidian Publish
@@ -282,6 +289,7 @@
 
 ## Dart 
 
+- [simc/logger](https://github.com/simc/logger) - Small, easy to use and extensible logger which prints beautiful logs.
 - [ndahlquist/stable-horde-flutter](https://github.com/ndahlquist/stable-horde-flutter) - An Android+iOS app for the Stable Horde
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -328,6 +336,8 @@
 
 ## Go 
 
+- [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+- [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -404,6 +414,10 @@
 
 ## HTML 
 
+- [DonAurelio/text-analyzer](https://github.com/DonAurelio/text-analyzer) - This projects is dedicated to an University Assignment about Natural Language Processing With Freeling and Python
+- [alterae/text-replacer](https://github.com/alterae/text-replacer) - A simple find-and-replace utility, built in vanilla html, css, and typescript.
+- [VivekChoudhary77/Textify-text-Preprocessing](https://github.com/VivekChoudhary77/Textify-text-Preprocessing) - A text preprocessing web application
+- [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs
 - [haseeb-heaven/awesome-chatgpt-prompts](https://github.com/haseeb-heaven/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
 - [gabor-farkas/photo-duplicates](https://github.com/gabor-farkas/photo-duplicates) - Remove photos uploaded multiple times to Google Photos
@@ -535,6 +549,7 @@
 
 ## Java 
 
+- [forTEXT/catma](https://github.com/forTEXT/catma) - Computer Assisted Text Markup and Analysis
 - [EtienneAb3d/karaok-AI](https://github.com/EtienneAb3d/karaok-AI) - Karaoke Player / Editor with automatic clip creation from any song file using vocals and lyrics extraction (Speech-to-Text)
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [Fanping/iveely.search](https://github.com/Fanping/iveely.search) - Pure java realize search engine, try to directly hit the user's search for answers.
@@ -565,6 +580,25 @@
 
 ## JavaScript 
 
+- [trinib/weboasis](https://github.com/trinib/weboasis) - Mirror
+- [ruancorrea/manipulating_Text](https://github.com/ruancorrea/manipulating_Text) - Responsive website of an online text editor and completely free. Developed with NodeJs, VueJs and Bootstrap.
+- [regal-rahul/textutils](https://github.com/regal-rahul/textutils) - Text Manipulation
+- [Ankan-cyber/textutils](https://github.com/Ankan-cyber/textutils) - TextUtils is a simple and user-friendly text manipulation tool built with React. It allows you to easily convert text to uppercase, lowercase, and remove spaces.
+- [UtkarshChaurasia/textutils](https://github.com/UtkarshChaurasia/textutils) - TextUtils is a text to audio converter and a text utility that can be used to manipulate your text in the way you want.
+- [Swap-nil-2003/TextUtils-ReactApp01](https://github.com/Swap-nil-2003/TextUtils-ReactApp01) - TextUtils-A Text Utility App built with React.
+- [mustan-ali/TextUtils](https://github.com/mustan-ali/TextUtils) - TextUtils is a web-based text utility tool built using React JS. It offer a user-friendly interface and efficient performance. It allows users to edit, format, manipulate and convert text.
+- [himanshuchandola-zz/textapp](https://github.com/himanshuchandola-zz/textapp) - TextUtils, My First React App which is a text utility app with various features.
+- [Syed-Zaheer-Hossain/TextUtils](https://github.com/Syed-Zaheer-Hossain/TextUtils) - This is a React JS based web app used to manipulate, analyze and modify your text.  This website uses React Router setup for displaying the webpages and making it a single page application. React Func
+- [KevinGutowski/Truncat](https://github.com/KevinGutowski/Truncat) - A Sketch plugin to truncate text.
+- [colgatto/Poliparser](https://github.com/colgatto/Poliparser) - The only parser you need
+- [cutiful/replace-in-html](https://github.com/cutiful/replace-in-html) - Replace text in HTML strings without messing up element attributes.
+- [Shawn91/DocTor](https://github.com/Shawn91/DocTor) - A tabular/list/plain text cleaner
+- [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
+- [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [jersou/markdown-explorer](https://github.com/jersou/markdown-explorer) - Easily explore, view and edit markdown documentation of a file tree
+- [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - 
+- [puppe1990/useful_chatgpt_prompts](https://github.com/puppe1990/useful_chatgpt_prompts) - ChatGPT Prompts is a web application that provides prompts generated by the OpenAI GPT-3 language model. The prompts can be used for a variety of purposes, such as inspiration for writing, conversatio
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [djjoa/Obsidian-System-Commands-Execution-Templates](https://github.com/djjoa/Obsidian-System-Commands-Execution-Templates) - Tutorial on executing system commands within Obsidian using Templater and user definied functions.
@@ -1021,6 +1055,9 @@
 
 ## Jupyter Notebook 
 
+- [Mel-iza/The-Natural-Language-Processing-Workshop](https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop) - Sharing the NLP The Natural Language Processing Workshop book exercises and notes
+- [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
+- [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [v8hid/infinite-zoom-stable-diffusion](https://github.com/v8hid/infinite-zoom-stable-diffusion) - resources for creating Ininite zoom video using Stable Diffiusion, you can use multiple prompts and it is easy to use.
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
@@ -1214,13 +1251,16 @@
 
 ## Others 
 
+- [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
+- [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
+- [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 - [JordanEJ/Siri-Shortcut-Collection](https://github.com/JordanEJ/Siri-Shortcut-Collection) - A collection of all the Siri Shortcuts I have made
 - [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
 - [forReason/GPT-Prompt-Templates](https://github.com/forReason/GPT-Prompt-Templates) - this library contains templates and forms which can be used to simply write productive chat gpt prompts
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [marcin-laskowski/awesome-chatgpt-plugins](https://github.com/marcin-laskowski/awesome-chatgpt-plugins) - A curated list of ChatGPT plugins.
-- [itsuka-dev/awesome-chatgpt-plugins](https://github.com/itsuka-dev/awesome-chatgpt-plugins) - Curated list of resources for learning ChatGPT plugins
+- [itsuka-dev/awesome-chatgpt-plugins](https://github.com/itsuka-dev/awesome-chatgpt-plugins) - List of resources for learning ChatGPT plugins
 - [ambr0sial/unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 - [jqueryscript/awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT
 - [chat-guy/awesome-chatgpt-plugins](https://github.com/chat-guy/awesome-chatgpt-plugins) - An up-to-date collection of info about plugins for ChatGPT from OpenAI 💡
@@ -1535,6 +1575,10 @@
 
 ## PHP 
 
+- [pH-7/Html2Text](https://github.com/pH-7/Html2Text) - A very simple (but efficient) "HTML to plain text" converter ✍️
+- [MoritzLost/TextformatterPageTitleLinks](https://github.com/MoritzLost/TextformatterPageTitleLinks) - A Textformatter module for Processwire that will automatically add links to titles of other pages in a text.
+- [PHP-Science/TextRank](https://github.com/PHP-Science/TextRank) - :cyclone: :zap: :earth_africa: TextRank (automatic text summarization) for PHP7 and 8
+- [carmelosantana/prompts](https://github.com/carmelosantana/prompts) - Stable diffussion prompt generator.
 - [productivity-rocks/ai-optimizer-website](https://github.com/productivity-rocks/ai-optimizer-website) - Website of the all in one ChatGPT/OpenAI optimizer!
 - [Invis1ble/media-intelligence](https://github.com/Invis1ble/media-intelligence) - A library for processing and analyzing media content, providing tools for audio, video and text analysis.
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
@@ -1647,8 +1691,33 @@
 
 ## Python 
 
+- [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
+- [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
+- [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
+- [gojefferson/dumbdown](https://github.com/gojefferson/dumbdown) - Extremely simplified markdown parsing and HTML construction
+- [has-abi/docparser](https://github.com/has-abi/docparser) - Extract text from your DOCX  documents.
+- [BloodyToolzz/Bloody-Duplicates-Remover](https://github.com/BloodyToolzz/Bloody-Duplicates-Remover) - Simple duplicates remover for text files with too much text.
+- [NVIDIA/NeMo-text-processing](https://github.com/NVIDIA/NeMo-text-processing) - NeMo text processing for ASR and TTS
+- [Lipairui/textgo](https://github.com/Lipairui/textgo) - Text preprocessing, representation, similarity calculation, text search and classification. Let's go and play with text!
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+- [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
+- [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
+- [biolab/orange3-text](https://github.com/biolab/orange3-text) - 🍊 :page_facing_up: Text Mining add-on for Orange3
+- [cortega26/PDF-Text-Analizer](https://github.com/cortega26/PDF-Text-Analizer) - This project is a script that downloads a PDF from a given URL, converts it to text, and performs text analysis. The text analysis includes detecting the language of the text, removing stopwords and c
+- [jboynyc/textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.
+- [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
+- [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 100 pre-implemented features.
+- [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
+- [gtoffoli/commons-textanalysis](https://github.com/gtoffoli/commons-textanalysis) - Text-analysis support for Django clients, talking through HTTP API to an extended spaCy deployment.
+- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
+- [1994nikunj/nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichlet 
+- [rhasspy/gruut](https://github.com/rhasspy/gruut) - A tokenizer, text cleaner, and phonemizer for many human languages.
+- [UtilityHotbar/showmd](https://github.com/UtilityHotbar/showmd) - 
+- [Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch information about a public Google document.
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
+- [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - Library of prompts/contexts that allows to enhance GPT models responses without the involvement of the user
 - [raul23/convert-to-txt](https://github.com/raul23/convert-to-txt) - Convert documents (pdf, djvu, epub, word) to txt
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [JeanMichelChien/Obsidian-keyword-extractor](https://github.com/JeanMichelChien/Obsidian-keyword-extractor) - Use NLP Rake-NLTK algorithm to tag automatically Obsidian note files and link ideas together easily
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
@@ -1656,7 +1725,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like ques
 - [akshata29/chatpdf](https://github.com/akshata29/chatpdf) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT cre
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [haseeb-heaven/OpenAI-ImageGenerator](https://github.com/haseeb-heaven/OpenAI-ImageGenerator) - OpenAI-ImageGenerator is image generator using OpenAPI.
 - [haseeb-heaven/ChatGPT-3-Tokenizer](https://github.com/haseeb-heaven/ChatGPT-3-Tokenizer) - ChatGPT-3-Tokenizer is tokenizer which calculates tokens and price of input query.
 - [haseeb-heaven/AI-Assets-Generator](https://github.com/haseeb-heaven/AI-Assets-Generator) - A powerful application to generate AI-generated Assets using DALL-E,Stable Diffustion and DeepAI.
@@ -2372,6 +2441,8 @@
 
 ## Rust 
 
+- [aalekhpatel07/text-cleaner](https://github.com/aalekhpatel07/text-cleaner) - A WASM-based Yew web app to manipulate text by some commonly used operations.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
 - [devzbysiu/dox](https://github.com/devzbysiu/dox) - Index and search your documents
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
@@ -2418,7 +2489,7 @@
 - [Farallon-OSINT/OSINT-Project](https://github.com/Farallon-OSINT/OSINT-Project) - This project is using Digital Garden to publish from Obsidian. It can be seen here
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
-- [guilhermeborgesbastos/live-resume](https://github.com/guilhermeborgesbastos/live-resume) - 简历模版 Stand out of the crowd by showing a professional website/resume. Building fast and easy the best Personal Web Application resume!
+- [guilhermeborgesbastos/live-resume](https://github.com/guilhermeborgesbastos/live-resume) - 简历模版 Create a professional website & resume that helps you stand out from the crowd using our fast and easy personal web application, designed to highlight your skills and experience.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [hungsu/typomagical-obsidian](https://github.com/hungsu/typomagical-obsidian) - An Obsidian theme for typographic appreciators, with support for Style Settings by mgmeyers
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
@@ -2435,6 +2506,10 @@
 
 ## Shell 
 
+- [tsuyoshicho/action-textlint](https://github.com/tsuyoshicho/action-textlint) - Run textlint with reviewdog on pull requests to improve document writing experience.
+- [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
+- [userscripters/multiline-chat-markdown](https://github.com/userscripters/multiline-chat-markdown) - Properly displays multiline chat messages
+- [wangkuiyi/mdfmt](https://github.com/wangkuiyi/mdfmt) - Auto reformat Markdown files
 - [dan-snelson/Setup-Your-Mac](https://github.com/dan-snelson/Setup-Your-Mac) - Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -2517,7 +2592,7 @@
 
 ## Svelte 
 
-- [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
+- [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [nevernotmove/obsidian-stats](https://github.com/nevernotmove/obsidian-stats) - Display obsidian plugin download statistics.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -2588,6 +2663,13 @@
 
 ## TypeScript 
 
+- [laobubu/MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
+- [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will then
+- [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
+- [adifyr/obsidian-chat-view](https://github.com/adifyr/obsidian-chat-view) - An elegant chat view for Obsidian pages.
+- [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - AI wizard powers for mere mortals
+- [sevazhidkov/prompts-ai](https://github.com/sevazhidkov/prompts-ai) - Advanced playground for GPT-3
+- [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
 - [vasilecampeanu/obsidian-bloom-copilot](https://github.com/vasilecampeanu/obsidian-bloom-copilot) - 
 - [velebit/obsidian-save-console-log](https://github.com/velebit/obsidian-save-console-log) - Obsidian plugin that redirects the developer console log to a file
@@ -2718,7 +2800,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - Publish your digital garden, docs or any markdown based site easily, quickly and elegantly
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish your digital garden, docs or any markdown based site easily, quickly and elegantly
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
 - [marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create thumbnails, and banners with HTML5 canvas
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
@@ -2910,6 +2992,10 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 
+## Vala 
+
+- [phastmike/tagger](https://github.com/phastmike/tagger) - A simple text tagger
+
 ## Vim Script 
 
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
@@ -2928,6 +3014,7 @@
 
 ## Vue 
 
+- [KyleWen33/PromptXYZ](https://github.com/KyleWen33/PromptXYZ) - 
 - [LuotaoGithub/ChatGPT-Web](https://github.com/LuotaoGithub/ChatGPT-Web) - 
 - [SmileBuild/ChatGPT-Web](https://github.com/SmileBuild/ChatGPT-Web) - ChatGPT page with API instand of offical pages. You can modify params, save and download the result as txt with prompt.
 - [sdras/hero-generator](https://github.com/sdras/hero-generator) - 🦸🏻‍♀️Hero Generator! Create a nice hero image for your site or app
