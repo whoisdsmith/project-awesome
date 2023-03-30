@@ -1283,7 +1283,7 @@
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
-- [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a dataset of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainly
+- [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a datasets of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainl
 - [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
@@ -1421,7 +1421,7 @@
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [YOURLS/awesome](https://github.com/YOURLS/awesome) - 🎉 A curated list of awesome things related to YOURLS
 - [machiav3lli/alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
-- [ciconia/awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
+- [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A hub of Free and open-source software for developers
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
@@ -1550,7 +1550,7 @@
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [DenisIzmaylov/awesome-telegram-bots](https://github.com/DenisIzmaylov/awesome-telegram-bots) - Collection of examples, libraries and starter-kits for Telegram Bots
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
-- [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -1693,6 +1693,8 @@
 
 ## Python 
 
+- [GhadeerElmkaiel/Notion_to_Obsidian](https://github.com/GhadeerElmkaiel/Notion_to_Obsidian) - An automatic way to move notes from Notion to Obsidian (Create a .md file)
+- [visualcurrent/Notion-2-Obsidan](https://github.com/visualcurrent/Notion-2-Obsidan) - Conversion routines to convert all Notion .md exports to full Obsidian compatibility
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
@@ -1817,7 +1819,7 @@
 - [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
 - [sturdy-dev/semantic-code-search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer
 - [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
-- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal to Obsidian Notes
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
@@ -2253,7 +2255,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic tool helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data.  It is being developed by the 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - This technology-agnostic framework helps to make software projects more portable, modular, reusable and reproducible across continuously changing software, hardware and data. It is powering the MLComm
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -2595,6 +2597,7 @@
 
 ## Svelte 
 
+- [ctwhome/notidian](https://github.com/ctwhome/notidian) - Open Source alternative to Notion + Obsidian
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [nevernotmove/obsidian-stats](https://github.com/nevernotmove/obsidian-stats) - Display obsidian plugin download statistics.
@@ -2666,6 +2669,8 @@
 
 ## TypeScript 
 
+- [Feavy/notion-to-obsidian](https://github.com/Feavy/notion-to-obsidian) - Create obsidian graph from notion.so page using Notion API
+- [danielh-official/notion-x-obsidian-plugin](https://github.com/danielh-official/notion-x-obsidian-plugin) - An Obsidian MD plugin to work with Notion pages.
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [laobubu/MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will then
