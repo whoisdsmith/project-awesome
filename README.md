@@ -1057,6 +1057,7 @@
 ## Jupyter Notebook 
 
 - [Mel-iza/The-Natural-Language-Processing-Workshop](https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop) - Sharing the NLP The Natural Language Processing Workshop book exercises and notes
+- [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
 - [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [v8hid/infinite-zoom-stable-diffusion](https://github.com/v8hid/infinite-zoom-stable-diffusion) - resources for creating Ininite zoom video using Stable Diffiusion, you can use multiple prompts and it is easy to use.
@@ -1725,7 +1726,6 @@
 - [UtilityHotbar/showmd](https://github.com/UtilityHotbar/showmd) - 
 - [Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch information about a public Google document.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
-- [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - Library of prompts/contexts that allows to enhance GPT models responses without the involvement of the user
 - [raul23/convert-to-txt](https://github.com/raul23/convert-to-txt) - Convert documents (pdf, djvu, epub, word) to txt
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [JeanMichelChien/Obsidian-keyword-extractor](https://github.com/JeanMichelChien/Obsidian-keyword-extractor) - Use NLP Rake-NLTK algorithm to tag automatically Obsidian note files and link ideas together easily
