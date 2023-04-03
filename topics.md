@@ -217,6 +217,7 @@
 
 ## ai 
 
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - AI wizard powers for mere mortals
@@ -257,7 +258,7 @@
 - [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /R
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -1027,6 +1028,7 @@
 
 ## chrome-extension 
 
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
@@ -2634,6 +2636,7 @@
 
 ## laravel 
 
+- [ueberdosis/alldocs.app](https://github.com/ueberdosis/alldocs.app) - Online text file converter
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [realodix/urlhub](https://github.com/realodix/urlhub) - ✂️ URL shortener web application based on the Laravel PHP Framework.
 - [maize-tech/laravel-markable](https://github.com/maize-tech/laravel-markable) - Integrate likes, bookmarks, favorites, reactions and custom made marks into your application
@@ -3300,7 +3303,7 @@
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [jboynyc/textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
-- [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 100 pre-implemented features.
+- [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 150 pre-implemented features.
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [Mel-iza/The-Natural-Language-Processing-Workshop](https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop) - Sharing the NLP The Natural Language Processing Workshop book exercises and notes
 - [gtoffoli/commons-textanalysis](https://github.com/gtoffoli/commons-textanalysis) - Text-analysis support for Django clients, talking through HTTP API to an extended spaCy deployment.
@@ -3553,6 +3556,8 @@
 
 ## others 
 
+- [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
+- [tvooo/awesome-plaintext](https://github.com/tvooo/awesome-plaintext) - 😎 Tools, applications and other resources for living a life in plain text
 - [STCData/TextEditor](https://github.com/STCData/TextEditor) - Mac/iOS GPT assisted text editor
 - [YohannLeee/ChatGPT-iMessage](https://github.com/YohannLeee/ChatGPT-iMessage) - chat with ChatGPT via iMessage on Mac OS X
 - [serp-ai/ChatGPT-Plugins](https://github.com/serp-ai/ChatGPT-Plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
@@ -4881,6 +4886,7 @@
 
 ## php 
 
+- [ueberdosis/alldocs.app](https://github.com/ueberdosis/alldocs.app) - Online text file converter
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [pH-7/Html2Text](https://github.com/pH-7/Html2Text) - A very simple (but efficient) "HTML to plain text" converter ✍️
 - [PHP-Science/TextRank](https://github.com/PHP-Science/TextRank) - :cyclone: :zap: :earth_africa: TextRank (automatic text summarization) for PHP7 and 8
