@@ -336,6 +336,7 @@
 
 ## Go 
 
+- [dwisiswant0/chatgptui](https://github.com/dwisiswant0/chatgptui) - ChatGPT 🤖 with Textual User Interface (TUI) mode written in Go.
 - [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
@@ -604,7 +605,7 @@
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [djjoa/Obsidian-System-Commands-Execution-Templates](https://github.com/djjoa/Obsidian-System-Commands-Execution-Templates) - Tutorial on executing system commands within Obsidian using Templater and user definied functions.
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com). And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 - [tokenshift/obsidian-spotify](https://github.com/tokenshift/obsidian-spotify) - Embed songs, albums and playlists from Spotify in your Obsidian notes.
@@ -1699,6 +1700,7 @@
 
 ## Python 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
 - [YohannLeee/ChatGPT-iMessage](https://github.com/YohannLeee/ChatGPT-iMessage) - chat with ChatGPT via iMessage on Mac OS X
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -1798,7 +1800,7 @@
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits  |🌎 ?| 📷 Multi-modal/Image | 💐 Self-maintai
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits  |🌎 ?| 📷 Multi-modal/Image |
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Automated tool for generating beautiful, informative, and well-structured README files. Powered by the OpenAI LLMs 💥
@@ -2690,7 +2692,6 @@
 - [sevazhidkov/prompts-ai](https://github.com/sevazhidkov/prompts-ai) - Advanced playground for GPT-3
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
-- [vasilecampeanu/obsidian-bloom-copilot](https://github.com/vasilecampeanu/obsidian-bloom-copilot) - 
 - [velebit/obsidian-save-console-log](https://github.com/velebit/obsidian-save-console-log) - Obsidian plugin that redirects the developer console log to a file
 - [MatthewCochrane/obsidian-embedding-search](https://github.com/MatthewCochrane/obsidian-embedding-search) - Index and Search your notes using embeddings for semantic search.
 - [L7Cy/obsidian-dynamic-timetable](https://github.com/L7Cy/obsidian-dynamic-timetable) - obsidian-dynamic-timetable
