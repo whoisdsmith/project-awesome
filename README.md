@@ -446,7 +446,6 @@
 - [mdnice/sitdown](https://github.com/mdnice/sitdown) - turn html to nice markdown
 - [island205/h2m](https://github.com/island205/h2m) - Tool for converting HTML to Markdown, like html2markdown.
 - [cata-list/cata-list.github.io](https://github.com/cata-list/cata-list.github.io) - Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.
-- [Tosoju/awesome-piracy](https://github.com/Tosoju/awesome-piracy) - A curated list of awesome warez and piracy links [but i actually update it]
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -605,7 +604,7 @@
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [djjoa/Obsidian-System-Commands-Execution-Templates](https://github.com/djjoa/Obsidian-System-Commands-Execution-Templates) - Tutorial on executing system commands within Obsidian using Templater and user definied functions.
-- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
+- [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app (chat.openai.com), its backend API calls and more. And some speculation, of course.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [saharmor/whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 - [tokenshift/obsidian-spotify](https://github.com/tokenshift/obsidian-spotify) - Embed songs, albums and playlists from Spotify in your Obsidian notes.
@@ -1360,6 +1359,7 @@
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [lovelacecoding/Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources) - A collection of helpful and educational resources I found on social media
+- [Tosoju/awesome-piracy](https://github.com/Tosoju/awesome-piracy) - A curated list of awesome warez and piracy links [but i actually update it]
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
@@ -1384,7 +1384,6 @@
 - [Olwiba/Kickass-markdown](https://github.com/Olwiba/Kickass-markdown) - A collection of Github markdown tricks for writing kickass READMEs, Pull Requests & Comments.
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
 - [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A single place for all the markdown syntaxes I have learned so far.
-- [VillainsRule/Bookmarklets](https://github.com/VillainsRule/Bookmarklets) - Bookmarklets to make your life easier.
 - [etsy/MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1722,7 +1721,7 @@
 - [cortega26/PDF-Text-Analizer](https://github.com/cortega26/PDF-Text-Analizer) - This project is a script that downloads a PDF from a given URL, converts it to text, and performs text analysis. The text analysis includes detecting the language of the text, removing stopwords and c
 - [jboynyc/textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
-- [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 150 pre-implemented features.
+- [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 220 pre-implemented features.
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [gtoffoli/commons-textanalysis](https://github.com/gtoffoli/commons-textanalysis) - Text-analysis support for Django clients, talking through HTTP API to an extended spaCy deployment.
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
