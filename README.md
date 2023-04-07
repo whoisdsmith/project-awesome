@@ -892,6 +892,7 @@
 - [anhthii/Echo](https://github.com/anhthii/Echo) - :musical_note: A music streaming app built with React and Nodejs
 - [nextcloud/registration](https://github.com/nextcloud/registration) - User registration app for Nextcloud
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
+- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [westberliner/checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1640,7 +1641,6 @@
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [shangril/crero](https://github.com/shangril/crero) - CMS for record labels, written to propel Crem Road records initially. Sell your physical releases at fixed price or in a "name your price" manner. Streaming or free download of online music. Digital m
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
 - [othmar52/slimpd](https://github.com/othmar52/slimpd) - PHP/JS based MPD-web-client for large music collections
 - [axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache status page; PHP web application that renders server-status page and makes it readable; even for load balanced websites
@@ -1924,7 +1924,6 @@
 - [guomo/ObsidianHelper](https://github.com/guomo/ObsidianHelper) - Simple scripts to generate local hierarchies for us with the popular obsidian not taking tool.
 - [Jachimo/obstagtools](https://github.com/Jachimo/obstagtools) - Obsidian YAML+Markdown document tagging tools
 - [lhaze/obsidian-github-formatter](https://github.com/lhaze/obsidian-github-formatter) - Utility tool to reformat markdown files of an Obsidian Vault to be naturally readable via GitHub Web.
-- [pythonadventurer/PySidian](https://github.com/pythonadventurer/PySidian) - Miscellaneous tools for the Obsidian note taking app.
 - [PabloLION/free-lightweight-obsidian-publisher](https://github.com/PabloLION/free-lightweight-obsidian-publisher) - 
 - [DobyTang/LazyLibrarian](https://github.com/DobyTang/LazyLibrarian) - This project isn't finished yet. Goal is to create a SickBeard, CouchPotato, Headphones-like application for ebooks. Headphones is used as a base, so there are still a lot of references to it.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2700,7 +2699,7 @@
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖 Chat with Ai, based on OpenAI gpt-3.5-turbo, deploy with Vercel
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
 - [devrsi0n/ChatMind](https://github.com/devrsi0n/ChatMind) - Yet another fast and reliable ChatGPT app.
-- [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - A Chat GPT Embedding Template
+- [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
@@ -2819,7 +2818,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish your digital garden, docs or any markdown based site easily, quickly and elegantly
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish your digital garden or any markdown site easily and elegantly.
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
 - [marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create thumbnails, and banners with HTML5 canvas
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
