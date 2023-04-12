@@ -419,7 +419,6 @@
 - [alterae/text-replacer](https://github.com/alterae/text-replacer) - A simple find-and-replace utility, built in vanilla html, css, and typescript.
 - [VivekChoudhary77/Textify-text-Preprocessing](https://github.com/VivekChoudhary77/Textify-text-Preprocessing) - A text preprocessing web application
 - [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs
-- [haseeb-heaven/awesome-chatgpt-prompts](https://github.com/haseeb-heaven/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
 - [gabor-farkas/photo-duplicates](https://github.com/gabor-farkas/photo-duplicates) - Remove photos uploaded multiple times to Google Photos
 - [Gewerd-Strauss/ObsidianScripts](https://github.com/Gewerd-Strauss/ObsidianScripts) - A variety of Obsidian.md helpers, in varying states of completion
@@ -1268,7 +1267,6 @@
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [marcin-laskowski/awesome-chatgpt-plugins](https://github.com/marcin-laskowski/awesome-chatgpt-plugins) - A curated list of ChatGPT plugins.
-- [itsuka-dev/awesome-chatgpt-plugins](https://github.com/itsuka-dev/awesome-chatgpt-plugins) - List of resources for learning ChatGPT plugins
 - [ambr0sial/unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 - [jqueryscript/awesome-chatgpt-plugins](https://github.com/jqueryscript/awesome-chatgpt-plugins) - An awesome & curated list of best plugins for ChatGPT
 - [ancs21/awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A curated list of awesome OpenAI's Whisper
@@ -2819,7 +2817,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish your digital garden or any markdown site easily and elegantly.
+- [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your digital garden or any markdown site easily and elegantly.
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
 - [marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create thumbnails, and banners with HTML5 canvas
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
