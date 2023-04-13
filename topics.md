@@ -281,7 +281,7 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [isekaidev/stable.art](https://github.com/isekaidev/stable.art) - Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)
 - [everyday-cc/ai](https://github.com/everyday-cc/ai) - A.I. Every Day
-- [0ut0flin3/GPTalk](https://github.com/0ut0flin3/GPTalk) - GPT-3 client for Windows and Unix with memories management that supports both text and speech in any language.
+- [0ut0flin3/Talk2GPT](https://github.com/0ut0flin3/Talk2GPT) - GPT-3 client for Windows and Unix with memories management that supports both text and speech in any language. Includes a free text2image
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -1044,7 +1044,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [davzoku/awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - 🏃💨 List of custom search engines & shortcuts to improve your daily workflow
 - [tIsGoud/save-chrome-tabs-to-day-one](https://github.com/tIsGoud/save-chrome-tabs-to-day-one) - Save all your Chrome tabs in a Day One 2 entry.
-- [MonroCoury/Forensic-Tools](https://github.com/MonroCoury/Forensic-Tools) - A collection of tools for forensic analysis
+- [MK-Ware/Forensic-Tools](https://github.com/MK-Ware/Forensic-Tools) - A collection of tools for forensic analysis
 - [reinzor/timeline-exporter](https://github.com/reinzor/timeline-exporter) - Google maps timeline exporter Chrome extension
 - [mathew-kurian/chrome-timeline-statistics](https://github.com/mathew-kurian/chrome-timeline-statistics) - Compute the statistics from a Chrome timeline
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
@@ -1696,7 +1696,7 @@
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [MonroCoury/Forensic-Tools](https://github.com/MonroCoury/Forensic-Tools) - A collection of tools for forensic analysis
+- [MK-Ware/Forensic-Tools](https://github.com/MK-Ware/Forensic-Tools) - A collection of tools for forensic analysis
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## flask 
@@ -3857,7 +3857,6 @@
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
-- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [JohnDeved/megacrypt.js](https://github.com/JohnDeved/megacrypt.js) - just a concept for now
 - [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [Loli-Killer/TgFolderClone](https://github.com/Loli-Killer/TgFolderClone) - Telegram bot for using folderclone
@@ -5176,7 +5175,7 @@
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
-- [MonroCoury/Forensic-Tools](https://github.com/MonroCoury/Forensic-Tools) - A collection of tools for forensic analysis
+- [MK-Ware/Forensic-Tools](https://github.com/MK-Ware/Forensic-Tools) - A collection of tools for forensic analysis
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [PicoJr/thread-time](https://github.com/PicoJr/thread-time) - SVG timeline from JSON
 - [hulk66/timeline](https://github.com/hulk66/timeline) - Timeline - A photo organizer
@@ -5303,6 +5302,7 @@
 
 ## qt 
 
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 
 ## r 
