@@ -235,7 +235,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
-- [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
+- [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - Collect practical AI tools, websites, papers and tutorials on AI. 实用的AI百宝箱
 - [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT cre
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
@@ -396,7 +396,7 @@
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
+- [faynopi/raindropcli](https://github.com/faynopi/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
@@ -916,7 +916,6 @@
 - [KyleWen33/PromptXYZ](https://github.com/KyleWen33/PromptXYZ) - 
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
-- [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
@@ -944,7 +943,7 @@
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [akshata29/chatpdf](https://github.com/akshata29/chatpdf) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
-- [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
+- [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [ambr0sial/unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
@@ -1012,7 +1011,6 @@
 
 - [dwisiswant0/chatgptui](https://github.com/dwisiswant0/chatgptui) - ChatGPT 🤖 with Textual User Interface (TUI) mode written in Go.
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
-- [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -1105,7 +1103,7 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [obsidian-tools/obsidian-tools](https://github.com/obsidian-tools/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
-- [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
+- [faynopi/raindropcli](https://github.com/faynopi/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -1468,6 +1466,7 @@
 - [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
+- [actions/deploy-pages](https://github.com/actions/deploy-pages) - GitHub Action to publish artifacts to GitHub Pages for deployments
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
 
@@ -1739,7 +1738,6 @@
 
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
@@ -2808,7 +2806,7 @@
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [Anay21110/Machine-Learning-Collection](https://github.com/Anay21110/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
-- [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
+- [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [ancs21/awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A curated list of awesome OpenAI's Whisper
@@ -3250,7 +3248,6 @@
 
 ## mysql 
 
-- [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
@@ -3648,7 +3645,6 @@
 - [CrimeIsDown/trunk-transcribe](https://github.com/CrimeIsDown/trunk-transcribe) - Transcription of calls from trunk-recorder using OpenAI Whisper
 - [hay/audio2text](https://github.com/hay/audio2text) - Python command line utility wrappers for Whispercpp and other speech-to-text utilities
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
-- [conneroisu/obsidian-tagist](https://github.com/conneroisu/obsidian-tagist) - The smart metadata tager of your notes with no setup using your openai api key.
 - [tokenshift/obsidian-spotify](https://github.com/tokenshift/obsidian-spotify) - Embed songs, albums and playlists from Spotify in your Obsidian notes.
 - [conneroisu/Text-Dataset-Aid-Plugin](https://github.com/conneroisu/Text-Dataset-Aid-Plugin) - This is a obsidian plugin to help with the creation of personal datasets for text generation models.
 - [nguyenvanduocit/obsidian-ai-assistant](https://github.com/nguyenvanduocit/obsidian-ai-assistant) - 
@@ -4087,7 +4083,6 @@
 - [benefiction/resume-reader](https://github.com/benefiction/resume-reader) - An interpreter for resume JSON data.
 - [perminder-klair/resume-parser](https://github.com/perminder-klair/resume-parser) - A Simple NodeJs library to parse Resume / CV to JSON.
 - [gogsbread/ResumeParser](https://github.com/gogsbread/ResumeParser) - Resume Parser using rule based approach. Developed using framework provided by GATE
-- [actions/deploy-pages](https://github.com/actions/deploy-pages) - 
 - [actions/jekyll-build-pages](https://github.com/actions/jekyll-build-pages) - A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages.
 - [GabrieleVir/Timeline-generator](https://github.com/GabrieleVir/Timeline-generator) - A generator of timelines
 - [kodestudio/neon](https://github.com/kodestudio/neon) - Simple static site generator (not sure) for display the repository's (GitHub) events on a timeline.
@@ -4961,7 +4956,6 @@
 
 ## postgresql 
 
-- [polterguy/magic](https://github.com/polterguy/magic) - Generate a web app in seconds with Low-Code and AI
 - [bookmarks-tools/bookmarks2db](https://github.com/bookmarks-tools/bookmarks2db) - :bookmark: examples of storing bookmarks data in a database (Neo4j, PostgreSQL using mptt and ltree)
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -4993,6 +4987,7 @@
 ## project-management 
 
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [leso-kn/tineline](https://github.com/leso-kn/tineline) - Tineline is a file format for describing schedules and rendering them in a horizontal timeline.
 - [santwer/BearSchedule](https://github.com/santwer/BearSchedule) - Simple and clear project management tool. With which it is possible to display one or more projects graphically.
 
@@ -5015,7 +5010,6 @@
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [DonAurelio/text-analyzer](https://github.com/DonAurelio/text-analyzer) - This projects is dedicated to an University Assignment about Natural Language Processing With Freeling and Python
-- [BloodyToolzz/Bloody-Duplicates-Remover](https://github.com/BloodyToolzz/Bloody-Duplicates-Remover) - Simple duplicates remover for text files with too much text.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
@@ -5027,7 +5021,6 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
-- [xiaowuc2/ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [raul23/convert-to-txt](https://github.com/raul23/convert-to-txt) - Convert documents (pdf, djvu, epub, word) to txt
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
@@ -5248,7 +5241,7 @@
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
 - [costis94/bookcut](https://github.com/costis94/bookcut) - Command Line Interface tool to download, organise and search free ebooks from your terminal in a moment.
 - [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
-- [Itsnexn/raindropcli](https://github.com/Itsnexn/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
+- [faynopi/raindropcli](https://github.com/faynopi/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
 - [AurelienAubry/Spotlight](https://github.com/AurelienAubry/Spotlight) - Spotlight is a Spotify dashboard that allows user to visualize his listening habits.
 - [OmkarPathak/ResumeParser](https://github.com/OmkarPathak/ResumeParser) - A simple resume parser used for extracting information from resumes
 - [Tanuj-tj/PortfolioGenerator](https://github.com/Tanuj-tj/PortfolioGenerator) - DevSearch is a Professional Portfolio generator web application where users are allowed to maintain their profiles, add projects, and also can interact with one another.
