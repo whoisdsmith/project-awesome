@@ -415,6 +415,7 @@
 
 ## artificial-intelligence 
 
+- [carlos-gg/digitalgarden](https://github.com/carlos-gg/digitalgarden) - Personal knowledge garden dedicated to AI, ML, AI for Earth Sciences, AI for good, Machine Learning and Data Science
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
@@ -936,7 +937,7 @@
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [marcin-laskowski/awesome-chatgpt-plugins](https://github.com/marcin-laskowski/awesome-chatgpt-plugins) - A curated list of ChatGPT plugins.
-- [Anay21110/Machine-Learning-Collection](https://github.com/Anay21110/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
+- [MrAnayDongre/Machine-Learning-Collection](https://github.com/MrAnayDongre/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [devrsi0n/ChatMind](https://github.com/devrsi0n/ChatMind) - Yet another fast and reliable ChatGPT app.
@@ -1336,6 +1337,7 @@
 
 ## data-science 
 
+- [carlos-gg/digitalgarden](https://github.com/carlos-gg/digitalgarden) - Personal knowledge garden dedicated to AI, ML, AI for Earth Sciences, AI for good, Machine Learning and Data Science
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [open-academy/machine-learning](https://github.com/open-academy/machine-learning) - 
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
@@ -2800,12 +2802,13 @@
 
 ## machine-learning 
 
+- [carlos-gg/digitalgarden](https://github.com/carlos-gg/digitalgarden) - Personal knowledge garden dedicated to AI, ML, AI for Earth Sciences, AI for good, Machine Learning and Data Science
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [martinic/DrMixAISynth](https://github.com/martinic/DrMixAISynth) - Doctor Mix AI Synth CLAP/VST2/AU synthesizer plugin.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
-- [Anay21110/Machine-Learning-Collection](https://github.com/Anay21110/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
+- [MrAnayDongre/Machine-Learning-Collection](https://github.com/MrAnayDongre/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [SoliMouse/songGPT](https://github.com/SoliMouse/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
@@ -3590,6 +3593,8 @@
 
 ## others 
 
+- [robinmin/xally](https://github.com/robinmin/xally) - X-Ally is an AI-based TUI (aka Terminal User Interface) tool that helps people do things more elegantly.
+- [Cranot/chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits) - ChatBot Injection and Exploit Examples: A Curated List of Prompt Engineer Commands - ChatGPT
 - [ycnmhd/obsidian-graph-presets](https://github.com/ycnmhd/obsidian-graph-presets) - Markdown-based graph controls
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
