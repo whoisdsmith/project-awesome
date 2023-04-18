@@ -335,7 +335,7 @@
 
 ## Go 
 
-- [robinmin/xally](https://github.com/robinmin/xally) - X-Ally is an AI-based TUI (aka Terminal User Interface) tool that helps people do things more elegantly.
+- [robinmin/xally](https://github.com/robinmin/xally) - X-Ally is an elegant command line client and relay server for ChatGPT.
 - [dwisiswant0/chatgptui](https://github.com/dwisiswant0/chatgptui) - ChatGPT 🤖 with Textual User Interface (TUI) mode written in Go.
 - [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -416,12 +416,14 @@
 
 ## HTML 
 
+- [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [DonAurelio/text-analyzer](https://github.com/DonAurelio/text-analyzer) - This projects is dedicated to an University Assignment about Natural Language Processing With Freeling and Python
 - [alterae/text-replacer](https://github.com/alterae/text-replacer) - A simple find-and-replace utility, built in vanilla html, css, and typescript.
 - [VivekChoudhary77/Textify-text-Preprocessing](https://github.com/VivekChoudhary77/Textify-text-Preprocessing) - A text preprocessing web application
 - [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
 - [gabor-farkas/photo-duplicates](https://github.com/gabor-farkas/photo-duplicates) - Remove photos uploaded multiple times to Google Photos
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.3) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [Gewerd-Strauss/ObsidianScripts](https://github.com/Gewerd-Strauss/ObsidianScripts) - A variety of Obsidian.md helpers, in varying states of completion
 - [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
 - [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
@@ -854,7 +856,7 @@
 - [ProfessorKolodziej/idea-generator](https://github.com/ProfessorKolodziej/idea-generator) - An idea generator, powered by a selected set of bookmarks on Raindrop.io.
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
 - [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create beautiful-looking cards for your GitHub profile or GitHub repo!
@@ -1253,6 +1255,8 @@
 
 ## Others 
 
+- [investler/Free-Resources-for-IT-Students](https://github.com/investler/Free-Resources-for-IT-Students) - As a student pursuing a degree in Information Technology, you need to constantly upgrade your knowledge and skills. Fortunately, there are numerous resources available to you for free. Here is a compr
+- [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
 - [Cranot/chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits) - ChatBot Injection and Exploit Examples: A Curated List of Prompt Engineer Commands - ChatGPT
 - [tvooo/awesome-plaintext](https://github.com/tvooo/awesome-plaintext) - 😎 Tools, applications and other resources for living a life in plain text
 - [STCData/TextEditor](https://github.com/STCData/TextEditor) - Mac/iOS GPT assisted text editor
@@ -2206,7 +2210,6 @@
 - [YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow) - DenseNet Implementation in Tensorflow
 - [FutureSharks/rpi-security](https://github.com/FutureSharks/rpi-security) - A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
 - [PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser) - Python script to parse the NTFS USN Journal
-- [futurelighthouse/iOS-private-api-checker](https://github.com/futurelighthouse/iOS-private-api-checker) - iOS-private-api-checker 苹果iOS私有API检查工具 Developer tool to scan iOS apps for private API usage before submitting to Apple
 - [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying to complete all projects from http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 - [argp/iBoot64helper](https://github.com/argp/iBoot64helper) - IDAPython loader to help with AArch64 iBoot, iBEC, and SecureROM reverse engineering
 - [pybrain/pybrain](https://github.com/pybrain/pybrain) - 
@@ -2525,7 +2528,6 @@
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.40.2) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client) - HeyCLI allows you to use your command line terminal in natural language
 - [jthat/zsh-namelink](https://github.com/jthat/zsh-namelink) - zsh plugin for synchronized mapping of filesystem entries to the named directory hash
 - [blackhatethicalhacking/XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket) - XSS Rocket is written by Black Hat Ethical Hacking with the help of #ChatGPT as experimentation, with a lot of hours spent modifying the code generated by ChatGPT, and is designed for Offensive Securi
