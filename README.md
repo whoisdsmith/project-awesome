@@ -416,6 +416,9 @@
 
 ## HTML 
 
+- [narenaryan/Vidura](https://github.com/narenaryan/Vidura) - A chat GPT prompt management system for your prompt engineering
+- [nando-rifky/GPT](https://github.com/nando-rifky/GPT) - GPT Prompt
+- [ilyasseda/loopgpt](https://github.com/ilyasseda/loopgpt) - Create infinite loops with using one prompt. one .html file
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [DonAurelio/text-analyzer](https://github.com/DonAurelio/text-analyzer) - This projects is dedicated to an University Assignment about Natural Language Processing With Freeling and Python
 - [alterae/text-replacer](https://github.com/alterae/text-replacer) - A simple find-and-replace utility, built in vanilla html, css, and typescript.
@@ -582,6 +585,10 @@
 
 ## JavaScript 
 
+- [adamlui/chatgpt-addons](https://github.com/adamlui/chatgpt-addons) - 🤖 Add-ons that utilize the astounding power of ChatGPT or enhance its UX
+- [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
+- [iAmmarTahir/KnowledgeGraphGPT](https://github.com/iAmmarTahir/KnowledgeGraphGPT) - Transform plain text into a visually stunning Knowledge Graph with GPT-3! It converts text into RDF tuples, and highlights the most frequent connections with a vibrant color-coding system. Download th
+- [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
 - [excing/chatgpt](https://github.com/excing/chatgpt) - Build your own ChatGPT website.
 - [trinib/weboasis](https://github.com/trinib/weboasis) - Mirror
 - [ruancorrea/manipulating_Text](https://github.com/ruancorrea/manipulating_Text) - Responsive website of an online text editor and completely free. Developed with NodeJs, VueJs and Bootstrap.
@@ -681,7 +688,6 @@
 - [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
-- [zeus-12/fmhy-ui](https://github.com/zeus-12/fmhy-ui) - frontend for a popular reddit community, fmhy.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [patheticGeek/gdrive-index](https://github.com/patheticGeek/gdrive-index) - An index server for Google Drive
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -733,7 +739,7 @@
 - [sphido/sphido](https://github.com/sphido/sphido) - A rocket 🚀 fast, light-weight and flexible static site generator.
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - An opensource initiative to which over 37 individuals from all over the world collaborated in order to streamline the process of learning Git and GitHub.
 - [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought.
-- [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
+- [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown).
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
 - [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [kewbish/matter](https://github.com/kewbish/matter) - An RSS links page + bookmarking tool.
@@ -1058,6 +1064,8 @@
 
 ## Jupyter Notebook 
 
+- [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
+- [usc-isi-i2/kgtk](https://github.com/usc-isi-i2/kgtk) - Knowledge Graph Toolkit
 - [Mel-iza/The-Natural-Language-Processing-Workshop](https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop) - Sharing the NLP The Natural Language Processing Workshop book exercises and notes
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
@@ -1255,6 +1263,11 @@
 
 ## Others 
 
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+- [PR0CK0/StableDiffusionEndToEndGuide](https://github.com/PR0CK0/StableDiffusionEndToEndGuide) - An End-to-End Guide for Learning Stable Diffusion - From Noob to Pro
+- [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
+- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [investler/Free-Resources-for-IT-Students](https://github.com/investler/Free-Resources-for-IT-Students) - As a student pursuing a degree in Information Technology, you need to constantly upgrade your knowledge and skills. Fortunately, there are numerous resources available to you for free. Here is a compr
 - [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
 - [Cranot/chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits) - ChatBot Injection and Exploit Examples: A Curated List of Prompt Engineer Commands - ChatGPT
@@ -1290,7 +1303,7 @@
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
-- [Yuan-ManX/AI-Audio-Datasets-List](https://github.com/Yuan-ManX/AI-Audio-Datasets-List) - This is a datasets of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainl
+- [Yuan-ManX/AI-Audio-Dataset-List](https://github.com/Yuan-ManX/AI-Audio-Dataset-List) - This is a datasets of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainl
 - [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
@@ -1700,6 +1713,23 @@
 
 ## Python 
 
+- [avocardio/GPT-agents](https://github.com/avocardio/GPT-agents) - Browsing-enabled GPT agents with different personalities.
+- [kreneskyp/ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
+- [momegas/megabots](https://github.com/momegas/megabots) - 🤖 State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch 🤯 Create a bot, now 🫵
+- [miranthajayatilake/nanoQA2](https://github.com/miranthajayatilake/nanoQA2) - ChatGPT on your own data
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - Free gpt4 / gpt3.5 access through several reverse engineered api's (poe.com, phind.com, t3nsor.com etc...)
+- [360macky/webrewind](https://github.com/360macky/webrewind) - 🤖⌚️ ChatGPT plugin that allows you to see how websites looked like in the past.
+- [UsmanLiaqat99/chat-gpt-max](https://github.com/UsmanLiaqat99/chat-gpt-max) - Chat-gpt Max Addittion (get real time data & generate images)
+- [alaeddine-13/thinkgpt](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, prompt engineering)
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
+- [geeks-of-data/knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources.
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Chatbot with Long Term Memory and Task-Specific Modules using GPT 3.5 Turbo, GPT 4, and Pinecone.
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🤖🪄 A batteries-included library for building AI-powered software
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
+- [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
 - [YohannLeee/ChatGPT-iMessage](https://github.com/YohannLeee/ChatGPT-iMessage) - chat with ChatGPT via iMessage on Mac OS X
@@ -1718,7 +1748,7 @@
 - [jbesomi/texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [biolab/orange3-text](https://github.com/biolab/orange3-text) - 🍊 :page_facing_up: Text Mining add-on for Orange3
-- [cortega26/PDF-Text-Analizer](https://github.com/cortega26/PDF-Text-Analizer) - This project is a script that downloads a PDF from a given URL, converts it to text, and performs text analysis. The text analysis includes detecting the language of the text, removing stopwords and c
+- [cortega26/PDF-Text-Analizer](https://github.com/cortega26/PDF-Text-Analizer) - This repository houses a script that can download PDFs from a specified URL, convert them to text, and perform text analysis. This analysis includes identifying the language, eliminating stopwords, an
 - [jboynyc/textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 200 pre-implemented features.
@@ -2452,6 +2482,9 @@
 
 ## Rust 
 
+- [getcollective-ai/collective](https://github.com/getcollective-ai/collective) - 🦾 An AI developer that evolves to fit your needs
+- [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [aalekhpatel07/text-cleaner](https://github.com/aalekhpatel07/text-cleaner) - A WASM-based Yew web app to manipulate text by some commonly used operations.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
@@ -2678,6 +2711,14 @@
 
 ## TypeScript 
 
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The end to end platform to help you ship embeddings-powered apps
+- [AGIExpress/AGIExpress](https://github.com/AGIExpress/AGIExpress) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you 
+- [nathsou/plugpt](https://github.com/nathsou/plugpt) - OpenAI GPT chat interface with custom plugins
+- [pbk123461/ChatGPT](https://github.com/pbk123461/ChatGPT) - An amazing open-source web app that allows you to use OpenAI's ChatGPT!. I would recommend to go to the github.io link if not working go to the other link but the glitch.me link is limited but doesn't
+- [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files.
+- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ycnmhd/obsidian-graph-presets](https://github.com/ycnmhd/obsidian-graph-presets) - Markdown-based graph controls
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
@@ -2820,6 +2861,7 @@
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your digital garden or any markdown site easily and elegantly.
+- [zeus-12/fmhy-ui-vite](https://github.com/zeus-12/fmhy-ui-vite) - frontend for a popular reddit community, fmhy.
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
 - [marshallku/banner-maker](https://github.com/marshallku/banner-maker) - Create thumbnails, and banners with HTML5 canvas
 - [thingnotok/obsidian-google-mail](https://github.com/thingnotok/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
