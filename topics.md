@@ -1033,7 +1033,7 @@
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
 - [Qiamast/ChatGPT-Awesome-Prompts](https://github.com/Qiamast/ChatGPT-Awesome-Prompts) - A collection of creative prompts for the GPT-3 model on GitHub to help improve productivity and efficiency in open-source projects. Join the community and help create more awesome prompts.
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Automated tool for generating beautiful, informative, and well-structured README files. Powered by the OpenAI LLMs 💥
+- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Automated tool for generating beautiful, informative, and well-structured README files. Powered by the OpenAI LLMs 💫
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
@@ -3703,10 +3703,20 @@
 
 ## others 
 
+- [ophidian-lib/core](https://github.com/ophidian-lib/core) - A Component Framework for Obsidian Plugins
+- [MichaelLepori/ObsiWizy](https://github.com/MichaelLepori/ObsiWizy) - Tool for Obsidian Users
+- [mm53bar/obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for Obsidian.md
+- [dtinth/markdown-report-action](https://github.com/dtinth/markdown-report-action) - Attachs some Markdown report to the GitHub Actions build
+- [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
+- [victorb/metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application
+- [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
+- [typpo/arkose](https://github.com/typpo/arkose) - GPT-enhanced document editor
+- [ocdevel/gnothi](https://github.com/ocdevel/gnothi) - Personal journal that uses AI to give insights and resources.
+- [seanpixel/Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [dellermann/obsidian-console](https://github.com/dellermann/obsidian-console) - An Obsidian plugin which renders console commands and their output.
-- [asifm/dsh-obsidian-eleventy](https://github.com/asifm/dsh-obsidian-eleventy) - 
-- [ajp1708/obsidian-ChatGPTView](https://github.com/ajp1708/obsidian-ChatGPTView) - Small plugin in order to open up a view of the ChatGPT webpage directly in obsidian
+- [asifm/data-science-handbook](https://github.com/asifm/data-science-handbook) - Draft of a handbook for aspiring data scientists. WIP.
+- [ajp1708/obsidian-chatgpt-view](https://github.com/ajp1708/obsidian-chatgpt-view) - Small plugin in order to open up a view of the ChatGPT webpage directly in obsidian
 - [RyanCotsakis/obsidian-logic](https://github.com/RyanCotsakis/obsidian-logic) - Visualizing Propositional Logic in Obsidian
 - [clampro/obsidianURLchecker](https://github.com/clampro/obsidianURLchecker) - Checks your notes for URLs and logs the ones that are not reachable
 - [bnvk/text-scrub](https://github.com/bnvk/text-scrub) - This ain't yo grand daddy's find & replace or trim tool
