@@ -364,7 +364,7 @@
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [cryptix/gombrella](https://github.com/cryptix/gombrella) - extract bookmarks from raindrop.io
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -671,6 +671,7 @@
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [devbean/obsidian-wordpress](https://github.com/devbean/obsidian-wordpress) - An obsidian plugin for publishing docs to WordPress.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Exports obsidian documents as html, correctly including all styling and formatting.
 - [dabblelab/gptanswers-node](https://github.com/dabblelab/gptanswers-node) - Building a GPT-3 Knowledge Base App (NodeJS)
 - [1000ch/node-github-markdown](https://github.com/1000ch/node-github-markdown) - Parse GitHub flavored markdown to static html.
 - [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
@@ -2728,7 +2729,7 @@
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [DanielFiller30/ScriptManager](https://github.com/DanielFiller30/ScriptManager) - Easy to use menu bar-tool for your mac, to run shell-scripts.
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
@@ -2924,7 +2925,6 @@
 - [rien7/obsidian-colorful-tag](https://github.com/rien7/obsidian-colorful-tag) - Make your tag more beautiful and powerful!
 - [dobrovolsky/obsidian-structure](https://github.com/dobrovolsky/obsidian-structure) - 
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Exports obsidian documents as html, correctly including all styling and formatting.
 - [CobyPear/obsidian-diy-sync](https://github.com/CobyPear/obsidian-diy-sync) - Obsidian.md plugin + expressjs server for syncing and publishing markdown content
 - [ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) - Grabs data from IVRE and brings it into Obsidian notes
 - [vilmacio/gslides-maker](https://github.com/vilmacio/gslides-maker) - Generate Google Slides from Wikipedia content
