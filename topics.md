@@ -252,7 +252,7 @@
 - [martinic/DrMixAISynth](https://github.com/martinic/DrMixAISynth) - Doctor Mix AI Synth CLAP/VST2/AU synthesizer plugin.
 - [v8hid/infinite-zoom-stable-diffusion](https://github.com/v8hid/infinite-zoom-stable-diffusion) - resources for creating Ininite zoom video using Stable Diffiusion, you can use multiple prompts and it is easy to use.
 - [productivity-rocks/ai-optimizer-website](https://github.com/productivity-rocks/ai-optimizer-website) - Website of the all in one ChatGPT/OpenAI optimizer!
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [forReason/GPT-Prompt-Templates](https://github.com/forReason/GPT-Prompt-Templates) - this library contains templates and forms which can be used to simply write productive chat gpt prompts
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
@@ -882,7 +882,7 @@
 - [warpdotdev/workflows](https://github.com/warpdotdev/workflows) - Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [uriel1998/muna](https://github.com/uriel1998/muna) - Clean a series of links, resolving redirects and finding Wayback results if page is gone. Originally written to aid with importing from ArchiveBox.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [KevCui/download-github-stars](https://github.com/KevCui/download-github-stars) - :star2: Download Github user's stars information to local md/json file
@@ -918,7 +918,7 @@
 
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits  |🌎 ?| 📷 Multi-modal/Image |
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
@@ -988,7 +988,7 @@
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
 - [martinic/DrMixAISynth](https://github.com/martinic/DrMixAISynth) - Doctor Mix AI Synth CLAP/VST2/AU synthesizer plugin.
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [forReason/GPT-Prompt-Templates](https://github.com/forReason/GPT-Prompt-Templates) - this library contains templates and forms which can be used to simply write productive chat gpt prompts
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
@@ -1085,7 +1085,7 @@
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [dwisiswant0/chatgptui](https://github.com/dwisiswant0/chatgptui) - ChatGPT 🤖 with Textual User Interface (TUI) mode written in Go.
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -1889,7 +1889,7 @@
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -2067,7 +2067,7 @@
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [hueristiq/hqurlfind3r](https://github.com/hueristiq/hqurlfind3r) - A passive reconnaissance tool for known URLs discovery.
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -2211,7 +2211,7 @@
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [shreyasminocha/regex-for-regular-folk](https://github.com/shreyasminocha/regex-for-regular-folk) - 🔍💪 Regular Expressions for Regular Folk — A visual, example-based introduction to RegEx [BETA]
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [svengreb/tmpl](https://github.com/svengreb/tmpl) - A collection of template repositories for new projects.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -3019,7 +3019,7 @@
 - [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you have in your choice of several different voices. It also creates realtime images using A.I., all by leveragin
 - [martinic/DrMixAISynth](https://github.com/martinic/DrMixAISynth) - Doctor Mix AI Synth CLAP/VST2/AU synthesizer plugin.
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
@@ -5202,7 +5202,7 @@
 - [djjoa/Obsidian-System-Commands-Execution-Templates](https://github.com/djjoa/Obsidian-System-Commands-Execution-Templates) - Tutorial on executing system commands within Obsidian using Templater and user definied functions.
 - [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline of Active Directory changes with replication metadata
 
@@ -5987,7 +5987,7 @@
 ## swift 
 
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
 - [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
 - [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync. Compiled for macOS Big Sur and later
@@ -6014,7 +6014,7 @@
 
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [DanielFiller30/ScriptManager](https://github.com/DanielFiller30/ScriptManager) - Easy to use menu bar-tool for your mac, to run shell-scripts.
-- [Renset/macai](https://github.com/Renset/macai) - macai (macOS AI) is a simple yet powerful native macOS client made with the help of ChatGPT to interact with modern AI tools (currently, only ChatGPT is supported)
+- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
