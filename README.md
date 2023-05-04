@@ -315,7 +315,6 @@
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [github-actions-x/hugo](https://github.com/github-actions-x/hugo) - Build you site with Hugo
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
-- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 
 ## Elixir 
 
@@ -672,7 +671,6 @@
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [devbean/obsidian-wordpress](https://github.com/devbean/obsidian-wordpress) - An obsidian plugin for publishing docs to WordPress.
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Exports obsidian documents as html, correctly including all styling and formatting.
 - [dabblelab/gptanswers-node](https://github.com/dabblelab/gptanswers-node) - Building a GPT-3 Knowledge Base App (NodeJS)
 - [1000ch/node-github-markdown](https://github.com/1000ch/node-github-markdown) - Parse GitHub flavored markdown to static html.
 - [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
@@ -1095,7 +1093,6 @@
 
 - [IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not r
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [madeyexz/notion-obsidian-csv-query](https://github.com/madeyexz/notion-obsidian-csv-query) - Query Notion/Obsidian or any csv file using vector embedding, vector database and GPT (under heavy dev)
 - [Pushkar1853/Cover-Generator](https://github.com/Pushkar1853/Cover-Generator) - Application of OpenAI tools such as Whisper, DALL-E, and ChatGPT to generate album covers from audio
 - [usc-isi-i2/kgtk](https://github.com/usc-isi-i2/kgtk) - Knowledge Graph Toolkit
 - [Mel-iza/The-Natural-Language-Processing-Workshop](https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop) - Sharing the NLP The Natural Language Processing Workshop book exercises and notes
@@ -1167,6 +1164,7 @@
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [aterenin/Photos](https://github.com/aterenin/Photos) - A desktop app for the Google Photos website with dark mode support.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree) - a standard filetree for /r/datacurator [ and r/datahoarder ]
@@ -1767,6 +1765,7 @@
 - [clampro/obsidianURLchecker](https://github.com/clampro/obsidianURLchecker) - Checks your notes for URLs and logs the ones that are not reachable
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
 - [AayushG159/NotionToObsidian](https://github.com/AayushG159/NotionToObsidian) - A simple tool which migrates all your notion notes to be obsidian ready
+- [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query Notion/Obsidian or any markdown file using vector embedding, Pinecone vector database and GPT (langchain)
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [Cohee1207/TavernAI-extras](https://github.com/Cohee1207/TavernAI-extras) - Unofficial extensions for TavernAI
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
@@ -2925,6 +2924,7 @@
 - [rien7/obsidian-colorful-tag](https://github.com/rien7/obsidian-colorful-tag) - Make your tag more beautiful and powerful!
 - [dobrovolsky/obsidian-structure](https://github.com/dobrovolsky/obsidian-structure) - 
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export is a plugin for Obsidian which lets you export single files or whole vaults as HTML websites / webpages. It is similar to publish, but you get the .html files to do whatever you wa
 - [CobyPear/obsidian-diy-sync](https://github.com/CobyPear/obsidian-diy-sync) - Obsidian.md plugin + expressjs server for syncing and publishing markdown content
 - [ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) - Grabs data from IVRE and brings it into Obsidian notes
 - [vilmacio/gslides-maker](https://github.com/vilmacio/gslides-maker) - Generate Google Slides from Wikipedia content
