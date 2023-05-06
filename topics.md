@@ -1127,6 +1127,7 @@
 
 ## chrome-extension 
 
+- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower plugin for ChatGPT
 - [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
@@ -1297,7 +1298,7 @@
 
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [swl-x/MystiQ](https://github.com/swl-x/MystiQ) - Qt5/C++ FFmpeg Media Converter
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
@@ -1887,6 +1888,7 @@
 
 ## git 
 
+- [timabell/gitopolis](https://github.com/timabell/gitopolis) - Manage multiple git repositories
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -2349,7 +2351,7 @@
 - [cutiful/replace-in-html](https://github.com/cutiful/replace-in-html) - Replace text in HTML strings without messing up element attributes.
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export is a plugin for Obsidian which lets you export single files or whole vaults as HTML websites / webpages. It is similar to publish, but you get the .html files to do whatever you wa
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML.
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
@@ -3747,6 +3749,7 @@
 
 ## others 
 
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [bbelyeu/applescripts](https://github.com/bbelyeu/applescripts) - Applescripts I've used. Many I've written others I've copied from sources around the web.
 - [XpressAI/xai-gpt-agent-toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
@@ -3775,7 +3778,6 @@
 - [clampro/obsidianURLchecker](https://github.com/clampro/obsidianURLchecker) - Checks your notes for URLs and logs the ones that are not reachable
 - [bnvk/text-scrub](https://github.com/bnvk/text-scrub) - This ain't yo grand daddy's find & replace or trim tool
 - [balacode/cmdx](https://github.com/balacode/cmdx) - A command line tool to process files and source code. Delete duplicate files. Make hundreds of simultaneous text replacements.
-- [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
 - [jgdavey/prose](https://github.com/jgdavey/prose) - Reformat text pleasantly
 - [josh-may/journal-gpt](https://github.com/josh-may/journal-gpt) - A chatbot for your Obsidian journal - like a digital librarian for your notes. Built with langchain, typescript/javascript and pinecone.
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
@@ -3790,7 +3792,7 @@
 - [badgooooor/hugging-md](https://github.com/badgooooor/hugging-md) - 🤗📝 HuggingFace assisted Obsidian plugin
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
-- [Cohee1207/TavernAI-extras](https://github.com/Cohee1207/TavernAI-extras) - Unofficial extensions for TavernAI
+- [Cohee1207/SillyTavern-extras](https://github.com/Cohee1207/SillyTavern-extras) - Extensions API for SillyTavern
 - [text-gen/gpt-3-prompt-templates](https://github.com/text-gen/gpt-3-prompt-templates) - This repo contains a collection of templates for use with the gpt-3 text generation model.
 - [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
 - [Elele-Team/free-for-students](https://github.com/Elele-Team/free-for-students) - This is a full updated list of tools and software that are free for students!
@@ -4367,7 +4369,7 @@
 - [MacKarp/NextcloudAudio_Converter](https://github.com/MacKarp/NextcloudAudio_Converter) - Audio converter app for nextcloud
 - [prsnbrg/files_audio_converter](https://github.com/prsnbrg/files_audio_converter) - Convert audio files from one format to another directly from the web interface.
 - [Rello/audioplayer_sonos](https://github.com/Rello/audioplayer_sonos) - Audio Player SONOS add-on for the Audio Player in Nextcloud
-- [fwicht/TunesCloud](https://github.com/fwicht/TunesCloud) - XSLT transformation to export iTunes playlists to Nextcloud/Owncloud Music app
+- [wichtfx/TunesCloud](https://github.com/wichtfx/TunesCloud) - XSLT transformation to export iTunes playlists to Nextcloud/Owncloud Music app
 - [aurelien-brabant/nextcloud-music-player](https://github.com/aurelien-brabant/nextcloud-music-player) - [WIP] A clone of Apple's music app designed to work with any nextcloud instance, build with react native
 - [kapdap/freshrss-extensions](https://github.com/kapdap/freshrss-extensions) - Unofficial FreshRSS extensions created by @Kapdap.
 - [langfeld/FreshRSS-extensions](https://github.com/langfeld/FreshRSS-extensions) - Add touch gestures to FreshRSS
