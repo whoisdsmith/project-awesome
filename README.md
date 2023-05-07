@@ -450,7 +450,6 @@
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [pjamar/htmls-to-datasette](https://github.com/pjamar/htmls-to-datasette) - Tool to index and serve HTML files. Powered by Datasette.
-- [sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A site where I post a list of useful apps, extensions, guides, etc.
 - [extratone/shortcuts](https://github.com/extratone/shortcuts) - Can it be... that we can really maintain a public archive of installable Shortcuts files once again?
 - [IliasHad/Developer-Tools-and-Resources](https://github.com/IliasHad/Developer-Tools-and-Resources) - The Best Tools and Resources for developers
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
@@ -460,6 +459,7 @@
 - [nasa8x/markdown-parser](https://github.com/nasa8x/markdown-parser) - HTML-to-Markdown converter
 - [mdnice/sitdown](https://github.com/mdnice/sitdown) - turn html to nice markdown
 - [island205/h2m](https://github.com/island205/h2m) - Tool for converting HTML to Markdown, like html2markdown.
+- [tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic website in which I store my favorites, useful software etc.
 - [cata-list/cata-list.github.io](https://github.com/cata-list/cata-list.github.io) - Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -488,7 +488,7 @@
 - [themefisher/phantom](https://github.com/themefisher/phantom) - Phantom is an exciting professional Bootstrap resume template. It’s exclusively crafted to convince employers in an impressive way.
 - [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate) - Creative: Personal website/landing page template.
 - [bedimcode/responsive-resume-cv-smith](https://github.com/bedimcode/responsive-resume-cv-smith) - Responsive Resume Cv Website Using HTML CSS And JavaScript
-- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
+- [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [gogsbread/ResumeParser](https://github.com/gogsbread/ResumeParser) - Resume Parser using rule based approach. Developed using framework provided by GATE
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A free HTML portfolio template for developers.
@@ -737,7 +737,6 @@
 - [OS-expected/EzGitDoc](https://github.com/OS-expected/EzGitDoc) - Simple & fast WYSIWYG repo documentation generator with personal enchacements.
 - [croqaz/clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
 - [WebMemex/webmemex-extension](https://github.com/WebMemex/webmemex-extension) - 📇 Your digital memory extension, as a browser extension
-- [tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic website in which I store my favorites, useful software etc.
 - [svengreb/tmpl](https://github.com/svengreb/tmpl) - A collection of template repositories for new projects.
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -1414,6 +1413,7 @@
 - [BushidoUK/OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators) - 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [rippedpiracy/docs](https://github.com/rippedpiracy/docs) - 
+- [sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A list of useful apps, extensions, guides, etc.
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
