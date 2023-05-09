@@ -939,7 +939,6 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [hikerpig/foam-template-gatsby-kb](https://github.com/hikerpig/foam-template-gatsby-kb) - A Foam/Obsidian template using gatsby-theme-kb for publishing your knowledge base
 - [chenyukang/obweb](https://github.com/chenyukang/obweb) - ObWeb = Obsidian on Mobile + Flomo + Rss Reader
-- [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
@@ -1342,6 +1341,7 @@
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
 - [aecorredor/awesome-music-production](https://github.com/aecorredor/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
 - [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
@@ -2101,6 +2101,7 @@
 - [andrejli/ObsidianYarn](https://github.com/andrejli/ObsidianYarn) - Generator Obsidian Markdown files from and to files
 - [Twigonometry/writeup-converter](https://github.com/Twigonometry/writeup-converter) - Script for grabbing markdown files and Obsidian attachments from one folder and copying them to another.
 - [AnweshGangula/PKMigrator](https://github.com/AnweshGangula/PKMigrator) - Tools to migrate between various Personal Knowledge Management Utilities
+- [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [krissrex/obsidian-html](https://github.com/krissrex/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
@@ -2559,7 +2560,6 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [aalekhpatel07/text-cleaner](https://github.com/aalekhpatel07/text-cleaner) - A WASM-based Yew web app to manipulate text by some commonly used operations.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
 - [devzbysiu/dox](https://github.com/devzbysiu/dox) - Index and search your documents
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
 - [teesloane/esker](https://github.com/teesloane/esker) - static site generator for obsidian
