@@ -460,7 +460,6 @@
 - [nasa8x/markdown-parser](https://github.com/nasa8x/markdown-parser) - HTML-to-Markdown converter
 - [mdnice/sitdown](https://github.com/mdnice/sitdown) - turn html to nice markdown
 - [island205/h2m](https://github.com/island205/h2m) - Tool for converting HTML to Markdown, like html2markdown.
-- [tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic website in which I store my favorites, useful software etc.
 - [cata-list/cata-list.github.io](https://github.com/cata-list/cata-list.github.io) - Useful lists of some of the best info, media, tools, and quotes for those who seek to understand and improve this world.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1771,7 +1770,7 @@
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
 - [AayushG159/NotionToObsidian](https://github.com/AayushG159/NotionToObsidian) - A simple tool which migrates all your notion notes to be obsidian ready
 - [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query Notion/Obsidian or any markdown file using vector embedding, Pinecone vector database and GPT (langchain)
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Build your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [Cohee1207/SillyTavern-extras](https://github.com/Cohee1207/SillyTavern-extras) - Extensions API for SillyTavern
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
@@ -2260,6 +2259,7 @@
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
+- [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
 - [82Flex/DCRM](https://github.com/82Flex/DCRM) - Darwin Cydia Repo Manager - v4 redesigned in Django.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
@@ -2344,7 +2344,7 @@
 - [askedrelic/journal](https://github.com/askedrelic/journal) - Python CLI tool to help with keeping a work/personal journal
 - [jhhjhh/wm-design](https://github.com/jhhjhh/wm-design) - WM design repo, mostly styl files
 - [wmayner/pyphi](https://github.com/wmayner/pyphi) - A toolbox for integrated information theory.
-- [jrspruitt/ubi_reader](https://github.com/jrspruitt/ubi_reader) - Collection of Python scripts for reading information about and extracting data from UBI and UBIFS images.
+- [onekey-sec/ubi_reader](https://github.com/onekey-sec/ubi_reader) - Collection of Python scripts for reading information about and extracting data from UBI and UBIFS images.
 - [beeldengeluid/linkedtv-editortool](https://github.com/beeldengeluid/linkedtv-editortool) - Final version of the LinkedTV (linkedtv.eu) Editor Tool
 - [holypriest/edit-scripts](https://github.com/holypriest/edit-scripts) - A bunch of scripts to automate tasks of an editorial office
 - [venkateshshukla/th-editorials-python](https://github.com/venkateshshukla/th-editorials-python) - Python application for getting The Hindu editorials
@@ -2702,7 +2702,6 @@
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [davidbosman/Import-Markdown-to-Day-One](https://github.com/davidbosman/Import-Markdown-to-Day-One) - Import markdown journal entries (txt files) to Day One app (OS X)
-- [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [barba99/barba_music](https://github.com/barba99/barba_music) - #este  script descarca de facebook spotify y youtube
@@ -2809,7 +2808,7 @@
 - [ivan-lednev/obsidian-persistent-links](https://github.com/ivan-lednev/obsidian-persistent-links) - More robust internal links for Obsidian!
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [badgooooor/hugging-md](https://github.com/badgooooor/hugging-md) - 🤗📝 HuggingFace assisted Obsidian plugin
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT integration in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
 - [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action) - Custom action to export Notion database to local as markdown files and images.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A static blog using notion database 😎
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -2975,6 +2974,7 @@
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
 - [Wakeful-Cloud/html-translator](https://github.com/Wakeful-Cloud/html-translator) - Translate HTML5 to Discord flavored markdown
 - [ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An assist for creating CSS snippets for Obsidian
+- [tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic website in which I store my favorites, useful software etc.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
