@@ -1350,7 +1350,7 @@
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
-- [Yuan-ManX/AI-Audio-Dataset-List](https://github.com/Yuan-ManX/AI-Audio-Dataset-List) - This is a datasets of speech, music and sound effects that can provide training data for AIGC, AI model training, intelligent audio tool development, and audio applications. The audio dataset is mainl
+- [Yuan-ManX/ai-audio-dataset-list](https://github.com/Yuan-ManX/ai-audio-dataset-list) - This is a datasets of speech, music and sound effects that can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. The audio d
 - [csteinmetz1/ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology
 - [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
 - [sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A curated list of awesome macOS open source applications for macOS. This list contains a lot of native, and cross-platform apps Inspired by awesome-... stuff.
@@ -3216,7 +3216,7 @@
 
 ## XSLT 
 
-- [wichtfx/TunesCloud](https://github.com/wichtfx/TunesCloud) - XSLT transformation to export iTunes playlists to Nextcloud/Owncloud Music app
+- [anatosun/TunesCloud](https://github.com/anatosun/TunesCloud) - XSLT transformation to export iTunes playlists to Nextcloud/Owncloud Music app
 
 ## Zig 
 
