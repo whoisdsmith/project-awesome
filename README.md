@@ -1774,7 +1774,7 @@
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
 - [AayushG159/NotionToObsidian](https://github.com/AayushG159/NotionToObsidian) - A simple tool which migrates all your notion notes to be obsidian ready
 - [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query Notion/Obsidian or any markdown file using vector embedding, Pinecone vector database and GPT (langchain)
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We help developers to build, deploy, and monitor AI agents.  Focusing on specialized AI agents that build software for you - your personal software developers.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building & deploying AI agents.
 - [Cohee1207/SillyTavern-extras](https://github.com/Cohee1207/SillyTavern-extras) - Extensions API for SillyTavern
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
@@ -1842,7 +1842,7 @@
 - [smaranjitghose/AIAudioTranscriber](https://github.com/smaranjitghose/AIAudioTranscriber) - A minimalistic web app to generate transciption for audio built using Python
 - [Maitreyapatel/speech-conversion-between-different-modalities](https://github.com/Maitreyapatel/speech-conversion-between-different-modalities) - Generative Adversarial Networks for different impaired speech conversions
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [haseeb-heaven/AIAutoFilerPro](https://github.com/haseeb-heaven/AIAutoFilerPro) - AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence
+- [haseeb-heaven/AI-AutoFiler-Pro](https://github.com/haseeb-heaven/AI-AutoFiler-Pro) - AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence
 - [MatthewRoush/Transcribe-MP3](https://github.com/MatthewRoush/Transcribe-MP3) - Generate synced and unsynced lyrics for .mp3 songs using openai-whisper.
 - [CrimeIsDown/trunk-transcribe](https://github.com/CrimeIsDown/trunk-transcribe) - Transcription of calls from trunk-recorder using OpenAI Whisper
 - [KostasEreksonas/Audio-transcriber](https://github.com/KostasEreksonas/Audio-transcriber) - Simple Python audio transcriber using OpenAI's Whisper speech recognition model
@@ -2862,7 +2862,7 @@
 - [Tagada216/markdown-chat-gpt](https://github.com/Tagada216/markdown-chat-gpt) - An obsidian plugin to use chat GPT in obsidian file
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - 
+- [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - Ask GPT from your notes and get personalized answers based on your knowledge base.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher) - 
 - [mixasite/obsidian-mixa](https://github.com/mixasite/obsidian-mixa) - Publish your notes and blog posts directly from Obsidian with Mixa
