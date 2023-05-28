@@ -1772,7 +1772,7 @@
 - [clampro/obsidianURLchecker](https://github.com/clampro/obsidianURLchecker) - Checks your notes for URLs and logs the ones that are not reachable
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
 - [AayushG159/NotionToObsidian](https://github.com/AayushG159/NotionToObsidian) - A simple tool which migrates all your notion notes to be obsidian ready
-- [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query Notion/Obsidian or any markdown file using vector embedding, Pinecone vector database and GPT (langchain)
+- [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query any markdown file using vector embedding, Pinecone vector database and GPT (langchain). A weaker version of privateGPT
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
 - [Cohee1207/SillyTavern-extras](https://github.com/Cohee1207/SillyTavern-extras) - Extensions API for SillyTavern
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
@@ -1898,7 +1898,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits  |🌎 ?| 📷 Multi-modal/Image |
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful, informative, and well-structured README files. Powered by OpenAI's GPT language model APIs 💫
+- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2734,7 +2734,7 @@
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [DanielFiller30/ScriptManager](https://github.com/DanielFiller30/ScriptManager) - Easy to use menu bar-tool for your mac, to run shell-scripts.
-- [Renset/macai](https://github.com/Renset/macai) - Simple yet powerful native macOS client for ChatGPT
+- [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
@@ -2994,7 +2994,7 @@
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [AlexRazor1337/link-name-from-url](https://github.com/AlexRazor1337/link-name-from-url) - Obsidian plugin  to help generate Markdown links from raw URLs without fetching the page.
 - [jaywcjlove/markdown-to-html](https://github.com/jaywcjlove/markdown-to-html) - Converts markdown text to HTML.
-- [acmenlei/markdown-transform-html](https://github.com/acmenlei/markdown-transform-html) - A Markdown parser developed in typescript.
+- [acmenlei/markdown-plus](https://github.com/acmenlei/markdown-plus) - A Markdown parser developed in typescript.
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
