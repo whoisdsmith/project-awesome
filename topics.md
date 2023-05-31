@@ -230,7 +230,7 @@
 - [WenServices/ClassifyAI](https://github.com/WenServices/ClassifyAI) - AI Service that classifies data with given or passed model structure response to use in code
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
 - [Saik0s/DevAssistant](https://github.com/Saik0s/DevAssistant) - Personal Task-Driven Autonomous Agent
-- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab.
+- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models.
 - [kreneskyp/ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack
 - [getcollective-ai/collective](https://github.com/getcollective-ai/collective) - Automate non-novel work
@@ -1894,7 +1894,6 @@
 
 - [timabell/gitopolis](https://github.com/timabell/gitopolis) - Manage multiple git repositories
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The snappy and most customisable cross platform/shell prompt renderer
@@ -2850,7 +2849,6 @@
 - [FMXExpress/Stable-Diffusion-Text-To-Image-Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts) - Cross-platform Stable Diffusion Text to Image Prompts Generator built in Embarcadero Delphi.
 - [FMXExpress/DreamBooth-Desktop-Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client) - Windows, macOS, and Linux desktop client for fine tuning Dreambooth models using Replicate's API.
 - [xeladu/broken-link-checker](https://github.com/xeladu/broken-link-checker) - This tool checks all external links of a website if they are reachable.
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2927,7 +2925,7 @@
 ## machine-learning 
 
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
-- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab.
+- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models.
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack
 - [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
@@ -3707,7 +3705,7 @@
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs passively from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
 - [BushidoUK/OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators) - 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
@@ -5132,7 +5130,7 @@
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs passively from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -6109,7 +6107,6 @@
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
