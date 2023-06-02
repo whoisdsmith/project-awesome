@@ -222,7 +222,7 @@
 ## ai 
 
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
-- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
@@ -291,7 +291,6 @@
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
@@ -457,7 +456,7 @@
 - [ancs21/awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A curated list of awesome OpenAI's Whisper
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
-- [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a datasets of speech, music and sound effects that can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. The audio d
+- [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [jonathandinu/ai4artists](https://github.com/jonathandinu/ai4artists) - A list of AI Art courses, tools, libraries, people, and places.
@@ -951,8 +950,8 @@
 ## chatgpt 
 
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
-- [jopilot-net/jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - The prompts supported by JoPilot
-- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
+- [copilot-us/chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4
 - [AlexW00/cli-gpt](https://github.com/AlexW00/cli-gpt) - 💬 Simple TUI for ChatGPT.
@@ -1304,7 +1303,7 @@
 
 ## cpp 
 
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [swl-x/MystiQ](https://github.com/swl-x/MystiQ) - Qt5/C++ FFmpeg Media Converter
@@ -1529,7 +1528,7 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
-- [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a datasets of speech, music and sound effects that can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. The audio d
+- [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
@@ -1661,7 +1660,6 @@
 
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
 - [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -2038,7 +2036,7 @@
 
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
 - [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser!
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
@@ -2566,7 +2564,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
@@ -2958,7 +2956,7 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
-- [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a datasets of speech, music and sound effects that can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. The audio d
+- [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
 - [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
 - [salu133445/muspy](https://github.com/salu133445/muspy) - A toolkit for symbolic music generation
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
@@ -3103,7 +3101,7 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
@@ -3295,7 +3293,7 @@
 
 ## mongodb 
 
-- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project that ingests Facebook Messenger conversations and generates analytics.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
@@ -3508,7 +3506,6 @@
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
@@ -3543,10 +3540,11 @@
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [limit-zero/url-juicer](https://github.com/limit-zero/url-juicer) - 🍊🔗 Squeeze some juice from URLs: A URL crawler/extraction library.
 - [xyzes/selective-link-checker](https://github.com/xyzes/selective-link-checker) - This program recursively scans a website and outputs all found sub-pages and their broken links to two different CSV files
@@ -3949,6 +3947,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
+- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -5309,7 +5308,6 @@
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -5597,7 +5595,7 @@
 - [JesseKartabani/ai-image-gen](https://github.com/JesseKartabani/ai-image-gen) - AI image generator with Open AI
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
@@ -5788,7 +5786,7 @@
 - [getcollective-ai/collective](https://github.com/getcollective-ai/collective) - Automate non-novel work
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - :cyclone: Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles w
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
@@ -6019,7 +6017,7 @@
 
 ## svelte 
 
-- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
@@ -6191,6 +6189,7 @@
 - [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - Ask GPT from your notes and get personalized answers based on your knowledge base.
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
