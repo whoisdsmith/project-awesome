@@ -228,7 +228,7 @@
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [WenServices/ClassifyAI](https://github.com/WenServices/ClassifyAI) - AI Service that classifies data with given or passed model structure response to use in code
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
 - [Saik0s/DevAssistant](https://github.com/Saik0s/DevAssistant) - Personal Task-Driven Autonomous Agent
 - [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models.
 - [kreneskyp/ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
@@ -266,6 +266,7 @@
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT cre
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
+- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [haseeb-heaven/AI-AutoFiler-Pro](https://github.com/haseeb-heaven/AI-AutoFiler-Pro) - AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
@@ -1632,7 +1633,7 @@
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [ICIJ/datashare](https://github.com/ICIJ/datashare) - Better analyze information, in all its forms
 - [smaranjitghose/AIAudioTranscriber](https://github.com/smaranjitghose/AIAudioTranscriber) - A minimalistic web app to generate transciption for audio built using Python
-- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser!
+- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [ahmedbesbes/audiolizr](https://github.com/ahmedbesbes/audiolizr) - A bentoML-powered API to transcribe audio and make sense of it
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
@@ -1862,7 +1863,7 @@
 
 ## frontend 
 
-- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser!
+- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
@@ -2037,7 +2038,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when progra
-- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser!
+- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
@@ -3433,7 +3434,7 @@
 ## nextjs 
 
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - A static blog using notion database 😎
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will then
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
@@ -5246,7 +5247,7 @@
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
 - [vzhd1701/csv2notion](https://github.com/vzhd1701/csv2notion) - Import/Merge CSV files into Notion database
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
 - [Saik0s/DevAssistant](https://github.com/Saik0s/DevAssistant) - Personal Task-Driven Autonomous Agent
@@ -5581,7 +5582,7 @@
 
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [jeffsieu/txthlpr](https://github.com/jeffsieu/txthlpr) - Perform repetitive formatting tasks on text without the pain of repetition. Like CyberChef but more generalized.
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [regal-rahul/textutils](https://github.com/regal-rahul/textutils) - Text Manipulation
@@ -5970,7 +5971,7 @@
 
 ## software 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -6177,7 +6178,7 @@
 
 ## typescript 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
 - [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action) - Custom action to export Notion database to local as markdown files and images.
 - [EasyChris/obsidian-to-notion](https://github.com/EasyChris/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
@@ -6324,7 +6325,7 @@
 
 ## web 
 
-- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser!
+- [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup language for music creation and analysis! -- https://hlorenzi.github.io/musicode/
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
