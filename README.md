@@ -1889,7 +1889,6 @@
 - [misbahsy/chat-your-data-self-hosted](https://github.com/misbahsy/chat-your-data-self-hosted) - This repo guides you through building a chatbot on your own data with self hosted LLM
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-- [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&gt; Docusaurus Converter
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
@@ -2887,6 +2886,7 @@
 - [fayeed/github-banner](https://github.com/fayeed/github-banner) - Build custom GitHub banners for your Github profiles, to add some flair to your Readmes. Like the project, star the project.
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [otelo2/Obsidian-AI](https://github.com/otelo2/Obsidian-AI) - ChatGPT powered assistant for Obsidian "inspired by" Notion AI
+- [CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus) - Obsidian -&gt; Docusaurus Converter
 - [friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff) - View the difference between two files within Obsidian.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
@@ -2982,7 +2982,7 @@
 - [tavernhell/useful-stuff](https://github.com/tavernhell/useful-stuff) - Basic website in which I store my favorites, useful software etc.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
