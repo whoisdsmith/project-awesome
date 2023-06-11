@@ -1107,7 +1107,7 @@
 - [sadiaafsana138/Music-Genre-Classification](https://github.com/sadiaafsana138/Music-Genre-Classification) - Academic Project Using Python and ML (AI-4.1)
 - [dakshtrehan/AI-Music-Generation](https://github.com/dakshtrehan/AI-Music-Generation) - Predicting Music pieces using LSTMs. MIDI files are used to generate and predict musical tones.
 - [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
-- [ocademy-ai/machine-learning](https://github.com/ocademy-ai/machine-learning) - Interactive Machine Learning book with visualization, code, and assignment.
+- [ocademy-ai/machine-learning](https://github.com/ocademy-ai/machine-learning) - An interactive and visual Machine Learning book with text, code, and assignment.
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
