@@ -2796,7 +2796,7 @@
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
-- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [ophidian-lib/core](https://github.com/ophidian-lib/core) - A Component Framework for Obsidian Plugins
 - [typpo/arkose](https://github.com/typpo/arkose) - GPT-enhanced document editor
 - [ajp1708/obsidian-chatgpt-view](https://github.com/ajp1708/obsidian-chatgpt-view) - Small plugin in order to open up a view of the ChatGPT webpage directly in obsidian
@@ -2960,7 +2960,6 @@
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
-- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [zeus-12/fmhy-ui-vite](https://github.com/zeus-12/fmhy-ui-vite) - archived. checkout www.github.com/zeus-12/fmhy-ui for new version using ts, nextjs
