@@ -1346,7 +1346,7 @@
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
 - [tangibleaudio/awesome-music-production](https://github.com/tangibleaudio/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
-- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation, made by musicians, for musicians
+- [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
