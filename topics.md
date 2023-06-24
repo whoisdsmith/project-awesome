@@ -331,7 +331,7 @@
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
-- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless worker provided by RunPod as endpoints.
+- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | REPLACED BY https://github.com/runpod-workers | Official set of serverless worker provided by RunPod as endpoints.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
@@ -1639,7 +1639,7 @@
 - [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
-- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless worker provided by RunPod as endpoints.
+- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | REPLACED BY https://github.com/runpod-workers | Official set of serverless worker provided by RunPod as endpoints.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox) - Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
@@ -3923,7 +3923,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [misbahsy/chat-your-data-self-hosted](https://github.com/misbahsy/chat-your-data-self-hosted) - This repo guides you through building a chatbot on your own data with self hosted LLM
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
-- [Gewerd-Strauss/ObsidianKnittr](https://github.com/Gewerd-Strauss/ObsidianKnittr) - Autohotkey Script for automating the use of ObssidianHTML and RMarkdown to generate pandoc-rendered files from Obsidian.MD's markdown-flavour
+- [Gewerd-Strauss/ObsidianKnittr](https://github.com/Gewerd-Strauss/ObsidianKnittr) - Autohotkey Script for automating the use of ObsidianHTML and RMarkdown to generate pandoc-rendered files from Obsidian.MD's markdown-flavour
 - [0xRusowsky/bookmarks-to-obsidian](https://github.com/0xRusowsky/bookmarks-to-obsidian) - A lil project to sync Twitter bookmarks with an Obsidian vault.
 - [hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - An Obsidian plugin for textlint.
 - [brianpetro/obsidian-smart-prompts](https://github.com/brianpetro/obsidian-smart-prompts) - Prompt templating tools designed for interacting with language interfaces like OpenAI's ChatGPT in Obsidian.
@@ -5928,7 +5928,7 @@
 
 - [harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards for your readme
 - [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
-- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official set of serverless worker provided by RunPod as endpoints.
+- [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | REPLACED BY https://github.com/runpod-workers | Official set of serverless worker provided by RunPod as endpoints.
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
