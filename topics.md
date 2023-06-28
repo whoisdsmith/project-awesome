@@ -756,6 +756,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [J2TEAM/awesome-AutoIt](https://github.com/J2TEAM/awesome-AutoIt) - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
+- [ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) - A curated list of awesome resources related to the Ada and SPARK programming language
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [AnzenKodo/awesome-ak](https://github.com/AnzenKodo/awesome-ak) - Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [GNU-Linux-libre/Awesome-Browser-Search-Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine) - Awesome Browser Search engine streaming live git Privacy Alternative Alternatives 搜索引擎大全 浏览器大全
@@ -3343,7 +3344,7 @@
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
 - [hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup language for music creation and analysis! -- https://hlorenzi.github.io/musicode/
-- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A script for creating seamless music loops, with play/export support.
+- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
 - [chavinlo/riffusion-manipulation](https://github.com/chavinlo/riffusion-manipulation) - tools to manipulate audio with riffusion
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / symbolic music tokenizers for Deep Learning networks 🎶
 - [ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List of articles related to deep learning applied to music
@@ -4510,7 +4511,7 @@
 - [NidhiiK/Text-Tool](https://github.com/NidhiiK/Text-Tool) - Text-Tool is an app which allows the user to perform multiple text-editing functions, such as making the full-text capital or small case, removing extra spaces between words, copying, and deleting the
 - [ososoio/txtool](https://github.com/ososoio/txtool) - Text Tool
 - [Nitin-Sharma-coder/textry](https://github.com/Nitin-Sharma-coder/textry) - A very handy online text tool where you can change between lower case and upper case letters, capitalize, uncapitalize and remove extra spaces from your text
-- [harehare/textusm](https://github.com/harehare/textusm) - Online tool for Generate a User Story Map from indented text.
+- [harehare/textusm](https://github.com/harehare/textusm) - TextUSM is Online tool for Generate a User Story Map from indented text.
 - [brraghav/simpleTools](https://github.com/brraghav/simpleTools) - This Repository is intended to create and maintain simple Tools that anyone can use without having to code. The tools can be as simple as extracting few keywords from text, but with lot of options and
 - [Nerixyz/text-tools](https://github.com/Nerixyz/text-tools) - De- and Encode tools for text.
 - [queryverse/TextParse.jl](https://github.com/queryverse/TextParse.jl) - A bunch of fast text parsing tools
@@ -5288,7 +5289,7 @@
 - [KostasEreksonas/Audio-transcriber](https://github.com/KostasEreksonas/Audio-transcriber) - Simple Python audio transcriber using OpenAI's Whisper speech recognition model
 - [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
-- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A script for creating seamless music loops, with play/export support.
+- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets.
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
