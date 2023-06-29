@@ -2354,7 +2354,7 @@
 - [Swap-nil-2003/TextUtils-ReactApp01](https://github.com/Swap-nil-2003/TextUtils-ReactApp01) - TextUtils-A Text Utility App built with React.
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
 - [cutiful/replace-in-html](https://github.com/cutiful/replace-in-html) - Replace text in HTML strings without messing up element attributes.
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML.
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
@@ -2568,7 +2568,6 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
@@ -3098,7 +3097,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
-- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML.
+- [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will then
 - [jersou/markdown-explorer](https://github.com/jersou/markdown-explorer) - Easily explore, view and edit markdown documentation of a file tree
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -3113,7 +3112,6 @@
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
-- [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
@@ -3298,7 +3296,6 @@
 
 ## mongodb 
 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project that ingests Facebook Messenger conversations and generates analytics.
 - [tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index with Improved Dark Mode, Search and Video Player
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
@@ -3315,7 +3312,7 @@
 - [urlstechie/urlchecker-action](https://github.com/urlstechie/urlchecker-action) - :octocat: :link: GitHub action to extract and check urls in code and documentations.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
+- [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -3450,6 +3447,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
@@ -3551,7 +3549,6 @@
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [limit-zero/url-juicer](https://github.com/limit-zero/url-juicer) - 🍊🔗 Squeeze some juice from URLs: A URL crawler/extraction library.
 - [xyzes/selective-link-checker](https://github.com/xyzes/selective-link-checker) - This program recursively scans a website and outputs all found sub-pages and their broken links to two different CSV files
@@ -3952,6 +3949,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README.md files from the terminal, powered by OpenAI's GPT language model APIs 💫
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -5599,7 +5597,6 @@
 - [JesseKartabani/ai-image-gen](https://github.com/JesseKartabani/ai-image-gen) - AI image generator with Open AI
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
@@ -5883,6 +5880,7 @@
 ## self-hosted 
 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media Service Community Edition
@@ -6198,6 +6196,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
 - [Left-on-Read/leftonread](https://github.com/Left-on-Read/leftonread) - Left on Read
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
