@@ -465,7 +465,7 @@
 - [hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
-- [TiagoMarinho/Soph](https://github.com/TiagoMarinho/Soph) - Discord bot for making AI generated art
+- [TiagoMarinho/Soph](https://github.com/TiagoMarinho/Soph) - A discord bot for generating images with artificial intelligence
 - [De-Rune/luna](https://github.com/De-Rune/luna) - text to image generation
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
 - [Ezagor-dev/Midjourney_Prompt](https://github.com/Ezagor-dev/Midjourney_Prompt) - Midjourney
