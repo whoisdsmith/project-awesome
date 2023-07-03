@@ -5800,7 +5800,6 @@
 - [ptasz3k/md-link-check](https://github.com/ptasz3k/md-link-check) - Check for broken links in markdown documents
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
 - [Trivernis/mediarepo](https://github.com/Trivernis/mediarepo) - A media management tool
