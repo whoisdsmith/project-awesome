@@ -3961,7 +3961,7 @@
 - [teesloane/esker](https://github.com/teesloane/esker) - static site generator for obsidian
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
-- [nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!! [NOT WORKING]
+- [nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) - 
 - [ValarMorghulis-faceless/TwitterStats](https://github.com/ValarMorghulis-faceless/TwitterStats) - 
