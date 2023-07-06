@@ -1309,7 +1309,7 @@
 - [aminblm/awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - List of prompts for chatGPT for various assistances with tasks.
 - [Elele-Team/free-for-students](https://github.com/Elele-Team/free-for-students) - This is a full updated list of tools and software that are free for students!
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
-- [fatihturker/PI-AGI](https://github.com/fatihturker/PI-AGI) - Welcome to PI AGI, a groundbreaking project aiming to revolutionize the world of Artificial Intelligence by developing a base for role-based AGIs (Artificial General Intelligences) that are personaliz
+- [omnicreor/PI-AGI](https://github.com/omnicreor/PI-AGI) - Welcome to PI AGI, a groundbreaking project aiming to revolutionize the world of Artificial Intelligence by developing a base for role-based AGIs (Artificial General Intelligences) that are personaliz
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [PR0CK0/StableDiffusionEndToEndGuide](https://github.com/PR0CK0/StableDiffusionEndToEndGuide) - An End-to-End Guide for Learning Stable Diffusion - From Noob to Expert
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
@@ -2973,7 +2973,7 @@
 - [bobheadxi/sourcegraph-knowledge-bases](https://github.com/bobheadxi/sourcegraph-knowledge-bases) - 📎 Browse Markdown knowledge bases (e.g. Obsidian or Foam) in Sourcegraph
 - [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian) - Snippets plugin for obsidian
 - [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
-- [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note.
+- [cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin) - This is a plugin for Obsidian that adds a button to scroll to the top of the current note (Not just that).
 - [Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate) - A translation plugin for Obsidian
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [nogira/obsidian-better-links](https://github.com/nogira/obsidian-better-links) - Converts a URL to a pretty formatted link.
