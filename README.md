@@ -1923,7 +1923,7 @@
 - [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
 - [sturdy-dev/semantic-code-search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
 - [wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal to Obsidian Notes
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
@@ -2876,7 +2876,7 @@
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [0xRusowsky/bookmarks-to-obsidian](https://github.com/0xRusowsky/bookmarks-to-obsidian) - A lil project to sync Twitter bookmarks with an Obsidian vault.
-- [hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - An Obsidian plugin for textlint.
+- [hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - A plugin for Obsidian that integrates textlint
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [maksim77/obsidian-mactagger-plugin](https://github.com/maksim77/obsidian-mactagger-plugin) - 
 - [BambusControl/obsidian-unicode-search](https://github.com/BambusControl/obsidian-unicode-search) - Obsidian plugin for simple Unicode character search
