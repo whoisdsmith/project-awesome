@@ -53,7 +53,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -906,7 +905,6 @@
 - [PaulLereverend/NextcloudExtract](https://github.com/PaulLereverend/NextcloudExtract) - Bring extraction to your nextcloud web interface
 - [nextcloud/external](https://github.com/nextcloud/external) - 🌐 Embed external sites in your Nextcloud
 - [zorn-v/nextcloud-social-login](https://github.com/zorn-v/nextcloud-social-login) - 
-- [nextcloud/nextcloud-initial-state](https://github.com/nextcloud/nextcloud-initial-state) - Access data from the server-side initial state API within apps https://npmjs.org/@nextcloud/initial-state
 - [mattd/google-photos-downloader](https://github.com/mattd/google-photos-downloader) - Downloads photos from Google Photos.
 - [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to downloa
 - [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A (defunct) tool for merging and organizing exported Google Photos backups. Built with React and Electron!
@@ -1094,6 +1092,7 @@
 - [citiususc/Smarty-GPT](https://github.com/citiususc/Smarty-GPT) - A wrapper of LLMs that biases its behaviour using prompts and contexts in a transparent manner to the end-users
 - [dylanmeca/ChatGPT-Python](https://github.com/dylanmeca/ChatGPT-Python) - ChatGPT-Python is a software that allows you to talk to GPT-3 with a web interface using the openai api
 - [v8hid/infinite-zoom-stable-diffusion](https://github.com/v8hid/infinite-zoom-stable-diffusion) - resources for creating Ininite zoom video using Stable Diffiusion, you can use multiple prompts and it is easy to use.
+- [akshata29/chatpdf](https://github.com/akshata29/chatpdf) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [soliblue/songGPT](https://github.com/soliblue/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Transcribe and translate audio to text using Whisper and DeepL.
@@ -1791,7 +1790,7 @@
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
 - [geeks-of-data/knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources.
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Agent with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo 16k, GPT 4, or the Oobabooga API.  Pinecone is used for the DB.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
@@ -2775,10 +2774,6 @@
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [hartlco/DayOneToMarkdownFiles](https://github.com/hartlco/DayOneToMarkdownFiles) - Create markdown files out of DayOne Json export
 
-## TSQL 
-
-- [akshata29/chatpdf](https://github.com/akshata29/chatpdf) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
-
 ## TeX 
 
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
@@ -2993,7 +2988,7 @@
 - [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
-- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [AlexRazor1337/link-name-from-url](https://github.com/AlexRazor1337/link-name-from-url) - Obsidian plugin  to help generate Markdown links from raw URLs without fetching the page.
 - [jaywcjlove/markdown-to-html](https://github.com/jaywcjlove/markdown-to-html) - Converts markdown text to HTML.
 - [acmenlei/markdown-plus](https://github.com/acmenlei/markdown-plus) - A Markdown parser developed in typescript.
@@ -3094,6 +3089,7 @@
 - [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
+- [nextcloud/nextcloud-initial-state](https://github.com/nextcloud/nextcloud-initial-state) - Access data from the server-side initial state API within apps https://npmjs.org/@nextcloud/initial-state
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [scriptify/thesoundofus](https://github.com/scriptify/thesoundofus) - Connect your Google Photos and Spotify Account, select a photo album and a Spotify playlist, and the web app will create an interactive photo album with music from the time the photo was taken. Intend
 - [aurelien-brabant/nextcloud-music-player](https://github.com/aurelien-brabant/nextcloud-music-player) - [WIP] A clone of Apple's music app designed to work with any nextcloud instance, build with react native
@@ -3150,7 +3146,7 @@
 - [apricote/Listory](https://github.com/apricote/Listory) - Track your Spotify listens
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [danobot/notorious](https://github.com/danobot/notorious) - Offline-first note taking and knowledge management application for desktop and the web. Supports nested notebooks, tags, real-time sync, images and file attachments. Optimised for efficiency with keyb
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
