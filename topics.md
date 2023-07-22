@@ -241,7 +241,7 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Agent with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo 16k, GPT 4, or the Oobabooga API.  Pinecone is used for the DB.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
@@ -334,7 +334,7 @@
 - [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | REPLACED BY https://github.com/runpod-workers | Official set of serverless worker provided by RunPod as endpoints.
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text generator is a handy plugin for Obsidian that helps you generate text content using GPT-3 (OpenAI).
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
@@ -466,7 +466,6 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [TiagoMarinho/Soph](https://github.com/TiagoMarinho/Soph) - A discord bot for generating images with artificial intelligence
-- [De-Rune/luna](https://github.com/De-Rune/luna) - text to image generation
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
 - [Ezagor-dev/Midjourney_Prompt](https://github.com/Ezagor-dev/Midjourney_Prompt) - Midjourney
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -524,7 +523,7 @@
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - An awesome list of best resources, tools, applications, usages of ChatGPT
+- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -702,7 +701,7 @@
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - An awesome list of best resources, tools, applications, usages of ChatGPT
+- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -988,7 +987,7 @@
 - [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - An awesome list of best resources, tools, applications, usages of ChatGPT
+- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [puppe1990/useful_chatgpt_prompts](https://github.com/puppe1990/useful_chatgpt_prompts) - ChatGPT Prompts is a web application that provides prompts generated by the OpenAI GPT-3 language model. The prompts can be used for a variety of purposes, such as inspiration for writing, conversatio
 - [KyleWen33/PromptXYZ](https://github.com/KyleWen33/PromptXYZ) - 
@@ -1283,7 +1282,7 @@
 - [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media Service Community Edition
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Research Paper Summaries, Setup & Performance Notes, Resource Links on AI, Deep Learning, NLP, Computer Vision for my learning.
 
@@ -1551,7 +1550,7 @@
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -1632,7 +1631,7 @@
 ## docker 
 
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [ICIJ/datashare](https://github.com/ICIJ/datashare) - Better analyze information, in all its forms
+- [ICIJ/datashare](https://github.com/ICIJ/datashare) - A self-hosted search engine for documents.
 - [smaranjitghose/AIAudioTranscriber](https://github.com/smaranjitghose/AIAudioTranscriber) - A minimalistic web app to generate transciption for audio built using Python
 - [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [ahmedbesbes/audiolizr](https://github.com/ahmedbesbes/audiolizr) - A bentoML-powered API to transcribe audio and make sense of it
@@ -1969,7 +1968,7 @@
 - [garimasingh128/gitsetgo](https://github.com/garimasingh128/gitsetgo) - A Github Resume generator 👨‍💻👩‍ to create your own personalised resume based on your Github profile. 🔎 This tool lets you have your resume on a single click.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
@@ -2259,7 +2258,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [DiptoChakrabarty/Resume-Generator](https://github.com/DiptoChakrabarty/Resume-Generator) - A Resume builder which allows users to build their own custom resumes  with details like experience,projects , skills ,education etc. Users can also have the feature to  download their resumes .  To c
 - [rahulbanerjee26/githubProfileReadmeGenerator](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator) - Generate a cool README/About me page for your Github Profile
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -2989,7 +2988,7 @@
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
@@ -3114,6 +3113,7 @@
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
@@ -3450,7 +3450,7 @@
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
@@ -3517,7 +3517,7 @@
 - [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Semantic search and workflows powered by language models
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -3668,7 +3668,7 @@
 - [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
@@ -3951,7 +3951,6 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README.md files from the terminal, powered by OpenAI's GPT language model APIs 💫
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -4090,7 +4089,7 @@
 - [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [gilbarbara/alfred-workflows](https://github.com/gilbarbara/alfred-workflows) - Collection of Alfred workflows
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
-- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
 - [zeus-12/fmhy-ui](https://github.com/zeus-12/fmhy-ui) - Old frontend repo for fmhy
 - [polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump imap inbox to a local folder in a regular backupable format: html, json and attachements
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
@@ -5165,7 +5164,7 @@
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [giventofly/teikirize-bookmarks](https://github.com/giventofly/teikirize-bookmarks) - Your self host solution for bookmarks saving.
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [nextcloud/weather](https://github.com/nextcloud/weather) - ⛅️ Weather app for Nextcloud
 - [dmlogic/photo-indexer](https://github.com/dmlogic/photo-indexer) - Download and index photos from Google Photos
@@ -5263,7 +5262,7 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
 - [geeks-of-data/knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -5601,7 +5600,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
-- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The easiest config web stack on top of Next.js - build internal tools, web apps, admin panels, BI dashboards, web sites, and CRUD apps with YAML or JSON.
+- [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
