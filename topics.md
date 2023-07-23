@@ -4159,7 +4159,7 @@
 - [bxrlin/blossom-night-startpage](https://github.com/bxrlin/blossom-night-startpage) - Aesthetic Startpage with Essential Bookmarks
 - [woywro/Linkly](https://github.com/woywro/Linkly) - :zap: Open source tool to manage bookmarks. Each link can be assigned to collection and each collection can be shared with other users.
 - [DBDoco/Better-Bookmarks](https://github.com/DBDoco/Better-Bookmarks) - JavaScript Google Chrome extension that improves default bookmark feature by adding ability to include notes byside given bookmarks.
-- [Manpreet-Singh001/bookmarks](https://github.com/Manpreet-Singh001/bookmarks) - web-app to store the bookmarks in a way i like.
+- [manpreeeeeet/bookmarks](https://github.com/manpreeeeeet/bookmarks) - web-app to store the bookmarks in a way i like.
 - [rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A mobile-responsive website that allows user to locally save and edit bookmarks of any website links.
 - [pajecawav/pockly](https://github.com/pajecawav/pockly) - Bookmark manager
 - [przemsen/BookmarksBase](https://github.com/przemsen/BookmarksBase) - Searching through all bookmarked web sites
