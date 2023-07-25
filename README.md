@@ -981,7 +981,6 @@
 - [arunghosh/react-time-line](https://github.com/arunghosh/react-time-line) - A react component to display event in a vertical timeline format
 - [tomershvueli/homepage](https://github.com/tomershvueli/homepage) - A simple, standalone, self-hosted PHP page that is your window to your server and the web.
 - [AlexW00/StartTreeV2](https://github.com/AlexW00/StartTreeV2) - 🌳 A $tree styled start page generator!
-- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run Python application to remove duplicates from Google Photos based on metadata
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -1813,7 +1812,7 @@
 - [cortega26/PDF-Text-Analizer](https://github.com/cortega26/PDF-Text-Analizer) - This repository houses a script that can download PDFs from a specified URL, convert them to text, and perform text analysis. This analysis includes identifying the language, eliminating stopwords, an
 - [jboynyc/textnets](https://github.com/jboynyc/textnets) - Text analysis with networks.
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
-- [brucewlee/lftk](https://github.com/brucewlee/lftk) - Text Analysis through handcrafted features extraction; More than 200 pre-implemented features.
+- [brucewlee/lftk](https://github.com/brucewlee/lftk) - [BEA @ ACL 2023] General-purpose tool for linguistic features extraction; Tested on readability assessment, essay scoring, fake news detection, hate speech detection, etc.
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [gtoffoli/commons-textanalysis](https://github.com/gtoffoli/commons-textanalysis) - Text-analysis support for Django clients, talking through HTTP API to an extended spaCy deployment.
 - [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
@@ -1993,7 +1992,7 @@
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
 - [googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
 - [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The iOS Security Testing Framework
-- [pstirparo/mac4n6](https://github.com/pstirparo/mac4n6) - Collection of forensics artifacs location for Mac OS X and iOS
+- [pstirparo/mac4n6](https://github.com/pstirparo/mac4n6) - Collection of forensics artifacts location for Mac OS X and iOS
 - [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
 - [selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python interface to your Obsidian notes
 - [bboerzel/raindrop-to-obsidian](https://github.com/bboerzel/raindrop-to-obsidian) - 
@@ -2127,6 +2126,7 @@
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [dermesser/photosync](https://github.com/dermesser/photosync) - Now that Google deprecated the Photos&lt;-&gt;Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes th
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run Python application to remove duplicates from Google Photos based on metadata
 - [agentOfChaos/divergence-viewer](https://github.com/agentOfChaos/divergence-viewer) - Provide a visual hash of the current timeline, useful for theoretical time travellers
 - [sigma67/spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) - Clone a Spotify playlist to YouTube Music
 - [aaronsw/html2text](https://github.com/aaronsw/html2text) - Convert HTML to Markdown-formatted text.
@@ -2785,7 +2785,7 @@
 ## TypeScript 
 
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
-- [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Built with Deno TS.
+- [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Built with Deno/JS.
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [ophidian-lib/core](https://github.com/ophidian-lib/core) - A Component Framework for Obsidian Plugins
