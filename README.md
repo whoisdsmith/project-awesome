@@ -502,7 +502,7 @@
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [DiptoChakrabarty/Resume-Generator](https://github.com/DiptoChakrabarty/Resume-Generator) - A Resume builder which allows users to build their own custom resumes  with details like experience,projects , skills ,education etc. Users can also have the feature to  download their resumes .  To c
 - [tbaltrushaitis/cv](https://github.com/tbaltrushaitis/cv) - :mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.
-- [Biswajee/CV-Generator](https://github.com/Biswajee/CV-Generator) - A web app that generates impressive resume for free. Built on Django and Jinja2 template engine. This web app comes with its own API which returns user's resume data as json object.
+- [Biswajee/CV-Generator](https://github.com/Biswajee/CV-Generator) - A web app that generates resume for free and is developed using Django and Jinja2. The project has an API that returns user's resume data as JSON.
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [arnaudsm/raito](https://github.com/arnaudsm/raito) - Mini Markdown Wiki/CMS in 8kb of JavaScript
@@ -2351,7 +2351,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge tools provide a unified interface to access all shared knowledge (research projects, experiments, AI/ML models, code and data) while facilitating reproducible research and transfe
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge tools provide a unified automation interface to access any shared knowledge (research projects, experiments, AI/ML models, code and data), support reproducible research and facili
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
