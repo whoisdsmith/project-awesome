@@ -1836,7 +1836,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [vincnttt/SimpleTimeline](https://github.com/vincnttt/SimpleTimeline) - Simple Timeline for Flutter Android Application
@@ -2877,7 +2877,7 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [shinokada/dotties](https://github.com/shinokada/dotties) - Dotties is a simple dotfile management script. It saves specified dotfiles in the home directory to a secret Gist. I also can clone them from the Gist, and more.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -3114,7 +3114,6 @@
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
@@ -3384,7 +3383,7 @@
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Combine any music sources into a single library. It's your music. Play it your way.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [azuline/repertoire](https://github.com/azuline/repertoire) - whoops never finished this lol, don't look it's old and embarrassing
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
@@ -3952,6 +3951,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -6433,7 +6433,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [moisespr123/GoogleDriveUploadTool](https://github.com/moisespr123/GoogleDriveUploadTool) - A tool for Windows to upload and manage files in Google Drive. It resumes uploads in case of an error or failure. Perfect for uploading large files or if your connection is unstable.
