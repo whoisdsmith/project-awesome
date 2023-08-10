@@ -1734,7 +1734,7 @@
 - [tmo1/sms-db](https://github.com/tmo1/sms-db) - sms-db is a tool to build an SQLite database out of collections of SMS and MMS messages in various formats. The database can then be queried using standard SQLite queries, and the messages in the data
 - [BooneJS/OhLife2DayOne](https://github.com/BooneJS/OhLife2DayOne) - Convert OhLife entries to Day One
 - [goerz/activity_logger](https://github.com/goerz/activity_logger) - Scripts to log and analyze computer usage
-- [davorg/svg-timeline](https://github.com/davorg/svg-timeline) - Create timelines with SVG
+- [davorg-cpan/svg-timeline](https://github.com/davorg-cpan/svg-timeline) - Create timelines with SVG
 - [arcterex/dayone2csvimport](https://github.com/arcterex/dayone2csvimport) - Day One v2 Import of CSV file
 - [bernuli/smsExport](https://github.com/bernuli/smsExport) - smsExport is a Perl script that reads your iOS device backup files and creates a CSV file of your text messages.  It uses the messages sql database and matches up phone numbers with the addressbook da
 - [ShazStar/privrepo](https://github.com/ShazStar/privrepo) - Personal Repo for Jailbreak needs.
