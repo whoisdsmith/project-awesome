@@ -391,7 +391,7 @@
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [trazfr/prometheus-nextcloud-exporter](https://github.com/trazfr/prometheus-nextcloud-exporter) - Monitoring of a Nextcloud instance using the servinfo plugin
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2826,7 +2826,7 @@
 - [MatthewCochrane/obsidian-embedding-search](https://github.com/MatthewCochrane/obsidian-embedding-search) - Index and Search your notes using embeddings for semantic search.
 - [L7Cy/obsidian-dynamic-timetable](https://github.com/L7Cy/obsidian-dynamic-timetable) - Calculate the estimated completion time from the estimated task time and dynamically create a timetable.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
-- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas during your note creations using Large Language Models (LLMs) like ChatGPT.
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI's "gpt-3.5-turbo" and "gpt-4" for Obsidian.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
