@@ -83,6 +83,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [games](#games)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1887,6 +1888,10 @@
 
 - [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin) - A plugin that can query multiple APIs for movies, series, anime, games, music and wiki articles, and import them into your vault.
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
+
+## gis 
+
+- [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 
 ## git 
 
@@ -4966,7 +4971,6 @@
 - [planetbeing/xpwn](https://github.com/planetbeing/xpwn) - A cross-platform custom NOR firmware loader and custom IPSW generator for the iPhone
 - [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - A simple iOS photo and video browser with grid view, captions and selections.
 - [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
-- [rosskarchner/eventgrinder](https://github.com/rosskarchner/eventgrinder) - an editorial system for calendars, which includes an iCal aggregator, user submissions, and an editorial queue.
 - [kudanai/libDayOne](https://github.com/kudanai/libDayOne) - simple python module to interact with Day One journals
 - [mcholl/productivityscripts](https://github.com/mcholl/productivityscripts) - 
 - [bodhiconnolly/python-day-one-client](https://github.com/bodhiconnolly/python-day-one-client) - A Day One Client written in Python for CSSE1001 Assignment 3.
