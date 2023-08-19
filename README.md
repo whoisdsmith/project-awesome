@@ -1286,6 +1286,7 @@
 
 ## Others 
 
+- [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [samysberg/marklisma](https://github.com/samysberg/marklisma) - A Markdown Link Structure Maker, to be used with Obsidian.md.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
