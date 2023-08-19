@@ -3754,6 +3754,7 @@
 
 ## others 
 
+- [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [samysberg/marklisma](https://github.com/samysberg/marklisma) - A Markdown Link Structure Maker, to be used with Obsidian.md.
 - [michaelNinh/arxiv-search-summarize](https://github.com/michaelNinh/arxiv-search-summarize) - Keyword search Arxiv and summarize papers with OpenAi's chatGPT.
 - [austinvhuang/openmemex](https://github.com/austinvhuang/openmemex) - Open source, local-first knowledge platform.
