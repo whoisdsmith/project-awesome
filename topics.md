@@ -225,7 +225,7 @@
 
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
@@ -319,7 +319,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Azure support!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
@@ -1064,7 +1064,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud: cloud.marqo.ai
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Azure support!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
@@ -1409,7 +1409,7 @@
 
 ## data-analysis 
 
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
 - [1994nikunj/nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichlet 
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
@@ -1430,7 +1430,7 @@
 
 ## data-science 
 
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
@@ -4443,7 +4443,7 @@
 - [janloeffler/import-day-one](https://github.com/janloeffler/import-day-one) - WordPress plugin for importing entries from Day One export file
 - [WildPress/obsidian-wp](https://github.com/WildPress/obsidian-wp) - Post directly to your WordPress blog from Obsidian.
 - [quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A markdown formatter intended for writing specifications
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [krissrex/obsidian-html](https://github.com/krissrex/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
 - [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio) - A curated list of awesome audio technology resources for developers
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
@@ -5242,7 +5242,7 @@
 ## python 
 
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -5567,7 +5567,7 @@
 
 ## rails 
 
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Azure support!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
@@ -5763,7 +5763,7 @@
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Azure support!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [SyedAbuTalib/Github-Stars](https://github.com/SyedAbuTalib/Github-Stars) - Saves time by listing all starred repos in one page
