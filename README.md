@@ -677,7 +677,7 @@
 - [mborne/markdown-to-html](https://github.com/mborne/markdown-to-html) - An experimental markdown renderer based on marked aiming at providing both a static site generator and a live server
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [lkrimphove/obsidian-templates](https://github.com/lkrimphove/obsidian-templates) - Templates and scripts for obsidian.md
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
@@ -1583,7 +1583,6 @@
 - [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - 🩺 Track, visualize, and embed your health and life data — location, health, work, play, and more
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [nobiot/Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
-- [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [ivbeg/awesome-data-takeout](https://github.com/ivbeg/awesome-data-takeout) - Awesome list of data export pages/tools for most common online services
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1748,6 +1747,7 @@
 - [moe-k/GoogleTakeout](https://github.com/moe-k/GoogleTakeout) - Script to reorganize photos and videos taken from Google Photos takeout download
 - [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline of Active Directory changes with replication metadata
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10 related research
+- [secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Research Paper Summaries, Setup & Performance Notes, Resource Links on AI, Deep Learning, NLP, Computer Vision for my learning.
 
 ## Python 
