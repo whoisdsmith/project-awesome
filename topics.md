@@ -4137,7 +4137,7 @@
 - [hilja/file-batcher](https://github.com/hilja/file-batcher) - Bulk edit Front Matter Markdown files with ease
 - [piyushmaurya23/free-for-student](https://github.com/piyushmaurya23/free-for-student) - A list of developers tools & services which are free for students. This repo will also contains list of free tier services.
 - [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This application provides free college ID cards for students.
-- [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive, money is elusive and piracy is...evil!
+- [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive and money is elusive,
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [Saber2pr/wiki-builder](https://github.com/Saber2pr/wiki-builder) - powered by saber2pr.github.io
