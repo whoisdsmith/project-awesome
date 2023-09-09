@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [bionic/bionic](https://github.com/bionic/bionic) - Convert data exports from various services to a single SQLite database
 - [balacode/cmdx](https://github.com/balacode/cmdx) - A command line tool to process files and source code. Delete duplicate files. Make hundreds of simultaneous text replacements.
 - [daddyingrave/md-from-notion](https://github.com/daddyingrave/md-from-notion) - Cleaner for markdown imported from Notion
 - [robinmin/xally](https://github.com/robinmin/xally) - X-Ally is an elegant command line client and relay server for ChatGPT.
@@ -426,6 +427,7 @@
 
 ## HTML 
 
+- [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [nyaahilism/BOOKMRKS-MTHRFCKR](https://github.com/nyaahilism/BOOKMRKS-MTHRFCKR) - The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!
 - [PeARSearch/PeARSearch.github.io](https://github.com/PeARSearch/PeARSearch.github.io) - Website for PeARS project
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -602,6 +604,11 @@
 
 ## JavaScript 
 
+- [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
+- [konklone/json](https://github.com/konklone/json) - A free, in-browser JSON to CSV converter.
+- [specful-ai/chatreview](https://github.com/specful-ai/chatreview) - Code Review Mode for ChatGPT
+- [1History/1History](https://github.com/1History/1History) - All your history in one file.
+- [thesephist/histools](https://github.com/thesephist/histools) - A collection of tools for generating data visualizations from browser history data
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
 - [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
@@ -800,7 +807,7 @@
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [OXOYO/bookmark2md](https://github.com/OXOYO/bookmark2md) - Convert chrome bookmarks to md files and push them to GitHub repository.
 - [thlorenz/parse-link-header](https://github.com/thlorenz/parse-link-header) - Parses a link header and returns paging information for each contained link.
-- [thiiagoms/mark-parse](https://github.com/thiiagoms/mark-parse) - Extract and validate links from markdown files :books:
+- [thiiagoms/mark-parse](https://github.com/thiiagoms/mark-parse) - :books: Extract and validate links from markdown files
 - [ralphtheninja/parse-markdown-links](https://github.com/ralphtheninja/parse-markdown-links) - Get all links from a markdown string.
 - [CCharlieLi/bookmark-parser](https://github.com/CCharlieLi/bookmark-parser) - Find and parse Firefox/Chrome bookmark HTML and jsonlz4 file into useable JSON object or export as JSON file.
 - [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
@@ -1750,6 +1757,17 @@
 
 ## Python 
 
+- [kcubeterm/achoz](https://github.com/kcubeterm/achoz) - Search through all your personal data efficiently like web search.
+- [nostalgia-dev/nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
+- [NickSto/life-browser](https://github.com/NickSto/life-browser) - View a timeline of your own history through your personal data.
+- [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
+- [markmelnic/visualize-browsing-history](https://github.com/markmelnic/visualize-browsing-history) - A tool to visualize your chrome browsing history using google takeout data.
+- [DovarFalcone/google-takeout-location-parser](https://github.com/DovarFalcone/google-takeout-location-parser) - Easily parse location .json files provided by the Google Takeout service
+- [Scarygami/location-history-json-converter](https://github.com/Scarygami/location-history-json-converter) - Convert the Location History JSON File from Google Takeout into a useable format
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
+- [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
+- [nasa-jpl-memex/memex-explorer](https://github.com/nasa-jpl-memex/memex-explorer) - Viewers for statistics and dashboarding of Domain Search Engine data
+- [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [michaelNinh/arxiv-search-summarize](https://github.com/michaelNinh/arxiv-search-summarize) - Keyword search Arxiv and summarize papers with OpenAi's chatGPT.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
@@ -2779,6 +2797,7 @@
 
 ## TypeScript 
 
+- [nt92/memex](https://github.com/nt92/memex) - We all have a BOATLOAD of data strewn across different apps. This is my attempt to unify my data into a common warehouse and do cool stuff with it.
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. with deno + typescript
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
@@ -2897,7 +2916,7 @@
 - [fnumatic/obsidian-plugin-dynamic-toc](https://github.com/fnumatic/obsidian-plugin-dynamic-toc) - An Obsidian plugin for creating Tables of Contents that stay updated with your document
 - [wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime) - Obsidian.md plugin for automatic time tracking and metrics generated from your Obsidian usage activity.
 - [Mocca101/obsidian-plugin-groups](https://github.com/Mocca101/obsidian-plugin-groups) - A plugin that allows you to easily group and manage your other plugins in Obsidian.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [guopenghui/obsidian-text-compiler](https://github.com/guopenghui/obsidian-text-compiler) - Compile text to another format
 - [AleksiVirkkala/obsidian-perspective-plugin](https://github.com/AleksiVirkkala/obsidian-perspective-plugin) - Plugin that makes it possible to give multiple definitions for single concept and switch between them easily
