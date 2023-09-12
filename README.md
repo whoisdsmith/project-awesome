@@ -677,7 +677,6 @@
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [devbean/obsidian-wordpress](https://github.com/devbean/obsidian-wordpress) - An obsidian plugin for publishing docs to WordPress.
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML.
 - [dabblelab/gptanswers-node](https://github.com/dabblelab/gptanswers-node) - Building a GPT-3 Knowledge Base App (NodeJS)
 - [1000ch/node-github-markdown](https://github.com/1000ch/node-github-markdown) - Parse GitHub flavored markdown to static html.
 - [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
@@ -2366,7 +2365,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A common, non-intrusive and technology-agnostic automation language to access, automate, run and reuse any research project, benchmark, application, tool, ad-hoc script, data and model in a unified wa
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind automation language (MLCommons CM) provides a non-intrusive, unified, technology-agnostic and human-friendly interface to access, automate, manage, modularize, reuse and run any softwa
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -2800,7 +2799,6 @@
 ## TypeScript 
 
 - [songkg7/o2](https://github.com/songkg7/o2) - Converts obsidian markdown syntax to other platforms.
-- [ormai/obsidian-card-links](https://github.com/ormai/obsidian-card-links) - An Obsidian plugin that fetches metadata from URLs and generates card-styled links via code blocks
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
 - [linebyline-group/linebyline](https://github.com/linebyline-group/linebyline) - Modern markdown editor application with built-in ChatGPT extension. Available for Linux, macOS and Windows.
 - [nt92/memex](https://github.com/nt92/memex) - We all have a BOATLOAD of data strewn across different apps. This is my attempt to unify my data into a common warehouse and do cool stuff with it.
@@ -2825,7 +2823,7 @@
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [EasyChris/obsidian-to-notion](https://github.com/EasyChris/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
 - [vasilecampeanu/obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you 
 - [nathsou/plugpt](https://github.com/nathsou/plugpt) - OpenAI GPT chat interface with custom plugins
 - [pbk123461/ChatGPT](https://github.com/pbk123461/ChatGPT) - An amazing open-source web app that allows you to use OpenAI's ChatGPT!. see in releases for link does not recommend github.io link unstable
@@ -2944,6 +2942,7 @@
 - [rien7/obsidian-colorful-tag](https://github.com/rien7/obsidian-colorful-tag) - Make your tag more beautiful and powerful!
 - [dobrovolsky/obsidian-structure](https://github.com/dobrovolsky/obsidian-structure) - 
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Webpage HTML Export lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML.
 - [CobyPear/obsidian-diy-sync](https://github.com/CobyPear/obsidian-diy-sync) - Obsidian.md plugin + expressjs server for syncing and publishing markdown content
 - [ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) - Grabs data from IVRE and brings it into Obsidian notes
 - [vilmacio/gslides-maker](https://github.com/vilmacio/gslides-maker) - Generate Google Slides from Wikipedia content
