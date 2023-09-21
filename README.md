@@ -392,6 +392,7 @@
 - [msa-ali/google-photo-downloader](https://github.com/msa-ali/google-photo-downloader) - Go Application to download Google Photo Album Content
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
@@ -608,6 +609,7 @@
 
 ## JavaScript 
 
+- [daneroo/gphotos-googleapis](https://github.com/daneroo/gphotos-googleapis) - Get a list of all photos on Google Photos
 - [ElJaviLuki/MeowGPT](https://github.com/ElJaviLuki/MeowGPT) - MeowGPT is a set of tools for ChatGPT that allows you to use ChatGPT with minimal coding.
 - [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
 - [konklone/json](https://github.com/konklone/json) - A free, in-browser JSON to CSV converter.
@@ -1162,7 +1164,6 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
@@ -1644,6 +1645,7 @@
 
 ## PHP 
 
+- [VladimirKalachikhin/GooglePhotosURLs](https://github.com/VladimirKalachikhin/GooglePhotosURLs) - create list of Google Photos from the Google Photo's album url
 - [ueberdosis/alldocs.app](https://github.com/ueberdosis/alldocs.app) - Online text file converter
 - [pH-7/Html2Text](https://github.com/pH-7/Html2Text) - A very simple (but efficient) "HTML to plain text" converter ✍️
 - [MoritzLost/TextformatterPageTitleLinks](https://github.com/MoritzLost/TextformatterPageTitleLinks) - A Textformatter module for Processwire that will automatically add links to titles of other pages in a text.
@@ -1712,7 +1714,7 @@
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [Kwaadpepper/Omen](https://github.com/Kwaadpepper/Omen) - Yet another Laravel file manager
 - [singlequote/laravel-filemanager](https://github.com/singlequote/laravel-filemanager) - A laravel filemanager package
-- [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [mshossain110/LaravelDrive](https://github.com/mshossain110/LaravelDrive) - Private file storage and share with user build with laravel and vue inspired by google drive
 - [janloeffler/import-day-one](https://github.com/janloeffler/import-day-one) - WordPress plugin for importing entries from Day One export file
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -1763,6 +1765,7 @@
 
 ## Python 
 
+- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
 - [messa/bloom](https://github.com/messa/bloom) - Index text files + print files matching some phrase
 - [glvnst/txtscan](https://github.com/glvnst/txtscan) - command-line program that reports on general statistics and interesting characters inside text files
 - [mitmedialab/text_analyses_tools](https://github.com/mitmedialab/text_analyses_tools) - Matching phrases between source and query text files
@@ -1917,7 +1920,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatBot+LLM  | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| Streamlined faux plug-in send/receive dialog system
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2816,6 +2819,7 @@
 
 ## TypeScript 
 
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [songkg7/o2](https://github.com/songkg7/o2) - Converts obsidian markdown syntax to other platforms.
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
 - [linebyline-group/linebyline](https://github.com/linebyline-group/linebyline) - Modern markdown editor application, Build fast and efficient workflows.
