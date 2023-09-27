@@ -486,7 +486,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge - an open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment
+- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
 
 ## atom 
 
@@ -516,7 +516,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge - an open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment
+- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
@@ -3048,7 +3048,7 @@
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge - an open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment
+- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -3734,7 +3734,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge - an open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment
+- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
 
 ## operating-system 
 
@@ -3809,7 +3809,8 @@
 
 ## others 
 
-- [biobootloader/mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
+- [digime/digime-sdk-nodejs-example](https://github.com/digime/digime-sdk-nodejs-example) - DigiMe javascript SDK example
+- [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [daneroo/gphotos-googleapis](https://github.com/daneroo/gphotos-googleapis) - Get a list of all photos on Google Photos
 - [glvnst/txtscan](https://github.com/glvnst/txtscan) - command-line program that reports on general statistics and interesting characters inside text files
 - [hilbigan/ngrm](https://github.com/hilbigan/ngrm) - Find similar files based on byte sequences
