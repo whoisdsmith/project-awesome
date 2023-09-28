@@ -231,6 +231,7 @@
 
 ## CSS 
 
+- [daviddavo/jgmd](https://github.com/daviddavo/jgmd) - A directory of direct links to get your personal data from web services.
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer.
 - [godmayhem7/social-media-stats](https://github.com/godmayhem7/social-media-stats) - 
@@ -430,6 +431,7 @@
 
 ## HTML 
 
+- [timostrating/MEGA](https://github.com/timostrating/MEGA) - MEGA is my attempt to collect and analyze as much of my personal information as possible for a year. All scripts i write to automate actions will be stored in this repo.
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [nyaahilism/BOOKMRKS-MTHRFCKR](https://github.com/nyaahilism/BOOKMRKS-MTHRFCKR) - The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!
 - [PeARSearch/PeARSearch.github.io](https://github.com/PeARSearch/PeARSearch.github.io) - Website for PeARS project
@@ -608,10 +610,13 @@
 
 ## JavaScript 
 
+- [shukerov/dataforme](https://github.com/shukerov/dataforme) - A personal data analysis tool.
+- [austil/datapuller](https://github.com/austil/datapuller) - "Easy" data dump of your activity on various web services
+- [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [digime/digime-sdk-nodejs-example](https://github.com/digime/digime-sdk-nodejs-example) - DigiMe javascript SDK example
 - [daneroo/gphotos-googleapis](https://github.com/daneroo/gphotos-googleapis) - Get a list of all photos on Google Photos
 - [ElJaviLuki/MeowGPT](https://github.com/ElJaviLuki/MeowGPT) - MeowGPT is a set of tools for ChatGPT that allows you to use ChatGPT with minimal coding.
-- [nicbou/timeline](https://github.com/nicbou/timeline) - Collects personal data from different sources, displays it as a daily diary.
+- [nicbou/timeline-old](https://github.com/nicbou/timeline-old) - Collects personal data from different sources, displays it as a daily diary.
 - [konklone/json](https://github.com/konklone/json) - A free, in-browser JSON to CSV converter.
 - [specful-ai/chatreview](https://github.com/specful-ai/chatreview) - Code Review Mode for ChatGPT
 - [1History/1History](https://github.com/1History/1History) - All your history in one file.
@@ -1092,6 +1097,7 @@
 
 ## Jupyter Notebook 
 
+- [davidstap/ML4QS](https://github.com/davidstap/ML4QS) - Machine Learning for the Quantified Self
 - [danielgatis/search_in_files](https://github.com/danielgatis/search_in_files) - This is a tool for search text in files.
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -1297,6 +1303,7 @@
 
 ## Others 
 
+- [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [samysberg/marklisma](https://github.com/samysberg/marklisma) - A Markdown Link Structure Maker, to be used with Obsidian.md.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -1765,6 +1772,7 @@
 
 ## Python 
 
+- [Chareste/SpotifyHistoryParserExtended](https://github.com/Chareste/SpotifyHistoryParserExtended) - A parser for the Extended Streaming History (all time) sent to you by Spotify.
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [messa/bloom](https://github.com/messa/bloom) - Index text files + print files matching some phrase
 - [glvnst/txtscan](https://github.com/glvnst/txtscan) - command-line program that reports on general statistics and interesting characters inside text files
@@ -1785,7 +1793,7 @@
 - [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [nasa-jpl-memex/memex-explorer](https://github.com/nasa-jpl-memex/memex-explorer) - Viewers for statistics and dashboarding of Domain Search Engine data
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [michaelNinh/arxiv-search-summarize](https://github.com/michaelNinh/arxiv-search-summarize) - Keyword search Arxiv and summarize papers with OpenAi's chatGPT.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
@@ -2006,7 +2014,7 @@
 - [shockz-offsec/DriveMyFiles](https://github.com/shockz-offsec/DriveMyFiles) - DriveMyFiles offers through an intuitive and easy to use interface, the possibility to easily backup manually or automatically to Google Drive the files/directories you want by selecting them through 
 - [shashankdeshpande/github-profile-generator](https://github.com/shashankdeshpande/github-profile-generator) - Generate README for GitHub profile using this web app!
 - [J-E-J-S/autograph-obsidian](https://github.com/J-E-J-S/autograph-obsidian) - Automatic knowledge graph generation for Obsidian.md
-- [gaojiuli/tomd](https://github.com/gaojiuli/tomd) - Convert HTML to Markdown.
+- [elliotgao2/tomd](https://github.com/elliotgao2/tomd) - Convert HTML to Markdown.
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [webalorn/md2book](https://github.com/webalorn/md2book) - Convert markdown files to beautiful books using a simple configuration file
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
@@ -2800,7 +2808,7 @@
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [Rightpoint/BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift
 - [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress for iOS - Official repository
-- [wireapp/wire-ios](https://github.com/wireapp/wire-ios) - 📱 Wire for iOS (iPhone and iPad)
+- [wireapp/wire-ios_legacy](https://github.com/wireapp/wire-ios_legacy) - 📱 Wire for iOS (iPhone and iPad)
 - [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
 - [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [hartlco/DayOneToMarkdownFiles](https://github.com/hartlco/DayOneToMarkdownFiles) - Create markdown files out of DayOne Json export
@@ -2819,6 +2827,7 @@
 
 ## TypeScript 
 
+- [autogram-is/url-tools](https://github.com/autogram-is/url-tools) - Helper classes for validating, filtering, and normalizing URLs in bulk
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [songkg7/o2](https://github.com/songkg7/o2) - Converts obsidian markdown syntax to other platforms.
