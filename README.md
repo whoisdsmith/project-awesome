@@ -841,7 +841,7 @@
 - [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [wobsoriano/spotify-stats](https://github.com/wobsoriano/spotify-stats) - 🎧 Your spotify profile's top artists and tracks with charts and playlist creator.
 - [cocktail-forensics/macCocktail](https://github.com/cocktail-forensics/macCocktail) - Parses forensic artifacts from macOS file systems
-- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
 - [openXapps/web-apps-bookmarker-mui](https://github.com/openXapps/web-apps-bookmarker-mui) - Updated bookmarker app rebuilt in MUI framework
 - [dribehub/nord-startpage](https://github.com/dribehub/nord-startpage) - Nord-themed startpage written in pure js
@@ -2839,7 +2839,7 @@
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [songkg7/o2](https://github.com/songkg7/o2) - Converts obsidian markdown syntax to other platforms.
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
-- [linebyline-group/linebyline](https://github.com/linebyline-group/linebyline) - Modern markdown editor application, Build fast and efficient workflows.
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
 - [nt92/memex](https://github.com/nt92/memex) - We all have a BOATLOAD of data strewn across different apps. This is my attempt to unify my data into a common warehouse and do cool stuff with it.
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. with deno + typescript
