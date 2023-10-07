@@ -2834,6 +2834,7 @@
 
 ## TypeScript 
 
+- [agentlabs-inc/agentlabs](https://github.com/agentlabs-inc/agentlabs) - Universal AI Agent Frontend. Build your backend we handle the rest.
 - [autogram-is/url-tools](https://github.com/autogram-is/url-tools) - Helper classes for validating, filtering, and normalizing URLs in bulk
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -3216,7 +3217,7 @@
 
 ## Vala 
 
-- [phastmike/tagger](https://github.com/phastmike/tagger) - A simple text tagger
+- [phastmike/tags](https://github.com/phastmike/tags) - A simple text tagger
 
 ## Vim Script 
 
