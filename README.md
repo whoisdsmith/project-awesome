@@ -141,7 +141,6 @@
 - [LongAppleC/iphone-dataprotection.keychainviewer](https://github.com/LongAppleC/iphone-dataprotection.keychainviewer) - Automatically exported from code.google.com/p/iphone-dataprotection.keychainviewer
 - [carbamide/vMacForiOS](https://github.com/carbamide/vMacForiOS) - 
 - [stonesam92/Furlough](https://github.com/stonesam92/Furlough) - An attempt to create a Cydia Substrate API compatibility shim which can be used to inject extensions on jailed devices
-- [mvu8912/ios-perl](https://github.com/mvu8912/ios-perl) - Installing Perl on a Jail broken iOS device
 - [efrederickson/Link2App](https://github.com/efrederickson/Link2App) - Open links in their native apps **Obsolete, use LinkOpener**
 - [GotoHack/iphone-dataprotection.keychainviewer](https://github.com/GotoHack/iphone-dataprotection.keychainviewer) - Automatically exported from code.google.com/p/iphone-dataprotection.keychainviewer
 - [theiostream/bozocache](https://github.com/theiostream/bozocache) - Get dsc through AFC
@@ -345,6 +344,7 @@
 
 ## Go 
 
+- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
 - [lorenzo-stoakes/mark](https://github.com/lorenzo-stoakes/mark) - markdown analysis tool
 - [go-air/dupi](https://github.com/go-air/dupi) - A tool to find all duplicates in large sets of text documents.
@@ -432,6 +432,8 @@
 
 ## HTML 
 
+- [jsmsj/sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get a
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [timostrating/MEGA](https://github.com/timostrating/MEGA) - MEGA is my attempt to collect and analyze as much of my personal information as possible for a year. All scripts i write to automate actions will be stored in this repo.
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [nyaahilism/BOOKMRKS-MTHRFCKR](https://github.com/nyaahilism/BOOKMRKS-MTHRFCKR) - The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!
@@ -961,7 +963,6 @@
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [I2rys/SherNode](https://github.com/I2rys/SherNode) - ⚡ Fast, easily configurable and simplified codes NodeJS version of Sherlock.
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [ChmaraX/forensix](https://github.com/ChmaraX/forensix) - Google Chrome forensic tool to process, analyze and visualize browsing artifacts
 - [colbyfayock/md-to-wp](https://github.com/colbyfayock/md-to-wp) - Upload a directory of markdown files to WordPress
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
@@ -1098,6 +1099,7 @@
 
 ## Jupyter Notebook 
 
+- [amaiya/onprem](https://github.com/amaiya/onprem) - A tool for running on-premises large language models with non-public data
 - [davidstap/ML4QS](https://github.com/davidstap/ML4QS) - Machine Learning for the Quantified Self
 - [danielgatis/search_in_files](https://github.com/danielgatis/search_in_files) - This is a tool for search text in files.
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
@@ -1774,6 +1776,10 @@
 
 ## Python 
 
+- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+- [merlinepedra/BLACKBIRD](https://github.com/merlinepedra/BLACKBIRD) - 
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
+- [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [Chareste/SpotifyHistoryParserExtended](https://github.com/Chareste/SpotifyHistoryParserExtended) - A parser for the Extended Streaming History (all time) sent to you by Spotify.
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [messa/bloom](https://github.com/messa/bloom) - Index text files + print files matching some phrase
@@ -1950,7 +1956,7 @@
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud: cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
 - [SerjSX/pSearch](https://github.com/SerjSX/pSearch) - Searching tool written in Python for Piracy related websites.
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
@@ -2149,6 +2155,7 @@
 - [soxoj/maigret-adapter](https://github.com/soxoj/maigret-adapter) - Connect Maigret with other tools
 - [antonio-hickey/gDash](https://github.com/antonio-hickey/gDash) - gDash ( g- ) Open Source Intelligence Dashboard
 - [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
 - [s1z5d/raindrop-integrations](https://github.com/s1z5d/raindrop-integrations) - A set of scripts that connect various apps to Raindrop.io
 - [auroracramer/dayone-audio-summarizer](https://github.com/auroracramer/dayone-audio-summarizer) - Generating summarizations of DayOne audio journals in Markdown format
@@ -2744,7 +2751,7 @@
 - [kitykity/DayOneRandom](https://github.com/kitykity/DayOneRandom) - Day One doesn't have a random post button (yet!), but this web page will allow you to go to any random post that you've put into it. Requires a little work each time you write a post, but it's worth i
 - [dduan/git2dayone](https://github.com/dduan/git2dayone) - A script for logging git commit messages in the app Day One
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [davidbosman/Import-Markdown-to-Day-One](https://github.com/davidbosman/Import-Markdown-to-Day-One) - Import markdown journal entries (txt files) to Day One app (OS X)
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
@@ -2834,6 +2841,7 @@
 
 ## TypeScript 
 
+- [HananoshikaYomaru/Obsidian-Frontmatter-Generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator) - A plugin for Obsidian that generates frontmatter for notes
 - [agentlabs-inc/agentlabs](https://github.com/agentlabs-inc/agentlabs) - Universal AI Agent Frontend. Build your backend we handle the rest.
 - [autogram-is/url-tools](https://github.com/autogram-is/url-tools) - Helper classes for validating, filtering, and normalizing URLs in bulk
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
