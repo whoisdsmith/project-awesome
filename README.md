@@ -1831,7 +1831,7 @@
 - [miranthajayatilake/nanoQA2](https://github.com/miranthajayatilake/nanoQA2) - ChatGPT on your own data
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [jina-ai/thinkgpt](https://github.com/jina-ai/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use modular observability for AI Systems. Extensible, scalable and modular.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
 - [geeks-of-data/knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources.
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated, customizable Ai Assistant/Multi-Agent Framework/Connected Tool Suite with realistic Long Term Memory and thought formation using Llama 2 with the Oobabooga API 
@@ -1934,7 +1934,7 @@
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Advanced Framework|ChatBot+LLM  | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| Streamlined faux plug-in send/receive dialog system
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🤔使用插件系统的链式架构消息平台| Chain Driven Node Runner| 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
@@ -1987,7 +1987,6 @@
 - [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
 - [DamianFlynn/py-obsidian-parser](https://github.com/DamianFlynn/py-obsidian-parser) - Obsidian parser, used to create the content for Hugo SSG
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [mdube99/websiteToMarkdown](https://github.com/mdube99/websiteToMarkdown) - 
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
 - [devsecboy/DomainRecon](https://github.com/devsecboy/DomainRecon) - Based on URL and Organization Name, collect the IP Ranges, subdomains using various tools like Amass, subfinder, etc.. And check for uphost and Run Masscan to grap CNAME entries, take the screenshot o
@@ -2637,7 +2636,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -2797,7 +2795,7 @@
 - [JohnSundell/Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
-- [SerenaKit/Santander](https://github.com/SerenaKit/Santander) - A new, enhanced File Manager for iOS devices
+- [NSAntoine/Santander](https://github.com/NSAntoine/Santander) - A new, enhanced File Manager for iOS devices
 - [luckymarmot/ThemeKit](https://github.com/luckymarmot/ThemeKit) - macOS theming library
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
@@ -3172,6 +3170,7 @@
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take advantage of YAML front-matter in generating notes from templates (for obsidian.md)
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [mehmetsagir/regex-safe-website](https://github.com/mehmetsagir/regex-safe-website) - Easy controls with Regex.
