@@ -1762,7 +1762,7 @@
 - [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A (defunct) tool for merging and organizing exported Google Photos backups. Built with React and Electron!
 - [pokiiio/GooglePhotoMarkdowner](https://github.com/pokiiio/GooglePhotoMarkdowner) - GooglePhotoにアップロードした写真を、ブログなどで貼り付けられる形式に変換するアプリです。
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -2689,7 +2689,7 @@
 - [dan-smith-tech/shelf](https://github.com/dan-smith-tech/shelf) - A fully customisable, open-source browser startpage.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager - Say goodbye to Package Manager confusion
@@ -2951,7 +2951,7 @@
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [shinokada/dotties](https://github.com/shinokada/dotties) - Dotties is a simple dotfile management script. It saves specified dotfiles in the home directory to a secret Gist. I also can clone them from the Gist, and more.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -3133,7 +3133,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [shinokada/dotties](https://github.com/shinokada/dotties) - Dotties is a simple dotfile management script. It saves specified dotfiles in the home directory to a secret Gist. I also can clone them from the Gist, and more.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -3451,7 +3451,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [cooperhammond/irs](https://github.com/cooperhammond/irs) - :guitar: :notes: A music downloader that understands your metadata needs.
@@ -6443,7 +6443,7 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your memories under your control
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [guastallaigor/vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js (works with Vue 2 & Vue 3)
@@ -6577,7 +6577,7 @@
 - [ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software to create aliases for commands, applications to type in cmd, terminal.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, without login or ads.
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
