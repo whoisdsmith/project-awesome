@@ -224,6 +224,7 @@
 
 ## ai 
 
+- [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
@@ -296,7 +297,7 @@
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README.md file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
@@ -427,6 +428,7 @@
 
 ## api 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
@@ -692,6 +694,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+- [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
@@ -868,6 +871,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+- [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -946,7 +950,7 @@
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🌻 使用插件系统的链式架构消息平台 🤔| Chain Driven Node Runner| 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🌻 多平台链式插件 AI Bot，以复刻 ChatGpt 架构 🍓|⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker | 🧀 Discord/Slack/Kook/Telegram
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [jagrit007/Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - [USE ALPHA BRANCH] Simple Bot to clone Google Drive Files (or Folders) to your Team Drive[or Normal Drive]. P.S This is not a Mirror Bot. Enjoy ✌🏻
@@ -1074,14 +1078,14 @@
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🌻 使用插件系统的链式架构消息平台 🤔| Chain Driven Node Runner| 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🌻 多平台链式插件 AI Bot，以复刻 ChatGpt 架构 🍓|⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker | 🧀 Discord/Slack/Kook/Telegram
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
 - [Qiamast/ChatGPT-Awesome-Prompts](https://github.com/Qiamast/ChatGPT-Awesome-Prompts) - A collection of creative prompts for the GPT-3 model on GitHub to help improve productivity and efficiency in open-source projects. Join the community and help create more awesome prompts.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README.md file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
@@ -1195,6 +1199,7 @@
 
 ## cli 
 
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
 - [VladimirKalachikhin/GooglePhotosURLs](https://github.com/VladimirKalachikhin/GooglePhotosURLs) - create list of Google Photos from the Google Photo's album url
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
@@ -1320,7 +1325,7 @@
 - [poloclub/diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
-- [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media Service Community Edition
+- [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Research Paper Summaries, Setup & Performance Notes, Resource Links on AI, Deep Learning, NLP, Computer Vision for my learning.
 
 ## config 
@@ -1401,6 +1406,8 @@
 
 ## cybersecurity 
 
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
+- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [blackhatethicalhacking/XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket) - XSS Rocket is written by Black Hat Ethical Hacking with the help of #ChatGPT as experimentation, with a lot of hours spent modifying the code generated by ChatGPT, and is designed for Offensive Securi
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
@@ -1410,7 +1417,7 @@
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
-- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - This repo is my personal repertoire of technology and security-related notes since day one in the field. It is also my attempt to give back to the infosec community. It has all the references, checkli
+- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - My personal repertoire of technology and security-related notes.
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
@@ -1503,6 +1510,7 @@
 
 ## data-visualization 
 
+- [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
@@ -1528,7 +1536,7 @@
 ## database 
 
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
-- [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
+- [lowlevelers/edma](https://github.com/lowlevelers/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [IvoLimmen/mystart](https://github.com/IvoLimmen/mystart) - Google Bookmarks clone with extra's
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
@@ -1699,7 +1707,7 @@
 
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
 - [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README.md file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -1891,6 +1899,7 @@
 
 ## framework 
 
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -1902,6 +1911,7 @@
 
 ## frameworks 
 
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - link of all daily dev tools and a little bit data about them
 
 ## frontend 
@@ -1965,11 +1975,11 @@
 
 ## github 
 
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README.md file generator
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
@@ -2059,6 +2069,7 @@
 
 ## github-api 
 
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -2084,6 +2095,7 @@
 
 ## go 
 
+- [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext
 - [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -2116,6 +2128,7 @@
 
 ## golang 
 
+- [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext
 - [go-air/dupi](https://github.com/go-air/dupi) - A tool to find all duplicates in large sets of text documents.
 - [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -2233,7 +2246,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
-- [husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
+- [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
 - [W00t3k/Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
@@ -2401,6 +2414,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -2450,7 +2464,7 @@
 - [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin) - This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
-- [sneas/cv-template](https://github.com/sneas/cv-template) - An easy way to create HTML and PDF versions of your resume, and automatically host them on GitHub Pages.
+- [sneas/cv-template](https://github.com/sneas/cv-template) - Developer-friendly CV generator. Create HTML and PDF versions of your resume, and automatically host them on GitHub Pages.
 - [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A free HTML portfolio template for developers.
@@ -2620,6 +2634,7 @@
 
 ## javascript 
 
+- [brahma-dev/metafetch](https://github.com/brahma-dev/metafetch) - NodeJS package that fetches a given URL's title, description, images, links etc.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [ElJaviLuki/MeowGPT](https://github.com/ElJaviLuki/MeowGPT) - MeowGPT is a set of tools for ChatGPT that allows you to use ChatGPT with minimal coding.
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
@@ -2922,6 +2937,8 @@
 
 ## linux 
 
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
 - [AlexW00/cli-gpt](https://github.com/AlexW00/cli-gpt) - 💬 Simple TUI for ChatGPT.
@@ -3007,6 +3024,7 @@
 
 ## machine-learning 
 
+- [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models.
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
@@ -3089,6 +3107,7 @@
 
 ## macos 
 
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection) - Various Automator and AppleScript workflow and scripts for simplifying life
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 - [superhj1987/awesome-mac-things](https://github.com/superhj1987/awesome-mac-things) - some useful mac things:scripts, shells, doc, shortcut keys
@@ -3364,6 +3383,7 @@
 
 ## mastodon 
 
+- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 
@@ -3553,7 +3573,7 @@
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
-- [arekminajj/spotify-you](https://github.com/arekminajj/spotify-you) - 🎵 Spotify listening stats web application, build in Next.js
+- [arekminajj/spotify-you](https://github.com/arekminajj/spotify-you) - 🎵 Spotify listening stats web application, built in Next.js
 - [Yukaii/messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - Browse and view the exported Facebook Messenger data / messages.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
@@ -3779,6 +3799,14 @@
 
 ## osint 
 
+- [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
+- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
+- [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
@@ -3846,6 +3874,12 @@
 
 ## others 
 
+- [mbilokonsky/lyrical](https://github.com/mbilokonsky/lyrical) - a tool for scraping song lyrics
+- [antfu/rex](https://github.com/antfu/rex) - 📑 Transform texts with RegExp like a Pro.
+- [KR1GOS/Web-Scaping](https://github.com/KR1GOS/Web-Scaping) - This is a Python web scraper that extracts information about AI-related tools from "https://topai.tools/browse." The scraper fetches data from the website, including the tool name, URL, description, p
+- [Samani-Humaira/Fetch-Data-From-URL](https://github.com/Samani-Humaira/Fetch-Data-From-URL) - This web help us fetch data  (photos , description and many more) from URL.
+- [daturkel/custom-search-engines](https://github.com/daturkel/custom-search-engines) - Custom search engines for Google Chrome
+- [strizhov/super-simple-file-indexer](https://github.com/strizhov/super-simple-file-indexer) - A multi-threaded text file indexing command line application that prints 10 most repeated words and their counts.
 - [HananoshikaYomaru/Obsidian-Frontmatter-Generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator) - A plugin for Obsidian that generates frontmatter for notes
 - [jsmsj/sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get a
 - [amaiya/onprem](https://github.com/amaiya/onprem) - A tool for running on-premises large language models with non-public data
@@ -4332,7 +4366,6 @@
 - [CommitSans/obsidian-gitbook](https://github.com/CommitSans/obsidian-gitbook) - A quick tool to publish an Obsidian Vault on GitBook
 - [reorx/obsidian-telegraph-publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
 - [SaraVieira/obsidian-notes-publish-plugin](https://github.com/SaraVieira/obsidian-notes-publish-plugin) - An Obsidian plugin to publish your notes
-- [jaynguyens/obsidian-ghost-publish](https://github.com/jaynguyens/obsidian-ghost-publish) - Write on Obsidian. Publish to Ghost with a single click.
 - [PabloLION/free-lightweight-obsidian-publisher](https://github.com/PabloLION/free-lightweight-obsidian-publisher) - 
 - [yoursamlan/pubsidian](https://github.com/yoursamlan/pubsidian) - An Obsidian-Publish alternative but it's FREE
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
@@ -5257,7 +5290,7 @@
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
-- [husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
+- [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -5265,6 +5298,7 @@
 
 ## perl 
 
+- [KLB7/IntraMine](https://github.com/KLB7/IntraMine) - Fast search and real autolinking for your Windows local and NAS storage
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [davorg-cpan/svg-timeline](https://github.com/davorg-cpan/svg-timeline) - Create timelines with SVG
 
@@ -5366,6 +5400,12 @@
 
 ## python 
 
+- [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
+- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [danielgatis/search_in_files](https://github.com/danielgatis/search_in_files) - This is a tool for search text in files.
 - [ppw0/minhash](https://github.com/ppw0/minhash) - find similar text files quickly
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -5606,6 +5646,8 @@
 
 ## python3 
 
+- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [messa/bloom](https://github.com/messa/bloom) - Index text files + print files matching some phrase
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
 - [narenaryan/Vidura](https://github.com/narenaryan/Vidura) - A beautiful and elegant chat GPT prompt management system
@@ -5934,7 +5976,7 @@
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
+- [lowlevelers/edma](https://github.com/lowlevelers/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust program for extracting most URLs from Discord scrapes. Works with Discord History Tracker, discard2, and DiscordChatExporter.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -5975,6 +6017,7 @@
 
 ## security 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find dead-links (broken links)
@@ -6022,11 +6065,12 @@
 
 ## self-hosted 
 
+- [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-- [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media Service Community Edition
+- [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [giventofly/teikirize-bookmarks](https://github.com/giventofly/teikirize-bookmarks) - Your self host solution for bookmarks saving.
@@ -6319,6 +6363,7 @@
 
 ## twitter 
 
+- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [biolab/orange3-text](https://github.com/biolab/orange3-text) - 🍊 :page_facing_up: Text Mining add-on for Orange3
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
@@ -6338,6 +6383,7 @@
 
 ## typescript 
 
+- [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action) - Custom action to export Notion database to local as markdown files and images.
@@ -6556,6 +6602,8 @@
 
 ## windows 
 
+- [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
+- [KLB7/IntraMine](https://github.com/KLB7/IntraMine) - Fast search and real autolinking for your Windows local and NAS storage
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
 - [FMXExpress/Text-To-Vector-Desktop-Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client) - Create SVGs using text to vector AI from Illustroke
 - [FMXExpress/Stable-Diffusion-Text-To-Image-Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts) - Cross-platform Stable Diffusion Text to Image Prompts Generator built in Embarcadero Delphi.
