@@ -868,7 +868,7 @@
 - [rszamszur/pdf-resume-builder](https://github.com/rszamszur/pdf-resume-builder) - Simple, stateless, single-page application for creating neat PDF resume from JSON data.
 - [nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume) - A React.js Nice Resume Template
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
-- [sneas/cv-template](https://github.com/sneas/cv-template) - Developer-friendly CV generator. Create HTML and PDF versions of your resume, and automatically host them on GitHub Pages.
+- [sneas/cv-template](https://github.com/sneas/cv-template) - Manage your CV as a web app (HTML, JS, CSS). Automatically generate HTML and PDF versions and deploy them on GitHub Pages on every push.
 - [sonnysangha/Resume-Portfolio-Starter-pack](https://github.com/sonnysangha/Resume-Portfolio-Starter-pack) - 
 - [perminder-klair/resume-parser](https://github.com/perminder-klair/resume-parser) - A Simple NodeJs library to parse Resume / CV to JSON.
 - [vimal-verma/Master-Portfolio](https://github.com/vimal-verma/Master-Portfolio) - A clean, beautiful, responsive and 100% customizable portfolio template for Developers!
