@@ -1792,6 +1792,7 @@
 
 ## Python 
 
+- [corb555/GeoFinder](https://github.com/corb555/GeoFinder) - Verify and correct place names in a GEDCOM genealogy file
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -1959,7 +1960,7 @@
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 链式唤醒复刻 ChatGpt 架构 |⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 链式唤醒复刻 ChatGpt 架构 |⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖  Plugin Support | 🌻 sh & docker-compose | Good Practices of
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
@@ -1981,7 +1982,7 @@
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Marqo is more than a vector database, it's an end-to-end vector search engine for both text and images. Also available on cloud - cloud.marqo.ai
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [SerjSX/pSearch](https://github.com/SerjSX/pSearch) - Searching tool written in Python for Piracy related websites.
 - [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Confidence and Byt5 - based geotagging model predicting coordinates from text alone.
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
@@ -2928,7 +2929,7 @@
 - [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
-- [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
+- [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [mharrvic/redhorse-ai-transcriber](https://github.com/mharrvic/redhorse-ai-transcriber) - Audio transcriber using Openai whisper ML deployed to Banana.dev
 - [conneroisu/Text-Dataset-Aid-Plugin](https://github.com/conneroisu/Text-Dataset-Aid-Plugin) - This is a obsidian plugin to help with the creation of personal datasets for text generation models.
 - [nguyenvanduocit/obsidian-ai-assistant](https://github.com/nguyenvanduocit/obsidian-ai-assistant) - 
