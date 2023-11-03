@@ -157,6 +157,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
@@ -1704,6 +1705,7 @@
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
 - [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2212,7 +2214,7 @@
 - [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - 📑 Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will th
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
@@ -2305,7 +2307,7 @@
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [shreyasminocha/regex-for-regular-folk](https://github.com/shreyasminocha/regex-for-regular-folk) - 🔍💪 Regular Expressions for Regular Folk — A visual, example-based introduction to RegEx [BETA]
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [svengreb/tmpl](https://github.com/svengreb/tmpl) - A collection of template repositories for new projects.
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
@@ -2674,7 +2676,7 @@
 - [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
 - [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set of constants that can help you to parse markdown content
 - [OS-expected/EzGitDoc](https://github.com/OS-expected/EzGitDoc) - Simple & fast WYSIWYG repo documentation generator with personal enchacements.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
@@ -3484,6 +3486,7 @@
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
@@ -3567,7 +3570,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [datopian/flowershow](https://github.com/datopian/flowershow) - 💐 Publish your obsidian digital garden or any markdown site easily and elegantly.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
@@ -5313,6 +5316,30 @@
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
+## pentesting 
+
+- [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
+- [blackhatethicalhacking/XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket) - XSS Rocket is written by Black Hat Ethical Hacking with the help of #ChatGPT as experimentation, with a lot of hours spent modifying the code generated by ChatGPT, and is designed for Offensive Securi
+- [ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) - Grabs data from IVRE and brings it into Obsidian notes
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+- [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
+- [Sachin-v3rma/Astra](https://github.com/Sachin-v3rma/Astra) - Astra is a tool to find URLs and secrets inside a webpage/files
+- [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
+- [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
+- [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The iOS Security Testing Framework
+- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - My personal repertoire of technology and security-related notes.
+- [KanekiWeb/Email-Osint](https://github.com/KanekiWeb/Email-Osint) - 🔍 EMAIL OSINT is an OSINT Tool for emails. It helps you gather information about the target email.
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [brows3r/iPwn](https://github.com/brows3r/iPwn) - A Framework meant for the exploitation of iOS devices.
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [ForbiddenProgrammer/awesome-cybersecurity-news](https://github.com/ForbiddenProgrammer/awesome-cybersecurity-news) - List of sources for cybersecurity news
+- [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+
 ## perl 
 
 - [KLB7/IntraMine](https://github.com/KLB7/IntraMine) - Fast search and real autolinking for your Windows local and NAS storage
@@ -5795,7 +5822,7 @@
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
@@ -6426,7 +6453,7 @@
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [raeperd/google-drive-download-action](https://github.com/raeperd/google-drive-download-action) - Github action for download google drive files and folders
 - [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
 - [acmenlei/markdown-plus](https://github.com/acmenlei/markdown-plus) - A Markdown parser developed in typescript.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
