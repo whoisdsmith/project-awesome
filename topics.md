@@ -299,7 +299,7 @@
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
@@ -1088,7 +1088,7 @@
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
 - [Qiamast/ChatGPT-Awesome-Prompts](https://github.com/Qiamast/ChatGPT-Awesome-Prompts) - A collection of creative prompts for the GPT-3 model on GitHub to help improve productivity and efficiency in open-source projects. Join the community and help create more awesome prompts.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
@@ -1716,7 +1716,7 @@
 
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
 - [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -3768,6 +3768,7 @@
 - [soliblue/songGPT](https://github.com/soliblue/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [smaranjitghose/AIAudioTranscriber](https://github.com/smaranjitghose/AIAudioTranscriber) - A minimalistic web app to generate transciption for audio built using Python
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
+- [C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy) - $ whoami --&gt; C3n7ral051nt4g3ncy (aka OSINT Tactical)
 - [C3n7ral051nt4g3ncy/Obsidian](https://github.com/C3n7ral051nt4g3ncy/Obsidian) - Obsidian Ancestry Investigations
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
@@ -5525,7 +5526,7 @@
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -5541,6 +5542,7 @@
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
 - [theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
 - [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
+- [C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy) - $ whoami --&gt; C3n7ral051nt4g3ncy (aka OSINT Tactical)
 - [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [arshadkazmi42/is-broken-link-github](https://github.com/arshadkazmi42/is-broken-link-github) - Github Links Broken Status Checker
@@ -5710,6 +5712,7 @@
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
 - [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
+- [C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy) - $ whoami --&gt; C3n7ral051nt4g3ncy (aka OSINT Tactical)
 - [danhje/dead-link-crawler](https://github.com/danhje/dead-link-crawler) - An efficient, asynchronous crawler that identifies broken links on a given domain.
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
 - [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
