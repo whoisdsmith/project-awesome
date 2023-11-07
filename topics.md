@@ -32,7 +32,6 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
-- [clojure](#clojure)
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -325,7 +324,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with proper HTTP error handling!
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
@@ -438,7 +437,7 @@
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
 - [faynopi/raindropcli](https://github.com/faynopi/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -1099,7 +1098,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with proper HTTP error handling!
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
@@ -1231,7 +1230,6 @@
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
-- [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [obsidian-tools/obsidian-tools](https://github.com/obsidian-tools/obsidian-tools) - An unofficial collection of tools that helps you build plugins for obsidian.md
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
@@ -1284,10 +1282,6 @@
 - [tdh8316/Investigo](https://github.com/tdh8316/Investigo) - 🔎 Find usernames and download their data across social media.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-
-## clojure 
-
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## code 
 
@@ -1908,7 +1902,6 @@
 
 ## framework 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -1920,7 +1913,6 @@
 
 ## frameworks 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - link of all daily dev tools and a little bit data about them
 
 ## frontend 
@@ -1977,7 +1969,6 @@
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -2047,7 +2038,7 @@
 - [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog) - Fetch & Display Your Hashnode blog posts.
 - [th3c0d3br34ker/github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) - ✨ This GitHub action helps to add cool Stats to your GitHub profile README.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
@@ -2079,7 +2070,6 @@
 
 ## github-api 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check your GitHub rating, view results and enhance your profile quality.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
@@ -2947,7 +2937,6 @@
 
 ## linux 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
@@ -3337,7 +3326,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [kamranahmedse/github-pages-blog-action](https://github.com/kamranahmedse/github-pages-blog-action) - Create good looking blog from your markdown files in a GitHub repository
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository, for free, and more!
+- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [arnaudsm/raito](https://github.com/arnaudsm/raito) - Mini Markdown Wiki/CMS in 8kb of JavaScript
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
@@ -3385,7 +3374,6 @@
 - [JacobEvelyn/friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved.
 - [macedotavares/obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [danobot/notorious](https://github.com/danobot/notorious) - Offline-first note taking and knowledge management application for desktop and the web. Supports nested notebooks, tags, real-time sync, images and file attachments. Optimised for efficiency with keyb
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -3811,8 +3799,8 @@
 
 ## osint 
 
+- [soxoj/maigret-maltego](https://github.com/soxoj/maigret-maltego) - Maltego transformation for searching of accounts by username
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -3886,6 +3874,7 @@
 
 ## others 
 
+- [cipher387/maltego-transforms-list](https://github.com/cipher387/maltego-transforms-list) - A list of tools that handle different data and make it usable in Maltego.
 - [corb555/GeoFinder](https://github.com/corb555/GeoFinder) - Verify and correct place names in a GEDCOM genealogy file
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [lubauss/custom_instructions_ENG](https://github.com/lubauss/custom_instructions_ENG) - Custom instructions for use in ChatGPT
@@ -5789,7 +5778,7 @@
 
 ## rails 
 
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with proper HTTP error handling!
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
@@ -5991,7 +5980,7 @@
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now multi-tenant ready!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with proper HTTP error handling!
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
@@ -6665,7 +6654,7 @@
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
 - [sajayprakash/megathread](https://github.com/sajayprakash/megathread) - A list of useful apps, extensions, guides I use and recommend.
