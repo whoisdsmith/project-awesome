@@ -325,7 +325,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages and Runs 🍾
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
@@ -1098,7 +1098,7 @@
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages and Runs 🍾
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
@@ -2555,7 +2555,7 @@
 - [evilpenguin/SSLBypass](https://github.com/evilpenguin/SSLBypass) - iOS SSL Pinning Bypass (iOS 8 - 14)
 - [brows3r/iPwn](https://github.com/brows3r/iPwn) - A Framework meant for the exploitation of iOS devices.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
-- [Traurige/Ve](https://github.com/Traurige/Ve) - Natively integrated notification logger
+- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger
 - [ParthJadhav/IMMAT](https://github.com/ParthJadhav/IMMAT) - iMessage Mac Automation Tool
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
@@ -3723,7 +3723,7 @@
 ## objective-c 
 
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [Traurige/Ve](https://github.com/Traurige/Ve) - Natively integrated notification logger
+- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [TimOliver/TOWebViewController](https://github.com/TimOliver/TOWebViewController) - A view controller class for iOS that allows users to view web pages directly within an app.
@@ -4000,7 +4000,7 @@
 - [ilyasseda/loopgpt](https://github.com/ilyasseda/loopgpt) - Create infinite loops with using one prompt. one .html file
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [usc-isi-i2/kgtk](https://github.com/usc-isi-i2/kgtk) - Knowledge Graph Toolkit
-- [iAmmarTahir/KnowledgeGraphGPT](https://github.com/iAmmarTahir/KnowledgeGraphGPT) - Transform plain text into a visually stunning Knowledge Graph with GPT-3! It converts text into RDF tuples, and highlights the most frequent connections with a vibrant color-coding system. Download th
+- [iAmmarTahir/KnowledgeGraphGPT](https://github.com/iAmmarTahir/KnowledgeGraphGPT) - Transform plain text into a visually stunning Knowledge Graph with GPT-4 (latest preview)! It converts text into RDF tuples, and highlights the most frequent connections with a vibrant color-coding sy
 - [investler/Free-Resources-for-IT-Students](https://github.com/investler/Free-Resources-for-IT-Students) - As a student pursuing a degree in Information Technology, you need to constantly upgrade your knowledge and skills. Fortunately, there are numerous resources available to you for free. Here is a compr
 - [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
 - [robinmin/xally](https://github.com/robinmin/xally) - X-Ally is an elegant command line client and relay server for ChatGPT.
@@ -5780,7 +5780,7 @@
 
 ## rails 
 
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages and Runs 🍾
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
@@ -5982,7 +5982,7 @@
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages and Runs 🍾
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
