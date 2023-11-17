@@ -743,7 +743,7 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [zeus-12/fmhy-ui](https://github.com/zeus-12/fmhy-ui) - Old frontend repo for fmhy
-- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
+- [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [patheticGeek/gdrive-index](https://github.com/patheticGeek/gdrive-index) - An index server for Google Drive
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [thebrandonc/gdrive-file-auditor](https://github.com/thebrandonc/gdrive-file-auditor) - This repo contains a script that turns Google Sheets into a file permissions auditor for Google Drive. The script adds a new menu item to the Sheet with an option to run the file auditing process. Whi
@@ -2013,7 +2013,7 @@
 - [quinn-p-mchugh/obsidian-bulk-editing-utils](https://github.com/quinn-p-mchugh/obsidian-bulk-editing-utils) - Scripts for bulk editing markdown files in Obsidian
 - [DamianFlynn/py-obsidian-parser](https://github.com/DamianFlynn/py-obsidian-parser) - Obsidian parser, used to create the content for Hugo SSG
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale
+- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
 - [devsecboy/DomainRecon](https://github.com/devsecboy/DomainRecon) - Based on URL and Organization Name, collect the IP Ranges, subdomains using various tools like Amass, subfinder, etc.. And check for uphost and Run Masscan to grap CNAME entries, take the screenshot o
 - [C3n7ral051nt4g3ncy/WebOSINT](https://github.com/C3n7ral051nt4g3ncy/WebOSINT) - W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
