@@ -100,6 +100,7 @@
 
 ## C 
 
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [RocketGod-git/HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - HackRF software and captures by everyone and for everyone. Argh matey.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
@@ -231,6 +232,8 @@
 
 ## CSS 
 
+- [KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner) - Personal Obsidian Enhanced CSS snippet
+- [PurpleGuitar/obsidian-snippets](https://github.com/PurpleGuitar/obsidian-snippets) - CSS snippets for use with Obsidian
 - [Samani-Humaira/Fetch-Data-From-URL](https://github.com/Samani-Humaira/Fetch-Data-From-URL) - This web help us fetch data  (photos , description and many more) from URL.
 - [daviddavo/jgmd](https://github.com/daviddavo/jgmd) - A directory of direct links to get your personal data from web services.
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
@@ -430,6 +433,7 @@
 
 ## HTML 
 
+- [cvzi/genius-lyrics-userscript](https://github.com/cvzi/genius-lyrics-userscript) - A userscript library to show lyrics from genius.com on other websites
 - [WalberMota/osintlinks](https://github.com/WalberMota/osintlinks) - OSINT Links
 - [rialms/osint](https://github.com/rialms/osint) - OSINT TOOLS and Repo, Bookmark - TF
 - [Soulsender/hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - A collection of bookmarks for web tools, references, information, and other resources.
@@ -617,6 +621,12 @@
 
 ## JavaScript 
 
+- [cvzi/Share-Bandcamp.com-lyrics-and-songtexts-on-Genius.com](https://github.com/cvzi/Share-Bandcamp.com-lyrics-and-songtexts-on-Genius.com) - Userscript. Adds a link above the lyrics on bandcamp to share lyrics to genius.com. It then automatically copies all the available information (title, artist, release date, ...) to genius.com
+- [vantage-ola/lyrical](https://github.com/vantage-ola/lyrical) - A web app to search for lyrics using the genius API.
+- [Faanilo/lyrics_finder](https://github.com/Faanilo/lyrics_finder) - Search lyrics from genius lyrics
+- [shrutiiigupta/LyricsApp](https://github.com/shrutiiigupta/LyricsApp) - This web application provides a simple yet useful interface for searching and discovering songs and viewing their lyrics. The application uses the Genius API to search for songs based on the provided 
+- [adhamali450/lyrics-card-maker-frontend](https://github.com/adhamali450/lyrics-card-maker-frontend) - Generate a Genius lyrics card for any song you want. Customize and tweak the card based on your preference.
+- [bhulston/bookmark_plugin](https://github.com/bhulston/bookmark_plugin) - A better alternative to Chrome Bookmarks for Obsidian users. Customize templates on the fly and either append to existing notes, create new notes, or do both!
 - [sammoreton/ChatGPT-Custom-Instructions-Storage](https://github.com/sammoreton/ChatGPT-Custom-Instructions-Storage) - Store and load custom instructions for ChatGPT through a Chrome Extension.
 - [mbilokonsky/lyrical](https://github.com/mbilokonsky/lyrical) - a tool for scraping song lyrics
 - [brahma-dev/metafetch](https://github.com/brahma-dev/metafetch) - NodeJS package that fetches a given URL's title, description, images, links etc.
@@ -1108,6 +1118,8 @@
 
 ## Jupyter Notebook 
 
+- [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
+- [dtobrien23/LyricizeMe](https://github.com/dtobrien23/LyricizeMe) - An application that provides random song lyrics and annotations for a chosen artist, powered by the Genius API.
 - [KR1GOS/Web-Scaping](https://github.com/KR1GOS/Web-Scaping) - This is a Python web scraper that extracts information about AI-related tools from "https://topai.tools/browse." The scraper fetches data from the website, including the tool name, URL, description, p
 - [amaiya/onprem](https://github.com/amaiya/onprem) - A tool for running on-premises large language models with non-public data
 - [davidstap/ML4QS](https://github.com/davidstap/ML4QS) - Machine Learning for the Quantified Self
@@ -1316,6 +1328,8 @@
 
 ## Others 
 
+- [Oszust-Industries/Oszust-OS-Music-Tools](https://github.com/Oszust-Industries/Oszust-OS-Music-Tools) - Music Tools is an all-in-one solution for music enthusiasts who want to easily search, download, and manage their music.
+- [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [cipher387/maltego-transforms-list](https://github.com/cipher387/maltego-transforms-list) - A list of tools that handle different data and make it usable in Maltego.
 - [MachaLvl99/PromptAlchemy-DataDistillation](https://github.com/MachaLvl99/PromptAlchemy-DataDistillation) - A prompt-engineering technique for creating personalized custom instructions on ChatGPT
 - [lubauss/custom_instructions_ENG](https://github.com/lubauss/custom_instructions_ENG) - Custom instructions for use in ChatGPT
@@ -1790,6 +1804,10 @@
 
 ## Python 
 
+- [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
+- [cvzi/genius-downloader](https://github.com/cvzi/genius-downloader) - A lyrics downloader for genius.com
+- [taajik/lyricser](https://github.com/taajik/lyricser) - Adding lyrics to songs using Genius API, editing lyrics, reading lyrics and more.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [soxoj/maigret-maltego](https://github.com/soxoj/maigret-maltego) - Maltego transformation for searching of accounts by username
 - [corb555/GeoFinder](https://github.com/corb555/GeoFinder) - Verify and correct place names in a GEDCOM genealogy file
@@ -2616,6 +2634,7 @@
 
 ## Rust 
 
+- [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
 - [hilbigan/ngrm](https://github.com/hilbigan/ngrm) - Find similar files based on byte sequences
 - [whitfin/runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
 - [tasleson/duplihere](https://github.com/tasleson/duplihere) - Copy & Paste finder for structured text files.
@@ -2867,6 +2886,12 @@
 
 ## TypeScript 
 
+- [Sv443/geniURL](https://github.com/Sv443/geniURL) - REST API that searches for song metadata, including the lyrics URL, translations and more from genius.com - supports JSON and XML
+- [8liam/FMLyrics](https://github.com/8liam/FMLyrics) - A react app with node backend to grab lyrics between currently playing songs via last.fm and genius
+- [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
+- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline and add page numbers to PDF
+- [HananoshikaYomaru/obsidian-3d-graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph) - 👓 A 3D graph for Obsidian!
+- [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [HananoshikaYomaru/Obsidian-Frontmatter-Generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator) - A plugin for Obsidian that generates frontmatter for notes
 - [agentlabs-inc/agentlabs](https://github.com/agentlabs-inc/agentlabs) - Universal AI Agent Frontend. Build your backend we handle the rest.
@@ -3070,7 +3095,7 @@
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
 - [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
