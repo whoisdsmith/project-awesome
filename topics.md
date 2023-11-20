@@ -410,6 +410,7 @@
 
 ## angular 
 
+- [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
@@ -506,6 +507,7 @@
 
 ## automation 
 
+- [stellyes/spotify-distrokid-link](https://github.com/stellyes/spotify-distrokid-link) - Python 3.9 script utilizing Selenium to link an Instagram profile with a list of ISRC codes.
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
 - [avocardio/GPT-agents](https://github.com/avocardio/GPT-agents) - Browsing-enabled GPT agents with different personalities.
 - [haseeb-heaven/AI-AutoFiler-Pro](https://github.com/haseeb-heaven/AI-AutoFiler-Pro) - AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence
@@ -1207,6 +1209,7 @@
 
 ## cli 
 
+- [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
 - [VladimirKalachikhin/GooglePhotosURLs](https://github.com/VladimirKalachikhin/GooglePhotosURLs) - create list of Google Photos from the Google Photo's album url
@@ -1379,6 +1382,7 @@
 
 ## css 
 
+- [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [Swap-nil-2003/TextUtils-ReactApp01](https://github.com/Swap-nil-2003/TextUtils-ReactApp01) - TextUtils-A Text Utility App built with React.
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
@@ -2262,6 +2266,9 @@
 
 ## hacktoberfest 
 
+- [HaikuArchives/ArmyKnife](https://github.com/HaikuArchives/ArmyKnife) - ArmyKnife is an application that lets you edit the metadata of audio files
+- [ROpdebee/mb-userscripts](https://github.com/ROpdebee/mb-userscripts) - Collection of userscripts for MusicBrainz
+- [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [daviddavo/jgmd](https://github.com/daviddavo/jgmd) - A directory of direct links to get your personal data from web services.
@@ -2439,6 +2446,7 @@
 
 ## html 
 
+- [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [Ruzzie/Textorizer](https://github.com/Ruzzie/Textorizer) - Sanitize and 'clean' html for safe consumption in a plain text format.
 - [Swap-nil-2003/TextUtils-ReactApp01](https://github.com/Swap-nil-2003/TextUtils-ReactApp01) - TextUtils-A Text Utility App built with React.
@@ -2639,6 +2647,7 @@
 
 ## javascript 
 
+- [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [shrutiiigupta/LyricsApp](https://github.com/shrutiiigupta/LyricsApp) - This web application provides a simple yet useful interface for searching and discovering songs and viewing their lyrics. The application uses the Genius API to search for songs based on the provided 
 - [brahma-dev/metafetch](https://github.com/brahma-dev/metafetch) - NodeJS package that fetches a given URL's title, description, images, links etc.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
@@ -3440,6 +3449,13 @@
 
 ## music 
 
+- [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
+- [Parisson/Telemeta](https://github.com/Parisson/Telemeta) - Collaborative content management system for musicology
+- [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
+- [andreamust/MusicMetaLinker](https://github.com/andreamust/MusicMetaLinker) - MusicMetaLinker - Entity Linking and Knowledge Augmentation library for music metadata
+- [goncalor/music-tools](https://github.com/goncalor/music-tools) - A set of tools to work with and manage music files
+- [VintageGold/SpotifyExplore_MusicSongNames](https://github.com/VintageGold/SpotifyExplore_MusicSongNames) - Connecting Spotify songs to MusicBrainz to find new music based on song titles
+- [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
 - [Oszust-Industries/Oszust-OS-Music-Tools](https://github.com/Oszust-Industries/Oszust-OS-Music-Tools) - Music Tools is an all-in-one solution for music enthusiasts who want to easily search, download, and manage their music.
 - [Sv443/geniURL](https://github.com/Sv443/geniURL) - REST API that searches for song metadata, including the lyrics URL, translations and more from genius.com - supports JSON and XML
@@ -3556,6 +3572,7 @@
 
 ## nextjs 
 
+- [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
@@ -3889,6 +3906,22 @@
 
 ## others 
 
+- [enzsmn/spotify-album-extract](https://github.com/enzsmn/spotify-album-extract) - Select a playlist and get the full album from each track.
+- [Borewit/music-metadata-browser](https://github.com/Borewit/music-metadata-browser) - Browser version of music-metadata parser Supporting a wide range of audio and tag formats.
+- [evanwinter/visually](https://github.com/evanwinter/visually) - Song lyric analysis and data visualization tool
+- [Chuabacca/song-slides](https://github.com/Chuabacca/song-slides) - A markdown-based lyric slide creation and presentation tool using Remark.js and Middleman.
+- [Gazoo101/lyric-manager](https://github.com/Gazoo101/lyric-manager) - A lyric management tool to process raw lyric files using an external alignment model to produce .aligned_lyrics files.
+- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - An ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
+- [pickyko/addlyrics](https://github.com/pickyko/addlyrics) - Searches various websites and tags lyrics to local mp3 files.
+- [CtrlAltNico/ISRC-SongDataEnrichment](https://github.com/CtrlAltNico/ISRC-SongDataEnrichment) - This is a very simple unoficcial https://www.soundexchange.com/  and https://isrcsearch.ifpi.org/#!/search API. This is a showcase project, please respect each website's terms of service and do not ru
+- [mlnrDev/ISRCLookup](https://github.com/mlnrDev/ISRCLookup) - Lookup the ISRC of Spotify tracks and find their autogenerated ("- Topic") version on YouTube within Discord.
+- [avalloneandrea/apiseeds-lyrics](https://github.com/avalloneandrea/apiseeds-lyrics) - A MusicBrainz Picard plugin to fetch lyrics from Apiseeds Lyrics
+- [loujine/musicbrainz-scripts](https://github.com/loujine/musicbrainz-scripts) - Collection of greasemonkey scripts for MusicBrainz
+- [kellnerd/musicbrainz-scripts](https://github.com/kellnerd/musicbrainz-scripts) - Bookmarklets and Userscripts for MusicBrainz.org
+- [atj/userscripts](https://github.com/atj/userscripts) - A collection of userscripts primarily relating to to importing and editing releases on MusicBrainz.
+- [FormosaNick/audio-metadata-report](https://github.com/FormosaNick/audio-metadata-report) - 
+- [mkagenius/audioGPT](https://github.com/mkagenius/audioGPT) - summarize audio (mp3) using openAI api
+- [beefoo/media-tools](https://github.com/beefoo/media-tools) - 
 - [cvzi/genius-lyrics-userscript](https://github.com/cvzi/genius-lyrics-userscript) - A userscript library to show lyrics from genius.com on other websites
 - [cvzi/Share-Bandcamp.com-lyrics-and-songtexts-on-Genius.com](https://github.com/cvzi/Share-Bandcamp.com-lyrics-and-songtexts-on-Genius.com) - Userscript. Adds a link above the lyrics on bandcamp to share lyrics to genius.com. It then automatically copies all the available information (title, artist, release date, ...) to genius.com
 - [Faanilo/lyrics_finder](https://github.com/Faanilo/lyrics_finder) - Search lyrics from genius lyrics
@@ -4140,7 +4173,7 @@
 - [hdykokd/obsidian-textlint](https://github.com/hdykokd/obsidian-textlint) - A plugin for Obsidian that integrates textlint
 - [brianpetro/obsidian-smart-prompts](https://github.com/brianpetro/obsidian-smart-prompts) - Prompt templating tools designed for interacting with language interfaces like OpenAI's ChatGPT in Obsidian.
 - [maksim77/obsidian-mactagger-plugin](https://github.com/maksim77/obsidian-mactagger-plugin) - 
-- [BambusControl/obsidian-unicode-search](https://github.com/BambusControl/obsidian-unicode-search) - Obsidian plugin for simple Unicode character search
+- [BambusControl/obsidian-unicode-search](https://github.com/BambusControl/obsidian-unicode-search) - Simple Unicode character search for Obsidian.md
 - [kxxt/obsidian-advanced-paste](https://github.com/kxxt/obsidian-advanced-paste) - Advanced pasting functionality for obsidian
 - [OwenKruse/gpt-helper](https://github.com/OwenKruse/gpt-helper) - Obsidian GPT integration
 - [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
@@ -5460,6 +5493,10 @@
 
 ## python 
 
+- [Parisson/Telemeta](https://github.com/Parisson/Telemeta) - Collaborative content management system for musicology
+- [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
+- [jeandeaual/picard-plugins-scripts](https://github.com/jeandeaual/picard-plugins-scripts) - MusicBrainz Picard plugins
+- [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
 - [Oszust-Industries/Oszust-OS-Music-Tools](https://github.com/Oszust-Industries/Oszust-OS-Music-Tools) - Music Tools is an all-in-one solution for music enthusiasts who want to easily search, download, and manage their music.
 - [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
@@ -5710,6 +5747,7 @@
 
 ## python3 
 
+- [spyer/lyrics2mp3](https://github.com/spyer/lyrics2mp3) - Parse lyrics and add them into mp3 files (via id tags). Lyrics can then be viewed on iPhone, iTunes and other players.
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
@@ -5821,6 +5859,7 @@
 
 ## react 
 
+- [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [vantage-ola/lyrical](https://github.com/vantage-ola/lyrical) - A web app to search for lyrics using the genius API.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
@@ -6469,6 +6508,7 @@
 
 ## typescript 
 
+- [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
@@ -6622,6 +6662,7 @@
 
 ## web 
 
+- [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup language for music creation and analysis! -- https://hlorenzi.github.io/musicode/
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
