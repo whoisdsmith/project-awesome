@@ -625,6 +625,7 @@
 
 ## JavaScript 
 
+- [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [evanwinter/visually](https://github.com/evanwinter/visually) - Song lyric analysis and data visualization tool
 - [loujine/musicbrainz-scripts](https://github.com/loujine/musicbrainz-scripts) - Collection of greasemonkey scripts for MusicBrainz
@@ -2836,7 +2837,6 @@
 
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
-- [ctwhome/notidian](https://github.com/ctwhome/notidian) - Open Source alternative to Notion + Obsidian
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [nevernotmove/obsidian-stats](https://github.com/nevernotmove/obsidian-stats) - Display obsidian plugin download statistics.
@@ -2911,6 +2911,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [Borewit/music-metadata-browser](https://github.com/Borewit/music-metadata-browser) - Browser version of music-metadata parser Supporting a wide range of audio and tag formats.
 - [kellnerd/musicbrainz-scripts](https://github.com/kellnerd/musicbrainz-scripts) - Bookmarklets and Userscripts for MusicBrainz.org
@@ -2964,6 +2965,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [Feavy/notion-to-obsidian](https://github.com/Feavy/notion-to-obsidian) - Create obsidian graph from notion.so page using Notion API
 - [danielh-official/notion-x-obsidian-plugin](https://github.com/danielh-official/notion-x-obsidian-plugin) - An Obsidian MD plugin to work with Notion pages.
+- [ctwhome/notidian](https://github.com/ctwhome/notidian) - Open Source alternative to Notion + Obsidian
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [laobubu/MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - 📑 Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will th
