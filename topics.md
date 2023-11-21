@@ -1630,6 +1630,7 @@
 - [actions/deploy-pages](https://github.com/actions/deploy-pages) - GitHub Action to publish artifacts to GitHub Pages for deployments
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
+- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
 
 ## design 
 
@@ -3822,7 +3823,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
 
 ## operating-system 
 
@@ -3906,6 +3906,8 @@
 
 ## others 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
 - [enzsmn/spotify-album-extract](https://github.com/enzsmn/spotify-album-extract) - Select a playlist and get the full album from each track.
 - [Borewit/music-metadata-browser](https://github.com/Borewit/music-metadata-browser) - Browser version of music-metadata parser Supporting a wide range of audio and tag formats.
 - [evanwinter/visually](https://github.com/evanwinter/visually) - Song lyric analysis and data visualization tool
