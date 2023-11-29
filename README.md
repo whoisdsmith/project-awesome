@@ -375,7 +375,7 @@
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line interface (CLI) based passive URLs discovery utility. It is designed to efficiently identify known URLs of given domains by tapping into a multitude of curated online passive sources.
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
@@ -629,6 +629,7 @@
 
 ## JavaScript 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [evanwinter/visually](https://github.com/evanwinter/visually) - Song lyric analysis and data visualization tool
@@ -1613,7 +1614,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sunilkumarvalmiki/Anonymous-Developemnt-Resources](https://github.com/sunilkumarvalmiki/Anonymous-Developemnt-Resources) - this Repo contain's A list of useful development resources . . . .
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - The Ultimate Markdown Cheat Sheet
+- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - 🔖 The Ultimate Markdown Cheat Sheet
 - [darpa-i2o/memex-program-index](https://github.com/darpa-i2o/memex-program-index) - A list of memex-related tools and their repository URLs
 - [dougpark/dayone](https://github.com/dougpark/dayone) - Better Touch Tool create a DayOne journal entry
 - [tIsGoud/save-safari-tabs-to-day-one](https://github.com/tIsGoud/save-safari-tabs-to-day-one) - Save all your Safari tabs in a Day One 2 entry.
@@ -2092,7 +2093,7 @@
 - [Sachin-v3rma/Astra](https://github.com/Sachin-v3rma/Astra) - Astra is a tool to find URLs and secrets inside a webpage/files
 - [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [alexwlchan/github_alfred_shortcuts](https://github.com/alexwlchan/github_alfred_shortcuts) - An Alfred workflow that links to GitHub repos I use regularly
-- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump imap inbox to a local folder in a regular backupable format: html, json and attachements
 - [shockz-offsec/DriveMyFiles](https://github.com/shockz-offsec/DriveMyFiles) - DriveMyFiles offers through an intuitive and easy to use interface, the possibility to easily backup manually or automatically to Google Drive the files/directories you want by selecting them through 
 - [shashankdeshpande/github-profile-generator](https://github.com/shashankdeshpande/github-profile-generator) - Generate README for GitHub profile using this web app!
@@ -2106,7 +2107,7 @@
 - [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
-- [redimp/otterwiki](https://github.com/redimp/otterwiki) - An Otter Wiki is Python-based software for collaborative content management, called a wiki. The content is stored in a git repository, which keeps track of all changes. Markdown is used as markup lang
+- [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalstic wiki powered by python, markdown and git.
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
@@ -2876,7 +2877,7 @@
 - [NSAntoine/Santander](https://github.com/NSAntoine/Santander) - Unsandboxed File System manager for iOS devices
 - [luckymarmot/ThemeKit](https://github.com/luckymarmot/ThemeKit) - macOS theming library
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [loopwerk/Parsley](https://github.com/loopwerk/Parsley) - A Markdown parser for Swift, using Github Flavored Markdown and Metadata
 - [bingzheung/txtool](https://github.com/bingzheung/txtool) - Text Tool
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
@@ -2917,6 +2918,7 @@
 
 ## TypeScript 
 
+- [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
 - [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
 - [iXialumy/obsidian-sort-headings](https://github.com/iXialumy/obsidian-sort-headings) - Plugin to sort headings in Obsidian
 - [timoftime/obsidian-hackmd](https://github.com/timoftime/obsidian-hackmd) - 🚀 Publish your Obsidian notes to HackMD!
