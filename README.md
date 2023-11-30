@@ -1191,7 +1191,6 @@
 
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [darthmachina/obsidian-neural-link](https://github.com/darthmachina/obsidian-neural-link) - Tool to automate Obsidian data
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
@@ -1874,7 +1873,7 @@
 - [DovarFalcone/google-takeout-location-parser](https://github.com/DovarFalcone/google-takeout-location-parser) - Easily parse location .json files provided by the Google Takeout service
 - [Scarygami/location-history-json-converter](https://github.com/Scarygami/location-history-json-converter) - Convert the Location History JSON File from Google Takeout into a useable format
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
+- [jameelkaisar/Quantified-Self-App](https://github.com/jameelkaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [nasa-jpl-memex/memex-explorer](https://github.com/nasa-jpl-memex/memex-explorer) - Viewers for statistics and dashboarding of Domain Search Engine data
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -2475,7 +2474,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A technology-agnostic and non-intrusive toolset to automate development, benchmarking, optimization, comparison and deployment of complex computer systems and applications across rapidly evolving soft
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -2683,6 +2682,7 @@
 - [devzbysiu/dox](https://github.com/devzbysiu/dox) - Index and search your documents
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
 - [teesloane/esker](https://github.com/teesloane/esker) - static site generator for obsidian
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Thatguyjs/idaro](https://github.com/Thatguyjs/idaro) - An easy-to-use static site generator for Markdown pages
 - [lowlevelers/edma](https://github.com/lowlevelers/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
