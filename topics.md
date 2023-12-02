@@ -193,7 +193,6 @@
 - [sketch](#sketch)
 - [software](#software)
 - [spacevim](#spacevim)
-- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
@@ -497,7 +496,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A technology-agnostic and non-intrusive toolset to automate development, benchmarking, optimization, comparison and deployment of complex computer systems and applications across rapidly evolving soft
 
 ## atom 
 
@@ -530,7 +529,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A technology-agnostic and non-intrusive toolset to automate development, benchmarking, optimization, comparison and deployment of complex computer systems and applications across rapidly evolving soft
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
@@ -570,7 +569,7 @@
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
@@ -760,7 +759,7 @@
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [IliasHad/Developer-Tools-and-Resources](https://github.com/IliasHad/Developer-Tools-and-Resources) - The Best Tools and Resources for developers
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
@@ -1299,7 +1298,7 @@
 
 ## code 
 
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - link of all daily dev tools and a little bit data about them
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 
@@ -1637,7 +1636,7 @@
 - [actions/deploy-pages](https://github.com/actions/deploy-pages) - GitHub Action to publish artifacts to GitHub Pages for deployments
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify) - 🚀 Netlify deploy from GitHub Actions
-- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A technology-agnostic and non-intrusive toolset to automate development, benchmarking, optimization, comparison and deployment of complex computer systems and applications across rapidly evolving soft
 
 ## design 
 
@@ -1702,7 +1701,6 @@
 - [ahmedbesbes/audiolizr](https://github.com/ahmedbesbes/audiolizr) - A bentoML-powered API to transcribe audio and make sense of it
 - [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | REPLACED BY https://github.com/runpod-workers | Official set of serverless worker provided by RunPod as endpoints.
@@ -1843,7 +1841,6 @@
 
 ## express 
 
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [reubn/daylight](https://github.com/reubn/daylight) - Your life, on a map.
@@ -1882,12 +1879,11 @@
 
 ## flask 
 
-- [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
+- [jameelkaisar/Quantified-Self-App](https://github.com/jameelkaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
-- [redimp/otterwiki](https://github.com/redimp/otterwiki) - An Otter Wiki is Python-based software for collaborative content management, called a wiki. The content is stored in a git repository, which keeps track of all changes. Markdown is used as markup lang
 - [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more.
 - [viperadnan-git/gdtot-bypasser](https://github.com/viperadnan-git/gdtot-bypasser) - A web scraper to convert GDToT links to Google Drive and direct download links
 - [Mikolaj-Mroz/Statsify](https://github.com/Mikolaj-Mroz/Statsify) - A web app to check your spotify statistics.
@@ -2118,10 +2114,10 @@
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [pluja/web-whisper](https://github.com/pluja/web-whisper) - OpenAI's Whisper Audio to text transcription right into your web browser! An open source AI subtitling suite.
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line interface (CLI) based passive URLs discovery utility. It is designed to efficiently identify known URLs of given domains by tapping into a multitude of curated online passive sources.
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
@@ -2154,7 +2150,7 @@
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 - [TypicalAM/Static-Site-Generator](https://github.com/TypicalAM/Static-Site-Generator) - A place to view your notes - powered by Go
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line interface (CLI) based passive URLs discovery utility. It is designed to efficiently identify known URLs of given domains by tapping into a multitude of curated online passive sources.
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -2282,7 +2278,7 @@
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [daviddavo/jgmd](https://github.com/daviddavo/jgmd) - A directory of direct links to get your personal data from web services.
 - [PeARSearch/PeARSearch.github.io](https://github.com/PeARSearch/PeARSearch.github.io) - Website for PeARS project
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download a gdrive folder or file easily, shell ftw.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -2312,7 +2308,7 @@
 - [crwlrsoft/url](https://github.com/crwlrsoft/url) - Swiss Army knife for urls.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check all links in markdown files if they are alive or dead. 🔗✔️
-- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 - [Trikzon/obsidian-web-browser](https://github.com/Trikzon/obsidian-web-browser) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [shreyasminocha/regex-for-regular-folk](https://github.com/shreyasminocha/regex-for-regular-folk) - 🔍💪 Regular Expressions for Regular Folk — A visual, example-based introduction to RegEx [BETA]
@@ -2366,7 +2362,6 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome bookmarks into markdown files
@@ -2403,7 +2398,6 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
@@ -2655,11 +2649,13 @@
 
 ## javascript 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [shrutiiigupta/LyricsApp](https://github.com/shrutiiigupta/LyricsApp) - This web application provides a simple yet useful interface for searching and discovering songs and viewing their lyrics. The application uses the Genius API to search for songs based on the provided 
 - [brahma-dev/metafetch](https://github.com/brahma-dev/metafetch) - NodeJS package that fetches a given URL's title, description, images, links etc.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [ElJaviLuki/MeowGPT](https://github.com/ElJaviLuki/MeowGPT) - MeowGPT is a set of tools for ChatGPT that allows you to use ChatGPT with minimal coding.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
@@ -2674,6 +2670,7 @@
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
@@ -2819,7 +2816,6 @@
 
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
 - [Ankan-cyber/textutils](https://github.com/Ankan-cyber/textutils) - TextUtils is a simple and user-friendly text manipulation tool built with React. It allows you to easily convert text to uppercase, lowercase, and remove spaces.
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [itsliamdowd/WaybackBrowserMacOS](https://github.com/itsliamdowd/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
@@ -2881,7 +2877,6 @@
 ## kotlin 
 
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
@@ -2971,7 +2966,7 @@
 - [FMXExpress/Stable-Diffusion-Text-To-Image-Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts) - Cross-platform Stable Diffusion Text to Image Prompts Generator built in Embarcadero Delphi.
 - [FMXExpress/DreamBooth-Desktop-Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client) - Windows, macOS, and Linux desktop client for fine tuning Dreambooth models using Replicate's API.
 - [xeladu/broken-link-checker](https://github.com/xeladu/broken-link-checker) - This tool checks all external links of a website if they are reachable.
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -3124,7 +3119,7 @@
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems acros
+- [mlcommons/ck](https://github.com/mlcommons/ck) - A technology-agnostic and non-intrusive toolset to automate development, benchmarking, optimization, comparison and deployment of complex computer systems and applications across rapidly evolving soft
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -3136,7 +3131,7 @@
 - [superhj1987/awesome-mac-things](https://github.com/superhj1987/awesome-mac-things) - some useful mac things:scripts, shells, doc, shortcut keys
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [FMXExpress/Text-To-Vector-Desktop-Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client) - Create SVGs using text to vector AI from Illustroke
 - [FMXExpress/Stable-Diffusion-Text-To-Image-Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts) - Cross-platform Stable Diffusion Text to Image Prompts Generator built in Embarcadero Delphi.
@@ -3178,8 +3173,8 @@
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [shinokada/dotties](https://github.com/shinokada/dotties) - Dotties is a simple dotfile management script. It saves specified dotfiles in the home directory to a secret Gist. I also can clone them from the Gist, and more.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -3231,7 +3226,7 @@
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
@@ -3303,7 +3298,7 @@
 - [jaywcjlove/markdown-to-html](https://github.com/jaywcjlove/markdown-to-html) - Converts markdown text to HTML.
 - [sphido/sphido](https://github.com/sphido/sphido) - A rocket 🚀 fast, light-weight and flexible static site generator.
 - [acmenlei/markdown-plus](https://github.com/acmenlei/markdown-plus) - A Markdown parser developed in typescript.
-- [redimp/otterwiki](https://github.com/redimp/otterwiki) - An Otter Wiki is Python-based software for collaborative content management, called a wiki. The content is stored in a git repository, which keeps track of all changes. Markdown is used as markup lang
+- [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalstic wiki powered by python, markdown and git.
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
@@ -3457,6 +3452,7 @@
 
 ## music 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [Borewit/audio-tag-analyzer](https://github.com/Borewit/audio-tag-analyzer) - Extracts metadata music metadata found in audio files
 - [Parisson/Telemeta](https://github.com/Parisson/Telemeta) - Collaborative content management system for musicology
 - [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
@@ -3480,7 +3476,7 @@
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
 - [hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup language for music creation and analysis! -- https://hlorenzi.github.io/musicode/
-- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
+- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for repeating music endlessly and creating seamless music loops, with play/export/tagging support.
 - [chavinlo/riffusion-manipulation](https://github.com/chavinlo/riffusion-manipulation) - tools to manipulate audio with riffusion
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - MIDI / symbolic music tokenizers for Deep Learning models 🎶
 - [ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List of articles related to deep learning applied to music
@@ -3580,6 +3576,7 @@
 
 ## nextjs 
 
+- [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -3673,7 +3670,7 @@
 
 ## node 
 
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [AndrejGajdos/link-preview-generator](https://github.com/AndrejGajdos/link-preview-generator) - Get preview data (a title, description, image, domain name) from a url. Library uses puppeteer headless browser to scrape the web site.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
@@ -3689,6 +3686,7 @@
 
 ## nodejs 
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [ruancorrea/manipulating_Text](https://github.com/ruancorrea/manipulating_Text) - Responsive website of an online text editor and completely free. Developed with NodeJs, VueJs and Bootstrap.
 - [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
@@ -3760,7 +3758,7 @@
 
 ## objective-c 
 
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3800,7 +3798,7 @@
 - [C3n7ral051nt4g3ncy/Obsidian](https://github.com/C3n7ral051nt4g3ncy/Obsidian) - Obsidian Ancestry Investigations
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
-- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [Anmol-Baranwal/Hack-Your-Growth](https://github.com/Anmol-Baranwal/Hack-Your-Growth) - Make your life easier with these awesome resources: 🚀 Interview Preparation, Readme Stats, Online Tools, Chrome Extensions, Portfolio Websites and many more!
 - [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A single place for all the markdown syntaxes I have learned so far.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -3870,7 +3868,7 @@
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line interface (CLI) based passive URLs discovery utility. It is designed to efficiently identify known URLs of given domains by tapping into a multitude of curated online passive sources.
 - [BushidoUK/OSINT-SearchOperators](https://github.com/BushidoUK/OSINT-SearchOperators) - 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
@@ -4689,6 +4687,7 @@
 - [janloeffler/import-day-one](https://github.com/janloeffler/import-day-one) - WordPress plugin for importing entries from Day One export file
 - [WildPress/obsidian-wp](https://github.com/WildPress/obsidian-wp) - Post directly to your WordPress blog from Obsidian.
 - [quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A markdown formatter intended for writing specifications
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [krissrex/obsidian-html](https://github.com/krissrex/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
 - [DolbyIO/awesome-audio](https://github.com/DolbyIO/awesome-audio) - A curated list of awesome audio technology resources for developers
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
@@ -4782,7 +4781,7 @@
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [docschina/GFM-docs](https://github.com/docschina/GFM-docs) - [印记中文](https://docschina.org/) - GitHub 风格 Markdown 规范(GitHub Flavored Markdown Spec)
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
-- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - The Ultimate Markdown Cheat Sheet
+- [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - 🔖 The Ultimate Markdown Cheat Sheet
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [fezfox/dylogger](https://github.com/fezfox/dylogger) - 
@@ -5368,7 +5367,7 @@
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line interface (CLI) based passive URLs discovery utility. It is designed to efficiently identify known URLs of given domains by tapping into a multitude of curated online passive sources.
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -5473,7 +5472,7 @@
 
 ## programming 
 
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup language for music creation and analysis! -- https://hlorenzi.github.io/musicode/
 - [theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
 - [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
@@ -5523,7 +5522,7 @@
 - [ppw0/minhash](https://github.com/ppw0/minhash) - find similar text files quickly
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [markmelnic/visualize-browsing-history](https://github.com/markmelnic/visualize-browsing-history) - A tool to visualize your chrome browsing history using google takeout data.
-- [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
+- [jameelkaisar/Quantified-Self-App](https://github.com/jameelkaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
@@ -5570,7 +5569,7 @@
 - [KostasEreksonas/Audio-transcriber](https://github.com/KostasEreksonas/Audio-transcriber) - Simple Python audio transcriber using OpenAI's Whisper speech recognition model
 - [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - A command-line tool for effortlessly organizing and renaming your music files based on metadata
-- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
+- [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for repeating music endlessly and creating seamless music loops, with play/export/tagging support.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets.
 - [lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file 🔈
@@ -5631,7 +5630,6 @@
 - [executablebooks/mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter
 - [springload/Wrangler.py](https://github.com/springload/Wrangler.py) - A Python static site generator
 - [wyounas/homer](https://github.com/wyounas/homer) - Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.
-- [redimp/otterwiki](https://github.com/redimp/otterwiki) - An Otter Wiki is Python-based software for collaborative content management, called a wiki. The content is stored in a git repository, which keeps track of all changes. Markdown is used as markup lang
 - [feluelle/auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges) - Auto-generated markdown badges. 🧙🖼
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
@@ -5872,10 +5870,13 @@
 
 ## react 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
+- [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [vantage-ola/lyrical](https://github.com/vantage-ola/lyrical) - A web app to search for lyrics using the genius API.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [jeffsieu/txthlpr](https://github.com/jeffsieu/txthlpr) - Perform repetitive formatting tasks on text without the pain of repetition. Like CyberChef but more generalized.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure sandboxed cloud environments made for AI agents and AI apps
@@ -5995,6 +5996,7 @@
 
 ## reactjs 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [adhamali450/lyrics-card-maker-frontend](https://github.com/adhamali450/lyrics-card-maker-frontend) - Generate a Genius lyrics card for any song you want. Customize and tweak the card based on your preference.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
@@ -6092,11 +6094,12 @@
 - [getcollective-ai/collective](https://github.com/getcollective-ai/collective) - Automate non-novel work
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A very easy-to-use README generator that works in your terminal. Never stress about readme again!
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [lowlevelers/edma](https://github.com/lowlevelers/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -6297,10 +6300,6 @@
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
-## spring-boot 
-
-- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
-
 ## sql 
 
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -6319,6 +6318,7 @@
 ## sqlite 
 
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -6356,7 +6356,7 @@
 
 ## swift 
 
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT
 - [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
 - [itsliamdowd/WaybackBrowserMacOS](https://github.com/itsliamdowd/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
@@ -6382,7 +6382,7 @@
 
 ## swiftui 
 
-- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
+- [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [DanielFiller30/ScriptManager](https://github.com/DanielFiller30/ScriptManager) - Easy to use menu bar-tool for your mac, to run shell-scripts.
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
@@ -6435,7 +6435,7 @@
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
 - [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
@@ -6522,6 +6522,7 @@
 
 ## typescript 
 
+- [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
@@ -6538,6 +6539,7 @@
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [MakerXStudio/repository-website-generator](https://github.com/MakerXStudio/repository-website-generator) - Generates a Next.js static website by converting markdown to html
@@ -6618,6 +6620,7 @@
 
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
 - [SmileBuild/ChatGPT-Web](https://github.com/SmileBuild/ChatGPT-Web) - ChatGPT page with API instand of offical pages. You can modify params, save and download the result as txt with prompt.
+- [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
@@ -6694,6 +6697,7 @@
 
 ## webapp 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [aalekhpatel07/text-cleaner](https://github.com/aalekhpatel07/text-cleaner) - A WASM-based Yew web app to manipulate text by some commonly used operations.
 - [forTEXT/catma](https://github.com/forTEXT/catma) - Computer Assisted Text Markup and Analysis
@@ -6720,6 +6724,7 @@
 
 ## website 
 
+- [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [productivity-rocks/ai-optimizer-website](https://github.com/productivity-rocks/ai-optimizer-website) - Website of the all in one ChatGPT/OpenAI optimizer!
 - [nevernotmove/obsidian-stats](https://github.com/nevernotmove/obsidian-stats) - Display obsidian plugin download statistics.
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
