@@ -1534,7 +1534,7 @@
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
-- [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources) - linux resources for the begainners and advanced users.
@@ -2617,7 +2617,7 @@
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖🩵 Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find dead-links (broken links)
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
@@ -3166,7 +3166,7 @@
 - [kcabo/bookmark-file-prettify](https://github.com/kcabo/bookmark-file-prettify) - improve the visual appearanceof NETSCAPE-Bookmark-files
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [garyng/obsidian-temple](https://github.com/garyng/obsidian-temple) - A plugin for templating in Obsidian, powered by Nunjucks.
-- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
+- [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [aidenlx/obsidian-icon-shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes) - Obsidian Plugin: Insert emoji and custom icons with shortcodes
 - [mgmeyers/obsidian-icon-swapper](https://github.com/mgmeyers/obsidian-icon-swapper) - Allows swapping out Obsidian's icons
 - [reorx/obsidian-telegraph-publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
