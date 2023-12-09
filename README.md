@@ -402,7 +402,7 @@
 - [iLLeniumStudios/awesome-list-generator](https://github.com/iLLeniumStudios/awesome-list-generator) - A tool that automatically populates a list of awesome repositories from a config that contains a list of users and some other configuration options
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
-- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / subsonic server API implementation
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [trazfr/prometheus-nextcloud-exporter](https://github.com/trazfr/prometheus-nextcloud-exporter) - Monitoring of a Nextcloud instance using the servinfo plugin
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -841,7 +841,6 @@
 - [siegblink/webdev-resources](https://github.com/siegblink/webdev-resources) - Collection of helpful web development resources.
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
-- [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [JoshSweaterGuy/lava](https://github.com/JoshSweaterGuy/lava) - Lava is a markup generation tool built for obsidian
 - [wchorski/obsidian-developer](https://github.com/wchorski/obsidian-developer) - tutorials, set up, self hosted, routing, tooling, home lab, etc
 - [CommitSans/obsidian-gitbook](https://github.com/CommitSans/obsidian-gitbook) - A quick tool to publish an Obsidian Vault on GitBook
@@ -1343,7 +1342,6 @@
 ## Others 
 
 - [CtrlAltNico/ISRC-SongDataEnrichment](https://github.com/CtrlAltNico/ISRC-SongDataEnrichment) - This is a very simple unoficcial https://www.soundexchange.com/  and https://isrcsearch.ifpi.org/#!/search API. This is a showcase project, please respect each website's terms of service and do not ru
-- [andreamust/MusicMetaLinker](https://github.com/andreamust/MusicMetaLinker) - MusicMetaLinker - Entity Linking and Knowledge Augmentation library for music metadata
 - [Oszust-Industries/Oszust-OS-Music-Tools](https://github.com/Oszust-Industries/Oszust-OS-Music-Tools) - Music Tools is an all-in-one solution for music enthusiasts who want to easily search, download, and manage their music.
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [cipher387/maltego-transforms-list](https://github.com/cipher387/maltego-transforms-list) - A list of tools that handle different data and make it usable in Maltego.
@@ -1382,7 +1380,7 @@
 - [STCData/TextEditor](https://github.com/STCData/TextEditor) - Mac/iOS GPT assisted text editor
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
+- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
@@ -1463,7 +1461,7 @@
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [B0sintBlanc/Osint-Bookmarklets](https://github.com/B0sintBlanc/Osint-Bookmarklets) - This is a place for all things OSINT & Bookmarklets!
-- [Amusa-Paulos/web-links-analysis-reports](https://github.com/Amusa-Paulos/web-links-analysis-reports) - The repository containing the log files of the links analysis reports of web pages, basically broken links report
+- [paulosabayomi/web-links-analysis-reports](https://github.com/paulosabayomi/web-links-analysis-reports) - The repository containing the log files of the links analysis reports of web pages, basically broken links report
 - [Brunty/awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
 - [C3n7ral051nt4g3ncy/Obsidian](https://github.com/C3n7ral051nt4g3ncy/Obsidian) - Obsidian Ancestry Investigations
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current links from the OSINT Inception start-me project
@@ -1517,6 +1515,7 @@
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
 - [cwinfosec/redteam_obsidian_templates](https://github.com/cwinfosec/redteam_obsidian_templates) - Red Team Templates For Obsidian.md
+- [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
 - [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media
 - [linyows/github-wiki-search](https://github.com/linyows/github-wiki-search) - :octocat: Search wiki of the repository on Github
@@ -1829,6 +1828,7 @@
 - [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
 - [spyer/lyrics2mp3](https://github.com/spyer/lyrics2mp3) - Parse lyrics and add them into mp3 files (via id tags). Lyrics can then be viewed on iPhone, iTunes and other players.
 - [stellyes/spotify-distrokid-link](https://github.com/stellyes/spotify-distrokid-link) - Python 3.9 script utilizing Selenium to link an Instagram profile with a list of ISRC codes.
+- [andreamust/MusicMetaLinker](https://github.com/andreamust/MusicMetaLinker) - MusicMetaLinker - Entity Linking and Knowledge Augmentation library for music metadata
 - [avalloneandrea/apiseeds-lyrics](https://github.com/avalloneandrea/apiseeds-lyrics) - A MusicBrainz Picard plugin to fetch lyrics from Apiseeds Lyrics
 - [goncalor/music-tools](https://github.com/goncalor/music-tools) - A set of tools to work with and manage music files
 - [jeandeaual/picard-plugins-scripts](https://github.com/jeandeaual/picard-plugins-scripts) - MusicBrainz Picard plugins
@@ -2716,7 +2716,7 @@
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
@@ -2976,7 +2976,6 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [Feavy/notion-to-obsidian](https://github.com/Feavy/notion-to-obsidian) - Create obsidian graph from notion.so page using Notion API
 - [danielh-official/notion-x-obsidian-plugin](https://github.com/danielh-official/notion-x-obsidian-plugin) - An Obsidian MD plugin to work with Notion pages.
-- [ctwhome/notidian](https://github.com/ctwhome/notidian) - Open Source alternative to Notion + Obsidian
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [laobubu/MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - 📑 Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will th
