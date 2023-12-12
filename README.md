@@ -119,7 +119,6 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh) - An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)
 - [microdotblog/microblog-mac](https://github.com/microdotblog/microblog-mac) - Micro.blog for Mac
-- [wmjan/Odysseus](https://github.com/wmjan/Odysseus) - Odysseus for Windows
 - [henrik4433/cylinder-master](https://github.com/henrik4433/cylinder-master) - 
 - [SupremacyXI/iRecord](https://github.com/SupremacyXI/iRecord) - A screen recorder for IOS 8
 - [lavaalone/iControl](https://github.com/lavaalone/iControl) - Control the iOS devices.
@@ -2716,7 +2715,7 @@
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
