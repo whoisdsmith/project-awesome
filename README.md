@@ -1850,6 +1850,9 @@
 
 ## Python 
 
+- [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
+- [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
+- [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [Syrins/Gemini-Beta](https://github.com/Syrins/Gemini-Beta) - Like Google's Gemini demo, it harnesses the power of AI to answer questions based on visual input. By integrating GPT-4 Vision for image understanding, Whisper for voice recognition and Resemble AI fo
 - [mdiller/rock-assistant](https://github.com/mdiller/rock-assistant) - An obsidian + GPT ai assistant thing
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
