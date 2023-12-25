@@ -455,7 +455,6 @@
 - [marknakamura/osint-bookmarks](https://github.com/marknakamura/osint-bookmarks) - OSINT bookmarks
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
 - [jsmsj/sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get a
-- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [timostrating/MEGA](https://github.com/timostrating/MEGA) - MEGA is my attempt to collect and analyze as much of my personal information as possible for a year. All scripts i write to automate actions will be stored in this repo.
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [nyaahilism/BOOKMRKS-MTHRFCKR](https://github.com/nyaahilism/BOOKMRKS-MTHRFCKR) - The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!
@@ -1209,6 +1208,7 @@
 
 ## Kotlin 
 
+- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [khaouitiabdelhakim/LyricsAI](https://github.com/khaouitiabdelhakim/LyricsAI) - LyricsAI is a powerful and easy-to-use library for Android developers that allows you to retrieve song lyrics from various online sources. This library leverages web scraping techniques to find and de
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
@@ -1557,7 +1557,7 @@
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - /r/FREEMEDIAHECKYEAH
 - [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo. If you like it then use it
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
-- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
@@ -1898,13 +1898,14 @@
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering OSINT on GitHub entities.
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [merlinepedra/BLACKBIRD](https://github.com/merlinepedra/BLACKBIRD) - 
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
 - [Chareste/SpotifyHistoryParserExtended](https://github.com/Chareste/SpotifyHistoryParserExtended) - A parser for the Extended Streaming History (all time) sent to you by Spotify.
@@ -2843,7 +2844,6 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) - 
-- [fankijo/ncocc](https://github.com/fankijo/ncocc) - Runs Nextclouds occ commands without the need to type "sudo -u www-data........"
 - [CedricGoby/nextcloud-occ-scripts](https://github.com/CedricGoby/nextcloud-occ-scripts) - Scripts pour l'administration Nextcloud avec occ.
 - [floalt/Nextcloud-OCC-Scripts](https://github.com/floalt/Nextcloud-OCC-Scripts) - various OCC Scripts für Nextcloud
 - [jancborchardt/nextcloud-scripts](https://github.com/jancborchardt/nextcloud-scripts) - ☁️ Scripts to easier set up & update Nextcloud
