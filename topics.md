@@ -392,6 +392,7 @@
 
 ## android 
 
+- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [khaouitiabdelhakim/LyricsAI](https://github.com/khaouitiabdelhakim/LyricsAI) - LyricsAI is a powerful and easy-to-use library for Android developers that allows you to retrieve song lyrics from various online sources. This library leverages web scraping techniques to find and de
 - [wardellbagby/lyricistant](https://github.com/wardellbagby/lyricistant) - A helpful writing assistant for lyricists!
 - [FMXExpress/Text-To-Vector-Desktop-Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client) - Create SVGs using text to vector AI from Illustroke
@@ -618,7 +619,7 @@
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
-- [joxji/awsm.fish](https://github.com/joxji/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
@@ -1584,6 +1585,8 @@
 
 ## deep-learning 
 
+- [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
+- [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
@@ -2016,7 +2019,7 @@
 
 - [Zeyu-Li/github-index-generator](https://github.com/Zeyu-Li/github-index-generator) - Generate the list of your GitHub Repos 🤖
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering OSINT on GitHub entities.
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
@@ -2209,6 +2212,7 @@
 
 ## google 
 
+- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [dfinke/PowerShellGemini](https://github.com/dfinke/PowerShellGemini) - PowerShell integration for Google's versatile Gemini Pro API
 - [Curated-Awesome-Lists/Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) - Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and th
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -2582,6 +2586,7 @@
 
 ## ios 
 
+- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [wardellbagby/lyricistant](https://github.com/wardellbagby/lyricistant) - A helpful writing assistant for lyricists!
 - [256Arts/Space-UI](https://github.com/256Arts/Space-UI) - Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production.
 - [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
@@ -2911,6 +2916,7 @@
 
 ## kotlin 
 
+- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [khaouitiabdelhakim/LyricsAI](https://github.com/khaouitiabdelhakim/LyricsAI) - LyricsAI is a powerful and easy-to-use library for Android developers that allows you to retrieve song lyrics from various online sources. This library leverages web scraping techniques to find and de
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -4676,7 +4682,6 @@
 - [paschmann/changd](https://github.com/paschmann/changd) - Changd is a open source web monitoring  application for monitoring visual site changes using screenshots, XPath's or API's.
 - [umaar/export-github-stars](https://github.com/umaar/export-github-stars) - A Node.js webapp to scrape the stars of specified GitHub users
 - [violethaze74/nextcloud-webhooks](https://github.com/violethaze74/nextcloud-webhooks) - Webhooks app for Nextcloud :globe_with_meridians: :zap:
-- [fankijo/ncocc](https://github.com/fankijo/ncocc) - Runs Nextclouds occ commands without the need to type "sudo -u www-data........"
 - [CedricGoby/nextcloud-occ-scripts](https://github.com/CedricGoby/nextcloud-occ-scripts) - Scripts pour l'administration Nextcloud avec occ.
 - [floalt/Nextcloud-OCC-Scripts](https://github.com/floalt/Nextcloud-OCC-Scripts) - various OCC Scripts für Nextcloud
 - [nextcloud/integration_reddit](https://github.com/nextcloud/integration_reddit) - 🛸 Reddit integration into Nextcloud
@@ -5626,7 +5631,7 @@
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
 - [Oszust-Industries/Oszust-OS-Music-Tools](https://github.com/Oszust-Industries/Oszust-OS-Music-Tools) - Music Tools is an all-in-one solution for music enthusiasts who want to easily search, download, and manage their music.
 - [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering OSINT on GitHub entities.
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
@@ -5933,6 +5938,7 @@
 
 ## pytorch 
 
+- [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
@@ -6479,6 +6485,7 @@
 
 ## swift 
 
+- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT
 - [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
