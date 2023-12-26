@@ -3047,7 +3047,7 @@
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
-- [qirpi/selfspy](https://github.com/qirpi/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
+- [em429/selfspy](https://github.com/em429/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -3239,7 +3239,7 @@
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [tIsGoud/save-chrome-tabs-to-day-one](https://github.com/tIsGoud/save-chrome-tabs-to-day-one) - Save all your Chrome tabs in a Day One 2 entry.
 - [tuxedocat/dayone2md](https://github.com/tuxedocat/dayone2md) - Simple converter script for Day One2: JSON -&gt; Pandoc Markdown with metadata.
-- [qirpi/selfspy](https://github.com/qirpi/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
+- [em429/selfspy](https://github.com/em429/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
 - [telnet23/imessage2csv](https://github.com/telnet23/imessage2csv) - Export contacts and chat messages from iOS or macOS for easy viewing and searching
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
@@ -6929,7 +6929,7 @@
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
-- [qirpi/selfspy](https://github.com/qirpi/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
+- [em429/selfspy](https://github.com/em429/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
 - [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline of Active Directory changes with replication metadata
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
