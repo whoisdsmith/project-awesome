@@ -445,7 +445,6 @@
 
 - [1999AZZAR/gpt-advance-prompt-library](https://github.com/1999AZZAR/gpt-advance-prompt-library) - promt collection for special use case, tested on chatGPT and Bard
 - [giovanni-cutri/lyrics-text-mining](https://github.com/giovanni-cutri/lyrics-text-mining) - Text mining techniques conducted on lyrics of some popular songs.
-- [ALIILAPRO/lyrics](https://github.com/ALIILAPRO/lyrics) - mini repo for lyrics &lt;3
 - [Chuabacca/song-slides](https://github.com/Chuabacca/song-slides) - A markdown-based lyric slide creation and presentation tool using Remark.js and Middleman.
 - [VintageGold/SpotifyExplore_MusicSongNames](https://github.com/VintageGold/SpotifyExplore_MusicSongNames) - Connecting Spotify songs to MusicBrainz to find new music based on song titles
 - [cvzi/genius-lyrics-userscript](https://github.com/cvzi/genius-lyrics-userscript) - A userscript library to show lyrics from genius.com on other websites
@@ -1216,7 +1215,6 @@
 - [darthmachina/obsidian-neural-link](https://github.com/darthmachina/obsidian-neural-link) - Tool to automate Obsidian data
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
-- [tobiasschuerg/Photo-Organizer](https://github.com/tobiasschuerg/Photo-Organizer) - Tool to help organizing large (unorganized) collections of photos, such as from Google Takeout.
 - [Heapy/vipassana](https://github.com/Heapy/vipassana) - Life and collaboration assistant.
 - [measuresforjustice/textricator](https://github.com/measuresforjustice/textricator) - Textricator is a tool to extract text from documents and generate structured data.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
@@ -1251,7 +1249,7 @@
 
 - [dsouzarc/iMessageAnalyzer](https://github.com/dsouzarc/iMessageAnalyzer) - Analyzes a user's iMessage
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
-- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger
+- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger.
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [cosm/Data-Logger-for-iPhone](https://github.com/cosm/Data-Logger-for-iPhone) - Data Logger for iPhone can be used for storing and sharing various types of data with Pachube.com.
 - [jrk/scrobbl](https://github.com/jrk/scrobbl) - Last.fm scrobbler for jailbroken iPhone OS devices
@@ -1729,7 +1727,7 @@
 - [ueberdosis/alldocs.app](https://github.com/ueberdosis/alldocs.app) - Online text file converter
 - [pH-7/Html2Text](https://github.com/pH-7/Html2Text) - A very simple (but efficient) "HTML to plain text" converter ✍️
 - [MoritzLost/TextformatterPageTitleLinks](https://github.com/MoritzLost/TextformatterPageTitleLinks) - A Textformatter module for Processwire that will automatically add links to titles of other pages in a text.
-- [PHP-Science/TextRank](https://github.com/PHP-Science/TextRank) - :cyclone: :zap: :earth_africa: TextRank (automatic text summarization) for PHP7 and 8
+- [DavidBelicza/PHP-Science-TextRank](https://github.com/DavidBelicza/PHP-Science-TextRank) - :zap: :elephant: TextRank (resource-efficient and low-cost automatic text summarisation) for PHP
 - [carmelosantana/prompts](https://github.com/carmelosantana/prompts) - Stable diffussion prompt generator.
 - [productivity-rocks/ai-optimizer-website](https://github.com/productivity-rocks/ai-optimizer-website) - Website of the all in one ChatGPT/OpenAI optimizer!
 - [Invis1ble/media-intelligence](https://github.com/Invis1ble/media-intelligence) - A library for processing and analyzing media content, providing tools for audio, video and text analysis.
@@ -2064,7 +2062,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate awesome README files from the terminal, powered by OpenAI's GPT language models 💫
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2292,6 +2290,7 @@
 - [fokion/google_drive_extractor](https://github.com/fokion/google_drive_extractor) - Extract and migrate photos and videos when you takeout your data from Google
 - [brainynai/googlePhotosFlattener](https://github.com/brainynai/googlePhotosFlattener) - I used Google takeout to get my photos, but I wanted to extract just the photos, eliminate duplicates, and flatten to a single folder.
 - [gusevdaniel/google-photo-takeout](https://github.com/gusevdaniel/google-photo-takeout) - 
+- [tobiasschuerg/Photo-Organizer](https://github.com/tobiasschuerg/Photo-Organizer) - Tool to help organizing large (unorganized) collections of photos, such as from Google Takeout.
 - [normanlorrain/gt-cleanup](https://github.com/normanlorrain/gt-cleanup) - Restructure the photos from Google Takeout into a folder structure, removing duplicates and extra files.
 - [MaeglynD/bulk-modify](https://github.com/MaeglynD/bulk-modify) - i hate google photos so god damn much
 - [brraghav/simpleTools](https://github.com/brraghav/simpleTools) - This Repository is intended to create and maintain simple Tools that anyone can use without having to code. The tools can be as simple as extracting few keywords from text, but with lot of options and
@@ -2719,7 +2718,7 @@
 ## Rust 
 
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
-- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK.
+- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK. Written in Rust
 - [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
 - [hilbigan/ngrm](https://github.com/hilbigan/ngrm) - Find similar files based on byte sequences
 - [whitfin/runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
