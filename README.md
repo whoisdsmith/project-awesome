@@ -1151,6 +1151,7 @@
 
 ## Jupyter Notebook 
 
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [sian0x0/Roud-Song-Clusters](https://github.com/sian0x0/Roud-Song-Clusters) - Lyrics clustering
 - [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
 - [dtobrien23/LyricizeMe](https://github.com/dtobrien23/LyricizeMe) - An application that provides random song lyrics and annotations for a chosen artist, powered by the Genius API.
@@ -1848,6 +1849,7 @@
 
 ## Python 
 
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
 - [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
@@ -2062,7 +2064,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate awesome README files from the terminal, powered by OpenAI's GPT language models 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2972,6 +2974,8 @@
 
 ## TypeScript 
 
+- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
 - [dangchinh25/obsidian-gpt](https://github.com/dangchinh25/obsidian-gpt) - This plugin lets the user Q&A with their own notes, powered by OpenAI.
 - [nicucalcea/obsidian-magic-tasks](https://github.com/nicucalcea/obsidian-magic-tasks) - Use AI to break down complex tasks in Obsidian
 - [skycover/aicom-obsidian](https://github.com/skycover/aicom-obsidian) - AI Companion for Obsidian and llama.cpp
