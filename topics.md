@@ -229,10 +229,11 @@
 
 ## ai 
 
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [dfinke/PowerShellGemini](https://github.com/dfinke/PowerShellGemini) - PowerShell integration for Google's versatile Gemini Pro API
 - [Curated-Awesome-Lists/Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) - Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and th
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
-- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK.
+- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK. Written in Rust
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [AlexanderDotH/OpenLyricsClient](https://github.com/AlexanderDotH/OpenLyricsClient) - A lyrics synchronization tool for everyone
 - [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - Web lyric editor
@@ -265,6 +266,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
+- [DavidBelicza/PHP-Science-TextRank](https://github.com/DavidBelicza/PHP-Science-TextRank) - :zap: :elephant: TextRank (resource-efficient and low-cost automatic text summarisation) for PHP
 - [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [Oneirocom/Magick](https://github.com/Oneirocom/Magick) - Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
 - [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
@@ -309,6 +311,7 @@
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
@@ -368,7 +371,7 @@
 ## algorithm 
 
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
-- [PHP-Science/TextRank](https://github.com/PHP-Science/TextRank) - :cyclone: :zap: :earth_africa: TextRank (automatic text summarization) for PHP7 and 8
+- [DavidBelicza/PHP-Science-TextRank](https://github.com/DavidBelicza/PHP-Science-TextRank) - :zap: :elephant: TextRank (resource-efficient and low-cost automatic text summarisation) for PHP
 - [AddictedCS/soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting) - Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 
@@ -1116,7 +1119,7 @@
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [serkannpolatt/CHATGPT-APPLICATIONS](https://github.com/serkannpolatt/CHATGPT-APPLICATIONS) - This repo contains apps with chat gpt
 - [Qiamast/ChatGPT-Awesome-Prompts](https://github.com/Qiamast/ChatGPT-Awesome-Prompts) - A collection of creative prompts for the GPT-3 model on GitHub to help improve productivity and efficiency in open-source projects. Join the community and help create more awesome prompts.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
 - [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
@@ -1508,6 +1511,7 @@
 
 ## data-science 
 
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
@@ -1587,7 +1591,7 @@
 
 - [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
-- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK.
+- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK. Written in Rust
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
@@ -1747,6 +1751,7 @@
 
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
 - [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [docpress/docpress](https://github.com/docpress/docpress) - Documentation website generator
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -2609,7 +2614,7 @@
 - [evilpenguin/SSLBypass](https://github.com/evilpenguin/SSLBypass) - iOS SSL Pinning Bypass (iOS 8 - 14)
 - [brows3r/iPwn](https://github.com/brows3r/iPwn) - A Framework meant for the exploitation of iOS devices.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
-- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger
+- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger.
 - [ParthJadhav/IMMAT](https://github.com/ParthJadhav/IMMAT) - iMessage Mac Automation Tool
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
@@ -3085,7 +3090,7 @@
 ## machine-learning 
 
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
-- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK.
+- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 75% Cheaper & 23x Faster Assistants. Same API/SDK. Written in Rust
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -3278,6 +3283,7 @@
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
@@ -3816,7 +3822,7 @@
 ## objective-c 
 
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger
+- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [TimOliver/TOWebViewController](https://github.com/TimOliver/TOWebViewController) - A view controller class for iOS that allows users to view web pages directly within an app.
@@ -3970,6 +3976,9 @@
 
 ## others 
 
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
 - [nicucalcea/obsidian-magic-tasks](https://github.com/nicucalcea/obsidian-magic-tasks) - Use AI to break down complex tasks in Obsidian
 - [Pentchaff/obsidian-ai-characters](https://github.com/Pentchaff/obsidian-ai-characters) - Integration of OpenAI into Obsidian, allowing user to save own system prompts
@@ -3995,7 +4004,6 @@
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files!
 - [eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics) - Enhance your Obsidian audio player by adding a interactive lyrics display feature.
 - [faminchik/get-lyrics](https://github.com/faminchik/get-lyrics) - Application for getting song lyrics and setting them to mp3 files.
-- [ALIILAPRO/lyrics](https://github.com/ALIILAPRO/lyrics) - mini repo for lyrics &lt;3
 - [DBKarman/lyricsync](https://github.com/DBKarman/lyricsync) - An lrc file generator/creator online, Simply visit the website or open index.html locally in order to sync your lyrics with your music
 - [ajmd17/lyric-video-editor](https://github.com/ajmd17/lyric-video-editor) - A small app for creating and rendering lyric videos.
 - [okio-ai/nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite
@@ -5500,7 +5508,7 @@
 - [ueberdosis/alldocs.app](https://github.com/ueberdosis/alldocs.app) - Online text file converter
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [pH-7/Html2Text](https://github.com/pH-7/Html2Text) - A very simple (but efficient) "HTML to plain text" converter ✍️
-- [PHP-Science/TextRank](https://github.com/PHP-Science/TextRank) - :cyclone: :zap: :earth_africa: TextRank (automatic text summarization) for PHP7 and 8
+- [DavidBelicza/PHP-Science-TextRank](https://github.com/DavidBelicza/PHP-Science-TextRank) - :zap: :elephant: TextRank (resource-efficient and low-cost automatic text summarisation) for PHP
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [crwlrsoft/url](https://github.com/crwlrsoft/url) - Swiss Army knife for urls.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
@@ -5617,6 +5625,7 @@
 
 ## python 
 
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [SuperKogito/spafe](https://github.com/SuperKogito/spafe) - :sound: spafe: Simplified Python Audio Features Extraction
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
@@ -5711,6 +5720,7 @@
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -6000,7 +6010,6 @@
 - [vantage-ola/lyrical](https://github.com/vantage-ola/lyrical) - A web app to search for lyrics using the genius API.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [jeffsieu/txthlpr](https://github.com/jeffsieu/txthlpr) - Perform repetitive formatting tasks on text without the pain of repetition. Like CyberChef but more generalized.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
