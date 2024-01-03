@@ -121,7 +121,7 @@
 - [CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh) - An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)
 - [microdotblog/microblog-mac](https://github.com/microdotblog/microblog-mac) - Micro.blog for Mac
 - [henrik4433/cylinder-master](https://github.com/henrik4433/cylinder-master) - 
-- [SupremacyXI/iRecord](https://github.com/SupremacyXI/iRecord) - A screen recorder for IOS 8
+- [alexandermburke/iRecord](https://github.com/alexandermburke/iRecord) - A screen recorder for IOS 8
 - [lavaalone/iControl](https://github.com/lavaalone/iControl) - Control the iOS devices.
 - [theiostream/utilities](https://github.com/theiostream/utilities) - My own open-source replacements for popular command-line tools from the jailbreaking community.
 - [ap4y/iSAP](https://github.com/ap4y/iSAP) - Implementation of the RSAP protocol fo the iphone. Based on the BTStack(http://code.google.com/p/btstack/)
@@ -1855,7 +1855,7 @@
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [Syrins/Gemini-Beta](https://github.com/Syrins/Gemini-Beta) - Like Google's Gemini demo, it harnesses the power of AI to answer questions based on visual input. By integrating GPT-4 Vision for image understanding, Whisper for voice recognition and Resemble AI fo
 - [mdiller/rock-assistant](https://github.com/mdiller/rock-assistant) - An obsidian + GPT ai assistant thing
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [ynop/audiomate](https://github.com/ynop/audiomate) - Python library for handling audio datasets.
 - [keunwoochoi/kapre](https://github.com/keunwoochoi/kapre) - kapre: Keras Audio Preprocessors
