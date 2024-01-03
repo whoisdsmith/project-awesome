@@ -3990,7 +3990,7 @@
 - [different-ai/gpt-file-organizer](https://github.com/different-ai/gpt-file-organizer) - An Obsidian plugin that auto-organizes your vault.
 - [mdiller/rock-assistant](https://github.com/mdiller/rock-assistant) - An obsidian + GPT ai assistant thing
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [jamiebullock/LibXtract](https://github.com/jamiebullock/LibXtract) - LibXtract is a simple, portable, lightweight library of audio feature extraction functions.
 - [urinieto/msaf](https://github.com/urinieto/msaf) - Music Structure Analysis Framework
 - [danilobellini/audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python
@@ -5196,7 +5196,7 @@
 - [alexbw/novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X
 - [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying to complete all projects from http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 - [henrik4433/cylinder-master](https://github.com/henrik4433/cylinder-master) - 
-- [SupremacyXI/iRecord](https://github.com/SupremacyXI/iRecord) - A screen recorder for IOS 8
+- [alexandermburke/iRecord](https://github.com/alexandermburke/iRecord) - A screen recorder for IOS 8
 - [lavaalone/iControl](https://github.com/lavaalone/iControl) - Control the iOS devices.
 - [theiostream/utilities](https://github.com/theiostream/utilities) - My own open-source replacements for popular command-line tools from the jailbreaking community.
 - [ap4y/iSAP](https://github.com/ap4y/iSAP) - Implementation of the RSAP protocol fo the iphone. Based on the BTStack(http://code.google.com/p/btstack/)
