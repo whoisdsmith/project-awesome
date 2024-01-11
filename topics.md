@@ -241,7 +241,7 @@
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
@@ -281,7 +281,7 @@
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
-- [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
+- [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT cre
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -1084,7 +1084,6 @@
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
-- [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
 - [ambr0sial/unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [soliblue/songGPT](https://github.com/soliblue/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
@@ -1490,7 +1489,7 @@
 
 ## data-analysis 
 
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
 - [1994nikunj/nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichlet 
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
@@ -1512,7 +1511,7 @@
 ## data-science 
 
 - [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
@@ -2495,7 +2494,7 @@
 - [cutiful/replace-in-html](https://github.com/cutiful/replace-in-html) - Replace text in HTML strings without messing up element attributes.
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML, with a focus on feature and style parity.
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Lets you export single files, canvas pages, or whole vaults as full websites or shareable, interactive documents. It is similar to digital garden or publish, but you get direct access to the exported 
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
 - [itsliamdowd/WaybackBrowserMacOS](https://github.com/itsliamdowd/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
@@ -2712,7 +2711,7 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
-- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
@@ -3109,7 +3108,7 @@
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [MrAnayDongre/Machine-Learning-Collection](https://github.com/MrAnayDongre/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
-- [polterguy/magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
+- [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [soliblue/songGPT](https://github.com/soliblue/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -3644,7 +3643,7 @@
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - 📑 Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will th
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
-- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -3755,7 +3754,7 @@
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT but with more features
-- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -3977,7 +3976,7 @@
 
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
 - [nicucalcea/obsidian-magic-tasks](https://github.com/nicucalcea/obsidian-magic-tasks) - Use AI to break down complex tasks in Obsidian
 - [Pentchaff/obsidian-ai-characters](https://github.com/Pentchaff/obsidian-ai-characters) - Integration of OpenAI into Obsidian, allowing user to save own system prompts
@@ -4008,7 +4007,7 @@
 - [okio-ai/nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Deskt
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
 - [andersmmg/sciui](https://github.com/andersmmg/sciui) - An easy-to-use CSS framework for building Sci-Fi and futuristic UI for your web app
 - [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
 - [iXialumy/obsidian-sort-headings](https://github.com/iXialumy/obsidian-sort-headings) - Plugin to sort headings in Obsidian
@@ -4039,7 +4038,7 @@
 - [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
 - [taajik/lyricser](https://github.com/taajik/lyricser) - Adding lyrics to songs using Genius API, editing lyrics, reading lyrics and more.
 - [dtobrien23/LyricizeMe](https://github.com/dtobrien23/LyricizeMe) - An application that provides random song lyrics and annotations for a chosen artist, powered by the Genius API.
-- [8liam/FMLyrics](https://github.com/8liam/FMLyrics) - A react app with node backend to grab lyrics between currently playing songs via last.fm and genius
+- [8liam/FMLyrics](https://github.com/8liam/FMLyrics) - 🎤🎧 A web-based app that displays lyrics for your last.fm currently playing track
 - [KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner) - Personal Obsidian Enhanced CSS snippet
 - [PurpleGuitar/obsidian-snippets](https://github.com/PurpleGuitar/obsidian-snippets) - CSS snippets for use with Obsidian
 - [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
@@ -4162,7 +4161,7 @@
 - [sderose/Text](https://github.com/sderose/Text) - Utilities for managing text files, esp. for NLP and corpus linguistics use
 - [domnikl/raindrop2obsidian](https://github.com/domnikl/raindrop2obsidian) - convert raindrop.io highlights to Obsidian notes
 - [daddyingrave/md-from-notion](https://github.com/daddyingrave/md-from-notion) - Cleaner for markdown imported from Notion
-- [huisui773/md2notion](https://github.com/huisui773/md2notion) - Import markdown to notion
+- [huisu773/md2notion](https://github.com/huisu773/md2notion) - Import markdown to notion
 - [nino-vrijman/raindrop-to-notion](https://github.com/nino-vrijman/raindrop-to-notion) - Transforms the export from Raindrop into a .csv file which is ready to be imported in Notion.
 - [omnicreor/PI-AGI](https://github.com/omnicreor/PI-AGI) - Welcome to PI AGI, a groundbreaking project aiming to revolutionize the world of Artificial Intelligence by developing a base for role-based AGIs (Artificial General Intelligences) that are personaliz
 - [jina-ai/thinkgpt](https://github.com/jina-ai/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
@@ -4973,6 +4972,7 @@
 - [michael-danello/iMessageWrapped](https://github.com/michael-danello/iMessageWrapped) - Visualizing and Exploring iMessage data
 - [openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display live system stats on Windows's taskbar
 - [arangodb-foxx/ifttt-example](https://github.com/arangodb-foxx/ifttt-example) - IFTTT Webhook example
+- [sushil79g/Facebook-message-to-CSV-exporter](https://github.com/sushil79g/Facebook-message-to-CSV-exporter) - This script helps in producing the chat dataset(in csv format) of your facebook chat
 - [tmthrgd/booked](https://github.com/tmthrgd/booked) - A Facebook data export visualizer tool.
 - [jacopofar/location-data-to-heatmap](https://github.com/jacopofar/location-data-to-heatmap) - Create an animated heatmap from a Google location data Takeout export
 - [top-on/life-vault](https://github.com/top-on/life-vault) - Using selenium to automate google takeout routines
@@ -5650,7 +5650,7 @@
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -6137,7 +6137,7 @@
 - [mustan-ali/TextUtils](https://github.com/mustan-ali/TextUtils) - TextUtils is a web-based text utility tool built using React JS. It offer a user-friendly interface and efficient performance. It allows users to edit, format, manipulate and convert text.
 - [ferrufinob/Bookmarkd_Frontend](https://github.com/ferrufinob/Bookmarkd_Frontend) - Pinterest Inspired picture-sharing Web Application with ReactJS/Redux front-end and Rails API back-end.
 - [joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - Web tool designed to significantly reduce the time it takes to create readme files. By simply entering your information, the generator will create a beautiful template that can be easily copied and pa
-- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
@@ -6680,7 +6680,7 @@
 - [M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt) - Ask GPT from your notes and get personalized answers based on your knowledge base.
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
-- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
+- [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
