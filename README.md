@@ -418,7 +418,6 @@
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-- [MergenStudios/memento](https://github.com/MergenStudios/memento) - Command line tool written in Go for sorting and categorizing personal files like screenshots, recordings, logs and more.
 - [jastribl/photosync](https://github.com/jastribl/photosync) - Util to do things with Google Photos
 - [simonedegiacomi/gphotosuploader](https://github.com/simonedegiacomi/gphotosuploader) - Unofficial Google Photos uploader and Go library
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
