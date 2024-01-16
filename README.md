@@ -634,6 +634,7 @@
 
 ## JavaScript 
 
+- [mayphyusinthant/NeuralSymphony](https://github.com/mayphyusinthant/NeuralSymphony) - Neural Symphony is a music player application like Spotify integrated with AI Technology - Neural Network Architecture. The aim of this project is to use the advantage of AI - Machine Learning is for 
 - [Pentchaff/obsidian-ai-characters](https://github.com/Pentchaff/obsidian-ai-characters) - Integration of OpenAI into Obsidian, allowing user to save own system prompts
 - [creaktive/pianolizer](https://github.com/creaktive/pianolizer) - An easy-to-use toolkit for music exploration and visualization, an audio spectrum analyzer helping you turn sounds into piano notes
 - [Mondonno/iLyrics](https://github.com/Mondonno/iLyrics) - Get lyrics of songs on your Mac that you play on iTunes, Spotify or QuickTimePlayer with speed of light.
@@ -1113,7 +1114,7 @@
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [wells19d/my-timeline-journal](https://github.com/wells19d/my-timeline-journal) - 
 - [ionstage/timeline](https://github.com/ionstage/timeline) - Web-based timeline viewer
-- [yeefom/day-one-exporter](https://github.com/yeefom/day-one-exporter) - Export Day One entries as individual files
+- [cubesort/day-one-exporter](https://github.com/cubesort/day-one-exporter) - Export Day One entries as individual files
 - [C2DH/histograph](https://github.com/C2DH/histograph) - Neo4j powered web application for multimedia collections: bring graph-based exploration and crowd-based indexation.
 - [CVCEeu-dh/histograph](https://github.com/CVCEeu-dh/histograph) - Neo4j powered web application for multimedia collections: bring graph-based exploration and crowd-based indexation.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -1150,6 +1151,8 @@
 
 ## Jupyter Notebook 
 
+- [crlandsc/Music-Genre-Classification-Using-Convolutional-Neural-Networks](https://github.com/crlandsc/Music-Genre-Classification-Using-Convolutional-Neural-Networks) - Music genre classification system built on a convolutional neural network trained on Mel-spectrograms of 3-second audio samples.
+- [musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse) - Resources for the Generative Music AI Course on The Sound of AI YouTube channel.
 - [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [sian0x0/Roud-Song-Clusters](https://github.com/sian0x0/Roud-Song-Clusters) - Lyrics clustering
 - [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
@@ -1207,6 +1210,7 @@
 
 ## Kotlin 
 
+- [czyczk/auto-music-info-server](https://github.com/czyczk/auto-music-info-server) - A Kotlin JVM project to make use of both rules and AI power to collect information about music from the Internet. See https://github.com/czyczk/auto_music_info for the Flutter client.
 - [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [khaouitiabdelhakim/LyricsAI](https://github.com/khaouitiabdelhakim/LyricsAI) - LyricsAI is a powerful and easy-to-use library for Android developers that allows you to retrieve song lyrics from various online sources. This library leverages web scraping techniques to find and de
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
@@ -1215,7 +1219,7 @@
 - [darthmachina/obsidian-neural-link](https://github.com/darthmachina/obsidian-neural-link) - Tool to automate Obsidian data
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
-- [Heapy/vipassana](https://github.com/Heapy/vipassana) - Life and collaboration assistant.
+- [Heapy/komok](https://github.com/Heapy/komok) - Life and collaboration assistant.
 - [measuresforjustice/textricator](https://github.com/measuresforjustice/textricator) - Textricator is a tool to extract text from documents and generate structured data.
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 
@@ -1239,7 +1243,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [Anmol-Baranwal/Hack-Your-Growth](https://github.com/Anmol-Baranwal/Hack-Your-Growth) - Make your life easier with these awesome resources: 🚀 Interview Preparation, Readme Stats, Online Tools, Chrome Extensions, Portfolio Websites and many more!
 - [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1361,6 +1365,8 @@
 
 ## Others 
 
+- [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
+- [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [Curated-Awesome-Lists/Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) - Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and th
 - [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
@@ -1669,7 +1675,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [alkashef/timeline-visualization](https://github.com/alkashef/timeline-visualization) - Visualization of parallel timelines in Excel
 - [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - 🩺 Track, visualize, and embed your health and life data — location, health, work, play, and more
-- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
+- [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [nobiot/Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [ivbeg/awesome-data-takeout](https://github.com/ivbeg/awesome-data-takeout) - Awesome list of data export pages/tools for most common online services
@@ -1848,6 +1854,11 @@
 
 ## Python 
 
+- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [psobot/wub-machine](https://github.com/psobot/wub-machine) - Automatic Dubstep/Electro-House remixer app, powered by the Echo Nest Remix API.
+- [drensin/Remixatron](https://github.com/drensin/Remixatron) - Infinite Jukebox on the command line in Python. It groups musically similar beats of a song into clusters and then plays a random path through the song that makes musical sense, but not does not repea
+- [okio-ai/nendo-example-apps](https://github.com/okio-ai/nendo-example-apps) - Examples of apps built with Nendo, the AI Audio Tool Suite
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
 - [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
@@ -2503,7 +2514,7 @@
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/p
+- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -2972,6 +2983,8 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [dangchinh25/obsidian-gpt](https://github.com/dangchinh25/obsidian-gpt) - This plugin lets the user Q&A with their own notes, powered by OpenAI.
@@ -2982,7 +2995,7 @@
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools) - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
 - [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local GPT assistance for maximum privacy and offline access
-- [different-ai/gpt-file-organizer](https://github.com/different-ai/gpt-file-organizer) - An Obsidian plugin that auto-organizes your vault.
+- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - An Obsidian plugin that auto-organizes your vault.
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) - Regex Obsidian Plugin
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
