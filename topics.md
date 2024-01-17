@@ -230,6 +230,7 @@
 
 ## ai 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
@@ -3099,6 +3100,7 @@
 
 ## machine-learning 
 
+- [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
@@ -3998,6 +4000,8 @@
 
 ## others 
 
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+- [descriptinc/audiotools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
 - [czyczk/auto-music-info-server](https://github.com/czyczk/auto-music-info-server) - A Kotlin JVM project to make use of both rules and AI power to collect information about music from the Internet. See https://github.com/czyczk/auto_music_info for the Flutter client.
 - [mayphyusinthant/NeuralSymphony](https://github.com/mayphyusinthant/NeuralSymphony) - Neural Symphony is a music player application like Spotify integrated with AI Technology - Neural Network Architecture. The aim of this project is to use the advantage of AI - Machine Learning is for 
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
@@ -4076,7 +4080,7 @@
 - [KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner) - Personal Obsidian Enhanced CSS snippet
 - [PurpleGuitar/obsidian-snippets](https://github.com/PurpleGuitar/obsidian-snippets) - CSS snippets for use with Obsidian
 - [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
-- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline and add page numbers to PDF
+- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline and page numbers to PDF
 - [HananoshikaYomaru/obsidian-3d-graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph) - 👓 A 3D graph for Obsidian!
 - [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -5654,6 +5658,7 @@
 
 ## python 
 
+- [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [SuperKogito/spafe](https://github.com/SuperKogito/spafe) - :sound: spafe: Simplified Python Audio Features Extraction
