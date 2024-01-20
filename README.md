@@ -421,7 +421,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [jastribl/photosync](https://github.com/jastribl/photosync) - Util to do things with Google Photos
 - [simonedegiacomi/gphotosuploader](https://github.com/simonedegiacomi/gphotosuploader) - Unofficial Google Photos uploader and Go library
-- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -469,6 +469,7 @@
 - [alterae/text-replacer](https://github.com/alterae/text-replacer) - A simple find-and-replace utility, built in vanilla html, css, and typescript.
 - [VivekChoudhary77/Textify-text-Preprocessing](https://github.com/VivekChoudhary77/Textify-text-Preprocessing) - A text preprocessing web application
 - [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs
+- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
 - [gabor-farkas/photo-duplicates](https://github.com/gabor-farkas/photo-duplicates) - Remove photos uploaded multiple times to Google Photos
 - [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
@@ -1854,6 +1855,7 @@
 
 ## Python 
 
+- [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
 - [Holzhaus/serato-tags](https://github.com/Holzhaus/serato-tags) - Serato DJ Pro GEOB tags documentation
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
@@ -1958,7 +1960,6 @@
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
 - [AayushG159/NotionToObsidian](https://github.com/AayushG159/NotionToObsidian) - A simple tool which migrates all your notion notes to be obsidian ready
 - [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query any markdown file using vector embedding, Pinecone vector database and GPT (langchain). A weaker version of privateGPT
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
@@ -2541,7 +2542,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - A simple, non-intrusive and technology-agnostic workflow automation framework with a human-readable interface to solve the growing complexity and reduce the cost of prototyping, benchmarking, optimizi
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a very light-weight, non-intrusive and technology-agnostic workflow automation framework with a human-readable interface to make it easier to manage, run and reproduce complex 
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -3052,6 +3053,7 @@
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [badgooooor/hugging-md](https://github.com/badgooooor/hugging-md) - 🤗📝 HuggingFace assisted Obsidian plugin
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action) - Custom action to export Notion database to local as markdown files and images.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -3087,7 +3089,6 @@
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [mharrvic/redhorse-ai-transcriber](https://github.com/mharrvic/redhorse-ai-transcriber) - Audio transcriber using Openai whisper ML deployed to Banana.dev
