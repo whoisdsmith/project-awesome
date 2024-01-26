@@ -423,6 +423,7 @@
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [MergenStudios/memento](https://github.com/MergenStudios/memento) - Command line tool written in Go for sorting and categorizing personal files like screenshots, recordings, logs and more.
 - [jastribl/photosync](https://github.com/jastribl/photosync) - Util to do things with Google Photos
 - [simonedegiacomi/gphotosuploader](https://github.com/simonedegiacomi/gphotosuploader) - Unofficial Google Photos uploader and Go library
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
@@ -625,7 +626,7 @@
 - [mpfthprblmtq/moose](https://github.com/mpfthprblmtq/moose) - A music management system that reads and modifies id3 tags and stuff
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [TheLQ/forum-scraper](https://github.com/TheLQ/forum-scraper) - Mass Forum Archiving Project
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [kevin1/OhLife2DayOne](https://github.com/kevin1/OhLife2DayOne) - Migrate your OhLife entries to Day One without messing up the line endings.
 - [gregryork/DayOneViewer](https://github.com/gregryork/DayOneViewer) - A Viewer for Day One Journal Entries in Java
@@ -686,7 +687,7 @@
 - [thesephist/histools](https://github.com/thesephist/histools) - A collection of tools for generating data visualizations from browser history data
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
-- [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
+- [SamurAIGPT/GPT-Agent](https://github.com/SamurAIGPT/GPT-Agent) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
 - [victorb/metamorph](https://github.com/victorb/metamorph) - Self-editing GPT-4 application
 - [dellermann/obsidian-console](https://github.com/dellermann/obsidian-console) - An Obsidian plugin which renders console commands and their output.
 - [bnvk/text-scrub](https://github.com/bnvk/text-scrub) - This ain't yo grand daddy's find & replace or trim tool
@@ -3044,7 +3045,7 @@
 - [Sv443/geniURL](https://github.com/Sv443/geniURL) - REST API that searches for song metadata, including the lyrics URL, translations and more from genius.com - supports JSON and XML
 - [8liam/FMLyrics](https://github.com/8liam/FMLyrics) - 🎤🎧 A web-based app that displays lyrics for your last.fm currently playing track
 - [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
-- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline and page numbers to PDF
+- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin
 - [HananoshikaYomaru/obsidian-3d-graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph) - 👓 A 3D graph for Obsidian!
 - [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
