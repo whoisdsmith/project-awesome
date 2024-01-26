@@ -1691,7 +1691,7 @@
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
@@ -2033,7 +2033,7 @@
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -4113,7 +4113,7 @@
 - [KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner) - Personal Obsidian Enhanced CSS snippet
 - [PurpleGuitar/obsidian-snippets](https://github.com/PurpleGuitar/obsidian-snippets) - CSS snippets for use with Obsidian
 - [amatya-aditya/obsidian-image-slider](https://github.com/amatya-aditya/obsidian-image-slider) - An obsidian plugin that helps to make an image slider in obsidian notes.
-- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin that adds the ability to export bookmarks outline and page numbers to PDF
+- [l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf) - Obsidian PDF export enhancement plugin
 - [HananoshikaYomaru/obsidian-3d-graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph) - 👓 A 3D graph for Obsidian!
 - [trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) - Attachment Management of Obsidian
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -4187,7 +4187,7 @@
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [bbelyeu/applescripts](https://github.com/bbelyeu/applescripts) - Applescripts I've used. Many I've written others I've copied from sources around the web.
 - [XpressAI/xai-gpt-agent-toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
-- [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
+- [SamurAIGPT/GPT-Agent](https://github.com/SamurAIGPT/GPT-Agent) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
 - [PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
 - [mattwilliamson/automator-workflows](https://github.com/mattwilliamson/automator-workflows) - Useful automator tools, such as inserting a UUID into a docuement
 - [lintalist/lintalist](https://github.com/lintalist/lintalist) - Searchable interactive texts to copy & paste text, run scripts, using easily exchangeable bundles
@@ -4877,6 +4877,7 @@
 - [Paul-Houser/StartTree](https://github.com/Paul-Houser/StartTree) - A terminal-style home page replicating the tree command .
 - [TheLQ/forum-scraper](https://github.com/TheLQ/forum-scraper) - Mass Forum Archiving Project
 - [xyvs/visualtree](https://github.com/xyvs/visualtree) - A tool that allows you to visualize and interact with the output of your tree command.
+- [MergenStudios/memento](https://github.com/MergenStudios/memento) - Command line tool written in Go for sorting and categorizing personal files like screenshots, recordings, logs and more.
 - [Swivro/weboasis-continued](https://github.com/Swivro/weboasis-continued) - An attempt to recreate and continue the now defunct Weboasis (was accessible via weboas.is, but is now down). RIP Webby 1992-2022.
 - [blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) - 
 - [unkn0wn95/weboas.is](https://github.com/unkn0wn95/weboas.is) - All of source code of weboas.is
@@ -6424,7 +6425,7 @@
 - [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [tomershvueli/homepage](https://github.com/tomershvueli/homepage) - A simple, standalone, self-hosted PHP page that is your window to your server and the web.
