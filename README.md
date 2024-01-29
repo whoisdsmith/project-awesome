@@ -447,6 +447,7 @@
 
 ## HTML 
 
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [1999AZZAR/gpt-advance-prompt-library](https://github.com/1999AZZAR/gpt-advance-prompt-library) - promt collection for special use case, tested on chatGPT and Bard
 - [giovanni-cutri/lyrics-text-mining](https://github.com/giovanni-cutri/lyrics-text-mining) - Text mining techniques conducted on lyrics of some popular songs.
 - [Chuabacca/song-slides](https://github.com/Chuabacca/song-slides) - A markdown-based lyric slide creation and presentation tool using Remark.js and Middleman.
@@ -1755,7 +1756,7 @@
 - [erusev/parsedown-extra](https://github.com/erusev/parsedown-extra) - Markdown Extra Extension for Parsedown
 - [realodix/urlhub](https://github.com/realodix/urlhub) - ✂️ URL shortener web application based on the Laravel PHP Framework.
 - [crwlrsoft/url](https://github.com/crwlrsoft/url) - Swiss Army knife for urls.
-- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
+- [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [gilbarbara/alfred-workflows](https://github.com/gilbarbara/alfred-workflows) - Collection of Alfred workflows
 - [terrylinooo/githuber-md](https://github.com/terrylinooo/githuber-md) - Markdown editor plugin for WordPress.
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
@@ -1888,7 +1889,6 @@
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [Syrins/Gemini-Beta](https://github.com/Syrins/Gemini-Beta) - Like Google's Gemini demo, it harnesses the power of AI to answer questions based on visual input. By integrating GPT-4 Vision for image understanding, Whisper for voice recognition and Resemble AI fo
 - [mdiller/rock-assistant](https://github.com/mdiller/rock-assistant) - An obsidian + GPT ai assistant thing
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [ynop/audiomate](https://github.com/ynop/audiomate) - Python library for handling audio datasets.
 - [keunwoochoi/kapre](https://github.com/keunwoochoi/kapre) - kapre: Keras Audio Preprocessors
@@ -1964,7 +1964,7 @@
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [michaelNinh/arxiv-search-summarize](https://github.com/michaelNinh/arxiv-search-summarize) - Keyword search Arxiv and summarize papers with OpenAi's chatGPT.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [socketteer/loom](https://github.com/socketteer/loom) - Multiversal tree writing interface for human-AI collaboration
 - [XpressAI/xai-gpt-agent-toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
@@ -2096,7 +2096,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by large language model APIs
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2754,7 +2754,7 @@
 
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
-- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Edge Assistants API allows you to build AI assistants within your own applications with your own models that run on the edge. 75% Cheaper & 23x Faster Assistants. Same API/SDK. Writ
+- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 100% private, 75% Cheaper & 23x Faster Assistants. Same API/SDK. Written in Rust
 - [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
 - [hilbigan/ngrm](https://github.com/hilbigan/ngrm) - Find similar files based on byte sequences
 - [whitfin/runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
@@ -2847,7 +2847,6 @@
 - [evilsh3ll/datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown) - 
 - [tsuyoshicho/action-textlint](https://github.com/tsuyoshicho/action-textlint) - Run textlint with reviewdog on pull requests to improve document writing experience.
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
-- [userscripters/multiline-chat-markdown](https://github.com/userscripters/multiline-chat-markdown) - Properly displays multiline chat messages
 - [wangkuiyi/mdfmt](https://github.com/wangkuiyi/mdfmt) - Auto reformat Markdown files
 - [setup-your-mac/Setup-Your-Mac](https://github.com/setup-your-mac/Setup-Your-Mac) - Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -2946,7 +2945,6 @@
 
 ## Swift 
 
-- [256Arts/Space-UI](https://github.com/256Arts/Space-UI) - Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production.
 - [Paisseon/Erika](https://github.com/Paisseon/Erika) - Tweak downloader for Saily, Sileo, Zebra, and Installer (iOS 13-16)
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
@@ -3022,7 +3020,7 @@
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools) - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
 - [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local GPT assistance for maximum privacy and offline access
-- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - An Obsidian plugin that auto-organizes your vault.
+- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - Never Organize your Obsidian Vault again
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) - Regex Obsidian Plugin
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
