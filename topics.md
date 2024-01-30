@@ -344,7 +344,7 @@
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 - [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [sturdy-dev/semantic-code-search](https://github.com/sturdy-dev/semantic-code-search) - Search your codebase with natural language • CLI • No data leaves your computer
@@ -1142,7 +1142,7 @@
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants, Threads, Messages, Runs and Text to Speech 🍾
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 - [cavecafe/chat-gpt-console](https://github.com/cavecafe/chat-gpt-console) - ChatGPT as a terminal app
 - [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
@@ -1258,7 +1258,7 @@
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
@@ -3480,6 +3480,7 @@
 
 ## mastodon 
 
+- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 
@@ -3946,6 +3947,7 @@
 - [soxoj/maigret-maltego](https://github.com/soxoj/maigret-maltego) - Maltego transformation for searching of accounts by username
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also ext
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
+- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
@@ -6720,6 +6722,7 @@
 ## twitter 
 
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
+- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [biolab/orange3-text](https://github.com/biolab/orange3-text) - 🍊 :page_facing_up: Text Mining add-on for Orange3
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
