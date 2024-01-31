@@ -2094,7 +2094,7 @@
 - [dr413677671/PromptGallery-stable-diffusion-webui](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui) - A prompt cookbook worked as stable-diffusion-webui extenstions.
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [wshuyi/demo-notion-markdown-exporter](https://github.com/wshuyi/demo-notion-markdown-exporter) - 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🚧V4🚧⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
@@ -2560,7 +2560,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, reusable and extensible automation recipes from MLCommons projects with a human-friendly interface to make it easier to prototype, run, benchmark, opt
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, reusable and extensible automation recipes with a human-friendly interface to make it easier to prototype, run, benchmark and optimize complex AI/ML a
 - [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
@@ -3193,7 +3193,7 @@
 - [rien7/obsidian-colorful-tag](https://github.com/rien7/obsidian-colorful-tag) - Make your tag more beautiful and powerful!
 - [dobrovolsky/obsidian-structure](https://github.com/dobrovolsky/obsidian-structure) - 
 - [Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed) - This plugin allow you to convert URLs in your notes into embeded previews.
-- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export full websites or html documents from single files, canvas pages, or whole vaults. Similar to obsidian's publish or digital garden, but with direct access to the exported HTML. Focuses on flexib
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [CobyPear/obsidian-diy-sync](https://github.com/CobyPear/obsidian-diy-sync) - Obsidian.md plugin + expressjs server for syncing and publishing markdown content
 - [ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin) - Grabs data from IVRE and brings it into Obsidian notes
 - [vilmacio/gslides-maker](https://github.com/vilmacio/gslides-maker) - Generate Google Slides from Wikipedia content
