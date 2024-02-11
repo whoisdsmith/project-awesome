@@ -5,11 +5,9 @@
 
 ## Contents
 
-- [AppleScript](#applescript)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -63,23 +61,7 @@
 - [Visual Basic](#visual-basic)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
-- [XSLT](#xslt)
 - [Zig](#zig)
-
-## AppleScript 
-
-- [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection) - Various Automator and AppleScript workflow and scripts for simplifying life
-- [bbelyeu/applescripts](https://github.com/bbelyeu/applescripts) - Applescripts I've used. Many I've written others I've copied from sources around the web.
-- [mhucka/devonthink-hacks](https://github.com/mhucka/devonthink-hacks) - Scripts and other things for working with DEVONthink, a personal information management system.
-- [anonymousaga/webloc-to-url-mac-app](https://github.com/anonymousaga/webloc-to-url-mac-app) - A GUI Mac app that converts Mac-specific webloc files into equally-functional URL files that also work with windows.
-- [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder) - My repository of miscellaneous AppleScripts I've written for OS X
-- [unforswearing/applescript](https://github.com/unforswearing/applescript) - Applescript applets, snippets, resources, and links
-- [Rolias/applescripts](https://github.com/Rolias/applescripts) - Collection project for experiments in AppleScript
-- [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
-- [kraigparkinson/HookPlugins](https://github.com/kraigparkinson/HookPlugins) - Application scripts for Hook (https://hookproductivity.com)
-- [underscorephil/taskpaperscripts](https://github.com/underscorephil/taskpaperscripts) - 
-- [johnvining/dayonealfred](https://github.com/johnvining/dayonealfred) - Helps ya help Alfred log stuff to Day One
-- [RobTrew/tree-tools](https://github.com/RobTrew/tree-tools) - Various scripts for working with nested text outlines
 
 ## Astro 
 
@@ -96,10 +78,6 @@
 
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 
-## Batchfile 
-
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-
 ## C 
 
 - [chirlu/sox](https://github.com/chirlu/sox) - SoX, Swiss Army knife of sound processing
@@ -108,31 +86,20 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [Siguza/imobax](https://github.com/Siguza/imobax) - iOS Mobile Backup Extractor
-- [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [CamHenlin/MessagesForMacintosh](https://github.com/CamHenlin/MessagesForMacintosh) - An Apple iMessage client for classic Macintosh (System 2.0 - MacOS 9.2.2)
-- [microdotblog/microblog-mac](https://github.com/microdotblog/microblog-mac) - Micro.blog for Mac
 - [henrik4433/cylinder-master](https://github.com/henrik4433/cylinder-master) - 
-- [alexandermburke/iRecord](https://github.com/alexandermburke/iRecord) - A screen recorder for IOS 8
-- [lavaalone/iControl](https://github.com/lavaalone/iControl) - Control the iOS devices.
 - [theiostream/utilities](https://github.com/theiostream/utilities) - My own open-source replacements for popular command-line tools from the jailbreaking community.
 - [ap4y/iSAP](https://github.com/ap4y/iSAP) - Implementation of the RSAP protocol fo the iphone. Based on the BTStack(http://code.google.com/p/btstack/)
 - [grp/pyrecovery](https://github.com/grp/pyrecovery) - Python library for low-level USB communications. Incomplete; do not use.
 - [comex/spirit](https://github.com/comex/spirit) - 
 - [posixninja/spirit-linux](https://github.com/posixninja/spirit-linux) - Linux port of the "Spirit" jailbreak using libimobiledevice
-- [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [coolstar/RecordMyScreen](https://github.com/coolstar/RecordMyScreen) - Record the display even on non-jailbroken iPhones.
-- [thomasfinch/GammaThingy](https://github.com/thomasfinch/GammaThingy) - Changes screen gamma on iOS, no jailbreak required
 - [tcurdt/iProxy](https://github.com/tcurdt/iProxy) - Let's you connect your laptop to the iPhone to surf the web.
-- [ColdGrub1384/CellMD](https://github.com/ColdGrub1384/CellMD) - CellMD is an iOS Application for jailbroken devices to run shell commands.
 - [gravemind1753/GBA4iOS-master](https://github.com/gravemind1753/GBA4iOS-master) - 
-- [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [sethkontny/iphone-dataprotection.keychainviewer](https://github.com/sethkontny/iphone-dataprotection.keychainviewer) - Automatically exported from code.google.com/p/iphone-dataprotection.keychainviewer
-- [JonasGessner/NoCarrier](https://github.com/JonasGessner/NoCarrier) - Remove the carrier logo from the status bar on iOS.
 - [OptimistTeam/OptimistTeam.github.io](https://github.com/OptimistTeam/OptimistTeam.github.io) - 
 - [Dave1482/iRepoMakerServer](https://github.com/Dave1482/iRepoMakerServer) - Just the server used for iRepoMaker in Cydia
 - [kohaku-/Koharu-Repository](https://github.com/kohaku-/Koharu-Repository) - http://cydia.kohaku.repo
@@ -146,12 +113,8 @@
 - [efrederickson/Link2App](https://github.com/efrederickson/Link2App) - Open links in their native apps **Obsolete, use LinkOpener**
 - [GotoHack/iphone-dataprotection.keychainviewer](https://github.com/GotoHack/iphone-dataprotection.keychainviewer) - Automatically exported from code.google.com/p/iphone-dataprotection.keychainviewer
 - [theiostream/bozocache](https://github.com/theiostream/bozocache) - Get dsc through AFC
-- [dotar/InformativeLite](https://github.com/dotar/InformativeLite) - Watchface/watchapp for iOS with Smartwatch+
-- [nickpack/xpwn-ios](https://github.com/nickpack/xpwn-ios) - xpwn we used for bootlace
 - [codyd51/VeloxLite](https://github.com/codyd51/VeloxLite) - Source code to the free Velox Lite
 - [prapin/lua-iphone](https://github.com/prapin/lua-iphone) - Distribution of Lua for jailbroken iPhones
-- [nowsecure/frida-cycript](https://github.com/nowsecure/frida-cycript) - Cycript fork powered by Frida.
-- [heardrwt/RevealLoader](https://github.com/heardrwt/RevealLoader) - Reveal Loader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices.
 - [comex/substitute](https://github.com/comex/substitute) - A free runtime modification library.
 - [planetbeing/xpwn](https://github.com/planetbeing/xpwn) - A cross-platform custom NOR firmware loader and custom IPSW generator for the iPhone
 
@@ -200,7 +163,6 @@
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 - [yyoon/Journaley](https://github.com/yyoon/Journaley) - A simple and elegant open-source journal keeping software for Windows
-- [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 
 ## C++ 
 
@@ -218,7 +180,6 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
-- [eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - Discover, download, compile & launch different image processing & style transfer CoreML models on iOS.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
@@ -235,9 +196,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [tihmstar/futurerestore](https://github.com/tihmstar/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
 - [JohnCoatesOSS/Limitless](https://github.com/JohnCoatesOSS/Limitless) - Fork of Cydia. Different name to avoid confusion. Goal: Refactor Cydia to make contributions easier. Backport features to Cydia's coding style so they can be submitted for consideration.
-- [jmmaloney4/IOS-scripts](https://github.com/jmmaloney4/IOS-scripts) - 
 - [iSECPartners/jailbreak](https://github.com/iSECPartners/jailbreak) - Jailbreak
-- [kennytm/Miscellaneous](https://github.com/kennytm/Miscellaneous) - This repository contains stuff which would be helpful for jailbroken iOS development.
 - [lpcdma/lua_dump](https://github.com/lpcdma/lua_dump) - hook luaL_loadbuffer dump lua files.You need to choose the loading method you like, inject or path elf.
 
 ## CSS 
@@ -276,7 +235,6 @@
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [TheUltimateC0der/Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - deemixrr manages your artists and playlists completely automated. You add your favorite artists and playlists, and deemixrr does the rest for you.
-- [CesiumLabs/frost](https://github.com/CesiumLabs/frost) - 🚀 A static site generator.
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
 - [Lisandra-dev/Obsidian-Snippet-collection](https://github.com/Lisandra-dev/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
@@ -309,16 +267,12 @@
 ## Dart 
 
 - [simc/logger](https://github.com/simc/logger) - Small, easy to use and extensible logger which prints beautiful logs.
-- [ndahlquist/stable-horde-flutter](https://github.com/ndahlquist/stable-horde-flutter) - An Android+iOS app for the Stable Horde
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [wardsquid/journal](https://github.com/wardsquid/journal) - Inkling is your journaling partner. It utilizes the latent data your phone collects throughout your day to build a journal entry that you can easily edit, save, and share with loved ones.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [vincnttt/SimpleTimeline](https://github.com/vincnttt/SimpleTimeline) - Simple Timeline for Flutter Android Application
 - [happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A simple interest tracking app which tries/aims to provide real-time history feed of interests  you like e.g. (iPhone13, Tesla, Covid-19). It similar to a customized RSS feed but a mixture of news and
 
@@ -342,14 +296,10 @@
 
 ## Emacs Lisp 
 
-- [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [mori-dev/emacs-dayone](https://github.com/mori-dev/emacs-dayone) - Utilitiy script for dayone
 - [emacsmirror/dayone](https://github.com/emacsmirror/dayone) - Utility script for Day One
-- [RobotDisco/day-one-emacs](https://github.com/RobotDisco/day-one-emacs) - Emacs client for the 'Day One' OSX/iOS journalling app.
-- [d12frosted/elpa-mirror](https://github.com/d12frosted/elpa-mirror) - Mirror for some Emacs package archives
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-- [camdez/org-dayone](https://github.com/camdez/org-dayone) - Import Day One exports into Emacs Org Mode
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
 ## Fortran 
@@ -393,17 +343,14 @@
 - [cryptix/gombrella](https://github.com/cryptix/gombrella) - extract bookmarks from raindrop.io
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [chuhlomin/genblog](https://github.com/chuhlomin/genblog) - Generates static site (blog) from Markdown files
-- [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars
 - [dimonomid/geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [jackyzha0/hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) - simple GitHub action to parse Markdown Links into a .json file for Hugo
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
@@ -414,12 +361,10 @@
 - [xperimental/nextcloud-exporter](https://github.com/xperimental/nextcloud-exporter) - Prometheus exporter for Nextcloud servers.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [trazfr/prometheus-nextcloud-exporter](https://github.com/trazfr/prometheus-nextcloud-exporter) - Monitoring of a Nextcloud instance using the servinfo plugin
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -430,17 +375,12 @@
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [tmthrgd/booked](https://github.com/tmthrgd/booked) - A Facebook data export visualizer tool.
 - [tagatac/bagoup](https://github.com/tagatac/bagoup) - Mac OS Messages export
 - [jpoehls/go-dayone](https://github.com/jpoehls/go-dayone) - Go package for reading Day One journal files (http://dayoneapp.com)
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
-- [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [hyper-expanse/dayone-to-joplin](https://github.com/hyper-expanse/dayone-to-joplin) - Import a Day One JSON export into the Joplin note-taking application with all journal entries and photos.
-- [dmk2014/momento2dayone](https://github.com/dmk2014/momento2dayone) - A command line tool to parse and then import a Momento export into DayOne.
 - [sarifsystems/sarif](https://github.com/sarifsystems/sarif) - A distributed system serving as a personal assistant
-- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
 - [Igglybuff/awesome-piracy-bot](https://github.com/Igglybuff/awesome-piracy-bot) - Set of bots for scraping URLs from Discord, Telegram, Reddit, and IRC.
@@ -493,7 +433,6 @@
 - [jjuliano/markdown-ui](https://github.com/jjuliano/markdown-ui) - Write UI in Markdown Syntax
 - [OhShINT/ohshint.gitbook.io](https://github.com/OhShINT/ohshint.gitbook.io) - So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 - [pjamar/htmls-to-datasette](https://github.com/pjamar/htmls-to-datasette) - Tool to index and serve HTML files. Powered by Datasette.
-- [extratone/shortcuts](https://github.com/extratone/shortcuts) - Can it be... that we can really maintain a public archive of installable Shortcuts files once again?
 - [IliasHad/Developer-Tools-and-Resources](https://github.com/IliasHad/Developer-Tools-and-Resources) - The Best Tools and Resources for developers
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
 - [dustinknopoff/obsidian-snippets](https://github.com/dustinknopoff/obsidian-snippets) - a communal collection of obsidian snippets for theming, plugin development, and power usage.
@@ -552,8 +491,6 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [AjGaht/Weboasis](https://github.com/AjGaht/Weboasis) - Oasis of web addresses
 - [Lisandra-dev/yet-another-free-publish-alternative](https://github.com/Lisandra-dev/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [smartdevcode/awesome-wordpress](https://github.com/smartdevcode/awesome-wordpress) - 
@@ -562,7 +499,6 @@
 - [Swivro/weboasis-continued](https://github.com/Swivro/weboasis-continued) - An attempt to recreate and continue the now defunct Weboasis (was accessible via weboas.is, but is now down). RIP Webby 1992-2022.
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [Birdie0/discord-ifttt](https://github.com/Birdie0/discord-ifttt) - https://discord-ifttt.vercel.app
 - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [ObsidianPublisher/mkdocs-publisher-template](https://github.com/ObsidianPublisher/mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
@@ -575,7 +511,6 @@
 - [Jailbreak-Update-zz/jailbreak-update.github.io](https://github.com/Jailbreak-Update-zz/jailbreak-update.github.io) - This is a dedicated repository for jailbreak and other iPhone related projects.
 - [michael-danello/iMessageWrappedRelease](https://github.com/michael-danello/iMessageWrappedRelease) - Data and Visualizations on all your 2020 iMessages
 - [michael-danello/iMessageWrapped](https://github.com/michael-danello/iMessageWrapped) - Visualizing and Exploring iMessage data
-- [Macronius/day-one-clone](https://github.com/Macronius/day-one-clone) - clone of the Day One journal app on iOS
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ran88dom99/QS-data-flow-network-graph](https://github.com/ran88dom99/QS-data-flow-network-graph) - 
 - [syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - syahravi timeline - a timeline of important events in my life.
@@ -586,13 +521,10 @@
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [EdwardRutz/music-timeline-bullet-journal](https://github.com/EdwardRutz/music-timeline-bullet-journal) - Create your life's soundtrack by making a music timeline with the timeline-bullet-journal.
 - [The-SamminAter/repo](https://github.com/The-SamminAter/repo) - My (The-SamminAter's) repo for jailbroken devices - also apparently a good template
-- [Fadexz/iOS-Tweaks-Repo](https://github.com/Fadexz/iOS-Tweaks-Repo) - Fadexz's Repo for iOS Tweak Development
 - [nicho1asdev/repo](https://github.com/nicho1asdev/repo) - A repository for nicho1asdev's jailbreak tweaks!
-- [PINPAL/pinpal.github.io](https://github.com/PINPAL/pinpal.github.io) - Personal Website & iOS Jailbreak Repo
 - [sbhnkhrmn/sbhnkhrmn.github.io](https://github.com/sbhnkhrmn/sbhnkhrmn.github.io) - Jailbreak Repo
 - [P3run/otwartezrodla](https://github.com/P3run/otwartezrodla) - Polskie rozszerzenie OSINT framework - Polish extension of OSINT framework
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
-- [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [sole/snippets](https://github.com/sole/snippets) - Code snippets. Miscellaneous purposes and languages.
 
@@ -605,7 +537,6 @@
 
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-- [corajr/dayone-convert](https://github.com/corajr/dayone-convert) - A JSON parser (and plain text file importer) for Day One.
 
 ## Java 
 
@@ -629,16 +560,12 @@
 - [mpfthprblmtq/moose](https://github.com/mpfthprblmtq/moose) - A music management system that reads and modifies id3 tags and stuff
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [TheLQ/forum-scraper](https://github.com/TheLQ/forum-scraper) - Mass Forum Archiving Project
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [kevin1/OhLife2DayOne](https://github.com/kevin1/OhLife2DayOne) - Migrate your OhLife entries to Day One without messing up the line endings.
 - [gregryork/DayOneViewer](https://github.com/gregryork/DayOneViewer) - A Viewer for Day One Journal Entries in Java
-- [sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere is an industrial strength open-source application enablement platform for the Internet of Things (IoT). It provides a multi-tenant microservice-based infrastructure that includes device/asse
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [ugilio/keen](https://github.com/ugilio/keen) - The Knowledge Engineering ENvironment for Timeline-based Planning
 - [Repsly/TimelineView](https://github.com/Repsly/TimelineView) - 
-- [d-w-arnold/reflective-journal-CSV-to-TXT-converter](https://github.com/d-w-arnold/reflective-journal-CSV-to-TXT-converter) - Automate the creation of your Year in Industry Reflective Journal 📚
-- [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
 - [horrorho/InflatableDonkey](https://github.com/horrorho/InflatableDonkey) - iOS9+ iCloud backup retrieval proof of concept
 - [utkarshjaiswal/DayOne](https://github.com/utkarshjaiswal/DayOne) - First git project
 
@@ -833,8 +760,6 @@
 - [hilja/file-batcher](https://github.com/hilja/file-batcher) - Bulk edit Front Matter Markdown files with ease
 - [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This application provides free college ID cards for students.
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [Saber2pr/wiki-builder](https://github.com/Saber2pr/wiki-builder) - powered by saber2pr.github.io
@@ -947,7 +872,6 @@
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [kirtan403/bookmark-github-stars](https://github.com/kirtan403/bookmark-github-stars) - Generate Bookmarks export file (html) of the github user's starred repos
 - [iRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -959,7 +883,6 @@
 - [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog) - Fetch & Display Your Hashnode blog posts.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
@@ -967,47 +890,23 @@
 - [ProfessorKolodziej/idea-generator](https://github.com/ProfessorKolodziej/idea-generator) - An idea generator, powered by a selected set of bookmarks on Raindrop.io.
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 - [Prashoon123/github-cards](https://github.com/Prashoon123/github-cards) - Create beautiful-looking cards for your GitHub profile or GitHub repo!
-- [paschmann/changd](https://github.com/paschmann/changd) - Changd is a open source web monitoring  application for monitoring visual site changes using screenshots, XPath's or API's.
 - [ngudbhav/lazyType](https://github.com/ngudbhav/lazyType) - A Software to create aliases for commands, applications to type in cmd, terminal.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [umaar/export-github-stars](https://github.com/umaar/export-github-stars) - A Node.js webapp to scrape the stars of specified GitHub users
-- [nextcloud/weather](https://github.com/nextcloud/weather) - ⛅️ Weather app for Nextcloud
-- [nextcloud/integration_twitter](https://github.com/nextcloud/integration_twitter) - 🐦 Twitter integration into Nextcloud
-- [nextcloud/integration_reddit](https://github.com/nextcloud/integration_reddit) - 🛸 Reddit integration into Nextcloud
-- [nextcloud/integration_github](https://github.com/nextcloud/integration_github) - 🐙 GitHub integration into Nextcloud
-- [nextcloud/integration_gitlab](https://github.com/nextcloud/integration_gitlab) - 🦊 GitLab integration into Nextcloud
-- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
-- [nextcloud/photos](https://github.com/nextcloud/photos) - 📸 Your memories under your control
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
-- [nextcloud/files_rightclick](https://github.com/nextcloud/files_rightclick) - 👉 Right click menu for Nextcloud
-- [PaulLereverend/NextcloudExtract](https://github.com/PaulLereverend/NextcloudExtract) - Bring extraction to your nextcloud web interface
-- [nextcloud/external](https://github.com/nextcloud/external) - 🌐 Embed external sites in your Nextcloud
-- [zorn-v/nextcloud-social-login](https://github.com/zorn-v/nextcloud-social-login) - 
 - [mattd/google-photos-downloader](https://github.com/mattd/google-photos-downloader) - Downloads photos from Google Photos.
 - [makingglitches/GooglePhotoDownload](https://github.com/makingglitches/GooglePhotoDownload) - Connects to Google Photos and downloads all content, keeping track of original data on disk and moving files only on the computer and already on server to  respective directories, and tries to downloa
 - [Alamantus/GooglePhotosExportOrganizer](https://github.com/Alamantus/GooglePhotosExportOrganizer) - A (defunct) tool for merging and organizing exported Google Photos backups. Built with React and Electron!
 - [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.
-- [scriptify/nextcloud-music-folder-sync](https://github.com/scriptify/nextcloud-music-folder-sync) - Syncs your folder structure into NextCloud Music Playlists
 - [MacKarp/NextcloudAudio_Converter](https://github.com/MacKarp/NextcloudAudio_Converter) - Audio converter app for nextcloud
 - [langfeld/FreshRSS-extensions](https://github.com/langfeld/FreshRSS-extensions) - Add touch gestures to FreshRSS
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [Benrobo/baaymax](https://github.com/Benrobo/baaymax) - easily generate unique portfolio from your github profile
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
-- [nextcloud/logreader](https://github.com/nextcloud/logreader) - 📜 Log reader for Nextcloud
-- [nextcloud/integration_google](https://github.com/nextcloud/integration_google) - 🇬 Google integration into Nextcloud
 - [aadsm/jsmediatags](https://github.com/aadsm/jsmediatags) - Media Tags Reader (ID3, MP4, FLAC)
 - [miraclx/freyr-js](https://github.com/miraclx/freyr-js) - A tool for downloading songs from music streaming services like Spotify and Apple Music.
 - [anhthii/Echo](https://github.com/anhthii/Echo) - :musical_note: A music streaming app built with React and Nodejs
-- [nextcloud/registration](https://github.com/nextcloud/registration) - User registration app for Nextcloud
-- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
-- [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments) - 📑 Collabora Online for Nextcloud
-- [westberliner/checksum](https://github.com/westberliner/checksum) - Plugin for Nextcloud and ownCloud to create hashes of files.
-- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [cristianvasquez/obsidian-prettify](https://github.com/cristianvasquez/obsidian-prettify) - A markdown prettifier for obsidian
@@ -1022,7 +921,6 @@
 - [guastallaigor/vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js (works with Vue 2 & Vue 3)
 - [makinacorpus/Leaflet.FileLayer](https://github.com/makinacorpus/Leaflet.FileLayer) - Loads files locally (GeoJSON, KML, GPX) as layers using HTML5 File API
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
 - [quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A markdown formatter intended for writing specifications
@@ -1037,8 +935,6 @@
 - [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
-- [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
-- [kikiklang/pomme-page](https://github.com/kikiklang/pomme-page) - Big buttons with easy click startpage for a browser.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [web0asis/web0asis.github.io](https://github.com/web0asis/web0asis.github.io) - Hi, This is clone of Weboas.is Dev posted about his/her suicide on the forum few days ago, as sad it is I wanted to make sure their legacy stays online for everyone who used this awesome website. I do
 - [blitzmid123/weboas.is](https://github.com/blitzmid123/weboas.is) - 
@@ -1058,14 +954,11 @@
 - [NidhiiK/Text-Tool](https://github.com/NidhiiK/Text-Tool) - Text-Tool is an app which allows the user to perform multiple text-editing functions, such as making the full-text capital or small case, removing extra spaces between words, copying, and deleting the
 - [Nitin-Sharma-coder/textry](https://github.com/Nitin-Sharma-coder/textry) - A very handy online text tool where you can change between lower case and upper case letters, capitalize, uncapitalize and remove extra spaces from your text
 - [arunghosh/react-time-line](https://github.com/arunghosh/react-time-line) - A react component to display event in a vertical timeline format
-- [tomershvueli/homepage](https://github.com/tomershvueli/homepage) - A simple, standalone, self-hosted PHP page that is your window to your server and the web.
 - [AlexW00/StartTreeV2](https://github.com/AlexW00/StartTreeV2) - 🌳 A $tree styled start page generator!
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [andresjpulido/tutorial-timeline](https://github.com/andresjpulido/tutorial-timeline) - React component built with React
 - [mxamber/TimelineTool](https://github.com/mxamber/TimelineTool) - Simple timeline creator implemented in HTML & JavaScript.
-- [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [dudynets/Instagram-Direct-Stats](https://github.com/dudynets/Instagram-Direct-Stats) - An application that counts messages of various types from JSON.
 - [orglce/instagram-chat-analyzer](https://github.com/orglce/instagram-chat-analyzer) - Analyzes files from Intagram and Signal direct messaging backup files
@@ -1095,23 +988,14 @@
 - [CamHenlin/imessagebot](https://github.com/CamHenlin/imessagebot) - Who wouldn't want to iMessage a bot?
 - [CamHenlin/iMessageWebClient](https://github.com/CamHenlin/iMessageWebClient) - send and receive iMessages on anything with a web browser
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
-- [arangodb-foxx/ifttt-example](https://github.com/arangodb-foxx/ifttt-example) - IFTTT Webhook example
 - [dylan-mitchell/memex](https://github.com/dylan-mitchell/memex) - Import data from Google Takeout to search and analyze
 - [soulintzis/Google-maps-Location-Takeout-Visualizer](https://github.com/soulintzis/Google-maps-Location-Takeout-Visualizer) - Crowdsourcing application using Google Timeline Data
-- [pryv/open-pryv.io](https://github.com/pryv/open-pryv.io) - Open-source version of Pryv.io
 - [jlfwong/messenger-to-markdown](https://github.com/jlfwong/messenger-to-markdown) - Chrome plugin to convert conversations on messenger.com to markdown
 - [pwaldhauer/elizabeth](https://github.com/pwaldhauer/elizabeth) - Moves.app data exporter
-- [pietropizzi/app-talk](https://github.com/pietropizzi/app-talk) - Let iOS apps talk - A user contributable directory of iOS apps with x-callback-urls.
-- [Jasonette/JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
 - [jaketrent/dayone-plist-to-markdown](https://github.com/jaketrent/dayone-plist-to-markdown) - convert dayone .doentry to markdown files
-- [hollyxu/evernote2dayone](https://github.com/hollyxu/evernote2dayone) - Migrate from Evernote into DayOne
-- [hollyxu/todoist2dayone](https://github.com/hollyxu/todoist2dayone) - Migrate from TODOist into DayOne
-- [ginatrapani/jfp](https://github.com/ginatrapani/jfp) - Quick-and-dirty Journey to Day One import helper
-- [bsingr/dayone2-textbundle](https://github.com/bsingr/dayone2-textbundle) - DayOne2 TextBundle Conversion Utilities
 - [Botffy/Timeline.fm](https://github.com/Botffy/Timeline.fm) - Chrome extension to display Last.fm scrobbles in the Google Maps Timeline
 - [jkeen/forever-chat-imessage-export](https://github.com/jkeen/forever-chat-imessage-export) - iMessage export in the forever chat format
 - [gamma032steam/fbtimestamp](https://github.com/gamma032steam/fbtimestamp) - Exports Facebook messenger timestamps for analysis.
-- [appium/appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 - [cube-js/awesome-tools](https://github.com/cube-js/awesome-tools) - Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 - [lockys/Awesome.json](https://github.com/lockys/Awesome.json) - :eyeglasses: Awesome lists in JSON format.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -1129,29 +1013,21 @@
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [wells19d/my-timeline-journal](https://github.com/wells19d/my-timeline-journal) - 
 - [ionstage/timeline](https://github.com/ionstage/timeline) - Web-based timeline viewer
-- [cubesort/day-one-exporter](https://github.com/cubesort/day-one-exporter) - Export Day One entries as individual files
 - [C2DH/histograph](https://github.com/C2DH/histograph) - Neo4j powered web application for multimedia collections: bring graph-based exploration and crowd-based indexation.
 - [CVCEeu-dh/histograph](https://github.com/CVCEeu-dh/histograph) - Neo4j powered web application for multimedia collections: bring graph-based exploration and crowd-based indexation.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [donnierayjones/dayone-js-html](https://github.com/donnierayjones/dayone-js-html) - Renders Day One app entries as HTML
 - [simonwongwong/Facebook-Messenger-JSON-viewer](https://github.com/simonwongwong/Facebook-Messenger-JSON-viewer) - If you've downloaded your Facebook data in JSON format, this tool lets you read the chats more intuitively
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [jordanmerrick/scriptable](https://github.com/jordanmerrick/scriptable) - 
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
-- [thezeroalpha/zerotab-old](https://github.com/thezeroalpha/zerotab-old) - My old custom startpage, based off WebOasis. No longer in use because it's super heavy.
 - [PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - :sparkling_heart: A curated list of awesome things
 - [sawankumar/Google-Drive-Index](https://github.com/sawankumar/Google-Drive-Index) - A Google Drive Index Running on CloudFlare Workers.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WebBreacher/yoga](https://github.com/WebBreacher/yoga) - Your OSINT Graphical Analyzer
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
 - [abruzzihraig/DayOneFlow](https://github.com/abruzzihraig/DayOneFlow) - Journals flow based on DayOne2 for automatically compile&deploy.
 - [danseethaler/dayone-companion](https://github.com/danseethaler/dayone-companion) - Expanding on the functionality of the DayOne journal app
-- [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
-- [voicepod/Automation](https://github.com/voicepod/Automation) - Automation iOS & Android Apps
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 
 ## Jinja 
 
@@ -1206,7 +1082,6 @@
 - [pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A one-click version of sd-webui-colab
 - [menukaonline/Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive) - This is a Google Colab notebook that helps you to transfer files from Mega to Google Drive
 - [krrish-v/mark_importer](https://github.com/krrish-v/mark_importer) - Provide a category for all the imported bookmarks, makes easy to manage by using a AI model
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [mdezube/sms-analysis](https://github.com/mdezube/sms-analysis) - Python/IPython code to analyze one's text messages.  Intended to work out of the box, see README for details.
 - [sejaldua/lyrical-sentiment-analysis](https://github.com/sejaldua/lyrical-sentiment-analysis) - Using Spotify API to obtain audio feature data and lyrics and Tableau to produce sick visualizations.
@@ -1227,7 +1102,6 @@
 ## Kotlin 
 
 - [czyczk/auto-music-info-server](https://github.com/czyczk/auto-music-info-server) - A Kotlin JVM project to make use of both rules and AI power to collect information about music from the Internet. See https://github.com/czyczk/auto_music_info for the Flutter client.
-- [chouaibMo/ChatGemini](https://github.com/chouaibMo/ChatGemini) - A multiplatform chatbot app (Android, iOS and Desktop) built with Compose Multiplatform and powered by Gemini Pro API.
 - [khaouitiabdelhakim/LyricsAI](https://github.com/khaouitiabdelhakim/LyricsAI) - LyricsAI is a powerful and easy-to-use library for Android developers that allows you to retrieve song lyrics from various online sources. This library leverages web scraping techniques to find and de
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
@@ -1237,7 +1111,6 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Heapy/komok](https://github.com/Heapy/komok) - Life and collaboration assistant.
 - [measuresforjustice/textricator](https://github.com/measuresforjustice/textricator) - Textricator is a tool to extract text from documents and generate structured data.
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 
 ## Lua 
 
@@ -1268,114 +1141,36 @@
 
 - [dsouzarc/iMessageAnalyzer](https://github.com/dsouzarc/iMessageAnalyzer) - Analyzes a user's iMessage
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
-- [vyolit/Ve](https://github.com/vyolit/Ve) - Natively integrated notification logger.
 - [matrix-hacks/ichat2json](https://github.com/matrix-hacks/ichat2json) - Reads an .ichat binary plist file and writes newline-separated JSON to STDOUT
 - [cosm/Data-Logger-for-iPhone](https://github.com/cosm/Data-Logger-for-iPhone) - Data Logger for iPhone can be used for storing and sharing various types of data with Pachube.com.
 - [jrk/scrobbl](https://github.com/jrk/scrobbl) - Last.fm scrobbler for jailbroken iPhone OS devices
-- [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
-- [rob-miller/rTracker](https://github.com/rob-miller/rTracker) - A generic, customizable personal data tracker for iOS
-- [krzysztofzablocki/PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper) - Property mapping for Objective-C iOS apps.
-- [TimOliver/TOWebViewController](https://github.com/TimOliver/TOWebViewController) - A view controller class for iOS that allows users to view web pages directly within an app.
-- [Shmoopi/iOS-System-Services](https://github.com/Shmoopi/iOS-System-Services) - iOS System Services is a class to gather all available information about a device.
-- [Shopify/superdb](https://github.com/Shopify/superdb) - The Super Debugger, a realtime wireless debugger for iOS
-- [lightory/HHRouter](https://github.com/lightory/HHRouter) - Yet another URL Router for iOS.
-- [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
-- [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast iOS executable dumper
-- [route-me/route-me](https://github.com/route-me/route-me) - Open source map library for iOS
-- [mixi-inc/iOSTraining](https://github.com/mixi-inc/iOSTraining) - Training course repository for iOS app development
-- [clayallsopp/routable-ios](https://github.com/clayallsopp/routable-ios) - Routable, an in-app native URL router, for iOS
-- [danielamitay/iHasApp](https://github.com/danielamitay/iHasApp) - The iHasApp iOS Framework allows you to detect installed apps on a user's device.
-- [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
-- [ptshih/PSCollectionView](https://github.com/ptshih/PSCollectionView) - A simple open source implementation of a Pinterest Pinboard for iOS
-- [aryaxt/iOS-Slide-Menu](https://github.com/aryaxt/iOS-Slide-Menu) - iOS Slide Menu with ability to add both left and right menu, and built in gesture recognizer. Similar to Path and Facebook
-- [honcheng/iOSPlot](https://github.com/honcheng/iOSPlot) - Chart library for iOS
-- [iziz/libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
-- [3lvis/Form](https://github.com/3lvis/Form) - The most flexible and powerful way to build a form on iOS
 - [zipme/RQShineLabel](https://github.com/zipme/RQShineLabel) - Secret app like text animation
-- [brow/leaves](https://github.com/brow/leaves) - A page-turning interface for iOS apps
 - [gpambrozio/BlockAlertsAnd-ActionSheets](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets) - Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot
-- [tapwork/HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments
-- [ericjohnson/canabalt-ios](https://github.com/ericjohnson/canabalt-ios) - Open source release of Canabalt for iOS
-- [Yalantis/Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) - You can easily add awesome animated context menu to your app.
-- [shinydevelopment/SimulatorStatusMagic](https://github.com/shinydevelopment/SimulatorStatusMagic) - Clean up your status bar for taking screenshots on the iOS simulator.
-- [Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - An elegant and simple iOS music player.
 - [danielamitay/DAKeyboardControl](https://github.com/danielamitay/DAKeyboardControl) - DAKeyboardControl adds keyboard awareness and scrolling dismissal (ala iMessages app) to any view with only 1 line of code.
 - [bitstadium/QuincyKit](https://github.com/bitstadium/QuincyKit) - HockeyApp was retired and the SDKs are deprecated. Please use App Center instead.
-- [terryworona/TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) - An iOS manager for presenting system-wide notifications via a dropdown message bar.
-- [panicinc/PunchClock](https://github.com/panicinc/PunchClock) - An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
-- [krzysztofzablocki/Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
-- [nmattisson/DropdownMenu](https://github.com/nmattisson/DropdownMenu) - DropdownMenu is an iOS navigation controller using a Container View, storyboards and segues.
-- [ylechelle/OpenUDID](https://github.com/ylechelle/OpenUDID) - [OpenUDID IS NOW DEPRECATED] Open source initiative for a universal and persistent UDID solution for iOS
-- [intentkit/IntentKit](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
-- [ChristianKienle/Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. Core Data Editor is compatible with Mac and iOS applications and supports XML, SQLite and binary stores, visualizes all rela
-- [0xced/XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS
-- [overshare/overshare-kit](https://github.com/overshare/overshare-kit) - A soup-to-nuts sharing library for iOS.
-- [mattt/GroundControl](https://github.com/mattt/GroundControl) - Remote configuration for iOS
 - [omz/AppSales-Mobile](https://github.com/omz/AppSales-Mobile) - App Sales allows iPhone and Mac App Store developers to download and analyze their daily and weekly sales reports from iTunes Connect.
-- [alexbw/novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X
-- [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 - [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) - Build a Swift App as a designer
-- [zoonooz/ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller
 - [romaonthego/REMenu](https://github.com/romaonthego/REMenu) - Dropdown menu inspired by Vine.
-- [mwaterfall/MWFeedParser](https://github.com/mwaterfall/MWFeedParser) - An Objective-C RSS / Atom Feed Parser for iOS
-- [twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY) - SPDY for iOS and OS X
-- [phoboslab/Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
 - [draveness/DKNightVersion](https://github.com/draveness/DKNightVersion) - Manage Colors, Integrate Night/Multiple Themes. (Unmaintained)
-- [nicklockwood/SwipeView](https://github.com/nicklockwood/SwipeView) - SwipeView is a class designed to simplify the implementation of horizontal, paged scrolling views on iOS. It is based on a UIScrollView, but adds convenient functionality such as a UITableView-style d
-- [leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - GitBucket iOS App
-- [0xced/iOS-Artwork-Extractor](https://github.com/0xced/iOS-Artwork-Extractor) - Extract iOS artwork and emoji symbols into png files, generate glossy buttons png files
-- [TheAmazingAudioEngine/TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [boctor/idev-recipes](https://github.com/boctor/idev-recipes) - Open source code for the idevrecipes.com blog
-- [ealeksandrov/EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
-- [Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - A suite containing many tools to display progress information on iOS.
 - [KnuffApp/Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
-- [syedhali/EZAudio](https://github.com/syedhali/EZAudio) - An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
-- [cruffenach/CRToast](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
 - [fpillet/NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool
 - [SBJson/SBJson](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C.
-- [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
 - [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Runtime Code Injection for Objective-C & Swift
-- [xmartlabs/XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
-- [mamaral/Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
-- [ChenYilong/iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9适配系列教程（iOS开发学习交流群： https://github.com/ChenYilong/iOSBlog/issues/21）
 - [MortimerGoro/MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 - [ECSlidingViewController/ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController) - Customizable sliding view controller container.
-- [facebookarchive/Tweaks](https://github.com/facebookarchive/Tweaks) - An easy way to fine-tune, and adjust parameters for iOS apps in development.
-- [kif-framework/KIF](https://github.com/kif-framework/KIF) - Keep It Functional - An iOS Functional Testing Framework
-- [KrauseFx/TSMessages](https://github.com/KrauseFx/TSMessages) - 💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot
 - [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) - ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
-- [nst/iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) - iOS Objective-C headers as derived from runtime introspection
-- [michaeltyson/TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
-- [Flipboard/FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
-- [ViewDeck/ViewDeck](https://github.com/ViewDeck/ViewDeck) - An implementation of the sliding menu found in various iOS apps.
 - [BoltsFramework/Bolts-ObjC](https://github.com/BoltsFramework/Bolts-ObjC) - Bolts is a collection of low-level libraries designed to make developing mobile apps easier.
-- [schneiderandre/popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
 - [CanvasPod/Canvas](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code
-- [square/PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
-- [ibireme/YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
-- [tonymillion/Reachability](https://github.com/tonymillion/Reachability) - ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability
-- [PureLayout/PureLayout](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
-- [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
-- [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) - A simple iOS photo and video browser with grid view, captions and selections.
-- [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
-- [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS
-- [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS
-- [ibireme/YYKit](https://github.com/ibireme/YYKit) - A collection of iOS components.
-- [jessesquires/JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS
 - [Mantle/Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch
-- [SnapKit/Masonry](https://github.com/SnapKit/Masonry) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
-- [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
 - [bolencki13/Traverse](https://github.com/bolencki13/Traverse) - Traverse Jailbreak Tweak
 - [wlighting/DayOne3](https://github.com/wlighting/DayOne3) - 每天日记DayOne3
 - [srolfe/tweaks](https://github.com/srolfe/tweaks) - Collection of small Cydia tweaks
 - [Danniez/cydia](https://github.com/Danniez/cydia) - Cydia is an alternative to Apple's App Store for "jailbroken" devices, at this time including iPhones, iPads, and iPod Touches, specializing in the distribution of all that is not an "app".
-- [Legoless/Alpha](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS
-- [segmentio/analytics-ios](https://github.com/segmentio/analytics-ios) - The hassle-free way to integrate analytics into any iOS application.
 
 ## Objective-C++ 
 
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
-- [evilpenguin/SSLBypass](https://github.com/evilpenguin/SSLBypass) - iOS SSL Pinning Bypass (iOS 8 - 14)
 - [autopear/Cydia](https://github.com/autopear/Cydia) - Cydia Installer
 
 ## Others 
@@ -1426,14 +1221,12 @@
 - [merklefruit/SaaS4Devs](https://github.com/merklefruit/SaaS4Devs) - Awesome collection of content for developers trying to bootstrap their SaaS
 - [Cranot/chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits) - ChatBot Injection and Exploit Examples: A Curated List of Prompt Engineer Commands - ChatGPT
 - [tvooo/awesome-plaintext](https://github.com/tvooo/awesome-plaintext) - 😎 Tools, applications and other resources for living a life in plain text
-- [STCData/TextEditor](https://github.com/STCData/TextEditor) - Mac/iOS GPT assisted text editor
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
 - [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
-- [JordanEJ/Siri-Shortcut-Collection](https://github.com/JordanEJ/Siri-Shortcut-Collection) - A collection of all the Siri Shortcuts I have made
 - [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
 - [forReason/GPT-Prompt-Templates](https://github.com/forReason/GPT-Prompt-Templates) - this library contains templates and forms which can be used to simply write productive chat gpt prompts
 - [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
@@ -1552,9 +1345,6 @@
 - [markdown-templates/markdown-emojis](https://github.com/markdown-templates/markdown-emojis) - :fire: All the emojis :tada:
 - [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A single place for all the markdown syntaxes I have learned so far.
 - [etsy/MIDAS](https://github.com/etsy/MIDAS) - Mac Intrusion Detection Analysis System
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [J2TEAM/awesome-AutoIt](https://github.com/J2TEAM/awesome-AutoIt) - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
 - [ohenley/awesome-ada](https://github.com/ohenley/awesome-ada) - A curated list of awesome resources related to the Ada and SPARK programming language
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
@@ -1593,8 +1383,6 @@
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) - A hub of Free and open-source software for developers
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
-- [y-u-r/nextcloud-zabbix](https://github.com/y-u-r/nextcloud-zabbix) - With this tamplate you can monitor a nextcloud via the xml file
 - [Kollate/truegit-test](https://github.com/Kollate/truegit-test) - A sample blog powered by Truegit
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub) - Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
@@ -1625,15 +1413,12 @@
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
-- [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [benhays42/WebOasis](https://github.com/benhays42/WebOasis) - A Fork of weboas.is
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [planetjekyll/awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll goodies (tools, templates, plugins, guides, etc.)
 - [planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes) - A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
@@ -1643,7 +1428,6 @@
 - [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [Dmytro-Shulha/obsidian-css-snippets](https://github.com/Dmytro-Shulha/obsidian-css-snippets) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas: https://forum.obsidian.md/t/how-to-achieve-css-code-snippets/8474
-- [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) - A curated list of awesome Scriptable scripts and widgets.
 - [m1rkwood/google-photos-takeout-scripts](https://github.com/m1rkwood/google-photos-takeout-scripts) - Useful scripts to get out of Google Photos
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [webiaio/awesome-markdown](https://github.com/webiaio/awesome-markdown) - awesome markdown writing tools
@@ -1661,17 +1445,14 @@
 - [dougpark/dayone](https://github.com/dougpark/dayone) - Better Touch Tool create a DayOne journal entry
 - [tIsGoud/save-safari-tabs-to-day-one](https://github.com/tIsGoud/save-safari-tabs-to-day-one) - Save all your Safari tabs in a Day One 2 entry.
 - [davzoku/awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - 🏃💨 List of custom search engines & shortcuts to improve your daily workflow
-- [planetjekyll/awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.)
 - [matthewrankin/tagdayone](https://github.com/matthewrankin/tagdayone) - Go-based CLI to add tags to JSON Day One journal entries
 - [philochang/All-DayOne-Journal-to-Evernote](https://github.com/philochang/All-DayOne-Journal-to-Evernote) - If you want to quit using DayOne and begin using Evernote as you primary journal app, try this.
 - [ejb/DayOneMap](https://github.com/ejb/DayOneMap) - Turn your Day One journal into a dynamic map
 - [kmarchand/dowcAlfredWorkflow](https://github.com/kmarchand/dowcAlfredWorkflow) - Alfred2 workflow for word count searches in a Day One journal
-- [adamtow/geocuts](https://github.com/adamtow/geocuts) - GeoCuts runs shortcuts or sends messages using your current location, automatically when paired with Cronios.
 - [akeemphilbert/joplin-dayone](https://github.com/akeemphilbert/joplin-dayone) - Joplin Plugin that makes it easier to transition from Day One Journal
 - [jensbrehmen/sirishortcuts](https://github.com/jensbrehmen/sirishortcuts) - Siri Shortcuts collection
 - [jbwhaley/Clip-To-Day-One](https://github.com/jbwhaley/Clip-To-Day-One) - An OS X system service that sends selected text to a new Day One entry.
 - [jbwhaley/DayOne-Quick](https://github.com/jbwhaley/DayOne-Quick) - A simple workflow for Alfred 2 which facilitates dead-quick addition of entries to DayOne.app.
-- [tIsGoud/save-chrome-tabs-to-day-one](https://github.com/tIsGoud/save-chrome-tabs-to-day-one) - Save all your Chrome tabs in a Day One 2 entry.
 - [vijayvardhan94/Personal-Analytics-Resources](https://github.com/vijayvardhan94/Personal-Analytics-Resources) - List of categorized resources in the field of Personal Analytics. Simply put, personal analytics is an extension of quantified self that includes tracking and analyzing more parameters compared to jus
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
@@ -1680,7 +1461,6 @@
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
@@ -1704,8 +1484,6 @@
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
 - [cyberglot/awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-- [heliomass/iOSShortcuts](https://github.com/heliomass/iOSShortcuts) - A collection of shortcuts for the Shortcuts app.
-- [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [orsinium-labs/generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
 - [learn-anything/chrome-extensions](https://github.com/learn-anything/chrome-extensions) - Awesome Chrome Extensions
@@ -1720,7 +1498,6 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [InQuest/awesome-yara](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
-- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
@@ -1734,13 +1511,10 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [hong6914/awesome_software_securities](https://github.com/hong6914/awesome_software_securities) - Sites and URLs on software and securities that I hope to learn from you guys
-- [softctrl/Security-App](https://github.com/softctrl/Security-App) - IOS app to audit stuff will need jailbreak
 - [DaniilHarik/dayone-journal-py](https://github.com/DaniilHarik/dayone-journal-py) - Day One journal tools for Python
 - [facebookarchive/three20](https://github.com/facebookarchive/three20) - Three20 is an Objective-C library for iPhone developers
 - [mbrio/ulysses-style-dayone](https://github.com/mbrio/ulysses-style-dayone) - 
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## PHP 
 
@@ -1782,28 +1556,15 @@
 - [mashb1t/spotisights](https://github.com/mashb1t/spotisights) - statistic dashboards for Spotify
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-- [violethaze74/nextcloud-webhooks](https://github.com/violethaze74/nextcloud-webhooks) - Webhooks app for Nextcloud :globe_with_meridians: :zap:
-- [nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social can be used for work, or to connect to the fediverse!
-- [nextcloud/circles](https://github.com/nextcloud/circles) - 👪 Create groups with other users on a Nextcloud instance and share with them
-- [nextcloud/cms_pico](https://github.com/nextcloud/cms_pico) - 🗃 Integrate Pico CMS and let your users manage their own websites
-- [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata) - A Nextcloud plugin for displaying file metadata.
-- [nextcloud/previewgenerator](https://github.com/nextcloud/previewgenerator) - Nextcloud app to do preview generation in the background.
-- [nextcloud/recognize](https://github.com/nextcloud/recognize) - 👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 - [dmlogic/photo-indexer](https://github.com/dmlogic/photo-indexer) - Download and index photos from Google Photos
 - [barryanders/grav-plugin-blackhole](https://github.com/barryanders/grav-plugin-blackhole) - The static site generator for Grav CMS
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
-- [leibniz-zmt/files_metadataeditor](https://github.com/leibniz-zmt/files_metadataeditor) - A Nextcloud app for annotating research data with metadata
 - [prsnbrg/files_audio_converter](https://github.com/prsnbrg/files_audio_converter) - Convert audio files from one format to another directly from the web interface.
-- [Rello/audioplayer_sonos](https://github.com/Rello/audioplayer_sonos) - Audio Player SONOS add-on for the Audio Player in Nextcloud
 - [kapdap/freshrss-extensions](https://github.com/kapdap/freshrss-extensions) - Unofficial FreshRSS extensions created by @Kapdap.
 - [balthisar/xExtension-RedditSub](https://github.com/balthisar/xExtension-RedditSub) - A FreshRSS Extension to Show a Reddit Subreddit as Part of the Article Title
-- [galonga/OwnCloud-NextCloud-Cron-Wrapper](https://github.com/galonga/OwnCloud-NextCloud-Cron-Wrapper) - 
-- [syseleven/nextcloud-tools](https://github.com/syseleven/nextcloud-tools) - This project contains tools to operate Nextcloud.
-- [nextcloud/nextcloud-config-converter](https://github.com/nextcloud/nextcloud-config-converter) - This script converts the config.sample.php to RST code for the documentation
 - [cn-tools/cntools_FreshRssExtensions](https://github.com/cn-tools/cntools_FreshRssExtensions) - This repository contains my unofficial FreshRSS extensions
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [shangril/crero](https://github.com/shangril/crero) - CMS for record labels, written to propel Crem Road records initially. Sell your physical releases at fixed price or in a "name your price" manner. Streaming or free download of online music. Digital m
-- [nextcloud/notifications](https://github.com/nextcloud/notifications) - :bell: Notifications app for Nextcloud
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
 - [othmar52/slimpd](https://github.com/othmar52/slimpd) - PHP/JS based MPD-web-client for large music collections
 - [axelhahn/pimped-apache-status](https://github.com/axelhahn/pimped-apache-status) - Pimped Apache status page; PHP web application that renders server-status page and makes it readable; even for load balanced websites
@@ -1817,7 +1578,6 @@
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [mshossain110/LaravelDrive](https://github.com/mshossain110/LaravelDrive) - Private file storage and share with user build with laravel and vue inspired by google drive
 - [janloeffler/import-day-one](https://github.com/janloeffler/import-day-one) - WordPress plugin for importing entries from Day One export file
-- [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [ArneTR/standardnotes_day_one_importer](https://github.com/ArneTR/standardnotes_day_one_importer) - Day One JSON Export Importer for Standard Notes
@@ -1833,8 +1593,6 @@
 ## Pascal 
 
 - [kruizer23/filespector](https://github.com/kruizer23/filespector) - FileSpector is a GUI tool for quickly finding all text occurrences in multiple files in a directory, matching a specific file extension pattern.
-- [FMXExpress/Text-To-Vector-Desktop-Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client) - Create SVGs using text to vector AI from Illustroke
-- [FMXExpress/Stable-Diffusion-Text-To-Image-Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts) - Cross-platform Stable Diffusion Text to Image Prompts Generator built in Embarcadero Delphi.
 - [FMXExpress/Generative-AI-Prompts](https://github.com/FMXExpress/Generative-AI-Prompts) - Generative AI: Text To Image Prompts Generator for Windows built in Embarcadero Delphi.
 - [FMXExpress/DreamBooth-Desktop-Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client) - Windows, macOS, and Linux desktop client for fine tuning Dreambooth models using Replicate's API.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
@@ -1847,10 +1605,7 @@
 - [BooneJS/OhLife2DayOne](https://github.com/BooneJS/OhLife2DayOne) - Convert OhLife entries to Day One
 - [goerz/activity_logger](https://github.com/goerz/activity_logger) - Scripts to log and analyze computer usage
 - [davorg-cpan/svg-timeline](https://github.com/davorg-cpan/svg-timeline) - Create timelines with SVG
-- [arcterex/dayone2csvimport](https://github.com/arcterex/dayone2csvimport) - Day One v2 Import of CSV file
-- [bernuli/smsExport](https://github.com/bernuli/smsExport) - smsExport is a Perl script that reads your iOS device backup files and creates a CSV file of your text messages.  It uses the messages sql database and matches up phone numbers with the addressbook da
 - [ShazStar/privrepo](https://github.com/ShazStar/privrepo) - Personal Repo for Jailbreak needs.
-- [XueshiQiao/FLEXLoader](https://github.com/XueshiQiao/FLEXLoader) - A jailbreak iOS device tweak which can load FLEX dynamiclly
 
 ## PowerShell 
 
@@ -2136,7 +1891,6 @@
 - [wgledbetter/do2obs](https://github.com/wgledbetter/do2obs) - DayOne Journal to Obsidian Notes
 - [natelandau/obsidian-metadata](https://github.com/natelandau/obsidian-metadata) - Batch updates to metadata in an Obsidian vault
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [blackberry/pe_tree](https://github.com/blackberry/pe_tree) - Python module for viewing Portable Executable (PE) files in a tree-view using pefile and PyQt5. Can also be used with IDA Pro and Rekall to dump in-memory PE files and reconstruct imports.
 - [PopDaddyGames/ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) - ChatGPT-Terminal is a command-line interface that uses the OpenAI API to generate responses based on user input.
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
@@ -2147,7 +1901,6 @@
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [onflapp/TextSerPlugins](https://github.com/onflapp/TextSerPlugins) - Plugins for TextSer App
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [abhishek-nigam/raindrop-backup-bookmarks](https://github.com/abhishek-nigam/raindrop-backup-bookmarks) - A simple tool I use to backup my bookmarks from Raindrop.io service
 - [xxxbrian/Discord-ChatGPT-Bot](https://github.com/xxxbrian/Discord-ChatGPT-Bot) - Run a ChatGPT Bot in Discord with Docker
 - [danielunderwood/notes-scripts](https://github.com/danielunderwood/notes-scripts) - Scripts for organizing and reformatting markdown notes
@@ -2204,9 +1957,6 @@
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
-- [googleprojectzero/iOS-messaging-tools](https://github.com/googleprojectzero/iOS-messaging-tools) - 
-- [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The iOS Security Testing Framework
-- [pstirparo/mac4n6](https://github.com/pstirparo/mac4n6) - Collection of forensics artifacts location for Mac OS X and iOS
 - [Yelp/osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X
 - [selimrbd/py-obsidianmd](https://github.com/selimrbd/py-obsidianmd) - Python interface to your Obsidian notes
 - [bboerzel/raindrop-to-obsidian](https://github.com/bboerzel/raindrop-to-obsidian) - 
@@ -2245,7 +1995,6 @@
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
 - [levkoch/levboard](https://github.com/levkoch/levboard) - A stats.fm integration for building custom charts.
 - [turicas/rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
-- [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
 - [CrowdStrike/automactc](https://github.com/CrowdStrike/automactc) - AutoMacTC: Automated Mac Forensic Triage Collector
 - [mac4n6/APOLLO](https://github.com/mac4n6/APOLLO) - Apple Pattern of Life Lazy Output'er
 - [file-validator/file-validator](https://github.com/file-validator/file-validator) - The first Python validation package uses type, mime, extension, magic numbers, and size to validate files. ✅
@@ -2274,11 +2023,9 @@
 - [Dionis-90/my-g-photo](https://github.com/Dionis-90/my-g-photo) - This is a console application that gets media files and media metadata from your Google Photo storage to your local storage.
 - [thomasleplus/gphotos-archive](https://github.com/thomasleplus/gphotos-archive) - Archiving tool for Google Photos
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
-- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
-- [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
 - [OrfiDev/orpheusdl-soundcloud](https://github.com/OrfiDev/orpheusdl-soundcloud) - 
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
@@ -2290,7 +2037,6 @@
 - [azuline/repertoire](https://github.com/azuline/repertoire) - whoops never finished this lol, don't look it's old and embarrassing
 - [rstemmer/musicdb](https://github.com/rstemmer/musicdb) - 🎧 A music manager with focus on remote access to your music by having a WebUI and providing an audio stream.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [arnowelzel/netdata-nextcloud](https://github.com/arnowelzel/netdata-nextcloud) - A plugin for netdata to monitor Nextcloud servers
 - [zabbix/community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates repository
 - [vpistis/OrganizeMediaFiles](https://github.com/vpistis/OrganizeMediaFiles) - a collection of Python scripts that help you organize media files into a directory tree "year/month" based on metadata , using exiftool
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -2312,7 +2058,6 @@
 - [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [krissrex/obsidian-html](https://github.com/krissrex/obsidian-html) - A simple tool to convert an Obsidian vault into HTML
-- [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark.
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -2339,14 +2084,12 @@
 - [brraghav/simpleTools](https://github.com/brraghav/simpleTools) - This Repository is intended to create and maintain simple Tools that anyone can use without having to code. The tools can be as simple as extracting few keywords from text, but with lot of options and
 - [rhysyim/ClipboardLogger](https://github.com/rhysyim/ClipboardLogger) - A tool that logs the text in clipboard
 - [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils) - Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
-- [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [dermesser/photosync](https://github.com/dermesser/photosync) - Now that Google deprecated the Photos&lt;-&gt;Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes th
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run web app and Chrome extension to remove duplicates from Google Photos
 - [agentOfChaos/divergence-viewer](https://github.com/agentOfChaos/divergence-viewer) - Provide a visual hash of the current timeline, useful for theoretical time travellers
 - [sigma67/spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) - Clone a Spotify playlist to YouTube Music
 - [aaronsw/html2text](https://github.com/aaronsw/html2text) - Convert HTML to Markdown-formatted text.
-- [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred) - alfred-py: A deep learning utility library for **human**, more detail about the usage of lib to: https://zhuanlan.zhihu.com/p/341446046
 - [onlyhavecans/tootlogger](https://github.com/onlyhavecans/tootlogger) - Command-line tool to archive your Mastodon toots to DayOne
 - [Granddave/en2jrnl](https://github.com/Granddave/en2jrnl) - A journal converter from Evernote to Jrnl
 - [chuwy/dnevnichok](https://github.com/chuwy/dnevnichok) - Poorman's Day One
@@ -2364,7 +2107,6 @@
 - [brandonlou/DayOne2Joplin](https://github.com/brandonlou/DayOne2Joplin) - 🔄 Convert notes from Day One to Joplin
 - [wcerfgba/searx](https://github.com/wcerfgba/searx) - A modified version of searx (the privacy-respecting metasearch engine) to only search an allowlist of sites, to build functionality similar to Rollyo and Bing Custom Search.
 - [jheddings/dayone2notion](https://github.com/jheddings/dayone2notion) - Import content from Day One into Notion
-- [brows3r/iPwn](https://github.com/brows3r/iPwn) - A Framework meant for the exploitation of iOS devices.
 - [chapmanjacobd/everydayvirtualvacation](https://github.com/chapmanjacobd/everydayvirtualvacation) - An iCal file to transport you to a new place every day until you die
 - [lucianmarin/logparser](https://github.com/lucianmarin/logparser) - Command line parser for common log format.
 - [nueh/extractDOJ](https://github.com/nueh/extractDOJ) - This is a python script to extract plain text from a Day One journal.
@@ -2374,11 +2116,9 @@
 - [rross101/dayonejournalsplitter](https://github.com/rross101/dayonejournalsplitter) - Day One Journal Entry Splitter
 - [feoh/DayMinusOne](https://github.com/feoh/DayMinusOne) - A utility to convert the DayOne journal JSON format to Markdown (suitable for import into Joplin and elsewhere)
 - [Tam-Lin/MacJournaltoDayOne---Python](https://github.com/Tam-Lin/MacJournaltoDayOne---Python) - A MacJournal -&gt; Day One importer, written in Python
-- [kccqzy/imessage-db-extract](https://github.com/kccqzy/imessage-db-extract) - Extract messages from an iMessage database from iOS 8
 - [sushil79g/Facebook-message-to-CSV-exporter](https://github.com/sushil79g/Facebook-message-to-CSV-exporter) - This script helps in producing the chat dataset(in csv format) of your facebook chat
 - [seanbreckenridge/google_takeout_parser](https://github.com/seanbreckenridge/google_takeout_parser) - A library/CLI tool to parse data out of your Google Takeout (History, Activity, Youtube, Locations, etc...)
 - [jacopofar/location-data-to-heatmap](https://github.com/jacopofar/location-data-to-heatmap) - Create an animated heatmap from a Google location data Takeout export
-- [top-on/life-vault](https://github.com/top-on/life-vault) - Using selenium to automate google takeout routines
 - [xbwei/Visualizing-Social-Media-Data](https://github.com/xbwei/Visualizing-Social-Media-Data) - A set of visualization tools to help understand patterns and relationships of social media data.
 - [ryanseys/iphone-sms-stats](https://github.com/ryanseys/iphone-sms-stats) - Parses an SQLite database from an iPhone and runs statistical analysis on these messages.
 - [mattdutson/imessage-to-html](https://github.com/mattdutson/imessage-to-html) - A script for converting macOS iMessage history into a searchable HTML file, written for my lovely wife Itzel
@@ -2390,7 +2130,6 @@
 - [jheddings/dayone-import](https://github.com/jheddings/dayone-import) - Utilities for importing entries into the Day One journal app.
 - [aivantg/journalbot](https://github.com/aivantg/journalbot) - A bot that helps send slack messages directly to DayOne, a journaling app
 - [alxhslm/journey2dayone](https://github.com/alxhslm/journey2dayone) - Python script to convert Journey diary entries to Day One format
-- [ParthJadhav/IMMAT](https://github.com/ParthJadhav/IMMAT) - iMessage Mac Automation Tool
 - [Ruthenic/facebook-message-parser](https://github.com/Ruthenic/facebook-message-parser) - parses the message json provided by facebook's data export and turns it into a human readable format, along with reversing it to be oldest to newest, as opposed to newest to oldest
 - [sethrj/iphone-message-export](https://github.com/sethrj/iphone-message-export) - Hackish tool to export Messages and attachments from an unencrypted iphone backup
 - [alexyorke/fb-export-to-slack](https://github.com/alexyorke/fb-export-to-slack) - Export your Facebook Messenger data, and import the messages into Slack
@@ -2404,8 +2143,6 @@
 - [ohrie/convert-dayone2latex](https://github.com/ohrie/convert-dayone2latex) - 📓 Converts a DayOne Journal v1 to LaTeX book.
 - [soleaf/EvernoteToDayone2](https://github.com/soleaf/EvernoteToDayone2) - Move notes from Evernote to DayOne2 on Mac
 - [jackeyGao/dayone2PDF](https://github.com/jackeyGao/dayone2PDF) - 📚📔Convert your dayone journal to pdf book.
-- [wogong/dayone-to-roam](https://github.com/wogong/dayone-to-roam) - Day One to Roam Research
-- [tuxedocat/dayone2md](https://github.com/tuxedocat/dayone2md) - Simple converter script for Day One2: JSON -&gt; Pandoc Markdown with metadata.
 - [Essux/Quantified-Self-Reports](https://github.com/Essux/Quantified-Self-Reports) - Personal activity reports that go directly to your inbox.
 - [ggjersund/django-quantified-self](https://github.com/ggjersund/django-quantified-self) - A minimalistic "Quantified self" Django application for collecting, storing, displaying and exporting personal data.
 - [tslmy/GoQuantifyYourself](https://github.com/tslmy/GoQuantifyYourself) - Visualizing Quantified Self data with R.
@@ -2413,14 +2150,10 @@
 - [novoid/twitter-json_to_orgmode](https://github.com/novoid/twitter-json_to_orgmode) - Converts the Twitter export files (JSON format) into an Emacs Org-mode file
 - [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
 - [macedotavares/obsidian-utilities](https://github.com/macedotavares/obsidian-utilities) - An Alfred workflow focusing on quick entry and logging.
-- [quantumgardener/dayone-to-obsidian](https://github.com/quantumgardener/dayone-to-obsidian) - Convert a DayOne JSON export into individual entries for Obsidian
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [kalliope-project/kalliope](https://github.com/kalliope-project/kalliope) - Kalliope is a framework that will help you to create your own personal assistant.
-- [kibitzr/kibitzr](https://github.com/kibitzr/kibitzr) - Personal Web Assistant
 - [vijaysattigeri/InstagramJsonMessageReader](https://github.com/vijaysattigeri/InstagramJsonMessageReader) - This python script reads Instagram's JSON export file (messages.json) and prints in a user readable format
 - [siddhxrth/imessage-analyze-and-export](https://github.com/siddhxrth/imessage-analyze-and-export) - command line interface (CLI) to analyze and export imessage conversations into .csv files containing messages, timestamps, and IDs 📲
-- [telnet23/imessage2csv](https://github.com/telnet23/imessage2csv) - Export contacts and chat messages from iOS or macOS for easy viewing and searching
 - [drbh/imessage-exporter](https://github.com/drbh/imessage-exporter) - This project aims to help people better analyze thier messaging application and is a continuation of work done for this article: https://towardsdatascience.com/what-your-imessage-data-says-about-you-d
 - [uttamo/messenger-data-analysis](https://github.com/uttamo/messenger-data-analysis) - Analyse Messenger data exports from Facebook
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2441,35 +2174,22 @@
 - [jakubvalenta/automatic-diary](https://github.com/jakubvalenta/automatic-diary) - Create one timeline from various digital sources
 - [FWMSH/timelineViewer](https://github.com/FWMSH/timelineViewer) - Build interactive, multi-touch timelines using a spreadsheet
 - [janw/imessage-parser](https://github.com/janw/imessage-parser) - 
-- [mhejda/dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) - Converting DayOne journals into markdown files compatible with Logseq
-- [joshbrunty/SMS.db-to-CSV](https://github.com/joshbrunty/SMS.db-to-CSV) - Converts the iOS SMS.db to CSV output
-- [Maxmad68/SMSDB2HTML](https://github.com/Maxmad68/SMSDB2HTML) - Archive your sms.db messages as a iOS like web site
-- [simrun/dayone-export](https://github.com/simrun/dayone-export) - Script to extract data from a Day One JSON export. Journal entries and metadata are printed in individual text files.
-- [StefanoCecere/DayOne2Markdown](https://github.com/StefanoCecere/DayOne2Markdown) - a script to export from Day One journal to md blog entries
-- [WeibingChen17/SimpleDayOneExporter](https://github.com/WeibingChen17/SimpleDayOneExporter) - An Extremely DayOne Export to save your data
-- [Hossman333/DayOne-Find-And-Replace](https://github.com/Hossman333/DayOne-Find-And-Replace) - Find and replace text for Day One JSON exports.
-- [ezrahill/FBExport_DayOne](https://github.com/ezrahill/FBExport_DayOne) - Facebook Data Export to DayOne
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [novoid/Memacs](https://github.com/novoid/Memacs) - What did I do on February 14th 2007? Visualize your (digital) life in Org-mode
 - [novoid/date2name](https://github.com/novoid/date2name) - Handling time-stamps and date-stamps in file names
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
-- [jbmorley/day-one-to-markdown](https://github.com/jbmorley/day-one-to-markdown) - Convert Day One journal entries to Markdown and Front Matter
-- [ploum/dayone2markdown](https://github.com/ploum/dayone2markdown) - Converting DayOne journals into markdown files
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [karlicoss/orger](https://github.com/karlicoss/orger) - Tool to convert data into searchable and interactive org-mode views
-- [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser
 - [dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 - [dogsheep/dogsheep-photos](https://github.com/dogsheep/dogsheep-photos) - Upload your photos to S3 and import metadata about them into a SQLite database
 - [dogsheep/google-takeout-to-sqlite](https://github.com/dogsheep/google-takeout-to-sqlite) - Save data from Google Takeout to a SQLite database
 - [dogsheep/healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite) - Convert an Apple Healthkit export zip to a SQLite database
 - [bcbernardo/aw-watcher-ask](https://github.com/bcbernardo/aw-watcher-ask) - An ActivityWatch watcher to pose questions to the user and record her answers.
-- [ze-kel/DayOne-JSON-to-MD](https://github.com/ze-kel/DayOne-JSON-to-MD) - day one jsons to markdown converter | I'm not supporting it, check forks for better versions
 - [leerob/facebook-data-analyzer](https://github.com/leerob/facebook-data-analyzer) - 📊Python script to analyze the contents of your Facebook data export
 - [simonwongwong/Facebook-Messenger-Statistics](https://github.com/simonwongwong/Facebook-Messenger-Statistics) - Discover fun stats about your Facebook Messenger usage such as: most used words, most active year, most active hours, etc. using this Jupyter Notebook
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
-- [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
 - [82Flex/DCRM](https://github.com/82Flex/DCRM) - Darwin Cydia Repo Manager - v4 redesigned in Django.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT) - ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
@@ -2480,7 +2200,6 @@
 - [Zarcolio/sitedorks](https://github.com/Zarcolio/sitedorks) - Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with a default set of websites, bug bounty programs or custom collection.
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [IAmBlackHacker/Facebook-BruteForce](https://github.com/IAmBlackHacker/Facebook-BruteForce) - Bruteforce attack on Facebook account using python script
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -2494,29 +2213,16 @@
 - [bitly/data_hacks](https://github.com/bitly/data_hacks) - Command line utilities for data analysis
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [selfspy/selfspy](https://github.com/selfspy/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun!
-- [billychasen/appstore_resize](https://github.com/billychasen/appstore_resize) - A script to generate all your app store images from an iOS 6 plus image
-- [peterhajas/Smissy](https://github.com/peterhajas/Smissy) - A visualizer for iOS SMS backups
-- [vsouza/Bird](https://github.com/vsouza/Bird) - :bird: iOS Push Notifications with Python
-- [realityone/APNManager](https://github.com/realityone/APNManager) - A simple iOS apn proxy profile generater
-- [Buza/OpenPhoto](https://github.com/Buza/OpenPhoto) - OpenPhoto for iOS
 - [evilwindowdog/itunesfs](https://github.com/evilwindowdog/itunesfs) - Script for generating an iTunes Connect package (.itmsp) straight from the file system
 - [thomasfinch/CyLogos](https://github.com/thomasfinch/CyLogos) - Logos syntax for Cycript
-- [SilentCircle/iap-local-receipt](https://github.com/SilentCircle/iap-local-receipt) - Python library to do local server-side verification of iOS App Store receipts
 - [sorin-ionescu/tilde](https://github.com/sorin-ionescu/tilde) - These are scripts that I use. Not all are written by me.
 - [yeliu84/python-wechat](https://github.com/yeliu84/python-wechat) - WeChat.py is a library which provides an easy access to the WeChat (Weixin) app's chat log.
-- [alexlee002/XcodeScripts](https://github.com/alexlee002/XcodeScripts) - useful scripts for iOS / OS X  projects
-- [tomwilkie/awesomation](https://github.com/tomwilkie/awesomation) - Home Awesomation; python home automation system.
 - [glasslion/fontdump](https://github.com/glasslion/fontdump) - 
-- [jaraen/TiAccurateTimer](https://github.com/jaraen/TiAccurateTimer) - An accurate iOS timer module for Titanium that improves the JavaScript setInterval and setTimeout functions. Valid for basic media applications and games.
-- [alibaba/iOSSecAudit](https://github.com/alibaba/iOSSecAudit) - iOS Security Audit Toolit - A semi-automatic tool for iOS App security audit and iOS reverse engineering
-- [matheusjardimb/ios2android](https://github.com/matheusjardimb/ios2android) - Python script to convert ios images into Android compatible ones
 - [mihaip/feed-scraping](https://github.com/mihaip/feed-scraping) - Collection of feed scraping scripts
-- [CatchZeng/Localizable.strings2Excel](https://github.com/CatchZeng/Localizable.strings2Excel) - Python command line tool for conversion between iOS strings files and excel files & between android strings.xml files and excl files. & strings files to android strings.xml files.
 - [YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow) - DenseNet Implementation in Tensorflow
 - [FutureSharks/rpi-security](https://github.com/FutureSharks/rpi-security) - A security system written in python to run on a Raspberry Pi with motion detection and mobile notifications
 - [PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser) - Python script to parse the NTFS USN Journal
 - [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying to complete all projects from http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
-- [argp/iBoot64helper](https://github.com/argp/iBoot64helper) - IDAPython loader to help with AArch64 iBoot, iBEC, and SecureROM reverse engineering
 - [pybrain/pybrain](https://github.com/pybrain/pybrain) - 
 - [fivesheep/chnroutes](https://github.com/fivesheep/chnroutes) - scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn
 - [ujjwalkarn/DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - common data analysis and machine learning tasks using python
@@ -2528,27 +2234,17 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [worldveil/dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python
 - [CouchPotato/CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
-- [mrmign/iOS-private-api-scanner](https://github.com/mrmign/iOS-private-api-scanner) - scan iOS private api
 - [RobinMeis/Siri-API](https://github.com/RobinMeis/Siri-API) - Siri-API is a tool which opens Apples Siri for your own wishes WITHOUT the requirement of a Jailbreak. You can predefine keywords which execute your own python code when they are found in a request.
-- [pod2g/ios_stuff](https://github.com/pod2g/ios_stuff) - IOS hacking stuff
-- [mountainstorm/MobileDevice](https://github.com/mountainstorm/MobileDevice) - A python package, and command line tool, which wraps Apple's MobileDevice API - providing access to iOS devices.
-- [sauce-archives/isign](https://github.com/sauce-archives/isign) - Code sign iOS applications, without proprietary Apple software or hardware
-- [NetEaseGame/ATX](https://github.com/NetEaseGame/ATX) - Smart phone automation tool. Support iOS, Android, WebApp and game.
 - [jodal/pyspotify](https://github.com/jodal/pyspotify) - Python bindings for libspotify (no longer working as of May 2022)
 - [selwin/python-user-agents](https://github.com/selwin/python-user-agents) - A Python library that provides an easy way to identify devices like mobile phones, tablets and their capabilities by parsing (browser) user agent strings.
 - [vgel/summarize.py](https://github.com/vgel/summarize.py) - A python script for summarizing articles using nltk
-- [hubert3/iSniff-GPS](https://github.com/hubert3/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
 - [viewfinderco/viewfinder](https://github.com/viewfinderco/viewfinder) - Viewfinder client and server code
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
-- [kstenerud/iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework) - An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
-- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [askedrelic/journal](https://github.com/askedrelic/journal) - Python CLI tool to help with keeping a work/personal journal
 - [jhhjhh/wm-design](https://github.com/jhhjhh/wm-design) - WM design repo, mostly styl files
@@ -2559,7 +2255,6 @@
 - [venkateshshukla/th-editorials-python](https://github.com/venkateshshukla/th-editorials-python) - Python application for getting The Hindu editorials
 - [reinecke/EditMaker](https://github.com/reinecke/EditMaker) - Python Editorial Tools
 - [kalupa/editorial-scripts](https://github.com/kalupa/editorial-scripts) - Editorial.app backup files
-- [pfcbenjamin/Editorial-Stuff](https://github.com/pfcbenjamin/Editorial-Stuff) - scripts for working with Editorial for iOS
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
 - [nivlaaa/flickr-mosaic](https://github.com/nivlaaa/flickr-mosaic) - 
 - [sacmwg/draft-ietf-sacm-information-model](https://github.com/sacmwg/draft-ietf-sacm-information-model) - 
@@ -2568,7 +2263,6 @@
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
 - [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, extensible and ready-to-use automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and op
-- [flyingeek/editolido](https://github.com/flyingeek/editolido) - A collection of utilities for playing with Lido and Editorial IOS app
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
 - [rtcweb-wg/security-arch](https://github.com/rtcweb-wg/security-arch) - Security architecture document
@@ -2591,14 +2285,11 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [mq1tran/introducing-python-scripts](https://github.com/mq1tran/introducing-python-scripts) - 
 - [ShambhalaLogan/The-Ultimate-Insult-Creator](https://github.com/ShambhalaLogan/The-Ultimate-Insult-Creator) - 
-- [cclauss/read_from_Google_Drive](https://github.com/cclauss/read_from_Google_Drive) - Read a file from Google Drive into Pythonista for iOS
 - [Harrisonkamau/python-peers](https://github.com/Harrisonkamau/python-peers) - A group of Pythonistas. Here, you will find Python challenges.
-- [pedrohdz/ios-http-file-server](https://github.com/pedrohdz/ios-http-file-server) - This project has been moved to https://github.com/digitalrounin/pythonista-fileserver.
 - [briarfox/uiStyle](https://github.com/briarfox/uiStyle) - Style pythonista ui.view
 - [tddbc/python_pytest](https://github.com/tddbc/python_pytest) - skeleton for Pythonista
 - [zmitchell/Pythonista-Dropbox-Picker](https://github.com/zmitchell/Pythonista-Dropbox-Picker) - A Python script to allow Pythonista to download files from Dropbox
 - [balachandrana/pythonista_textlayout](https://github.com/balachandrana/pythonista_textlayout) - A compact text based alternative to pyui
-- [jesperpsvensson/Pythonista-scripts](https://github.com/jesperpsvensson/Pythonista-scripts) - Python skripts för iOS-appen Pythonista
 - [Bob-Arctor/mleaning-pythonista](https://github.com/Bob-Arctor/mleaning-pythonista) - machine learning stuff on pythonista
 - [ludwa6/walt_pythonista](https://github.com/ludwa6/walt_pythonista) - moving code from github to pythonista, 1st step
 - [kobsy/pythonista-scripts](https://github.com/kobsy/pythonista-scripts) - 
@@ -2608,51 +2299,39 @@
 - [brosensteiner/PythonistaScripts](https://github.com/brosensteiner/PythonistaScripts) - 
 - [ncarding/NavViewTemplate](https://github.com/ncarding/NavViewTemplate) - Template for a Pythonista Navigation View app
 - [morganpdx/pythonista](https://github.com/morganpdx/pythonista) - pythoning all day every day
-- [DocVaughan/Pythonista](https://github.com/DocVaughan/Pythonista) - Repository containing code for use in the iOS app Pythonista
 - [FlawlessFalcon/Pythonista](https://github.com/FlawlessFalcon/Pythonista) - Python Modules learning
 - [dotarac/Pythonista](https://github.com/dotarac/Pythonista) - 
 - [chyld/pythonista](https://github.com/chyld/pythonista) - 
 - [Rudra24/Pythonista](https://github.com/Rudra24/Pythonista) - 
-- [geekcomputers/Pythonista](https://github.com/geekcomputers/Pythonista) - My Scripts I use in Pythonista on iOS Devices
-- [cookiebytes/pythonista](https://github.com/cookiebytes/pythonista) - Python scripts written in/for Pythonista on iOS.
 - [skrohmer/Pythonista](https://github.com/skrohmer/Pythonista) - 
 - [ruboerner/pythonista](https://github.com/ruboerner/pythonista) - First attempt to learn Python
 - [jessemillar/pythonista](https://github.com/jessemillar/pythonista) - A repo to hold my Python scripts
 - [jonlong/pythonista](https://github.com/jonlong/pythonista) - Pythonista scripts
-- [matticus/Pythonista](https://github.com/matticus/Pythonista) - Projects built to run in Pythonista on iOS
 - [patpatpatpatpat/pythonista](https://github.com/patpatpatpatpat/pythonista) - Repo for playing with Python
 - [ankurbt/pythonista](https://github.com/ankurbt/pythonista) - some primary work with python
 - [weikefei/pythonista](https://github.com/weikefei/pythonista) - 
 - [elpiniki/pythonista](https://github.com/elpiniki/pythonista) - Dive into Python
 - [pghpy/python-intro](https://github.com/pghpy/python-intro) - 
-- [sedm0784/thereiclippedit](https://github.com/sedm0784/thereiclippedit) - A tool for sending your clipboard from iOS to your computer and back
 - [hakutsuru/dbss](https://github.com/hakutsuru/dbss) - managing sql-server database snapshots
 - [quchunguang/dotsublime](https://github.com/quchunguang/dotsublime) - 
-- [cclauss/SPLnFFT_tools](https://github.com/cclauss/SPLnFFT_tools) - Python tools for working with Sound Pressure Level files generated by the iOS apps SPLnFFT and SPLnWatch https://www.facebook.com/SPLnFFT
 - [wizardofozzie/alphabear-solver](https://github.com/wizardofozzie/alphabear-solver) - 
 - [bpuderer/python-snippets27](https://github.com/bpuderer/python-snippets27) - python 2.7 code snippets and quickstarts
 - [lukaskollmer/archive_scripts](https://github.com/lukaskollmer/archive_scripts) - A small collection of Python scripts to archive certain data from the internet
 - [jsbain/shellista-bashhistory](https://github.com/jsbain/shellista-bashhistory) - Bash-like history, and history substitution for shellista
-- [oefe/lunch](https://github.com/oefe/lunch) - Lunch ordering tracker for iOS
 - [mygeekdaddy/camera_photo_merge](https://github.com/mygeekdaddy/camera_photo_merge) - Pythonista script that prompts you to take two pictures and then automatically merges the two images into a single image and saves it to your camera roll.
 - [kish1/krawll](https://github.com/kish1/krawll) - Web crawling made easy for Pythonistas. Just supply extractor and terminator functions to this higher-order function and let krawll do the rest.
 - [ganeshskudva/Python_projects](https://github.com/ganeshskudva/Python_projects) - Projects done to learn Python
 - [lyndsysimon/python-prospects](https://github.com/lyndsysimon/python-prospects) - [WIP] Scrapes various sites around the web to find active Pythonistas and tie profiles to identities.
-- [wizardofozzie/Pythonista_scripts](https://github.com/wizardofozzie/Pythonista_scripts) - Pythonista 2.0 for iOS
 - [pythonista-cloud/server](https://github.com/pythonista-cloud/server) - The index powering pythonista-cloud, the package manager for Pythonista.
 - [jsongraph/jsongraph.py](https://github.com/jsongraph/jsongraph.py) - JsonGraph library for Pythonistas
-- [controversial/Pythonista-UI-Templates](https://github.com/controversial/Pythonista-UI-Templates) - Blank pyui files for all iOS device screen sizes, as well as an editor action for copying them to your current working directory.
 - [ltddev/MyPythonista](https://github.com/ltddev/MyPythonista) - All Pythonista apps and coding
 - [lukaskollmer/pythonista](https://github.com/lukaskollmer/pythonista) - Attempt at a central pythonista module to access, enhance and modify the behavior of the app itself
 - [pythonista-cloud/sample](https://github.com/pythonista-cloud/sample) - An example package for pythonista-cloud
-- [khilnani/pythonista-scripts](https://github.com/khilnani/pythonista-scripts) - Pythonista iOS app scripts & extensions
 - [10c8/paper](https://github.com/10c8/paper) - Develop applications for Pythonista using web tools.
 - [Cethric/Pythonista-Objective-C-Runtime-Library](https://github.com/Cethric/Pythonista-Objective-C-Runtime-Library) - 
 - [controversial/Pythonista-theme-utils](https://github.com/controversial/Pythonista-theme-utils) - A library for working with themes in Pythonista
 - [JadedTuna/pythonista-pc](https://github.com/JadedTuna/pythonista-pc) - Pythonista modules ported to PC
 - [marcus67/pyzipista](https://github.com/marcus67/pyzipista) - Tool to create a self-extracting Pythonista application
-- [niels-k-86/lcp-pythonista-couchpotato](https://github.com/niels-k-86/lcp-pythonista-couchpotato) - Add movies to CouchPotato from Launch Center Pro on iOS
-- [mikaelho/pythonista-reminderstore](https://github.com/mikaelho/pythonista-reminderstore) - Key-value store using iOS Reminders for persistence and distribution across iOS devices.
 - [humberry/photo_text](https://github.com/humberry/photo_text) - Pythonista
 - [SebastianJarsve/Pythonista-Pixel-Editor](https://github.com/SebastianJarsve/Pythonista-Pixel-Editor) - A simple pixel art editor for pythonista.
 - [n8henrie/n8pythonista](https://github.com/n8henrie/n8pythonista) - This repo is no longer actively maintained. I found that Gists are better for this kind of thing. If you're looking for an updated version of something you find here, search my Gists or give me a shou
@@ -2666,24 +2345,18 @@
 - [cclauss/Ten-lines-or-less](https://github.com/cclauss/Ten-lines-or-less) - Python scripts that are short but useful or interesting
 - [ywangd/pythonista-tools-installer](https://github.com/ywangd/pythonista-tools-installer) - Pythonista script installation made easy
 - [madscheme/introducing-python](https://github.com/madscheme/introducing-python) - An introduction to Python
-- [omz/PythonistaAppTemplate](https://github.com/omz/PythonistaAppTemplate) - Xcode template for building standalone apps from Pythonista (iOS) scripts
 - [deepthawtz/faker](https://github.com/deepthawtz/faker) - A Python library for generating fake user data.
 - [laike9m/ezcf](https://github.com/laike9m/ezcf) - Import configuration file for Pythonista
 - [ywangd/stash](https://github.com/ywangd/stash) - StaSh - Shell for Pythonista
 - [perone/stallion](https://github.com/perone/stallion) - Stallion - A Python Package Manager
-- [studioimaginaire/phue](https://github.com/studioimaginaire/phue) - A Python library for the Philips Hue system
 - [swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python) - Beginners book on Python - start here if you don't know programming
 - [poise/python](https://github.com/poise/python) - THIS COOKBOOK IS DEPRECATED – Chef cookbook to install Python and related tools
-- [tdamdouni/Pythonista](https://github.com/tdamdouni/Pythonista) - Collection of Python Scripts written for Pythonista iOS App
 - [HeyItsJono/Pythonista](https://github.com/HeyItsJono/Pythonista) - Various scripts crafted in Pythonista
 - [horrorho/iloot](https://github.com/horrorho/iloot) - OpenSource tool  for iCloud backup extraction
-- [daviesia/Pythonista](https://github.com/daviesia/Pythonista) - Useful scripts for iOS Pythonista app.
-- [tchich/pythonista](https://github.com/tchich/pythonista) - Short scripts for pythonista (the IOS app)
 - [juniorbird/d1ista](https://github.com/juniorbird/d1ista) - Tools for DayOne on mobile and desktop
 - [nathangrigg/dayone_export](https://github.com/nathangrigg/dayone_export) - Export Day One entries using a Jinja template
 - [hackappcom/iloot](https://github.com/hackappcom/iloot) - OpenSource tool  for iCloud backup extraction
 - [durden/dayonetools](https://github.com/durden/dayonetools) - Set of tools to import data into Day One journaling application
-- [myles/dayone](https://github.com/myles/dayone) - A Python Library for the Mac OS X & iOS Application Day One.
 - [gutechsoc-hackathon/Django](https://github.com/gutechsoc-hackathon/Django) - 
 
 ## R 
@@ -2691,7 +2364,6 @@
 - [Sumidu/whispertranscribe](https://github.com/Sumidu/whispertranscribe) - An r-based tool to transcribe audio.
 - [trinker/textclean](https://github.com/trinker/textclean) - Tools for cleaning and normalizing text data
 - [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
-- [minesweeper106/ShinyR-iMessageBrowser](https://github.com/minesweeper106/ShinyR-iMessageBrowser) - A simple shiny app that takes an IOS chat.db/sms.db backup file and renders an html chat view.
 
 ## Reason 
 
@@ -2705,7 +2377,6 @@
 ## Ruby 
 
 - [apexatoll/audio_tag](https://github.com/apexatoll/audio_tag) - 🎵 🏷  AudioTag: Ruby library for reading and writing audio file metadata 🎵 🏷
-- [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge) - A collection of reverse engineered Apple things, as well as a machine-readable database of Apple hardware
 - [mm53bar/obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for Obsidian.md
 - [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
@@ -2717,7 +2388,6 @@
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
-- [dmayer/idb](https://github.com/dmayer/idb) - idb is a tool to simplify some common tasks for iOS pentesting and research
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [GabrieleVir/Timeline-generator](https://github.com/GabrieleVir/Timeline-generator) - A generator of timelines
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
@@ -2725,43 +2395,35 @@
 - [piotrmurach/tty-markdown-cli](https://github.com/piotrmurach/tty-markdown-cli) - CLI tool for displaying nicely formatted Markdown documents in the terminal
 - [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
 - [fezfox/dylogger](https://github.com/fezfox/dylogger) - 
-- [jphastings/Email-DayOne](https://github.com/jphastings/Email-DayOne) - DayOne is a Mac/iOS journal app which uses DropBox as a syncing agent. This heroku app takes advantage of that and gives you an email address you can use to email entries directly to your journal.
 - [donnierayjones/dayone-jpeg-metadata](https://github.com/donnierayjones/dayone-jpeg-metadata) - Export DayOne journal entries into jpegs with metadata
 - [bachya/Sifttter-Redux](https://github.com/bachya/Sifttter-Redux) - IFTTT to Day One service
 - [zsbenke/dayone-to-wordpress](https://github.com/zsbenke/dayone-to-wordpress) - Ruby script to migrate from Day One to WordPress.
 - [jverkoey/jekyll-dayone](https://github.com/jverkoey/jekyll-dayone) - A Day One Jekyll plugin for associating Day One entries with Jekyll posts.
-- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [MattbookPro/Day.fm](https://github.com/MattbookPro/Day.fm) - Log your Last.fm Top Weekly Artists and Tracks to your Day One journal
 - [mnich0ls/day-one-csv-importer](https://github.com/mnich0ls/day-one-csv-importer) - Imports existing journal entries to DayOne
 - [morisunshine/DayOne](https://github.com/morisunshine/DayOne) - Ruby Module to create Day One Journal entries
 - [simonjefford/rdayone](https://github.com/simonjefford/rdayone) - A ruby gem for accessing Day One (http://dayoneapp.com/) journals
-- [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [smarj/Convert-Journal-Markdown](https://github.com/smarj/Convert-Journal-Markdown) - Import Day One JSON export into Ulysses
 - [papatangosierra/livejournal-archive-tools](https://github.com/papatangosierra/livejournal-archive-tools) - 
 - [acdpnk/.scrpt](https://github.com/acdpnk/.scrpt) - 
 - [jyruzicka/rb-dayone](https://github.com/jyruzicka/rb-dayone) - A ruby library for creating (and, one day, editing and removing) DayOne.app entries
 - [donnierayjones/dayone-html](https://github.com/donnierayjones/dayone-html) - 
 - [JacobEvelyn/friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved.
-- [hakusaro/email-to-DayOne](https://github.com/hakusaro/email-to-DayOne) - Before Day One supported IFTTT, I wrote a simple Ruby script to import emails into Day One. This is that script.
 - [quantitare/quantitare-categories](https://github.com/quantitare/quantitare-categories) - Category specifications for Quantitare scrobbles
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [stilist/history_importer](https://github.com/stilist/history_importer) - 
 - [tsu-nera/journal-generator](https://github.com/tsu-nera/journal-generator) - Personal Journal Generator
 - [quantitare/quantitare](https://github.com/quantitare/quantitare) - A self-hosted personal dashboard
 - [rubycocos/csvreader](https://github.com/rubycocos/csvreader) - csvreader library / gem -  read tabular data in the comma-separated values (csv) format the right way (uses best practices out-of-the-box with zero-configuration)
-- [ScotterC/Momento3toDayOne2Importer](https://github.com/ScotterC/Momento3toDayOne2Importer) - Small script to make importing data from Momento Journal to DayOne 2 easy
-- [hakusaro/exist-to-dayone](https://github.com/hakusaro/exist-to-dayone) - Exports all mood entries from Exist.io into Day One.
 - [ninoseki/apullo](https://github.com/ninoseki/apullo) - A scanner for taking basic fingerprints
 - [dkhamsing/dkhamsing.github.io](https://github.com/dkhamsing/dkhamsing.github.io) - :octocat: My GitHub Page
 - [griffrawk/momento2dayone](https://github.com/griffrawk/momento2dayone) - 
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [xdotcommer/momento2dayone](https://github.com/xdotcommer/momento2dayone) - Import Momento plain text export into Day One
 
 ## Rust 
 
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
-- [stellar-amenities/assistants](https://github.com/stellar-amenities/assistants) - The ⭐️ Open Source Assistants API allows you to build AI assistants within your own applications with your own models. 100% private, 75% Cheaper & 23x Faster Assistants. Same API/SDK. Written in Rust
+- [stellar-amenities/hal-9100](https://github.com/stellar-amenities/hal-9100) - HAL-9100 allows you to build AI assistants within your own applications with your own models. 100% private, 75% Cheaper & 23x Faster Assistants. Using OpenAI SDK. Written in Rust
 - [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
 - [hilbigan/ngrm](https://github.com/hilbigan/ngrm) - Find similar files based on byte sequences
 - [whitfin/runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
@@ -2799,7 +2461,6 @@
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [izderadicka/audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
@@ -2812,8 +2473,6 @@
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
 ## SCSS 
 
@@ -2885,17 +2544,11 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [jsmrcaga/action-netlify-deploy](https://github.com/jsmrcaga/action-netlify-deploy) - 
-- [CedricGoby/nextcloud-occ-scripts](https://github.com/CedricGoby/nextcloud-occ-scripts) - Scripts pour l'administration Nextcloud avec occ.
-- [floalt/Nextcloud-OCC-Scripts](https://github.com/floalt/Nextcloud-OCC-Scripts) - various OCC Scripts für Nextcloud
-- [jancborchardt/nextcloud-scripts](https://github.com/jancborchardt/nextcloud-scripts) - ☁️ Scripts to easier set up & update Nextcloud
 - [nico-castell/PopOS-Setup](https://github.com/nico-castell/PopOS-Setup) - A script to set up Pop!_OS in the best way possible
 - [Correia-jpv/fucking-awesome-zsh-plugins](https://github.com/Correia-jpv/fucking-awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. With repository stars⭐ and forks🍴
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 - [harleypig/FreshRSS-extensions](https://github.com/harleypig/FreshRSS-extensions) - A collection of FreshRSS extensions to make installation and upgrading easier.
 - [abdulbadii/history-tidying](https://github.com/abdulbadii/history-tidying) - Tidying up Bash command history by putting good control in erasing certain lines.
-- [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This a collection of scripts that makes my nextcloud administrator life easy by automation and better reporting. And I would like to share it with U.
-- [rcdailey/nextcloud-cronjob](https://github.com/rcdailey/nextcloud-cronjob) - A simple container to run cron.php in your Nextcloud docker container
-- [qcif/nextcloud-sync-cron](https://github.com/qcif/nextcloud-sync-cron) - Cron job script for running the Linux/Unix Nextcloud command line client
 - [shinokada/dotties](https://github.com/shinokada/dotties) - Dotties is a simple dotfile management script. It saves specified dotfiles in the home directory to a secret Gist. I also can clone them from the Gist, and more.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -2906,7 +2559,6 @@
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [ItsMeAbhishekRai/Termux-All-Packages-Install](https://github.com/ItsMeAbhishekRai/Termux-All-Packages-Install) - All Packages Install On Termux In One Click
-- [Birdie0/discord-webhooks-guide](https://github.com/Birdie0/discord-webhooks-guide) - https://birdie0.github.io/discord-webhooks-guide/
 - [pwatk/google-photos-takeout](https://github.com/pwatk/google-photos-takeout) - Sort and organise Google Photos Takeout using exiftool
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
@@ -2914,7 +2566,6 @@
 - [holzschu/a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - shell commands, pre-compiled to webAssembly, ready to use in a-Shell
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [kshigeyama/mdImportDayOne](https://github.com/kshigeyama/mdImportDayOne) - MarkDown ( and other text files ) import DayOne Journal bash Script
-- [jannerchang/AppleScript](https://github.com/jannerchang/AppleScript) - 
 - [SnShine/Twitter-to-DayOne](https://github.com/SnShine/Twitter-to-DayOne) - Fetches all your tweets of the day and makes a DayOne entry.
 - [kitykity/socImport](https://github.com/kitykity/socImport) - Send Twitter/Instagram/Facebook posts to Day One Journal
 - [kitykity/dotw](https://github.com/kitykity/dotw) - Day One &lt;- Twitter
@@ -2924,14 +2575,12 @@
 - [dduan/git2dayone](https://github.com/dduan/git2dayone) - A script for logging git commit messages in the app Day One
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [davidbosman/Import-Markdown-to-Day-One](https://github.com/davidbosman/Import-Markdown-to-Day-One) - Import markdown journal entries (txt files) to Day One app (OS X)
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [barba99/barba_music](https://github.com/barba99/barba_music) - #este  script descarca de facebook spotify y youtube
 - [hackerspider1/EchoPwn](https://github.com/hackerspider1/EchoPwn) - Recon Automation for hackers by hackers
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [jverkoey/iOS-Framework](https://github.com/jverkoey/iOS-Framework) - How to create, develop, and distribute iOS Static Frameworks quickly and efficiently
 - [hackersanddesigners/momentary-zine](https://github.com/hackersanddesigners/momentary-zine) - 
 - [friggog/Localisations](https://github.com/friggog/Localisations) - Localisations for Cydia Tweaks
 - [PocketMine/Cydia-Repository](https://github.com/PocketMine/Cydia-Repository) - PocketMine Cydia Repository
@@ -2946,58 +2595,33 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [breadthe/sd-buddy](https://github.com/breadthe/sd-buddy) - Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion
-- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
 - [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
 - [alombi/alombi.xyz](https://github.com/alombi/alombi.xyz) - My personal website and my blog, live at alombi.xyz
 
 ## Swift 
 
-- [Paisseon/Erika](https://github.com/Paisseon/Erika) - Tweak downloader for Saily, Sileo, Zebra, and Installer (iOS 13-16)
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
 - [DanielFiller30/ScriptManager](https://github.com/DanielFiller30/ScriptManager) - Easy to use menu bar-tool for your mac, to run shell-scripts.
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for ChatGPT
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
 - [akaalias/Streamline](https://github.com/akaalias/Streamline) - Streamline is a stream-of-consciousness writer for Obsidian
-- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-- [motianjun4/ChatGPT_Chatbot](https://github.com/motianjun4/ChatGPT_Chatbot) - An iOS application for interacting with ChatGPT without being blocked by Cloudflare.
 - [KittenYang/ChatGPT-Mac-MenuBar](https://github.com/KittenYang/ChatGPT-Mac-MenuBar) - Chat with OpenAI's ChatGPT in mac menu bar like a pro.
 - [itsliamdowd/WaybackBrowserMacOS](https://github.com/itsliamdowd/WaybackBrowserMacOS) - Pick a date and explore websites from the early days of the internet to now all in an easy-to-use browser format! 💻
 - [rsyncOSX/RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - A macOS GUI for rsync.
 - [JohnSundell/Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
-- [prateek147/DVIA-v2](https://github.com/prateek147/DVIA-v2) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetrat
 - [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac) - Automatically audit your Mac for basic security hygiene.
-- [NSAntoine/Santander](https://github.com/NSAntoine/Santander) - Unsandboxed File System manager for iOS devices
 - [luckymarmot/ThemeKit](https://github.com/luckymarmot/ThemeKit) - macOS theming library
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [loopwerk/Parsley](https://github.com/loopwerk/Parsley) - A Markdown parser for Swift, using Github Flavored Markdown and Metadata
 - [bingzheung/txtool](https://github.com/bingzheung/txtool) - Text Tool
 - [Ahmed-Ali/JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite lan
-- [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [vigneshrajsb/Day-One-Journal-Clone](https://github.com/vigneshrajsb/Day-One-Journal-Clone) - 
 - [chanmadsen/JournalCoreDataDayOne](https://github.com/chanmadsen/JournalCoreDataDayOne) - 
-- [yashbhojgarhia/DayOneClone](https://github.com/yashbhojgarhia/DayOneClone) - Day One Journaling iOS Application Clone
 - [balasaida/MessageExporter](https://github.com/balasaida/MessageExporter) - 
-- [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
-- [HomemadeToast57/repofinder](https://github.com/HomemadeToast57/repofinder) - APT repository app for jailbroken iOS devices
-- [joncardasis/To-The-Apples-Core](https://github.com/joncardasis/To-The-Apples-Core) - ⚙️ A collection of non-jailbroken code snippets on reverse-engineered iOS private apis
-- [frostland/GPS-Stone](https://github.com/frostland/GPS-Stone) - Record your position and export your trip in GPX with GPS Stone on iOS.
-- [bellebethcooper/existAPI](https://github.com/bellebethcooper/existAPI) - iOS framework for working with the Exist API (https://developer.exist.io/)
-- [jphong1111/awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) - List of awesome iOS & Swift stuff!!
-- [TimeDelta/introspective](https://github.com/TimeDelta/introspective) - Introspective is an iOS app that is focused on both mental and physical health. It is a new way to explore your health data. It allows you to write custom (easy-to-understand) queries against your dat
-- [vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor) - A free program for extracting data (like voicemails) from iPhone and iPad backups.
-- [bryan1anderson/iMessage-to-Day-One-Importer](https://github.com/bryan1anderson/iMessage-to-Day-One-Importer) - Grabs all the iMessages from Chat.db and begins an import into Day One App
-- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [a2/swift-shortcuts](https://github.com/a2/swift-shortcuts) - An iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI.
 - [Rightpoint/BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift
-- [wordpress-mobile/WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS) - WordPress for iOS - Official repository
-- [wireapp/wire-ios_legacy](https://github.com/wireapp/wire-ios_legacy) - 📱 Wire for iOS (iPhone and iPad)
-- [square/Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
-- [dkhamsing/osia](https://github.com/dkhamsing/osia) - :octocat: iOS app to browse open-source-ios-apps
 - [hartlco/DayOneToMarkdownFiles](https://github.com/hartlco/DayOneToMarkdownFiles) - Create markdown files out of DayOne Json export
 
 ## TeX 
@@ -3010,7 +2634,6 @@
 - [thehale/expressive-resume](https://github.com/thehale/expressive-resume) - A beautiful resume/cover letter LaTeX template pair that are extraordinarily easy to use.
 - [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume) - The Markdown Resume
 - [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
-- [jiuguangw/dayone2latex](https://github.com/jiuguangw/dayone2latex) - DayOne2LaTeX is converts a journal written in the Day One app into a LaTeX book.
 
 ## TypeScript 
 
@@ -3032,7 +2655,6 @@
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) - Regex Obsidian Plugin
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
-- [wardellbagby/lyricistant](https://github.com/wardellbagby/lyricistant) - A helpful writing assistant for lyricists!
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files!
 - [eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics) - Enhance your Obsidian audio player by adding a interactive lyrics display feature.
 - [faminchik/get-lyrics](https://github.com/faminchik/get-lyrics) - Application for getting song lyrics and setting them to mp3 files.
@@ -3110,7 +2732,7 @@
 - [MatthewCochrane/obsidian-embedding-search](https://github.com/MatthewCochrane/obsidian-embedding-search) - Index and Search your notes using embeddings for semantic search.
 - [L7Cy/obsidian-dynamic-timetable](https://github.com/L7Cy/obsidian-dynamic-timetable) - Calculate the estimated completion time from the estimated task time and dynamically create a timetable.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
-- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) with OpenAI's ChatGPT, Ollama, LM Studio, OpenRouter, and Mistral AI for Obsidian.
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as Ollama, LM Studio, OpenAI's ChatGPT, Mistral AI, and more for Obsidian.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
@@ -3213,13 +2835,13 @@
 - [addozhang/obsidian-image-upload-toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit) - An obsidian plugin for uploading local images embedded in markdown to remote store and export markdown for publishing to static site.
 - [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
 - [yanenok/obsidian-images-plugin](https://github.com/yanenok/obsidian-images-plugin) - Easy image layouts for Obsidian
+- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown) - An Obsidian.md plugin to save tweets as Markdown files.
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [javalent/fantasy-statblocks](https://github.com/javalent/fantasy-statblocks) - Create Dungeons and Dragons style statblocks for Obsidian.md
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [barnesoir/chatgpt-vscode-plugin](https://github.com/barnesoir/chatgpt-vscode-plugin) - A VS code plugin for ChatGPT built by ChatGPT
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin) - languagetool plugin for obsidian
@@ -3332,7 +2954,6 @@
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [winhtaikaung/react-tiny-link](https://github.com/winhtaikaung/react-tiny-link) - Convert your links into rich previews
 - [OP-Engineering/link-preview-js](https://github.com/OP-Engineering/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [arekminajj/spotify-you](https://github.com/arekminajj/spotify-you) - 🎵 Spotify listening stats web application, built in Next.js
 - [mbeaseley/my-spotify-stats](https://github.com/mbeaseley/my-spotify-stats) - Spotify stats and tools
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
@@ -3364,10 +2985,8 @@
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create a dynamic portfolio by just providing your GitHub username.
-- [nextcloud-libraries/nextcloud-initial-state](https://github.com/nextcloud-libraries/nextcloud-initial-state) - Access data from the server-side initial state API within apps https://npmjs.org/@nextcloud/initial-state
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [scriptify/thesoundofus](https://github.com/scriptify/thesoundofus) - Connect your Google Photos and Spotify Account, select a photo album and a Spotify playlist, and the web app will create an interactive photo album with music from the time the photo was taken. Intend
-- [aurelien-brabant/nextcloud-music-player](https://github.com/aurelien-brabant/nextcloud-music-player) - [WIP] A clone of Apple's music app designed to work with any nextcloud instance, build with react native
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Stream and file based music metadata parser for node. Supporting a wide range of audio and tag formats.
 - [Trivernis/mediarepo](https://github.com/Trivernis/mediarepo) - A media management tool
@@ -3387,15 +3006,9 @@
 - [mehmetsagir/regex-safe-website](https://github.com/mehmetsagir/regex-safe-website) - Easy controls with Regex.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [WildPress/obsidian-wp](https://github.com/WildPress/obsidian-wp) - Post directly to your WordPress blog from Obsidian.
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [PrettyCoffee/yet-another-generic-startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - This a generic startpage to demonstrate the react startpage library.
-- [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
@@ -3405,9 +3018,6 @@
 - [mfcar/TextTools](https://github.com/mfcar/TextTools) - Tools for your text
 - [Nerixyz/text-tools](https://github.com/Nerixyz/text-tools) - De- and Encode tools for text.
 - [ozum/concat-md](https://github.com/ozum/concat-md) - CLI and API to concatenate markdown files and modify as necessary.
-- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-- [phntxx/dashboard](https://github.com/phntxx/dashboard) - :bar_chart: a nice and simple dashboard / landing page.
 - [obsidian-userland/publish](https://github.com/obsidian-userland/publish) - Open source Obsidian Publish alternative
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [agreatfool/dayone2md](https://github.com/agreatfool/dayone2md) - Dump all dayone posts to local disk md files
@@ -3418,21 +3028,13 @@
 - [lacunaverse/hawk](https://github.com/lacunaverse/hawk) - get a bird's eye view of you
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [harrisoff/ios-message-export](https://github.com/harrisoff/ios-message-export) - Extract iPhone messages and contacts to csv/json files from iTunes backup | 提取 iPhone 备份数据中的短信和联系人导出为 csv/json
 - [bogurd/messenger-explorer](https://github.com/bogurd/messenger-explorer) - A messages explorer for data exported from Facebook Messenger
 - [proyecto26/MyAPI](https://github.com/proyecto26/MyAPI) - A template to create awesome APIs easily ⚡️
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [apricote/Listory](https://github.com/apricote/Listory) - Track your Spotify listens
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [danobot/notorious](https://github.com/danobot/notorious) - Offline-first note taking and knowledge management application for desktop and the web. Supports nested notebooks, tags, real-time sync, images and file attachments. Optimised for efficiency with keyb
-- [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 
 ## Vala 
 
@@ -3441,9 +3043,7 @@
 ## Vim Script 
 
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [kazuph/dayone.vim](https://github.com/kazuph/dayone.vim) - 
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 
 ## Visual Basic 
@@ -3485,9 +3085,7 @@
 - [Alexandr-web/MusicApplicationPEVN](https://github.com/Alexandr-web/MusicApplicationPEVN) - 🎵🎶 This is a musical project written in PEVN
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers
 - [xiaoluoboding/chrome-web-bookmark](https://github.com/xiaoluoboding/chrome-web-bookmark) - One-click turn any link into a visual web bookmark, and it looks Like Twitter cards or Notion web bookmark.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [xyvs/visualtree](https://github.com/xyvs/visualtree) - A tool that allows you to visualize and interact with the output of your tree command.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
 - [pablosirera/timeline-vuejs](https://github.com/pablosirera/timeline-vuejs) - Minimalist Timeline ⏳ with VueJS 💚
 - [lybekk/offPIM](https://github.com/lybekk/offPIM) - Decentralized, Offline-first, Personal Information Manager (PIM) using PouchDB/CouchDB. Includes task-, note-, and contact-management, as well as journaling.
@@ -3495,12 +3093,7 @@
 - [bencooper222/Facebook-Messenger-Export-Display](https://github.com/bencooper222/Facebook-Messenger-Export-Display) - A display of your exported Facebook messages
 - [chars-mc/timeline-maker](https://github.com/chars-mc/timeline-maker) - A simple and free tool to create timelines. Using JSON files and export it to PDF.
 - [reinzor/timeline-exporter](https://github.com/reinzor/timeline-exporter) - Google maps timeline exporter Chrome extension
-- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
-
-## XSLT 
-
-- [anatosun/TunesCloud](https://github.com/anatosun/TunesCloud) - XSLT transformation to export iTunes playlists to Nextcloud/Owncloud Music app
 
 ## Zig 
 
