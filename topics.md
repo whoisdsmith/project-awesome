@@ -3609,6 +3609,7 @@
 
 ## others 
 
+- [fortyTwo102/The-Spotify-Hit-Predictor-Dataset](https://github.com/fortyTwo102/The-Spotify-Hit-Predictor-Dataset) - A dataset of tracks with their various features fetched using Spotify's Web API, and classified as either a 'Hit' or 'Flop' based on a few criteria.
 - [ebrasha/abdal-duplicate-remover](https://github.com/ebrasha/abdal-duplicate-remover) - Find and delete duplicates in text files
 - [ichigo-afk/awesome-terminal](https://github.com/ichigo-afk/awesome-terminal) - Awesome Terminal Hacks. powershell, windows terminal and much more
 - [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - :black_medium_square: Use your Windows terminal to do awesome things.
