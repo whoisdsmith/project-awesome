@@ -266,9 +266,9 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [simc/logger](https://github.com/simc/logger) - Small, easy to use and extensible logger which prints beautiful logs.
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -457,7 +457,6 @@
 - [bookmarks-tools/bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - :bookmark: Parses Firefox/Chrome HTML bookmarks files
 - [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
-- [ObsidianPublisher/docs](https://github.com/ObsidianPublisher/docs) - Documentation for Obsidian Mkdocs Publisher
 - [viperadnan-git/gdtot-bypasser](https://github.com/viperadnan-git/gdtot-bypasser) - A web scraper to convert GDToT links to Google Drive and direct download links
 - [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [microlinkhq/sdk](https://github.com/microlinkhq/sdk) - Make any URL embeddable. Turn any URL into a beautiful link preview.
@@ -1287,7 +1286,7 @@
 - [dominiksipowicz/AI-bookmarks](https://github.com/dominiksipowicz/AI-bookmarks) - Resources, news, tools, and materials related to AI
 - [bigcash/awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
-- [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
+- [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
 - [fwends-net/obsidian-templates](https://github.com/fwends-net/obsidian-templates) - Templates for Obsidian
 - [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator) - This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
@@ -1627,6 +1626,7 @@
 
 ## Python 
 
+- [zwq2018/Auto_star](https://github.com/zwq2018/Auto_star) - auto star for repo lists
 - [iXce/deezerexport](https://github.com/iXce/deezerexport) - Export your Deezer playlists in a breath
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
@@ -2951,6 +2951,7 @@
 - [otaviocc/obsidian-microblog](https://github.com/otaviocc/obsidian-microblog) - Micro.publish is an Obsidian plugin to publish notes directly to Micro.blog, written in TypeScript.
 - [tkat0/obsidian-scrapbox-flavored](https://github.com/tkat0/obsidian-scrapbox-flavored) - Scrapbox-flavored grid view and efficient list operations for Obsidian
 - [czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri) - A plugin for Obsidian (https://obsidian.md) that adds additional `x-callback-url` endpoints to the app for common actions — it's a clean, super-charged addition to Obsidian URI.
+- [ObsidianPublisher/docs](https://github.com/ObsidianPublisher/docs) - Documentation for Obsidian Mkdocs Publisher
 - [patheticGeek/improved-potato](https://github.com/patheticGeek/improved-potato) - Chrome extension to export bookmarks sanely
 - [AlexW00/obsidian-3d-graph](https://github.com/AlexW00/obsidian-3d-graph) - 👓 A 3D graph for Obsidian!
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
