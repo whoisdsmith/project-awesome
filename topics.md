@@ -3609,6 +3609,7 @@
 
 ## others 
 
+- [iXce/deezerexport](https://github.com/iXce/deezerexport) - Export your Deezer playlists in a breath
 - [fortyTwo102/The-Spotify-Hit-Predictor-Dataset](https://github.com/fortyTwo102/The-Spotify-Hit-Predictor-Dataset) - A dataset of tracks with their various features fetched using Spotify's Web API, and classified as either a 'Hit' or 'Flop' based on a few criteria.
 - [ebrasha/abdal-duplicate-remover](https://github.com/ebrasha/abdal-duplicate-remover) - Find and delete duplicates in text files
 - [ichigo-afk/awesome-terminal](https://github.com/ichigo-afk/awesome-terminal) - Awesome Terminal Hacks. powershell, windows terminal and much more
@@ -3629,7 +3630,7 @@
 - [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
 - [Holzhaus/serato-tags](https://github.com/Holzhaus/serato-tags) - Serato DJ Pro GEOB tags documentation
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
 - [descriptinc/audiotools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
 - [czyczk/auto-music-info-server](https://github.com/czyczk/auto-music-info-server) - A Kotlin JVM project to make use of both rules and AI power to collect information about music from the Internet. See https://github.com/czyczk/auto_music_info for the Flutter client.
 - [mayphyusinthant/NeuralSymphony](https://github.com/mayphyusinthant/NeuralSymphony) - Neural Symphony is a music player application like Spotify integrated with AI Technology - Neural Network Architecture. The aim of this project is to use the advantage of AI - Machine Learning is for 
