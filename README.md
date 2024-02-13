@@ -1627,6 +1627,7 @@
 
 ## Python 
 
+- [iXce/deezerexport](https://github.com/iXce/deezerexport) - Export your Deezer playlists in a breath
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
@@ -1639,7 +1640,7 @@
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
 - [Holzhaus/serato-tags](https://github.com/Holzhaus/serato-tags) - Serato DJ Pro GEOB tags documentation
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
 - [descriptinc/audiotools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
