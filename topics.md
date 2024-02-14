@@ -680,6 +680,7 @@
 
 ## awesome-list 
 
+- [ilaria-manco/multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music) - List of academic resources on Multimodal ML for Music
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
@@ -1483,6 +1484,9 @@
 
 ## deep-learning 
 
+- [mimbres/neural-audio-fp](https://github.com/mimbres/neural-audio-fp) - 
+- [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
+- [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
@@ -2032,7 +2036,7 @@
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
-- [TypicalAM/Static-Site-Generator](https://github.com/TypicalAM/Static-Site-Generator) - A place to view your notes - powered by Go
+- [TypicalAM/Small-Note-App](https://github.com/TypicalAM/Small-Note-App) - Web place to view your notes - powered by Go
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A command-line interface (CLI) based passive URLs discovery utility. It is designed to efficiently identify known URLs of given domains by tapping into a multitude of curated online passive sources.
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
@@ -2619,6 +2623,7 @@
 
 ## jupyter-notebook 
 
+- [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [markmelnic/visualize-browsing-history](https://github.com/markmelnic/visualize-browsing-history) - A tool to visualize your chrome browsing history using google takeout data.
 - [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Transcribe and translate audio to text using Whisper and DeepL.
 - [ocademy-ai/machine-learning](https://github.com/ocademy-ai/machine-learning) - Learn AI together, for free. AI learning and teaching resources for everyone.
@@ -2791,6 +2796,10 @@
 
 ## machine-learning 
 
+- [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
+- [TuneNN/TuneNN](https://github.com/TuneNN/TuneNN) - A transformer-based network model for pitch detection
+- [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
+- [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -2973,7 +2982,7 @@
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
-- [TypicalAM/Static-Site-Generator](https://github.com/TypicalAM/Static-Site-Generator) - A place to view your notes - powered by Go
+- [TypicalAM/Small-Note-App](https://github.com/TypicalAM/Small-Note-App) - Web place to view your notes - powered by Go
 - [vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script to display Markdown documents as static HTML pages
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [juliamrch/Obsidian-templates](https://github.com/juliamrch/Obsidian-templates) - A set of business and creativity Obsidian templates in French
@@ -3174,6 +3183,10 @@
 
 ## music 
 
+- [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
+- [TuneNN/TuneNN](https://github.com/TuneNN/TuneNN) - A transformer-based network model for pitch detection
+- [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
+- [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Adrian-Winter/Meta-Music-Toolbox](https://github.com/Adrian-Winter/Meta-Music-Toolbox) - A collection of handy tools such as adding Key & BPM to your music library
 - [berkon/track-suggestor](https://github.com/berkon/track-suggestor) - DJ tool for suggesting tracks for harmonic mixing with Traktor Pro (from Native Instruments)
@@ -3609,6 +3622,9 @@
 
 ## others 
 
+- [polifonia-project/music-meta-ontology](https://github.com/polifonia-project/music-meta-ontology) - A flexible ontology for the interoperability of music metadata
+- [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
+- [wlamason/github-stars](https://github.com/wlamason/github-stars) - ⭐Create a searchable view of your github stars. Runs daily with github actions.
 - [zwq2018/Auto_star](https://github.com/zwq2018/Auto_star) - auto star for repo lists
 - [iXce/deezerexport](https://github.com/iXce/deezerexport) - Export your Deezer playlists in a breath
 - [fortyTwo102/The-Spotify-Hit-Predictor-Dataset](https://github.com/fortyTwo102/The-Spotify-Hit-Predictor-Dataset) - A dataset of tracks with their various features fetched using Spotify's Web API, and classified as either a 'Hit' or 'Flop' based on a few criteria.
@@ -3881,7 +3897,7 @@
 - [velebit/obsidian-save-console-log](https://github.com/velebit/obsidian-save-console-log) - Obsidian plugin that redirects the developer console log to a file
 - [MatthewCochrane/obsidian-embedding-search](https://github.com/MatthewCochrane/obsidian-embedding-search) - Index and Search your notes using embeddings for semantic search.
 - [L7Cy/obsidian-dynamic-timetable](https://github.com/L7Cy/obsidian-dynamic-timetable) - Calculate the estimated completion time from the estimated task time and dynamically create a timetable.
-- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as Ollama, LM Studio, OpenAI's ChatGPT, Mistral AI, and more for Obsidian.
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, OpenAI's ChatGPT, Mistral AI, and more for Obsidian.
 - [LuotaoGithub/ChatGPT-Web](https://github.com/LuotaoGithub/ChatGPT-Web) - 
 - [haseeb-heaven/ChatGPT-3-Tokenizer](https://github.com/haseeb-heaven/ChatGPT-3-Tokenizer) - ChatGPT-3-Tokenizer is tokenizer which calculates tokens and price of input query.
 - [mharrvic/redhorse-ai-transcriber](https://github.com/mharrvic/redhorse-ai-transcriber) - Audio transcriber using Openai whisper ML deployed to Banana.dev
@@ -5058,6 +5074,9 @@
 
 ## python 
 
+- [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
+- [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
+- [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment) - Wrapper for pydub AudioSegment objects
 - [stunlocked1/beat-manipulator](https://github.com/stunlocked1/beat-manipulator) - beat swapping powered by AI
