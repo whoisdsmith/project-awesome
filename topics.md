@@ -242,7 +242,7 @@
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
@@ -446,6 +446,8 @@
 
 ## artificial-intelligence 
 
+- [rioharper/VocalForge](https://github.com/rioharper/VocalForge) - Your one-stop solution for voice dataset creation
+- [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API.
 - [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
@@ -680,6 +682,7 @@
 
 ## awesome-list 
 
+- [andreimatveyeu/awesome-python-audio](https://github.com/andreimatveyeu/awesome-python-audio) - Awesome Python resources related to audio and music
 - [ilaria-manco/multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music) - List of academic resources on Multimodal ML for Music
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
@@ -1370,7 +1373,7 @@
 ## data 
 
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -1390,7 +1393,7 @@
 ## data-analysis 
 
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [1994nikunj/nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichlet 
 - [abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore your Facebook Messenger chat history, in a manner inspired by Spotify Wrapped
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
@@ -1410,7 +1413,7 @@
 ## data-science 
 
 - [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
@@ -1470,6 +1473,7 @@
 
 ## database 
 
+- [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [chungquantin/edma](https://github.com/chungquantin/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [IvoLimmen/mystart](https://github.com/IvoLimmen/mystart) - Google Bookmarks clone with extra's
@@ -1484,6 +1488,8 @@
 
 ## deep-learning 
 
+- [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
+- [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
 - [mimbres/neural-audio-fp](https://github.com/mimbres/neural-audio-fp) - 
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
@@ -2701,6 +2707,7 @@
 
 ## library 
 
+- [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -2796,6 +2803,7 @@
 
 ## machine-learning 
 
+- [Lallapallooza/fast-audiomentations](https://github.com/Lallapallooza/fast-audiomentations) - ⚡ Blazing fast audio augmentation in Python, powered by GPU for high-efficiency processing in machine learning and audio analysis tasks.
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [TuneNN/TuneNN](https://github.com/TuneNN/TuneNN) - A transformer-based network model for pitch detection
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
@@ -3183,6 +3191,8 @@
 
 ## music 
 
+- [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
+- [maphouse/analyze-tag-songs](https://github.com/maphouse/analyze-tag-songs) - Python script for analyzing and tagging music files by key and BPM
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [TuneNN/TuneNN](https://github.com/TuneNN/TuneNN) - A transformer-based network model for pitch detection
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
@@ -3221,7 +3231,7 @@
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - A command-line tool for effortlessly organizing and renaming your music files based on metadata
 - [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals lyrics and pitch from music to autogenerate Ultrastar Deluxe, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
 - [spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A list of free audio and MIDI plugins for music production
-- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.42.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
+- [gridsound/daw](https://github.com/gridsound/daw) - GridSound (0.43.0) wants to be an open source online digital audio workstation following the new WebAudio API 🎛🎹🎵✨ -- If you can, please sponsor us a little on our Patreon ❤️
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
@@ -3622,6 +3632,21 @@
 
 ## others 
 
+- [antlarr/bard](https://github.com/antlarr/bard) - Bard Music Manager - A database to manage your music, find duplicates and fix tags
+- [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
+- [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
+- [bmkjn/Spotify-Data-Analysis](https://github.com/bmkjn/Spotify-Data-Analysis) - This repository hosts a collection of data analysis scripts utilizing popular Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to explore and analyze Spotify's vast collection of track,
+- [FrancoOscarBaez/Data-Mining-Spotify-Top-Songs](https://github.com/FrancoOscarBaez/Data-Mining-Spotify-Top-Songs) - I employed the J48 decision tree algorithm to analyze the dataset and uncover underlying patterns in the data of the most streamed songs.
+- [tuvvshe/python_audio_processing](https://github.com/tuvvshe/python_audio_processing) - python audio processing
+- [CRenko/Python_audio_analyze](https://github.com/CRenko/Python_audio_analyze) - 
+- [kixelo/AudioProcessing-with-Python](https://github.com/kixelo/AudioProcessing-with-Python) - Reversing, Overlaying nad Mixing Music audio with Pydub
+- [MapleWangAudio/audiotools](https://github.com/MapleWangAudio/audiotools) - python audiotools for audio effect research
+- [PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-](https://github.com/PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-) - This is an audio file metadata property editor written in python.
+- [samarasleal/Python-AudioProcessing](https://github.com/samarasleal/Python-AudioProcessing) - 
+- [Azur3-bit/AudioManiac_pythonCLI-MusicDownloader](https://github.com/Azur3-bit/AudioManiac_pythonCLI-MusicDownloader) - 
+- [materialvision/augment_audio_tools](https://github.com/materialvision/augment_audio_tools) - Simple python scripts to augment a dataset of audio
+- [nomonosound/fast-align-audio](https://github.com/nomonosound/fast-align-audio) - A fast python library for aligning similar audio snippets passed in as NumPy arrays
+- [karaokenerds/python-audio-separator](https://github.com/karaokenerds/python-audio-separator) - Easy to use vocal separation on CLI or as a python package, using the amazing MDX-Net models from UVR trained by @Anjok07
 - [polifonia-project/music-meta-ontology](https://github.com/polifonia-project/music-meta-ontology) - A flexible ontology for the interoperability of music metadata
 - [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
 - [wlamason/github-stars](https://github.com/wlamason/github-stars) - ⭐Create a searchable view of your github stars. Runs daily with github actions.
@@ -5074,6 +5099,13 @@
 
 ## python 
 
+- [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
+- [nicfit/MishMash](https://github.com/nicfit/MishMash) - Music database, etc.
+- [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (iTunes, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
+- [andreimatveyeu/awesome-python-audio](https://github.com/andreimatveyeu/awesome-python-audio) - Awesome Python resources related to audio and music
+- [Lallapallooza/fast-audiomentations](https://github.com/Lallapallooza/fast-audiomentations) - ⚡ Blazing fast audio augmentation in Python, powered by GPU for high-efficiency processing in machine learning and audio analysis tasks.
+- [rioharper/VocalForge](https://github.com/rioharper/VocalForge) - Your one-stop solution for voice dataset creation
+- [maphouse/analyze-tag-songs](https://github.com/maphouse/analyze-tag-songs) - Python script for analyzing and tagging music files by key and BPM
 - [carlosholivan/musicaiz](https://github.com/carlosholivan/musicaiz) - A python framework for symbolic music generation, evaluation and analysis
 - [iver56/audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for machine learning.
 - [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
@@ -5332,6 +5364,7 @@
 
 ## python3 
 
+- [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (iTunes, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
 - [spyer/lyrics2mp3](https://github.com/spyer/lyrics2mp3) - Parse lyrics and add them into mp3 files (via id tags). Lyrics can then be viewed on iPhone, iTunes and other players.
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -5392,6 +5425,8 @@
 
 ## pytorch 
 
+- [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
+- [Lallapallooza/fast-audiomentations](https://github.com/Lallapallooza/fast-audiomentations) - ⚡ Blazing fast audio augmentation in Python, powered by GPU for high-efficiency processing in machine learning and audio analysis tasks.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
@@ -5823,7 +5858,7 @@
 
 ## sql 
 
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
