@@ -1641,6 +1641,7 @@
 
 ## documentation 
 
+- [KLB7/IntraMine](https://github.com/KLB7/IntraMine) - Fast search and real autolinking for your Windows local and NAS storage
 - [Kypaku/gpt-project-insight](https://github.com/Kypaku/gpt-project-insight) - An engine for generating recursive documentation and using it to work on a project with ChatGPT
 - [marekjm/docs-formatter](https://github.com/marekjm/docs-formatter) - Docs formatter
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
@@ -4071,7 +4072,6 @@
 - [mborne/markdown-to-html](https://github.com/mborne/markdown-to-html) - An experimental markdown renderer based on marked aiming at providing both a static site generator and a live server
 - [addozhang/obsidian-image-upload-toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit) - An obsidian plugin for uploading local images embedded in markdown to remote store and export markdown for publishing to static site.
 - [gBasil/anise](https://github.com/gBasil/anise) - ⭐ A simplistic alternative to Obsidian Publish and Quartz.
-- [Farallon-OSINT/OSINT-Project](https://github.com/Farallon-OSINT/OSINT-Project) - This project is using Digital Garden to publish from Obsidian. It can be seen here
 - [wchorski/PyWrite-Publisher](https://github.com/wchorski/PyWrite-Publisher) - alternative to Obsidian Publish
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
