@@ -585,7 +585,7 @@
 - [DBKarman/lyricsync](https://github.com/DBKarman/lyricsync) - An lrc file generator/creator online, Simply visit the website or open index.html locally in order to sync your lyrics with your music
 - [ajmd17/lyric-video-editor](https://github.com/ajmd17/lyric-video-editor) - A small app for creating and rendering lyric videos.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
@@ -1178,7 +1178,6 @@
 
 ## Others 
 
-- [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
 - [FrancoOscarBaez/Data-Mining-Spotify-Top-Songs](https://github.com/FrancoOscarBaez/Data-Mining-Spotify-Top-Songs) - I employed the J48 decision tree algorithm to analyze the dataset and uncover underlying patterns in the data of the most streamed songs.
 - [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
 - [fortyTwo102/The-Spotify-Hit-Predictor-Dataset](https://github.com/fortyTwo102/The-Spotify-Hit-Predictor-Dataset) - A dataset of tracks with their various features fetched using Spotify's Web API, and classified as either a 'Hit' or 'Flop' based on a few criteria.
@@ -2395,6 +2394,7 @@
 
 ## R 
 
+- [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
 - [Sumidu/whispertranscribe](https://github.com/Sumidu/whispertranscribe) - An r-based tool to transcribe audio.
 - [trinker/textclean](https://github.com/trinker/textclean) - Tools for cleaning and normalizing text data
 - [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
