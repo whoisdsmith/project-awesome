@@ -1893,7 +1893,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🚧V4🚧⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by LLM APIs.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
