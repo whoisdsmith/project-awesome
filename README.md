@@ -797,7 +797,6 @@
 - [pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - link of all daily dev tools and a little bit data about them
 - [siegblink/webdev-resources](https://github.com/siegblink/webdev-resources) - Collection of helpful web development resources.
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
-- [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [JoshSweaterGuy/lava](https://github.com/JoshSweaterGuy/lava) - Lava is a markup generation tool built for obsidian
 - [wchorski/obsidian-developer](https://github.com/wchorski/obsidian-developer) - tutorials, set up, self hosted, routing, tooling, home lab, etc
 - [CommitSans/obsidian-gitbook](https://github.com/CommitSans/obsidian-gitbook) - A quick tool to publish an Obsidian Vault on GitBook
@@ -1357,6 +1356,7 @@
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [trustedsec/Obsidian-Vault-Structure](https://github.com/trustedsec/Obsidian-Vault-Structure) - 
+- [jimbrig/Template-Vault](https://github.com/jimbrig/Template-Vault) - Template Obsidian.md Vault
 - [cwinfosec/redteam_obsidian_templates](https://github.com/cwinfosec/redteam_obsidian_templates) - Red Team Templates For Obsidian.md
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
