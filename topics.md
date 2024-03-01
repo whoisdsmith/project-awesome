@@ -3769,7 +3769,7 @@
 - [lubauss/custom_instructions_ENG](https://github.com/lubauss/custom_instructions_ENG) - Custom instructions for use in ChatGPT
 - [sammoreton/ChatGPT-Custom-Instructions-Storage](https://github.com/sammoreton/ChatGPT-Custom-Instructions-Storage) - Store and load custom instructions for ChatGPT through a Chrome Extension.
 - [WalberMota/osintlinks](https://github.com/WalberMota/osintlinks) - OSINT Links
-- [rialms/osint](https://github.com/rialms/osint) - OSINT TOOLS and Repo, Bookmark - TF
+- [rokibulroni/osint](https://github.com/rokibulroni/osint) - OSINT TOOLS and Repo, Bookmark - TF
 - [Soulsender/hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - A collection of bookmarks for web tools, references, information, and other resources.
 - [marknakamura/osint-bookmarks](https://github.com/marknakamura/osint-bookmarks) - OSINT bookmarks
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
