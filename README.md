@@ -397,7 +397,7 @@
 - [VintageGold/SpotifyExplore_MusicSongNames](https://github.com/VintageGold/SpotifyExplore_MusicSongNames) - Connecting Spotify songs to MusicBrainz to find new music based on song titles
 - [cvzi/genius-lyrics-userscript](https://github.com/cvzi/genius-lyrics-userscript) - A userscript library to show lyrics from genius.com on other websites
 - [WalberMota/osintlinks](https://github.com/WalberMota/osintlinks) - OSINT Links
-- [rialms/osint](https://github.com/rialms/osint) - OSINT TOOLS and Repo, Bookmark - TF
+- [rokibulroni/osint](https://github.com/rokibulroni/osint) - OSINT TOOLS and Repo, Bookmark - TF
 - [Soulsender/hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - A collection of bookmarks for web tools, references, information, and other resources.
 - [marknakamura/osint-bookmarks](https://github.com/marknakamura/osint-bookmarks) - OSINT bookmarks
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
