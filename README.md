@@ -405,7 +405,6 @@
 - [timostrating/MEGA](https://github.com/timostrating/MEGA) - MEGA is my attempt to collect and analyze as much of my personal information as possible for a year. All scripts i write to automate actions will be stored in this repo.
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [nyaahilism/BOOKMRKS-MTHRFCKR](https://github.com/nyaahilism/BOOKMRKS-MTHRFCKR) - The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!
-- [PeARSearch/PeARSearch.github.io](https://github.com/PeARSearch/PeARSearch.github.io) - Website for PeARS project
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [ocdevel/gnothi](https://github.com/ocdevel/gnothi) - Gnothi is an open-source AI journal and toolkit for self-discovery. If you're interested in getting involved, we'd love to hear from you.
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
@@ -1893,7 +1892,7 @@
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🚧V4🚧⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [mahmoudfazeli/finetuned_gpt3_virtual_assistants](https://github.com/mahmoudfazeli/finetuned_gpt3_virtual_assistants) - "Finetuned GPT-3 Virtual Assistants" is an open-source project that enables the creation of virtual assistants for websites or applications using GPT-3. The project includes a script for fine-tuning G
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by LLM APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [javi22020/Prompt-Generator](https://github.com/javi22020/Prompt-Generator) - Use this project to create your own random prompts for Stable Diffusion! Besides, you'll be able to add your own adjectives, objects and styles in the code.
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
@@ -2511,6 +2510,7 @@
 ## SCSS 
 
 - [ReconVirus/Historium](https://github.com/ReconVirus/Historium) - Historium is a tool that lets you create and view a timeline of your notes based on tags. You can organize your notes by date, topic, or any other criteria,
+- [PeARSearch/PeARSearch.github.io](https://github.com/PeARSearch/PeARSearch.github.io) - Website for PeARS project
 - [asifm/data-science-handbook](https://github.com/asifm/data-science-handbook) - Draft of a handbook for aspiring data scientists. WIP.
 - [carlos-gg/digitalgarden](https://github.com/carlos-gg/digitalgarden) - Personal knowledge garden dedicated to AI, ML, AI for Earth Sciences, AI for good, Machine Learning and Data Science
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
