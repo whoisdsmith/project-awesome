@@ -137,6 +137,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [nativescript](#nativescript)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -832,7 +833,7 @@
 - [xjh22222228/awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
-- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
@@ -1475,7 +1476,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
-- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [hal9ai/awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 
 ## database 
 
@@ -3302,6 +3303,37 @@
 
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
+## natural-language-processing 
+
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+- [momegas/megabots](https://github.com/momegas/megabots) - 🤖 State-of-the-art, production ready LLM apps made mega-easy, so you don't have to build them from scratch 🤯 Create a bot, now 🫵
+- [geeks-of-data/knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [DonAurelio/text-analyzer](https://github.com/DonAurelio/text-analyzer) - This projects is dedicated to an University Assignment about Natural Language Processing With Freeling and Python
+- [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
+- [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
+- [brucewlee/lftk](https://github.com/brucewlee/lftk) - [BEA @ ACL 2023] General-purpose tool for linguistic features extraction; Tested on readability assessment, essay scoring, fake news detection, hate speech detection, etc.
+- [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
+- [graphbrain/graphbrain](https://github.com/graphbrain/graphbrain) - Language, Knowledge, Cognition
+- [neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
+- [ferdavid1/AIMV](https://github.com/ferdavid1/AIMV) - AI model that generates a Music Video from a .wav file, using Instrument Classification, Speech Transcription, and Video Generation.
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
+- [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
+- [akosbalasko/obsidian-autotagger-plugin](https://github.com/akosbalasko/obsidian-autotagger-plugin) - This plugin offers smart tags for notes by performing Named Entity Recognition (NER) on the content
+- [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+- [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
+- [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
+- [markwk/mindset_journaling_app](https://github.com/markwk/mindset_journaling_app) - A Smart Journaling App with NLP and Sentiment Analysis
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
+- [NicholasMamo/multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - Multiplex: visualizations that tell stories—A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
+- [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+
 ## neovim 
 
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
@@ -3689,7 +3721,6 @@
 - [musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse) - Resources for the Generative Music AI Course on The Sound of AI YouTube channel.
 - [okio-ai/nendo-example-apps](https://github.com/okio-ai/nendo-example-apps) - Examples of apps built with Nendo, the AI Audio Tool Suite
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
@@ -4283,7 +4314,6 @@
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings) - A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
-- [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP library to parse Netscape bookmark files
 - [thlorenz/parse-link-header](https://github.com/thlorenz/parse-link-header) - Parses a link header and returns paging information for each contained link.
 - [nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link) - 
@@ -4705,7 +4735,6 @@
 - [gverni/kairoi](https://github.com/gverni/kairoi) - Project Timelines made easy...
 - [infertux/lifechart](https://github.com/infertux/lifechart) - Spend your time wisely
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
-- [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [wells19d/my-timeline-journal](https://github.com/wells19d/my-timeline-journal) - 
 - [EdwardRutz/music-timeline-bullet-journal](https://github.com/EdwardRutz/music-timeline-bullet-journal) - Create your life's soundtrack by making a music timeline with the timeline-bullet-journal.
 - [jakubvalenta/automatic-diary](https://github.com/jakubvalenta/automatic-diary) - Create one timeline from various digital sources
