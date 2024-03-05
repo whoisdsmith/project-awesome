@@ -943,7 +943,6 @@
 - [ndsamuelson/weboas-is](https://github.com/ndsamuelson/weboas-is) - This is a copy of weboas.is using his source code that he released on his death. RIP Webby.
 - [ronitsinha/homepage](https://github.com/ronitsinha/homepage) - A customized version of weboas.is
 - [chocolateboy/userscripts](https://github.com/chocolateboy/userscripts) - Userscripts for Greasemonkey, Tampermonkey etc.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [konhi/obsidian-community-list](https://github.com/konhi/obsidian-community-list) - 📃 • updated list of community themes & plugins for obsidian.md!
 - [oniatsu/Google-Photos-desktop-viewer-app](https://github.com/oniatsu/Google-Photos-desktop-viewer-app) - Google Photos desktop viewer app for macOS and Windows
@@ -1376,7 +1375,7 @@
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [harrytran103/awesome-linux-apps](https://github.com/harrytran103/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
+- [cuonginspire/awesome-linux-apps](https://github.com/cuonginspire/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources) - linux resources for the begainners and advanced users.
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
@@ -2692,7 +2691,7 @@
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files!
 - [eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics) - Enhance your Obsidian audio player by adding a interactive lyrics display feature.
 - [faminchik/get-lyrics](https://github.com/faminchik/get-lyrics) - Application for getting song lyrics and setting them to mp3 files.
-- [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - Web lyric editor
+- [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - High-performance lyric video editor accessible on any browser
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
 - [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
@@ -2766,7 +2765,7 @@
 - [MatthewCochrane/obsidian-embedding-search](https://github.com/MatthewCochrane/obsidian-embedding-search) - Index and Search your notes using embeddings for semantic search.
 - [L7Cy/obsidian-dynamic-timetable](https://github.com/L7Cy/obsidian-dynamic-timetable) - Calculate the estimated completion time from the estimated task time and dynamically create a timetable.
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
-- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, OpenAI's ChatGPT, Mistral AI, and more for Obsidian.
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, Anthropic, OpenAI, Mistral AI, and more for Obsidian.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
@@ -3045,6 +3044,7 @@
 - [WildPress/obsidian-wp](https://github.com/WildPress/obsidian-wp) - Post directly to your WordPress blog from Obsidian.
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources) - A collaborative list of resources for developers
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [mattwilson1024/google-photos-exif](https://github.com/mattwilson1024/google-photos-exif) - A tool to populate missing `DateTimeOriginal` EXIF metadata in Google Photos takeout, using Google's JSON metadata.
