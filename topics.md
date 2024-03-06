@@ -229,7 +229,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
 - [dfinke/PowerShellGemini](https://github.com/dfinke/PowerShellGemini) - PowerShell integration for Google's versatile Gemini Pro API
@@ -939,7 +939,7 @@
 
 ## chatgpt 
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [Curated-Awesome-Lists/Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) - Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and th
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [MachaLvl99/PromptAlchemy-DataDistillation](https://github.com/MachaLvl99/PromptAlchemy-DataDistillation) - A prompt-engineering technique for creating personalized custom instructions on ChatGPT
@@ -3361,7 +3361,7 @@
 
 ## nextjs 
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
@@ -3572,7 +3572,6 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [dan-smith-tech/shelf](https://github.com/dan-smith-tech/shelf) - A fully customisable, open-source browser startpage.
 - [nextcloud/flow_notifications](https://github.com/nextcloud/flow_notifications) - ↪️🔔 Send notification action for Nextcloud Flow
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 - [devXprite/infoooze](https://github.com/devXprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
@@ -3717,7 +3716,7 @@
 - [okio-ai/nendo-example-apps](https://github.com/okio-ai/nendo-example-apps) - Examples of apps built with Nendo, the AI Audio Tool Suite
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
 - [nicucalcea/obsidian-magic-tasks](https://github.com/nicucalcea/obsidian-magic-tasks) - Use AI to break down complex tasks in Obsidian
 - [Pentchaff/obsidian-ai-characters](https://github.com/Pentchaff/obsidian-ai-characters) - Integration of OpenAI into Obsidian, allowing user to save own system prompts
@@ -4461,6 +4460,7 @@
 - [oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) - 
 - [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [phpsysinfo/phpsysinfo](https://github.com/phpsysinfo/phpsysinfo) - phpSysInfo: a customizable PHP script that displays information about your system nicely
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [vinirossa/regex-expressions](https://github.com/vinirossa/regex-expressions) - A list of useful regular expressions.
