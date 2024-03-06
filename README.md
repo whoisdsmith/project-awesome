@@ -2672,10 +2672,10 @@
 
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [jgentes/mixpoint](https://github.com/jgentes/mixpoint) - Mixpoint is a multi-track audio mixing app for the browser
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [dangchinh25/obsidian-gpt](https://github.com/dangchinh25/obsidian-gpt) - This plugin lets the user Q&A with their own notes, powered by OpenAI.
 - [nicucalcea/obsidian-magic-tasks](https://github.com/nicucalcea/obsidian-magic-tasks) - Use AI to break down complex tasks in Obsidian
 - [skycover/aicom-obsidian](https://github.com/skycover/aicom-obsidian) - AI Companion for Obsidian and llama.cpp
