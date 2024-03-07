@@ -492,7 +492,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, extensible and ready-to-use automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and op
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
 
 ## atom 
 
@@ -515,7 +515,7 @@
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - 🩺 Track, visualize, and embed your health and life data — location, health, work, play, and more
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, extensible and ready-to-use automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and op
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
 
 ## awesome 
 
@@ -1588,7 +1588,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, extensible and ready-to-use automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and op
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
 
 ## discord 
 
@@ -2897,7 +2897,7 @@
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, extensible and ready-to-use automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and op
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -5385,7 +5385,7 @@
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable, extensible and ready-to-use automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and op
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
 - [codelucas/flask_reddit](https://github.com/codelucas/flask_reddit) - Reddit clone in flask + python + nginx + https. View site:
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
