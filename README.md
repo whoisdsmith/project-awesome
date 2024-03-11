@@ -782,7 +782,6 @@
 - [rifkyzena/bookmark-keeper](https://github.com/rifkyzena/bookmark-keeper) - A mobile-responsive website that allows user to locally save and edit bookmarks of any website links.
 - [pfcao/abookmark](https://github.com/pfcao/abookmark) - Advanced bookmark & tab manager
 - [andreasphil/bookmarks](https://github.com/andreasphil/bookmarks) - 🐿 A collection of useful and mostly free resources and tools around web development, design, and programming in general
-- [adarsh500/mark](https://github.com/adarsh500/mark) - A bookmark management web app with sleek UI and cool features
 - [hundredrabbits/Themes](https://github.com/hundredrabbits/Themes) - Simple Theme Framework
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
 - [AkashRajpurohit/clipper](https://github.com/AkashRajpurohit/clipper) - 📋 Cross Platform Desktop App to Save history of all information you copy and use them whenever with a solitary snap
@@ -1374,7 +1373,7 @@
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [cuonginspire/awesome-linux-apps](https://github.com/cuonginspire/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
+- [cuongnd9/awesome-linux-apps](https://github.com/cuongnd9/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions.
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [itech001/awesome-linux-resources](https://github.com/itech001/awesome-linux-resources) - linux resources for the begainners and advanced users.
 - [myugan/awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) - :books: An awesome list of customization tools for your UN*X/Linux desktop.
@@ -2932,6 +2931,7 @@
 - [arn4v/markbox](https://github.com/arn4v/markbox) - Markbox (FKA Bookmarky) is tag-based bookmarking tool inspired by Pinboard.in
 - [pajecawav/pockly](https://github.com/pajecawav/pockly) - Bookmark manager
 - [serogbp/startpage-react](https://github.com/serogbp/startpage-react) - Kanban-like bookmark manager
+- [adarsh500/mark](https://github.com/adarsh500/mark) - A bookmark management web app with sleek UI and cool features
 - [balogunpraise/bookmarkapp](https://github.com/balogunpraise/bookmarkapp) - A simple bookmark application using nestjs
 - [squarebitchris/raindropio-to-obsidian](https://github.com/squarebitchris/raindropio-to-obsidian) - Sync Raindrop data into Obsidian
 - [kcabo/bookmark-file-prettify](https://github.com/kcabo/bookmark-file-prettify) - improve the visual appearanceof NETSCAPE-Bookmark-files
