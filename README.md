@@ -1676,7 +1676,7 @@
 - [psobot/wub-machine](https://github.com/psobot/wub-machine) - Automatic Dubstep/Electro-House remixer app, powered by the Echo Nest Remix API.
 - [drensin/Remixatron](https://github.com/drensin/Remixatron) - Infinite Jukebox on the command line in Python. It groups musically similar beats of a song into clusters and then plays a random path through the song that makes musical sense, but not does not repea
 - [okio-ai/nendo-example-apps](https://github.com/okio-ai/nendo-example-apps) - Examples of apps built with Nendo, the AI Audio Tool Suite
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [mir-aidj/all-in-one](https://github.com/mir-aidj/all-in-one) - All-In-One Music Structure Analyzer
 - [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
