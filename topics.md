@@ -948,7 +948,7 @@
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
 - [ElJaviLuki/MeowGPT](https://github.com/ElJaviLuki/MeowGPT) - MeowGPT is a set of tools for ChatGPT that allows you to use ChatGPT with minimal coding.
 - [specful-ai/chatreview](https://github.com/specful-ai/chatreview) - Code Review Mode for ChatGPT
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [copilot-us/chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
@@ -2448,7 +2448,7 @@
 - [brahma-dev/metafetch](https://github.com/brahma-dev/metafetch) - NodeJS package that fetches a given URL's title, description, images, links etc.
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
 - [ElJaviLuki/MeowGPT](https://github.com/ElJaviLuki/MeowGPT) - MeowGPT is a set of tools for ChatGPT that allows you to use ChatGPT with minimal coding.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [jina-ai/auto-gpt-web](https://github.com/jina-ai/auto-gpt-web) - Set Your Goals, AI Achieves Them.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
@@ -3477,7 +3477,7 @@
 
 - [Mondonno/iLyrics](https://github.com/Mondonno/iLyrics) - Get lyrics of songs on your Mac that you play on iTunes, Spotify or QuickTimePlayer with speed of light.
 - [hhpr98/lyric-app-web](https://github.com/hhpr98/lyric-app-web) - lyric app for web
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [ruancorrea/manipulating_Text](https://github.com/ruancorrea/manipulating_Text) - Responsive website of an online text editor and completely free. Developed with NodeJs, VueJs and Bootstrap.
 - [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
@@ -3751,7 +3751,7 @@
 - [okio-ai/nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
 - [andersmmg/sciui](https://github.com/andersmmg/sciui) - An easy-to-use CSS framework for building Sci-Fi and futuristic UI for your web app
 - [Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines) - Sort and Permute lines in whole file or selection.
 - [iXialumy/obsidian-sort-headings](https://github.com/iXialumy/obsidian-sort-headings) - Plugin to sort headings in Obsidian
@@ -5175,7 +5175,7 @@
 - [markmelnic/visualize-browsing-history](https://github.com/markmelnic/visualize-browsing-history) - A tool to visualize your chrome browsing history using google takeout data.
 - [jameelkaisar/Quantified-Self-App](https://github.com/jameelkaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -6142,7 +6142,7 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager - Say goodbye to Package Manager confusion
-- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [mfcar/TextTools](https://github.com/mfcar/TextTools) - Tools for your text
