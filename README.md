@@ -583,7 +583,7 @@
 - [DBKarman/lyricsync](https://github.com/DBKarman/lyricsync) - An lrc file generator/creator online, Simply visit the website or open index.html locally in order to sync your lyrics with your music
 - [ajmd17/lyric-video-editor](https://github.com/ajmd17/lyric-video-editor) - A small app for creating and rendering lyric videos.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
 - [barkloaf/MetaGrab](https://github.com/barkloaf/MetaGrab) - A webapp that grabs Spotify's metadata for any track you'd like!
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
@@ -1754,7 +1754,7 @@
 - [jameelkaisar/Quantified-Self-App](https://github.com/jameelkaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [nasa-jpl-memex/memex-explorer](https://github.com/nasa-jpl-memex/memex-explorer) - Viewers for statistics and dashboarding of Domain Search Engine data
 - [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [michaelNinh/arxiv-search-summarize](https://github.com/michaelNinh/arxiv-search-summarize) - Keyword search Arxiv and summarize papers with OpenAi's chatGPT.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
@@ -3031,7 +3031,7 @@
 - [plugins-galore/obsidian-plugins-galore](https://github.com/plugins-galore/obsidian-plugins-galore) - This is an Obsidian plugin to allow easily sideloading other plugins.
 - [06000208/obsidian-items](https://github.com/06000208/obsidian-items) - Graphical metadata/yaml editing for obsidian
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
-- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates) - Take advantage of YAML front-matter in generating notes from templates (for obsidian.md)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
