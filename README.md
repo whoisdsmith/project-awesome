@@ -491,7 +491,7 @@
 - [Lisandra-dev/yet-another-free-publish-alternative](https://github.com/Lisandra-dev/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
-- [smartdevcode/awesome-wordpress](https://github.com/smartdevcode/awesome-wordpress) - 
+- [adonistoday/awesome-wordpress](https://github.com/adonistoday/awesome-wordpress) - 
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [longpdo/neumorphism](https://github.com/longpdo/neumorphism) - Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
 - [Swivro/weboasis-continued](https://github.com/Swivro/weboasis-continued) - An attempt to recreate and continue the now defunct Weboasis (was accessible via weboas.is, but is now down). RIP Webby 1992-2022.
@@ -1212,7 +1212,7 @@
 - [aminblm/awesome-chatgpt-suggestions](https://github.com/aminblm/awesome-chatgpt-suggestions) - List of prompts for chatGPT for various assistances with tasks.
 - [Elele-Team/free-for-students](https://github.com/Elele-Team/free-for-students) - This is a full updated list of tools and software that are free for students!
 - [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the JSON file required to perform user enumeration on various websites.
-- [omnicreor/PI-AGI](https://github.com/omnicreor/PI-AGI) - Welcome to PI AGI, a groundbreaking project aiming to revolutionize the world of Artificial Intelligence by developing a base for role-based AGIs (Artificial General Intelligences) that are personaliz
+- [fatihturker/PI-AGI](https://github.com/fatihturker/PI-AGI) - Welcome to PI AGI, a groundbreaking project aiming to revolutionize the world of Artificial Intelligence by developing a base for role-based AGIs (Artificial General Intelligences) that are personaliz
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [PR0CK0/StableDiffusionEndToEndGuide](https://github.com/PR0CK0/StableDiffusionEndToEndGuide) - An End-to-End Guide for Learning Stable Diffusion - From Noob to Expert
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
