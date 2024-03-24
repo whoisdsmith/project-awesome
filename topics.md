@@ -4835,7 +4835,7 @@
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [Dave1482/iRepoMakerServer](https://github.com/Dave1482/iRepoMakerServer) - Just the server used for iRepoMaker in Cydia
 - [kohaku-/Koharu-Repository](https://github.com/kohaku-/Koharu-Repository) - http://cydia.kohaku.repo
-- [jmmaloney4/Cydia_Apps](https://github.com/jmmaloney4/Cydia_Apps) - 
+- [jack-archive/Cydia_Apps](https://github.com/jack-archive/Cydia_Apps) - 
 - [dotar/InformativeLite2.0](https://github.com/dotar/InformativeLite2.0) - Pebble watchface using Smartwatch+ on Cydia
 - [ResearchKit/ResearchKit](https://github.com/ResearchKit/ResearchKit) - ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
 - [jzplusplus/OkSiri](https://github.com/jzplusplus/OkSiri) - 
