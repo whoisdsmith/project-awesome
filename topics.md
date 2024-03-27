@@ -491,7 +491,7 @@
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [CorentinB/DeepSort](https://github.com/CorentinB/DeepSort) - 🧠 AI powered image tagger backed by DeepDetect
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of reusable, portable and extensible automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and optimi
 
 ## atom 
 
@@ -514,7 +514,7 @@
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [thenurhabib/tenssens](https://github.com/thenurhabib/tenssens) - Tenssens framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.
 - [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - 🩺 Track, visualize, and embed your health and life data — location, health, work, play, and more
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of reusable, portable and extensible automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and optimi
 
 ## awesome 
 
@@ -548,6 +548,7 @@
 - [re50urces/Awesome-AI](https://github.com/re50urces/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools
 - [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -1344,7 +1345,7 @@
 - [chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin) - MySnippets is a plugin that adds a status bar menu allowing the user to quickly manage their snippets within the comfort of their workspace 🖌.
 - [X0RBYT3/OSINT-Tools](https://github.com/X0RBYT3/OSINT-Tools) - An Online Collection of Open Source Intelligence Tools
 - [Birdie0/userstyles](https://github.com/Birdie0/userstyles) - Small collection of "css patches"
-- [syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - syahravi timeline - a timeline of important events in my life.
+- [syahravi/me](https://github.com/syahravi/me) - syahravi timeline - a timeline of important events in my life.
 - [soujava/historia](https://github.com/soujava/historia) - História do SouJava
 
 ## cybersecurity 
@@ -1590,7 +1591,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of reusable, portable and extensible automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and optimi
 
 ## discord 
 
@@ -1660,6 +1661,7 @@
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [LappleApple/feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open source projects grow. See the README maturity model to help you keep going.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [Linbreux/wikmd](https://github.com/Linbreux/wikmd) - A file based wiki that uses markdown
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
@@ -1876,6 +1878,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
@@ -2369,7 +2372,7 @@
 - [michabirklbauer/instagram_json_viewer](https://github.com/michabirklbauer/instagram_json_viewer) - Transforms Instagram's *.json / backup data - that you get via the Data Download Tool - to a readable format!
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [Chris3Arcadia/Evernote-to-DayOne](https://github.com/Chris3Arcadia/Evernote-to-DayOne) - Python script for converting Evernote notes to Day One journal entries using Day One's official command line interface.
-- [syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - syahravi timeline - a timeline of important events in my life.
+- [syahravi/me](https://github.com/syahravi/me) - syahravi timeline - a timeline of important events in my life.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 
 ## html5 
@@ -2899,7 +2902,7 @@
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of reusable, portable and extensible automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and optimi
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
@@ -3034,6 +3037,7 @@
 - [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [HugoBlox/theme-second-brain](https://github.com/HugoBlox/theme-second-brain) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [symkat/MarkdownSite](https://github.com/symkat/MarkdownSite) - Create a website from a git repository in one click
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -4216,7 +4220,6 @@
 - [piyushmaurya23/free-for-student](https://github.com/piyushmaurya23/free-for-student) - A list of developers tools & services which are free for students. This repo will also contains list of free tier services.
 - [Ajju2211/free-college-id](https://github.com/Ajju2211/free-college-id) - This application provides free college ID cards for students.
 - [shalvah/Free-for-students](https://github.com/shalvah/Free-for-students) - Because software is expensive and money is elusive,
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [Saber2pr/wiki-builder](https://github.com/Saber2pr/wiki-builder) - powered by saber2pr.github.io
 - [cmbrose/github-docs-to-wiki](https://github.com/cmbrose/github-docs-to-wiki) - 
 - [thlorenz/doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
@@ -5388,7 +5391,7 @@
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [jendrikseipp/rednotebook](https://github.com/jendrikseipp/rednotebook) - RedNotebook is a cross-platform journal
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of reusable, portable and extensible automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and optimi
 - [codelucas/flask_reddit](https://github.com/codelucas/flask_reddit) - Reddit clone in flask + python + nginx + https. View site:
 - [recipy/recipy](https://github.com/recipy/recipy) - Effortless method to record provenance in Python
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
@@ -5449,7 +5452,7 @@
 - [brandonlou/DayOne2Joplin](https://github.com/brandonlou/DayOne2Joplin) - 🔄 Convert notes from Day One to Joplin
 - [tslmy/GoQuantifyYourself](https://github.com/tslmy/GoQuantifyYourself) - Visualizing Quantified Self data with R.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [syahravi/syahravi-timeline](https://github.com/syahravi/syahravi-timeline) - syahravi timeline - a timeline of important events in my life.
+- [syahravi/me](https://github.com/syahravi/me) - syahravi timeline - a timeline of important events in my life.
 - [tyguy-1122/qs-location-dashboard](https://github.com/tyguy-1122/qs-location-dashboard) - A quantified-self project that displays charts representing location data from Google Takeout. The user inputs a file path for downloaded JSON Google Takeout location data and the coordinates for plac
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [plant99/felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
