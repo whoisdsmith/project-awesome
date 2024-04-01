@@ -3974,7 +3974,7 @@
 - [Shawn91/DocTor](https://github.com/Shawn91/DocTor) - A tabular/list/plain text cleaner
 - [simc/logger](https://github.com/simc/logger) - Small, easy to use and extensible logger which prints beautiful logs.
 - [phastmike/tags](https://github.com/phastmike/tags) - A simple text tagger
-- [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs
+- [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs.
 - [rhasspy/gruut](https://github.com/rhasspy/gruut) - A tokenizer, text cleaner, and phonemizer for many human languages.
 - [UtilityHotbar/showmd](https://github.com/UtilityHotbar/showmd) - 
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
