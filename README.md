@@ -1727,7 +1727,6 @@
 - [hayabhay/frogbase](https://github.com/hayabhay/frogbase) - Transform audio-visual content into navigable knowledge.
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
-- [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [merlinepedra/BLACKBIRD](https://github.com/merlinepedra/BLACKBIRD) - 
@@ -1763,7 +1762,7 @@
 - [XpressAI/xai-gpt-agent-toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [superhj1987/awesome-mac-things](https://github.com/superhj1987/awesome-mac-things) - some useful mac things:scripts, shells, doc, shortcut keys
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [seanpixel/Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
 - [WenServices/ClassifyAI](https://github.com/WenServices/ClassifyAI) - AI Service that classifies data with given or passed model structure response to use in code
 - [clampro/obsidianURLchecker](https://github.com/clampro/obsidianURLchecker) - Checks your notes for URLs and logs the ones that are not reachable
