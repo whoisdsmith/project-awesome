@@ -202,6 +202,7 @@
 
 ## CSS 
 
+- [Bonnie39/voyage](https://github.com/Bonnie39/voyage) - Simple frontend for Google Custom Search Engine
 - [andersmmg/sciui](https://github.com/andersmmg/sciui) - An easy-to-use CSS framework for building Sci-Fi and futuristic UI for your web app
 - [KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner) - Personal Obsidian Enhanced CSS snippet
 - [PurpleGuitar/obsidian-snippets](https://github.com/PurpleGuitar/obsidian-snippets) - CSS snippets for use with Obsidian
@@ -1034,6 +1035,8 @@
 
 ## Jupyter Notebook 
 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
 - [bmkjn/Spotify-Data-Analysis](https://github.com/bmkjn/Spotify-Data-Analysis) - This repository hosts a collection of data analysis scripts utilizing popular Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to explore and analyze Spotify's vast collection of track,
 - [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
@@ -1100,7 +1103,7 @@
 - [czyczk/auto-music-info-server](https://github.com/czyczk/auto-music-info-server) - A Kotlin JVM project to make use of both rules and AI power to collect information about music from the Internet. See https://github.com/czyczk/auto_music_info for the Flutter client.
 - [khaouitiabdelhakim/LyricsAI](https://github.com/khaouitiabdelhakim/LyricsAI) - LyricsAI is a powerful and easy-to-use library for Android developers that allows you to retrieve song lyrics from various online sources. This library leverages web scraping techniques to find and de
 - [patxibocos/google-photos-exporter](https://github.com/patxibocos/google-photos-exporter) - Google Photos exporter
-- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+- [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [darthmachina/obsidian-neural-link](https://github.com/darthmachina/obsidian-neural-link) - Tool to automate Obsidian data
 - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API.
@@ -1120,6 +1123,7 @@
 
 ## Makefile 
 
+- [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [aterenin/Photos](https://github.com/aterenin/Photos) - A desktop app for the Google Photos website with dark mode support.
@@ -1171,6 +1175,10 @@
 
 ## Others 
 
+- [lks-ai/prompt-library](https://github.com/lks-ai/prompt-library) - This is a collection of `.prowl` scripts which act as modular prompts for use with PrOwl and ProwlStack and Local LLMs
+- [andremoreira73/prompt_collection](https://github.com/andremoreira73/prompt_collection) - This is my personal prompt collection, it is open source and free to use.
+- [mckaywrigley/prompts](https://github.com/mckaywrigley/prompts) - My favorite AI prompts.
+- [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [FrancoOscarBaez/Data-Mining-Spotify-Top-Songs](https://github.com/FrancoOscarBaez/Data-Mining-Spotify-Top-Songs) - I employed the J48 decision tree algorithm to analyze the dataset and uncover underlying patterns in the data of the most streamed songs.
 - [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
@@ -1628,7 +1636,9 @@
 
 ## Python 
 
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to
+- [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide unofficial Suno AI API, which can be used to generate music, lyrics, etc., without any deployment and setup.👇
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
@@ -1657,7 +1667,7 @@
 - [wlamason/github-stars](https://github.com/wlamason/github-stars) - ⭐Create a searchable view of your github stars. Runs daily with github actions.
 - [zwq2018/Auto_star](https://github.com/zwq2018/Auto_star) - auto star for repo lists
 - [iXce/deezerexport](https://github.com/iXce/deezerexport) - Export your Deezer playlists in a breath
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
 - [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment) - Wrapper for pydub AudioSegment objects
@@ -2604,7 +2614,7 @@
 - [kitykity/DayOneRandom](https://github.com/kitykity/DayOneRandom) - Day One doesn't have a random post button (yet!), but this web page will allow you to go to any random post that you've put into it. Requires a little work each time you write a post, but it's worth i
 - [dduan/git2dayone](https://github.com/dduan/git2dayone) - A script for logging git commit messages in the app Day One
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
@@ -2667,6 +2677,7 @@
 
 ## TypeScript 
 
+- [gsaivinay/claude-prompt-optimizer](https://github.com/gsaivinay/claude-prompt-optimizer) - An open-source Claude 3 prompt optimizer
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [jgentes/mixpoint](https://github.com/jgentes/mixpoint) - Mixpoint is a multi-track audio mixing app for the browser
