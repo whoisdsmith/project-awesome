@@ -133,7 +133,6 @@
 - [TechNobre/PowerUtils.Text](https://github.com/TechNobre/PowerUtils.Text) - Helpers, extensions and utilities for manipulating strings
 - [karisigurd4/DocumentLab](https://github.com/karisigurd4/DocumentLab) - OCR using tesseract, ImageMagick, EmguCV, an advanced query language and a fluent query interface for C#
 - [hmol/LinkCrawler](https://github.com/hmol/LinkCrawler) - Find broken links in webpage
-- [xeladu/broken-link-checker](https://github.com/xeladu/broken-link-checker) - This tool checks all external links of a website if they are reachable.
 - [msioen/ai-tagger](https://github.com/msioen/ai-tagger) - A small mac utility to watch folders and automatically classify image documents.
 - [AddictedCS/soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting) - Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.
 - [Computr1x/ExNihilo](https://github.com/Computr1x/ExNihilo) - ExNihilo - modern, powerfull and flexible image creation library.
