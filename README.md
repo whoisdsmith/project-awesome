@@ -800,7 +800,7 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [theowenyoung/gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki) - A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files.
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
-- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - My personal repertoire of technology and security-related notes.
+- [akenofu/HackAllTheThings](https://github.com/akenofu/HackAllTheThings) - Meticulously curated security notes with Emphasis on Application Security, DevSecOps, Cloud Computing, and Penetration Testing.
 - [tanepiper/obsidian-garden](https://github.com/tanepiper/obsidian-garden) - A knowledge management garden for https://obsidian.md, in which to grow your ideas
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [Vuectron/Astrolabe](https://github.com/Vuectron/Astrolabe) - [WIP] Manage your GitHub stars with one desktop app.
@@ -1637,7 +1637,7 @@
 
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇提供Suno API，不需要任何部署与设置，接入即用。👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - We provide an unofficial Suno AI API, no deployment or setup required.👇
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
