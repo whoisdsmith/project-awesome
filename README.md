@@ -1327,7 +1327,7 @@
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [lovelacecoding/Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources) - A collection of helpful and educational resources I found on social media
-- [Tosoju/awesome-piracy-archived](https://github.com/Tosoju/awesome-piracy-archived) - A curated list of awesome warez and piracy links [but i actually update it]
+- [Tosoju/awesome-piracy-archived](https://github.com/Tosoju/awesome-piracy-archived) - A curated list of awesome warez and piracy links [but i stopped updating it]
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository for ScribeMD
 - [markdown-templates/markdown-snippets](https://github.com/markdown-templates/markdown-snippets) - :clipboard: Markdown snippets for your documentation files.
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
@@ -2462,7 +2462,7 @@
 
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [darkskygit/ChatImporter](https://github.com/darkskygit/ChatImporter) - import chat records from your im and store into single sqlite database
-- [stellar-amenities/hal-9100](https://github.com/stellar-amenities/hal-9100) - The bridge between Software 1.0 and Software 3.0. For production, edge, and AIoT. Using OpenAI SDK. Written in Rust
+- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Software 3.0 on the edge. Using OpenAI SDK. Written in Rust
 - [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
 - [hilbigan/ngrm](https://github.com/hilbigan/ngrm) - Find similar files based on byte sequences
 - [whitfin/runiq](https://github.com/whitfin/runiq) - An efficient way to filter duplicate lines from input, à la uniq.
@@ -2915,7 +2915,7 @@
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
-- [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
+- [ShaanCoding/makeread.me](https://github.com/ShaanCoding/makeread.me) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
