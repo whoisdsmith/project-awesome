@@ -97,6 +97,7 @@
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [homebrew](#homebrew)
@@ -1065,7 +1066,6 @@
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own ChatGpt Bot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4-turbo
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [wqhadija/gorgeous-chatgpt-prompts](https://github.com/wqhadija/gorgeous-chatgpt-prompts) - Keep your mind sharp and your nerves on edge with this mysterious prompt that will keep you guessing until the end.🤔
@@ -2205,6 +2205,13 @@
 - [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
+
+## hacking-tools 
+
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 
 ## hacktoberfest 
 
@@ -4113,6 +4120,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own chatgpt Bot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4-turbo
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt generator for Midjourney and maybe other AIs in the future.
