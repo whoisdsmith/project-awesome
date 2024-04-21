@@ -1178,7 +1178,7 @@
 - [lks-ai/prompt-library](https://github.com/lks-ai/prompt-library) - This is a collection of `.prowl` scripts which act as modular prompts for use with PrOwl and ProwlStack and Local LLMs
 - [andremoreira73/prompt_collection](https://github.com/andremoreira73/prompt_collection) - This is my personal prompt collection, it is open source and free to use.
 - [mckaywrigley/prompts](https://github.com/mckaywrigley/prompts) - My favorite AI prompts.
-- [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
+- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [FrancoOscarBaez/Data-Mining-Spotify-Top-Songs](https://github.com/FrancoOscarBaez/Data-Mining-Spotify-Top-Songs) - I employed the J48 decision tree algorithm to analyze the dataset and uncover underlying patterns in the data of the most streamed songs.
 - [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
@@ -1710,7 +1710,7 @@
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [Parisson/Telemeta](https://github.com/Parisson/Telemeta) - Collaborative content management system for musicology
 - [Gazoo101/lyric-manager](https://github.com/Gazoo101/lyric-manager) - A lyric management tool to process raw lyric files using an external alignment model to produce .aligned_lyrics files.
-- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - An ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
+- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - 🎵 An ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
 - [azusalad/addlyrics](https://github.com/azusalad/addlyrics) - Searches various websites and tags lyrics to local mp3 files.
 - [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
 - [spyer/lyrics2mp3](https://github.com/spyer/lyrics2mp3) - Parse lyrics and add them into mp3 files (via id tags). Lyrics can then be viewed on iPhone, iTunes and other players.
