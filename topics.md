@@ -3830,7 +3830,6 @@
 - [Lyrics/lyrics.github.io](https://github.com/Lyrics/lyrics.github.io) - Open Lyrics Database website
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files!
 - [eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics) - Enhance your Obsidian audio player by adding a interactive lyrics display feature.
-- [faminchik/get-lyrics](https://github.com/faminchik/get-lyrics) - Application for getting song lyrics and setting them to mp3 files.
 - [DBKarman/lyricsync](https://github.com/DBKarman/lyricsync) - An lrc file generator/creator online, Simply visit the website or open index.html locally in order to sync your lyrics with your music
 - [ajmd17/lyric-video-editor](https://github.com/ajmd17/lyric-video-editor) - A small app for creating and rendering lyric videos.
 - [okio-ai/nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite
