@@ -2700,7 +2700,6 @@
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
 - [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files!
 - [eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics) - Enhance your Obsidian audio player by adding a interactive lyrics display feature.
-- [faminchik/get-lyrics](https://github.com/faminchik/get-lyrics) - Application for getting song lyrics and setting them to mp3 files.
 - [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - High-performance lyric video editor accessible on any browser
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [blairmcalpine/tracklist](https://github.com/blairmcalpine/tracklist) - List a Spotify artist's songs in a simple, easy to view order.
