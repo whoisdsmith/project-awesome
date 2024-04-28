@@ -2302,7 +2302,7 @@
 - [matthewdunlap/editorial](https://github.com/matthewdunlap/editorial) - Editorial Workflows
 - [analogmethod/editorial](https://github.com/analogmethod/editorial) - Basic editorial site using mezzanine
 - [fleshgordo/120days](https://github.com/fleshgordo/120days) - 120days of *buntu - book documentation
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a simple, modular, cross-platform and decentralized workflow automation framework with a human-friendly interface and reusable automation recipes to make it easier to compose, 
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a small, modular, cross-platform and decentralized workflow automation framework with a human-friendly interface and reusable automation recipes to make it easier to compose, r
 - [mkarneim/editorial-crypto](https://github.com/mkarneim/editorial-crypto) - Encryption and Decryption for Editorial Documents
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
 - [rtcweb-wg/security-arch](https://github.com/rtcweb-wg/security-arch) - Security architecture document
@@ -2682,7 +2682,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [jgentes/mixpoint](https://github.com/jgentes/mixpoint) - Mixpoint is a multi-track audio mixing app for the browser
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
@@ -2698,7 +2698,7 @@
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) - Regex Obsidian Plugin
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
-- [FiniteLooper/LyricConverter](https://github.com/FiniteLooper/LyricConverter) - The universal translator & converter for song presentation files!
+- [ChrisMBarr/LyricConverter](https://github.com/ChrisMBarr/LyricConverter) - The universal translator & converter for song presentation files!
 - [eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics) - Enhance your Obsidian audio player by adding a interactive lyrics display feature.
 - [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - High-performance lyric video editor accessible on any browser
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
