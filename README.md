@@ -415,7 +415,7 @@
 - [DonAurelio/text-analyzer](https://github.com/DonAurelio/text-analyzer) - This projects is dedicated to an University Assignment about Natural Language Processing With Freeling and Python
 - [alterae/text-replacer](https://github.com/alterae/text-replacer) - A simple find-and-replace utility, built in vanilla html, css, and typescript.
 - [VivekChoudhary77/Textify-text-Preprocessing](https://github.com/VivekChoudhary77/Textify-text-Preprocessing) - A text preprocessing web application
-- [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs.
+- [johnjago/deformat](https://github.com/johnjago/deformat) - Remove extra whitespace from text.
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
 - [gabor-farkas/photo-duplicates](https://github.com/gabor-farkas/photo-duplicates) - Remove photos uploaded multiple times to Google Photos
 - [KasRoudra/repository-readme-generator](https://github.com/KasRoudra/repository-readme-generator) - Repository readme generator is a website/web-application to generate beautiful README.md for your repository. You can copy or download that. Enjoy!
@@ -771,7 +771,7 @@
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files via comment blocks using source code, external data & custom transforms.
 - [sphido/sphido](https://github.com/sphido/sphido) - A rocket 🚀 fast, light-weight and flexible static site generator.
 - [EshanTrivedi21/Git-CheatSheet](https://github.com/EshanTrivedi21/Git-CheatSheet) - An opensource initiative to which over 37 individuals from all over the world collaborated in order to streamline the process of learning Git and GitHub.
-- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. An extensible alternative to Markdown.
+- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. A language for bloggers. This repo contains the language and a static site generator command line app.
 - [manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - macOS vulnerability management for individuals
 - [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [kewbish/matter](https://github.com/kewbish/matter) - A RSS feed aggregator with bookmarking and sync support.
