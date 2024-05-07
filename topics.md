@@ -3144,7 +3144,7 @@
 - [jesperancinha/markdowner](https://github.com/jesperancinha/markdowner) - Markdowner is a parser project exclusively made for mardown files.
 - [chuhlomin/genblog](https://github.com/chuhlomin/genblog) - Generates static site (blog) from Markdown files
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
-- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. An extensible alternative to Markdown.
+- [breck7/scroll](https://github.com/breck7/scroll) - Tools for thought. A language for bloggers. This repo contains the language and a static site generator command line app.
 - [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) - Your content driven static site generator.
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
@@ -4039,7 +4039,7 @@
 - [Shawn91/DocTor](https://github.com/Shawn91/DocTor) - A tabular/list/plain text cleaner
 - [simc/logger](https://github.com/simc/logger) - Small, easy to use and extensible logger which prints beautiful logs.
 - [phastmike/tags](https://github.com/phastmike/tags) - A simple text tagger
-- [johnjago/deformat](https://github.com/johnjago/deformat) - Clean up text copied from PDFs.
+- [johnjago/deformat](https://github.com/johnjago/deformat) - Remove extra whitespace from text.
 - [rhasspy/gruut](https://github.com/rhasspy/gruut) - A tokenizer, text cleaner, and phonemizer for many human languages.
 - [UtilityHotbar/showmd](https://github.com/UtilityHotbar/showmd) - 
 - [dineshsonachalam/markdown-autodocs](https://github.com/dineshsonachalam/markdown-autodocs) - ✨ A GitHub Action that automatically generates & updates markdown content (like your README.md) from external or remote files.
