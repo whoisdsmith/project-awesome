@@ -388,6 +388,8 @@
 
 ## HTML 
 
+- [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
+- [hihumanzone/Gemini-Pro-Chat-Interface](https://github.com/hihumanzone/Gemini-Pro-Chat-Interface) - A Chat Interface For Gemini Pro
 - [polifonia-project/music-meta-ontology](https://github.com/polifonia-project/music-meta-ontology) - A flexible ontology for the interoperability of music metadata
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [1999AZZAR/gpt-advance-prompt-library](https://github.com/1999AZZAR/gpt-advance-prompt-library) - promt collection for special use case, tested on chatGPT and Bard
@@ -568,6 +570,7 @@
 
 ## JavaScript 
 
+- [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [faetalize/zodiac](https://github.com/faetalize/zodiac) - A ⚡lightweight⚡ frontend for Google's Gemini Pro.
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [kokosthief/cue-to-text-converter-rekordbox](https://github.com/kokosthief/cue-to-text-converter-rekordbox) - Web app to convert cue files from rekordbox DJ software, into a readable text based setlist.
@@ -1176,6 +1179,7 @@
 
 ## Others 
 
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
 - [lks-ai/prompt-library](https://github.com/lks-ai/prompt-library) - This is a collection of `.prowl` scripts which act as modular prompts for use with PrOwl and ProwlStack and Local LLMs
 - [andremoreira73/prompt_collection](https://github.com/andremoreira73/prompt_collection) - This is my personal prompt collection, it is open source and free to use.
 - [mckaywrigley/prompts](https://github.com/mckaywrigley/prompts) - My favorite AI prompts.
@@ -1637,6 +1641,8 @@
 
 ## Python 
 
+- [PyrokineticDarkElf/Google-Maps-Timeline-to-Obsidian](https://github.com/PyrokineticDarkElf/Google-Maps-Timeline-to-Obsidian) - This Python script will convert your Google Maps Timeline history in to markdown files for use in Obsidian.
+- [cetninarius/google-contacts-to-obsidian](https://github.com/cetninarius/google-contacts-to-obsidian) - This Python script enables the download of Google contacts using the Google People API and converts each contact into a .md file format. This is particularly useful for visualizing your connections in
 - [dvp-git/gemini-information-extractor](https://github.com/dvp-git/gemini-information-extractor) - A simple single interface information extractor app using the latest gemini-vision-pro  model
 - [haseeb-heaven/gemini-vision-pro](https://github.com/haseeb-heaven/gemini-vision-pro) - Google Gemini Vision Web application with Speech and Text
 - [hiliuxg/geminichat](https://github.com/hiliuxg/geminichat) - A chatbot, powered by google gemini pro , gemini pro vision and ui is maked by streamlit.
@@ -2520,6 +2526,7 @@
 
 ## SCSS 
 
+- [felixqueisler/Obsidian-FileLink-Styling](https://github.com/felixqueisler/Obsidian-FileLink-Styling) - Improves the way linked files are displayed in Obsidian, making them beautifully distinct from notes.
 - [ReconVirus/Historium](https://github.com/ReconVirus/Historium) - Historium is a tool that lets you create and view a timeline of your notes based on tags. You can organize your notes by date, topic, or any other criteria,
 - [PeARSearch/PeARSearch.github.io](https://github.com/PeARSearch/PeARSearch.github.io) - Website for PeARS project
 - [asifm/data-science-handbook](https://github.com/asifm/data-science-handbook) - Draft of a handbook for aspiring data scientists. WIP.
@@ -2629,6 +2636,8 @@
 
 ## Svelte 
 
+- [jaymakes11/prompts4all](https://github.com/jaymakes11/prompts4all) - A free and open-source library of AI prompts.
+- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
@@ -2679,6 +2688,12 @@
 
 ## TypeScript 
 
+- [czottmann/obsidian-logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) - A simple Obsidian plugin that proxies `console.*()` calls and copies log messages and uncaught exceptions to a file in your vault.
+- [BjarneRentz/obsidian-gemini-generator](https://github.com/BjarneRentz/obsidian-gemini-generator) - Small Obsidian plugin that uses Googles Gemini to genrate notes
+- [arenasys/obsidian-ai-chat](https://github.com/arenasys/obsidian-ai-chat) - 
+- [taichimaeda/markpilot](https://github.com/taichimaeda/markpilot) - AI-powered inline completions and chat view for Obsidian
+- [SystemSculpt/obsidian-systemsculpt-ai](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) - Enhance your Obsidian App experience with AI-powered tools for note-taking, task management, and much, MUCH more.
+- [mark-when/obsidian-plugin](https://github.com/mark-when/obsidian-plugin) - Markwhen obsidian plugin
 - [e-roy/gemini-pro-vision-playground](https://github.com/e-roy/gemini-pro-vision-playground) - A simple playground Web UI for using the Gemini Pro Vision and Gemini Pro AI models with Next.js
 - [gsaivinay/claude-prompt-optimizer](https://github.com/gsaivinay/claude-prompt-optimizer) - An open-source Claude 3 prompt optimizer
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
