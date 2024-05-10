@@ -1648,7 +1648,7 @@
 - [hiliuxg/geminichat](https://github.com/hiliuxg/geminichat) - A chatbot, powered by google gemini pro , gemini pro vision and ui is maked by streamlit.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - I provide the API of suno, no deployment is required, no subscription to suno is required. It 's convenient to use. 👇
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
@@ -2428,7 +2428,7 @@
 
 - [apexatoll/audio_tag](https://github.com/apexatoll/audio_tag) - 🎵 🏷  AudioTag: Ruby library for reading and writing audio file metadata 🎵 🏷
 - [mm53bar/obsidian_utils](https://github.com/mm53bar/obsidian_utils) - Various scripts and utilities for Obsidian.md
-- [superiorlu/AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
+- [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants v2, Batches & Ollama/Groq 🚀
