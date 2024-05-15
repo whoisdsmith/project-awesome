@@ -2431,7 +2431,7 @@
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping to catalog, preserve and free the artifacts you need to produce music.
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Assistants v2, Batches & Ollama/Groq 🚀
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with GPT4o 🚀🚀🚀
 - [michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds a websites broken links and reports back to you with a summary
 - [hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find dead-links (broken links)
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
