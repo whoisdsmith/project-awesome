@@ -2689,6 +2689,7 @@
 
 ## TypeScript 
 
+- [anoopkcn/obsidian-reference-map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery
 - [czottmann/obsidian-logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) - A simple Obsidian plugin that proxies `console.*()` calls and copies log messages and uncaught exceptions to a file in your vault.
 - [BjarneRentz/obsidian-gemini-generator](https://github.com/BjarneRentz/obsidian-gemini-generator) - Small Obsidian plugin that uses Googles Gemini to genrate notes
 - [arenasys/obsidian-ai-chat](https://github.com/arenasys/obsidian-ai-chat) - 
