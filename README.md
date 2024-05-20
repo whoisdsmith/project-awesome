@@ -325,7 +325,7 @@
 - [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-comm
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [TypicalAM/Small-Note-App](https://github.com/TypicalAM/Small-Note-App) - Web place to view your notes - powered by Go
@@ -1015,7 +1015,6 @@
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [simonwongwong/Facebook-Messenger-JSON-viewer](https://github.com/simonwongwong/Facebook-Messenger-JSON-viewer) - If you've downloaded your Facebook data in JSON format, this tool lets you read the chats more intuitively
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [jordanmerrick/scriptable](https://github.com/jordanmerrick/scriptable) - 
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [PanJiaChen/awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks) - :sparkling_heart: A curated list of awesome things
 - [sawankumar/Google-Drive-Index](https://github.com/sawankumar/Google-Drive-Index) - A Google Drive Index Running on CloudFlare Workers.
@@ -2714,7 +2713,7 @@
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools) - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
 - [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local GPT assistance for maximum privacy and offline access
-- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - Never Organize your Obsidian Vault again
+- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI File Organization
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) - Regex Obsidian Plugin
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
