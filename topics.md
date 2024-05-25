@@ -240,8 +240,10 @@
 
 ## ai 
 
+- [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [faetalize/zodiac](https://github.com/faetalize/zodiac) - A ⚡lightweight⚡ frontend for Google's Gemini Pro.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
@@ -255,7 +257,7 @@
 - [dfinke/PowerShellGemini](https://github.com/dfinke/PowerShellGemini) - PowerShell integration for Google's versatile Gemini Pro API
 - [Curated-Awesome-Lists/Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) - Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and th
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
-- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Software 3.0 without internet. Using OpenAI SDK. Written in Rust
+- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Edge full-stack LLM platform. Written in Rust
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [AlexanderDotH/OpenLyricsClient](https://github.com/AlexanderDotH/OpenLyricsClient) - A lyrics synchronization tool for everyone
 - [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - High-performance lyric video editor accessible on any browser
@@ -471,7 +473,7 @@
 
 ## artificial-intelligence 
 
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
@@ -548,7 +550,7 @@
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+- [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -721,7 +723,7 @@
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+- [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 - [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources) - Resources for learning about Text Mining and Natural Language Processing
 - [tborychowski/awesome-mac](https://github.com/tborychowski/awesome-mac) - Mac awesome MacOS Apps
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -962,9 +964,12 @@
 
 ## chatgpt 
 
+- [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
+- [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [jaymakes11/prompts4all](https://github.com/jaymakes11/prompts4all) - A free and open-source library of AI prompts.
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [haseeb-heaven/gemini-vision-pro](https://github.com/haseeb-heaven/gemini-vision-pro) - Google Gemini Vision Web application with Speech and Text
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
@@ -1017,7 +1022,7 @@
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [Correia-jpv/fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴
-- [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+- [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [puppe1990/useful_chatgpt_prompts](https://github.com/puppe1990/useful_chatgpt_prompts) - ChatGPT Prompts is a web application that provides prompts generated by the OpenAI GPT-3 language model. The prompts can be used for a variety of purposes, such as inspiration for writing, conversatio
 - [KyleWen33/PromptXYZ](https://github.com/KyleWen33/PromptXYZ) - 
@@ -1112,7 +1117,7 @@
 
 ## chatgpt-api 
 
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Semantic QA with a markdown database: Query any markdown file using vector embedding, Pinecone vector database and GPT (langchain). A weaker version of privateGPT
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -1541,7 +1546,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sakemin/cog-musicgen-chord](https://github.com/sakemin/cog-musicgen-chord) - Chord conditioning implemented MusicGen
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
-- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Software 3.0 without internet. Using OpenAI SDK. Written in Rust
+- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Edge full-stack LLM platform. Written in Rust
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
@@ -2869,12 +2874,13 @@
 
 ## llm 
 
+- [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [dvp-git/gemini-information-extractor](https://github.com/dvp-git/gemini-information-extractor) - A simple single interface information extractor app using the latest gemini-vision-pro  model
 - [faetalize/zodiac](https://github.com/faetalize/zodiac) - A ⚡lightweight⚡ frontend for Google's Gemini Pro.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Software 3.0 without internet. Using OpenAI SDK. Written in Rust
+- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Edge full-stack LLM platform. Written in Rust
 - [1999AZZAR/gpt-advance-prompt-library](https://github.com/1999AZZAR/gpt-advance-prompt-library) - promt collection for special use case, tested on chatGPT and Bard
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
@@ -2941,7 +2947,7 @@
 
 ## machine-learning 
 
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2955,7 +2961,7 @@
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
-- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Software 3.0 without internet. Using OpenAI SDK. Written in Rust
+- [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Edge full-stack LLM platform. Written in Rust
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
@@ -3038,6 +3044,7 @@
 
 ## macos 
 
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
@@ -3836,7 +3843,7 @@
 - [gsaivinay/claude-prompt-optimizer](https://github.com/gsaivinay/claude-prompt-optimizer) - An open-source Claude 3 prompt optimizer
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - I provide suno API, no deployment is required.It 's convenient to use. 需要 suno API的可以看看这里👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
 - [antlarr/bard](https://github.com/antlarr/bard) - Bard Music Manager - A database to manage your music, find duplicates and fix tags
 - [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
 - [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
@@ -4200,7 +4207,6 @@
 - [connertennery/Notion-to-Obsidian-Converter](https://github.com/connertennery/Notion-to-Obsidian-Converter) - Converts exported Notion notes to work with Obsidian.
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, T
 - [ulisesantana/obsidian-pending-notes](https://github.com/ulisesantana/obsidian-pending-notes) - Obsidian plugin for searching links without notes in your vault.
-- [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
 - [RocketGod-git/HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - HackRF software and captures by everyone and for everyone. Argh matey.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
@@ -5291,7 +5297,7 @@
 
 ## python 
 
-- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [haseeb-heaven/gemini-vision-pro](https://github.com/haseeb-heaven/gemini-vision-pro) - Google Gemini Vision Web application with Speech and Text
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
@@ -6530,6 +6536,7 @@
 
 ## windows 
 
+- [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
