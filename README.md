@@ -236,7 +236,7 @@
 - [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app) - Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 - [TheUltimateC0der/Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - deemixrr manages your artists and playlists completely automated. You add your favorite artists and playlists, and deemixrr does the rest for you.
 - [jimbrig/KaaS](https://github.com/jimbrig/KaaS) - KaaS - Knowledge as a Service
-- [Lisandra-dev/Obsidian-Snippet-collection](https://github.com/Lisandra-dev/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
+- [Mara-Li/Obsidian-Snippet-collection](https://github.com/Mara-Li/Obsidian-Snippet-collection) - A collection of snippet to customize obsidian
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [gis-ops/md-github-wordpress](https://github.com/gis-ops/md-github-wordpress) - :loop: WordPress plugin to add markdown content from Github to a WP blog; based on https://github.com/ghandic/nbconvert
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
@@ -488,7 +488,7 @@
 - [DevonHess/FreshRSS-Extensions](https://github.com/DevonHess/FreshRSS-Extensions) - 
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [AjGaht/Weboasis](https://github.com/AjGaht/Weboasis) - Oasis of web addresses
-- [Lisandra-dev/yet-another-free-publish-alternative](https://github.com/Lisandra-dev/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
+- [Mara-Li/yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [smartdevcode/awesome-wordpress](https://github.com/smartdevcode/awesome-wordpress) - 
@@ -2774,7 +2774,7 @@
 - [nathsou/plugpt](https://github.com/nathsou/plugpt) - OpenAI GPT chat interface with custom plugins
 - [pbk123461/ChatGPT](https://github.com/pbk123461/ChatGPT) - An amazing open-source web app that allows you to use OpenAI's ChatGPT!. see in releases for link does not recommend github.io link unstable
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ycnmhd/obsidian-graph-presets](https://github.com/ycnmhd/obsidian-graph-presets) - Markdown-based graph controls
