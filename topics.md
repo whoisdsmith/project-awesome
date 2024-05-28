@@ -240,6 +240,8 @@
 
 ## ai 
 
+- [mirchaemanuel/a80-cli](https://github.com/mirchaemanuel/a80-cli) - A80 command line tools - OpenAI API and other tools
+- [micheam/ai-assistant-console](https://github.com/micheam/ai-assistant-console) - An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.
 - [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
@@ -459,7 +461,7 @@
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
 - [faynopi/raindropcli](https://github.com/faynopi/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -473,6 +475,7 @@
 
 ## artificial-intelligence 
 
+- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
@@ -543,6 +546,7 @@
 
 ## awesome 
 
+- [Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
@@ -714,6 +718,7 @@
 
 ## awesome-list 
 
+- [Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴
 - [andreimatveyeu/awesome-python-audio](https://github.com/andreimatveyeu/awesome-python-audio) - Awesome Python resources related to audio and music
 - [ilaria-manco/multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music) - List of academic resources on Multimodal ML for Music
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -904,6 +909,7 @@
 
 ## bash 
 
+- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download a gdrive folder or file easily, shell ftw.
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
@@ -964,6 +970,7 @@
 
 ## chatgpt 
 
+- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
@@ -1191,6 +1198,14 @@
 
 ## cli 
 
+- [wiz-craft/wiz-craft](https://github.com/wiz-craft/wiz-craft) - A CLI-based dataset preprocessing tool for machine learning tasks. Features include data exploration, null value handling, one-hot encoding, and feature scaling, and download the modified dataset effo
+- [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
+- [smartlegionlab/climan](https://github.com/smartlegionlab/climan) - Cross-platform config and manager for click console utilities.
+- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
+- [Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
+- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 - [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
@@ -1708,7 +1723,7 @@
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [ObsidianPublisher/docs](https://github.com/ObsidianPublisher/docs) - Documentation for Obsidian Mkdocs Publisher
+- [Enveloppe/enveloppe.github.io](https://github.com/Enveloppe/enveloppe.github.io) - Documentation for Enveloppe: An Obsidian GitHub Vault Publisher!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
@@ -2022,7 +2037,7 @@
 - [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog) - Fetch & Display Your Hashnode blog posts.
 - [th3c0d3br34ker/github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) - ✨ This GitHub action helps to add cool Stats to your GitHub profile README.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
@@ -2043,7 +2058,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [chocolateboy/userscripts](https://github.com/chocolateboy/userscripts) - Userscripts for Greasemonkey, Tampermonkey etc.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-- [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
+- [Enveloppe/obsidian-mkdocs-publisher-python](https://github.com/Enveloppe/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [lifeparticle/Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) - 🔖 The Ultimate Markdown Cheat Sheet
 - [DongjunLee/quantified-self](https://github.com/DongjunLee/quantified-self) - Self-knowledge through numbers
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
@@ -2077,6 +2092,8 @@
 
 ## go 
 
+- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - 🕸️  Crawl in the web network
 - [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
@@ -2108,6 +2125,8 @@
 
 ## golang 
 
+- [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
+- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - 🕸️  Crawl in the web network
 - [go-air/dupi](https://github.com/go-air/dupi) - A tool to find all duplicates in large sets of text documents.
 - [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
@@ -2494,6 +2513,7 @@
 
 ## image-processing 
 
+- [mirchaemanuel/a80-cli](https://github.com/mirchaemanuel/a80-cli) - A80 command line tools - OpenAI API and other tools
 - [haseeb-heaven/gemini-vision-pro](https://github.com/haseeb-heaven/gemini-vision-pro) - Google Gemini Vision Web application with Speech and Text
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you may have reading back the responses if you choose. It also creates realtime images using A.I., all by leverag
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
@@ -2695,6 +2715,7 @@
 
 ## json 
 
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [Sv443/geniURL](https://github.com/Sv443/geniURL) - REST API that searches for song metadata, including the lyrics URL, translations and more from genius.com - supports JSON and XML
 - [markmelnic/visualize-browsing-history](https://github.com/markmelnic/visualize-browsing-history) - A tool to visualize your chrome browsing history using google takeout data.
 - [DovarFalcone/google-takeout-location-parser](https://github.com/DovarFalcone/google-takeout-location-parser) - Easily parse location .json files provided by the Google Takeout service
@@ -2947,6 +2968,7 @@
 
 ## machine-learning 
 
+- [wiz-craft/wiz-craft](https://github.com/wiz-craft/wiz-craft) - A CLI-based dataset preprocessing tool for machine learning tasks. Features include data exploration, null value handling, one-hot encoding, and feature scaling, and download the modified dataset effo
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
@@ -3112,6 +3134,7 @@
 
 ## markdown 
 
+- [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
@@ -3248,7 +3271,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [kamranahmedse/github-pages-blog-action](https://github.com/kamranahmedse/github-pages-blog-action) - Create good looking blog from your markdown files in a GitHub repository
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [arnaudsm/raito](https://github.com/arnaudsm/raito) - Mini Markdown Wiki/CMS in 8kb of JavaScript
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
@@ -3279,7 +3302,7 @@
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [webiaio/awesome-markdown](https://github.com/webiaio/awesome-markdown) - awesome markdown writing tools
-- [ObsidianPublisher/mkdocs-publisher-template](https://github.com/ObsidianPublisher/mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
+- [Enveloppe/mkdocs-publisher-template](https://github.com/Enveloppe/mkdocs-publisher-template) - The template for Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs.
 - [mistermicheels/markdown-notes-tree](https://github.com/mistermicheels/markdown-notes-tree) - Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
@@ -3624,6 +3647,7 @@
 
 ## nodejs 
 
+- [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
 - [Mondonno/iLyrics](https://github.com/Mondonno/iLyrics) - Get lyrics of songs on your Mac that you play on iTunes, Spotify or QuickTimePlayer with speed of light.
 - [hhpr98/lyric-app-web](https://github.com/hhpr98/lyric-app-web) - lyric app for web
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -3822,6 +3846,10 @@
 
 ## others 
 
+- [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
+- [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
+- [mperkins808/lyrical](https://github.com/mperkins808/lyrical) - 
+- [adityanuar/clai](https://github.com/adityanuar/clai) - AI powered cli suggestion and auto complete. You don't have to remember cli commands & options, this AI tool is here to help you.
 - [tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform) - An email block for obsidian notes.
 - [anoopkcn/obsidian-reference-map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
@@ -3907,7 +3935,7 @@
 - [Syrins/Gemini-Beta](https://github.com/Syrins/Gemini-Beta) - Like Google's Gemini demo, it harnesses the power of AI to answer questions based on visual input. By integrating GPT-4 Vision for image understanding, Whisper for voice recognition and Resemble AI fo
 - [buszk/obsidian-ai-editor](https://github.com/buszk/obsidian-ai-editor) - 
 - [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local GPT assistance for maximum privacy and offline access
-- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI File Organization
+- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI-powered organization for people who struggle with organization
 - [mdiller/rock-assistant](https://github.com/mdiller/rock-assistant) - An obsidian + GPT ai assistant thing
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -3942,7 +3970,7 @@
 - [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - 🎵 An ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
 - [azusalad/addlyrics](https://github.com/azusalad/addlyrics) - Searches various websites and tags lyrics to local mp3 files.
 - [CtrlAltNico/ISRC-SongDataEnrichment](https://github.com/CtrlAltNico/ISRC-SongDataEnrichment) - This is a very simple unoficcial https://www.soundexchange.com/  and https://isrcsearch.ifpi.org/#!/search API. This is a showcase project, please respect each website's terms of service and do not ru
-- [mlnrDev/ISRCLookup](https://github.com/mlnrDev/ISRCLookup) - Lookup the ISRC of Spotify tracks and find their autogenerated ("- Topic") version on YouTube within Discord.
+- [sebm253/ISRCLookup](https://github.com/sebm253/ISRCLookup) - Lookup the ISRC of Spotify tracks and find their autogenerated ("- Topic") version on YouTube within Discord.
 - [avalloneandrea/apiseeds-lyrics](https://github.com/avalloneandrea/apiseeds-lyrics) - A MusicBrainz Picard plugin to fetch lyrics from Apiseeds Lyrics
 - [loujine/musicbrainz-scripts](https://github.com/loujine/musicbrainz-scripts) - Collection of greasemonkey scripts for MusicBrainz
 - [kellnerd/musicbrainz-scripts](https://github.com/kellnerd/musicbrainz-scripts) - Bookmarklets and Userscripts for MusicBrainz.org
@@ -5188,6 +5216,7 @@
 
 ## php 
 
+- [mirchaemanuel/a80-cli](https://github.com/mirchaemanuel/a80-cli) - A80 command line tools - OpenAI API and other tools
 - [ueberdosis/alldocs.app](https://github.com/ueberdosis/alldocs.app) - Online text file converter
 - [gwen001/github-search](https://github.com/gwen001/github-search) - A collection of tools to perform searches on GitHub.
 - [pH-7/Html2Text](https://github.com/pH-7/Html2Text) - A very simple (but efficient) "HTML to plain text" converter ✍️
@@ -5298,6 +5327,7 @@
 
 ## python 
 
+- [smartlegionlab/climan](https://github.com/smartlegionlab/climan) - Cross-platform config and manager for click console utilities.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [haseeb-heaven/gemini-vision-pro](https://github.com/haseeb-heaven/gemini-vision-pro) - Google Gemini Vision Web application with Speech and Text
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -5509,7 +5539,7 @@
 - [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [rhysyim/ClipboardLogger](https://github.com/rhysyim/ClipboardLogger) - A tool that logs the text in clipboard
-- [ObsidianPublisher/obsidian-mkdocs-publisher-python](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
+- [Enveloppe/obsidian-mkdocs-publisher-python](https://github.com/Enveloppe/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run web app and Chrome extension to remove duplicates from Google Photos
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [michabirklbauer/instagram_json_viewer](https://github.com/michabirklbauer/instagram_json_viewer) - Transforms Instagram's *.json / backup data - that you get via the Data Download Tool - to a readable format!
@@ -5567,6 +5597,7 @@
 
 ## python3 
 
+- [smartlegionlab/climan](https://github.com/smartlegionlab/climan) - Cross-platform config and manager for click console utilities.
 - [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (iTunes, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
 - [spyer/lyrics2mp3](https://github.com/spyer/lyrics2mp3) - Parse lyrics and add them into mp3 files (via id tags). Lyrics can then be viewed on iPhone, iTunes and other players.
 - [ImranR98/AutoLyricize](https://github.com/ImranR98/AutoLyricize) - Automatically find and embed song lyrics.
@@ -6226,6 +6257,9 @@
 
 ## terminal 
 
+- [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals inside Obsidian.
@@ -6267,6 +6301,8 @@
 
 ## termux 
 
+- [smartlegionlab/climan](https://github.com/smartlegionlab/climan) - Cross-platform config and manager for click console utilities.
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple prompt generator for Midjourney, DALLe, Stable and Disco Diffusion, and etc.
 - [mishakorzik/UserFinder](https://github.com/mishakorzik/UserFinder) - OSINT tool for finding profiles by username
 - [ItsMeAbhishekRai/Termux-All-Packages-Install](https://github.com/ItsMeAbhishekRai/Termux-All-Packages-Install) - All Packages Install On Termux In One Click
