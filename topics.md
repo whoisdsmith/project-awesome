@@ -461,7 +461,7 @@
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [melipass/lastfm-to-markdown](https://github.com/melipass/lastfm-to-markdown) - GitHub Actions workflow that automatically updates the covers from your last.fm's weekly chart everyday, inside your profile repository's README.md file. Useful for customizing your profile in repos n
 - [faynopi/raindropcli](https://github.com/faynopi/raindropcli) - 💧Unofficial raindrop.io command-line interface written in python.
-- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [1998code/isitdownorjustme-API](https://github.com/1998code/isitdownorjustme-API) - An API for 'is it down or just me' monitor.
 - [pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - list of 1400+ apis their documentation, properties and a lot more all divided into 50+ cateogories all this data just a api call away 🚀
 - [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -2037,7 +2037,7 @@
 - [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog) - Fetch & Display Your Hashnode blog posts.
 - [th3c0d3br34ker/github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) - ✨ This GitHub action helps to add cool Stats to your GitHub profile README.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
-- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
@@ -3271,7 +3271,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [kamranahmedse/github-pages-blog-action](https://github.com/kamranahmedse/github-pages-blog-action) - Create good looking blog from your markdown files in a GitHub repository
 - [ldeluigi/markdown-docs](https://github.com/ldeluigi/markdown-docs) - Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just works.
-- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [arnaudsm/raito](https://github.com/arnaudsm/raito) - Mini Markdown Wiki/CMS in 8kb of JavaScript
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [lorey/github-stars-by-topic](https://github.com/lorey/github-stars-by-topic) - :star: Generate a list of your GitHub stars by topic - automatically!
@@ -3322,7 +3322,7 @@
 
 ## mastodon 
 
-- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 
 ## material-design 
@@ -3774,7 +3774,7 @@
 - [soxoj/maigret-maltego](https://github.com/soxoj/maigret-maltego) - Maltego transformation for searching of accounts by username
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - 🕸️  Crawl in the web network
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
-- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
 - [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
@@ -3850,7 +3850,7 @@
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [mperkins808/lyrical](https://github.com/mperkins808/lyrical) - 
 - [adityanuar/clai](https://github.com/adityanuar/clai) - AI powered cli suggestion and auto complete. You don't have to remember cli commands & options, this AI tool is here to help you.
-- [tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform) - An email block for obsidian notes.
+- [tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform) - An Obsidian plugin for freeform visualization and JavaScript code
 - [anoopkcn/obsidian-reference-map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -3967,7 +3967,7 @@
 - [evanwinter/visually](https://github.com/evanwinter/visually) - Song lyric analysis and data visualization tool
 - [Chuabacca/song-slides](https://github.com/Chuabacca/song-slides) - A markdown-based lyric slide creation and presentation tool using Remark.js and Middleman.
 - [Gazoo101/lyric-manager](https://github.com/Gazoo101/lyric-manager) - A lyric management tool to process raw lyric files using an external alignment model to produce .aligned_lyrics files.
-- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - 🎵 An ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
+- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - 🎵 The ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
 - [azusalad/addlyrics](https://github.com/azusalad/addlyrics) - Searches various websites and tags lyrics to local mp3 files.
 - [CtrlAltNico/ISRC-SongDataEnrichment](https://github.com/CtrlAltNico/ISRC-SongDataEnrichment) - This is a very simple unoficcial https://www.soundexchange.com/  and https://isrcsearch.ifpi.org/#!/search API. This is a showcase project, please respect each website's terms of service and do not ru
 - [sebm253/ISRCLookup](https://github.com/sebm253/ISRCLookup) - Lookup the ISRC of Spotify tracks and find their autogenerated ("- Topic") version on YouTube within Discord.
@@ -6331,7 +6331,7 @@
 ## twitter 
 
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
-- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [biolab/orange3-text](https://github.com/biolab/orange3-text) - 🍊 :page_facing_up: Text Mining add-on for Orange3
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
