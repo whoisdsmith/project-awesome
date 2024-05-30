@@ -201,7 +201,7 @@
 
 ## CSS 
 
-- [tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform) - An email block for obsidian notes.
+- [tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform) - An Obsidian plugin for freeform visualization and JavaScript code
 - [Bonnie39/voyage](https://github.com/Bonnie39/voyage) - Simple frontend for Google Custom Search Engine
 - [andersmmg/sciui](https://github.com/andersmmg/sciui) - An easy-to-use CSS framework for building Sci-Fi and futuristic UI for your web app
 - [KuiyueRO/Obsidian-Miner](https://github.com/KuiyueRO/Obsidian-Miner) - Personal Obsidian Enhanced CSS snippet
@@ -1215,7 +1215,7 @@
 - [MachaLvl99/PromptAlchemy-DataDistillation](https://github.com/MachaLvl99/PromptAlchemy-DataDistillation) - A prompt-engineering technique for creating personalized custom instructions on ChatGPT
 - [lubauss/custom_instructions_ENG](https://github.com/lubauss/custom_instructions_ENG) - Custom instructions for use in ChatGPT
 - [daturkel/custom-search-engines](https://github.com/daturkel/custom-search-engines) - Custom search engines for Google Chrome
-- [cqcore/Social-Media-OSINT](https://github.com/cqcore/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced
 - [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
@@ -1736,7 +1736,7 @@
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [Parisson/Telemeta](https://github.com/Parisson/Telemeta) - Collaborative content management system for musicology
 - [Gazoo101/lyric-manager](https://github.com/Gazoo101/lyric-manager) - A lyric management tool to process raw lyric files using an external alignment model to produce .aligned_lyrics files.
-- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - 🎵 An ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
+- [mrsobakin/lyrics-dl](https://github.com/mrsobakin/lyrics-dl) - 🎵 The ultimate CLI tool for downloading lyrics for songs, inspired by other awesome *-dl projects.
 - [azusalad/addlyrics](https://github.com/azusalad/addlyrics) - Searches various websites and tags lyrics to local mp3 files.
 - [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
 - [spyer/lyrics2mp3](https://github.com/spyer/lyrics2mp3) - Parse lyrics and add them into mp3 files (via id tags). Lyrics can then be viewed on iPhone, iTunes and other players.
@@ -3067,7 +3067,7 @@
 - [chlohal/obsidian-terminal](https://github.com/chlohal/obsidian-terminal) - A terminal panel for Obsidian
 - [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
-- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [scriptify/thesoundofus](https://github.com/scriptify/thesoundofus) - Connect your Google Photos and Spotify Account, select a photo album and a Spotify playlist, and the web app will create an interactive photo album with music from the time the photo was taken. Intend
