@@ -240,6 +240,10 @@
 
 ## ai 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [mirchaemanuel/a80-cli](https://github.com/mirchaemanuel/a80-cli) - A80 command line tools - OpenAI API and other tools
 - [micheam/ai-assistant-console](https://github.com/micheam/ai-assistant-console) - An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.
 - [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
@@ -475,6 +479,7 @@
 
 ## artificial-intelligence 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
@@ -891,6 +896,7 @@
 
 ## aws 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [duolingo/metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
@@ -1427,6 +1433,7 @@
 
 ## data 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - 🕸️  Crawl in the web network
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
@@ -1762,6 +1769,7 @@
 
 ## electron 
 
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [SquitchYT/Tess](https://github.com/SquitchYT/Tess) - Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.
@@ -2895,6 +2903,11 @@
 
 ## llm 
 
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [dvp-git/gemini-information-extractor](https://github.com/dvp-git/gemini-information-extractor) - A simple single interface information extractor app using the latest gemini-vision-pro  model
 - [faetalize/zodiac](https://github.com/faetalize/zodiac) - A ⚡lightweight⚡ frontend for Google's Gemini Pro.
@@ -2968,6 +2981,7 @@
 
 ## machine-learning 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [wiz-craft/wiz-craft](https://github.com/wiz-craft/wiz-craft) - A CLI-based dataset preprocessing tool for machine learning tasks. Features include data exploration, null value handling, one-hot encoding, and feature scaling, and download the modified dataset effo
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
@@ -3134,6 +3148,7 @@
 
 ## markdown 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
 - [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
@@ -3533,6 +3548,7 @@
 
 ## nextjs 
 
+- [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [e-roy/gemini-pro-vision-playground](https://github.com/e-roy/gemini-pro-vision-playground) - A simple playground Web UI for using the Gemini Pro Vision and Gemini Pro AI models with Next.js
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
@@ -3846,6 +3862,11 @@
 
 ## others 
 
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool -  Find optimal RAG pipeline for your own data.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
+- [husjon/obsidian-file-cleaner-redux](https://github.com/husjon/obsidian-file-cleaner-redux) - A plugin for Obsidian to help clean up files in your vault
+- [ras0q/obsidian-graph-banner](https://github.com/ras0q/obsidian-graph-banner) - An Obsidian plugin to display a local graph view to the note header.
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [mperkins808/lyrical](https://github.com/mperkins808/lyrical) - 
@@ -5327,6 +5348,9 @@
 
 ## python 
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [smartlegionlab/climan](https://github.com/smartlegionlab/climan) - Cross-platform config and manager for click console utilities.
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [haseeb-heaven/gemini-vision-pro](https://github.com/haseeb-heaven/gemini-vision-pro) - Google Gemini Vision Web application with Speech and Text
@@ -5710,6 +5734,7 @@
 
 ## react 
 
+- [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
 - [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - High-performance lyric video editor accessible on any browser
@@ -5998,6 +6023,8 @@
 
 ## self-hosted 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [Bonnie39/voyage](https://github.com/Bonnie39/voyage) - Simple frontend for Google Custom Search Engine
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Insprill/intellectual](https://github.com/Insprill/intellectual) - Alternate frontend for Genius focused on privacy and simplicity
