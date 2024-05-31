@@ -1046,6 +1046,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -1652,6 +1653,11 @@
 
 ## Python 
 
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool -  Find optimal RAG pipeline for your own data.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [wiz-craft/wiz-craft](https://github.com/wiz-craft/wiz-craft) - A CLI-based dataset preprocessing tool for machine learning tasks. Features include data exploration, null value handling, one-hot encoding, and feature scaling, and download the modified dataset effo
 - [smartlegionlab/climan](https://github.com/smartlegionlab/climan) - Cross-platform config and manager for click console utilities.
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
@@ -2654,6 +2660,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [jaymakes11/prompts4all](https://github.com/jaymakes11/prompts4all) - A free and open-source library of AI prompts.
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
@@ -2706,6 +2713,13 @@
 
 ## TypeScript 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+- [husjon/obsidian-file-cleaner-redux](https://github.com/husjon/obsidian-file-cleaner-redux) - A plugin for Obsidian to help clean up files in your vault
+- [ras0q/obsidian-graph-banner](https://github.com/ras0q/obsidian-graph-banner) - An Obsidian plugin to display a local graph view to the note header.
 - [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
 - [anoopkcn/obsidian-reference-map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery
 - [czottmann/obsidian-logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) - A simple Obsidian plugin that proxies `console.*()` calls and copies log messages and uncaught exceptions to a file in your vault.
