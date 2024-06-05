@@ -610,7 +610,6 @@
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
-- [evanwinter/visually](https://github.com/evanwinter/visually) - Song lyric analysis and data visualization tool
 - [loujine/musicbrainz-scripts](https://github.com/loujine/musicbrainz-scripts) - Collection of greasemonkey scripts for MusicBrainz
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [atj/userscripts](https://github.com/atj/userscripts) - A collection of userscripts primarily relating to to importing and editing releases on MusicBrainz.
@@ -1673,6 +1672,7 @@
 
 ## Python 
 
+- [gavi/chatgpt-markdown](https://github.com/gavi/chatgpt-markdown) - Converts chatgpt exported data to markdown so you can use it in Obsidian
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 - [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Still in development
@@ -1734,7 +1734,6 @@
 - [CRenko/Python_audio_analyze](https://github.com/CRenko/Python_audio_analyze) - 
 - [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (iTunes, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
 - [kixelo/AudioProcessing-with-Python](https://github.com/kixelo/AudioProcessing-with-Python) - Reversing, Overlaying nad Mixing Music audio with Pydub
-- [MapleWangAudio/audiotools](https://github.com/MapleWangAudio/audiotools) - python audiotools for audio effect research
 - [PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-](https://github.com/PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-) - This is an audio file metadata property editor written in python.
 - [samarasleal/Python-AudioProcessing](https://github.com/samarasleal/Python-AudioProcessing) - 
 - [Azur3-bit/AudioManiac_pythonCLI-MusicDownloader](https://github.com/Azur3-bit/AudioManiac_pythonCLI-MusicDownloader) - 
@@ -2770,6 +2769,7 @@
 
 ## TypeScript 
 
+- [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -3131,6 +3131,7 @@
 - [poulainv/tottem](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with React / NextJs / Apollo Tools / Prisma 2 — styled with TailwindCSS 🌱🎺
 - [benefiction/resume-reader](https://github.com/benefiction/resume-reader) - An interpreter for resume JSON data.
 - [sanvishal/wrighter](https://github.com/sanvishal/wrighter) - Wrighter - A Powerful Markdown Blogger & A Writing Companion | write the (w)right way
+- [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy) - CV generator built with Nuxt.js, TailwindCSS, deployed on Netlify.
 - [resuminator/resuminator](https://github.com/resuminator/resuminator) - Build beautiful single-page resumes; without the hassle! The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor
 - [sramezani/resume-builder](https://github.com/sramezani/resume-builder) - Modern real-time design and 100% free resume builder.
 - [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder) - Build a standard and professional single page resume
@@ -3243,7 +3244,6 @@
 - [Maxr1998/SpotifyStats](https://github.com/Maxr1998/SpotifyStats) - A Vue.js-based web app to analyze your Spotify GDPR data-dump
 - [awakentrue/simple-resume-vue](https://github.com/awakentrue/simple-resume-vue) - Simple universal resume based on Vue
 - [zainaftab44/ResumeMaker](https://github.com/zainaftab44/ResumeMaker) - A Resume maker app developed in Vue.js to generate beautiful resumes free-of-cost.
-- [claudiabdm/cvfy](https://github.com/claudiabdm/cvfy) - CV generator built with Nuxt.js, TailwindCSS, deployed on Netlify.
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A bookmarks manager Chrome extension.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
