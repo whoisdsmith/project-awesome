@@ -20,6 +20,7 @@
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Fortran](#fortran)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -309,6 +310,10 @@
 
 - [janberges/Tonbandfetzen](https://github.com/janberges/Tonbandfetzen) - Audio from plain text
 
+## GDScript 
+
+- [g023/The-NoteBloke-LLM-Text-Editor](https://github.com/g023/The-NoteBloke-LLM-Text-Editor) - An advanced Ai assisted text editing experience. The NoteBloke LLM Text Editor is packed with a ton of LLM Ai agent features to superpower your text editing. Connect using a local openai-like api, or 
+
 ## Go 
 
 - [chrisdothtml/gpt-cmd](https://github.com/chrisdothtml/gpt-cmd) - Sit back and let ChatGPT run your commands for you.
@@ -403,7 +408,6 @@
 ## HTML 
 
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [hihumanzone/Gemini-Pro-Chat-Interface](https://github.com/hihumanzone/Gemini-Pro-Chat-Interface) - A Chat Interface For Gemini Pro
 - [polifonia-project/music-meta-ontology](https://github.com/polifonia-project/music-meta-ontology) - A flexible ontology for the interoperability of music metadata
@@ -1055,6 +1059,7 @@
 ## Jupyter Notebook 
 
 - [severian42/Vodalus-Expert-LLM-Forge](https://github.com/severian42/Vodalus-Expert-LLM-Forge) - Dataset Crafting and Efficient Fine-Tuning Using Only Free Open-Source Tools
+- [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
@@ -1205,7 +1210,6 @@
 - [snowfort-ai/awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications
 - [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 - [ntunlp/OpenSource-LLMs-better-than-OpenAI](https://github.com/ntunlp/OpenSource-LLMs-better-than-OpenAI) - Listing all reported open-source LLMs achieving a higher score than proprietary, paying OpenAI models (ChatGPT, GPT-4).
-- [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [DAMO-NLP-SG/LLM-Zoo](https://github.com/DAMO-NLP-SG/LLM-Zoo) - LLM Zoo collects information of various open- and close-sourced LLMs
 - [MLNLP-World/Awesome-LLM](https://github.com/MLNLP-World/Awesome-LLM) - This project collects awesome resources (e.g., papers, open-source models) for large language model (LLM)
 - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
@@ -1672,6 +1676,11 @@
 
 ## Python 
 
+- [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) - 🚀 AI assistant for the command line  ‍💫
+- [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [gavi/chatgpt-markdown](https://github.com/gavi/chatgpt-markdown) - Converts chatgpt exported data to markdown so you can use it in Obsidian
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
@@ -1704,6 +1713,7 @@
 - [paulpierre/markdown-crawler](https://github.com/paulpierre/markdown-crawler) - A multithreaded 🕸️ web crawler that recursively crawls a website and creates a 🔽 markdown file for each page, designed for LLM RAG
 - [haseeb-heaven/code-interpreter](https://github.com/haseeb-heaven/code-interpreter) - An innovative open-source Code Interpreter with (GPT,Gemini,Claude,LLaMa) models.
 - [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJ
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [georgian-io/LLM-Finetuning-Toolkit](https://github.com/georgian-io/LLM-Finetuning-Toolkit) - Toolkit for fine-tuning, ablating and unit-testing open-source LLMs.
 - [kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A
@@ -1786,7 +1796,6 @@
 - [MTG/music-explore](https://github.com/MTG/music-explore) - App to explore latent spaces of music collections
 - [dodiku/AudioOwl](https://github.com/dodiku/AudioOwl) - Fast and simple music and audio analysis using RNN in Python 🕵️‍♀️ 🥁
 - [Newmu/Music-Analyzer](https://github.com/Newmu/Music-Analyzer) - Converting music to a ML friendly format and analyzing it.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [SekouD/lyricsmaster](https://github.com/SekouD/lyricsmaster) - LyricsMaster is a library for downloading lyrics from multiple lyrics providers.
 - [ST2-EV/lyrixy](https://github.com/ST2-EV/lyrixy) - lyrixy( lyrics + audio of the song ) = lyric music video
 - [okio-ai/nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite
@@ -2769,6 +2778,8 @@
 
 ## TypeScript 
 
+- [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
+- [transitive-bullshit/twitter-search](https://github.com/transitive-bullshit/twitter-search) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
