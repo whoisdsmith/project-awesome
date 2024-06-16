@@ -592,6 +592,7 @@
 
 ## JavaScript 
 
+- [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector) - Uncover broken links in your content.
 - [Rowno/medic](https://github.com/Rowno/medic) - Perform bulk URL status checks and track changes.
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity and MaxAI-Google search threads into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! (formerly Sa
 - [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
@@ -2967,7 +2968,7 @@
 - [KonghaYao/ai-tag](https://github.com/KonghaYao/ai-tag) - It's an AI Tag (Prompt) generator for magic drawer! We have many tags and support to generate prompts easily!
 - [ddPn08/flat](https://github.com/ddPn08/flat) - All-in-one image generation AI (to be...)
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
-- [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
+- [Posandu/terminai](https://github.com/Posandu/terminai) - Generate cli commands with natural language
 - [coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault parser for the Obsidian note taking app
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
