@@ -1076,7 +1076,7 @@
 - [sakemin/musicgen-remixer](https://github.com/sakemin/musicgen-remixer) - process breakdown of MusicGen Remixer, by calling separate Replicate API calls and processing the outputs of the API calls.
 - [crlandsc/Music-Genre-Classification-Using-Convolutional-Neural-Networks](https://github.com/crlandsc/Music-Genre-Classification-Using-Convolutional-Neural-Networks) - Music genre classification system built on a convolutional neural network trained on Mel-spectrograms of 3-second audio samples.
 - [musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse) - Resources for the Generative Music AI Course on The Sound of AI YouTube channel.
-- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.
 - [sian0x0/Roud-Song-Clusters](https://github.com/sian0x0/Roud-Song-Clusters) - Lyrics clustering
 - [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
 - [dtobrien23/LyricizeMe](https://github.com/dtobrien23/LyricizeMe) - An application that provides random song lyrics and annotations for a chosen artist, powered by the Genius API.
@@ -1844,7 +1844,7 @@
 - [IccTeam/OwlTrack](https://github.com/IccTeam/OwlTrack) - This tracking tool can provide information about the phone number you enter. Not only that, this tool is able to scan telephone numbers with up to 5 different methods.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [merlinepedra/BLACKBIRD](https://github.com/merlinepedra/BLACKBIRD) - 
-- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: Crawling & scraping, content extraction, metadata. TXT, Markdown, CSV & XML output.
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
 - [Chareste/SpotifyHistoryParserExtended](https://github.com/Chareste/SpotifyHistoryParserExtended) - A parser for the Extended Streaming History (all time) sent to you by Spotify.
