@@ -700,7 +700,7 @@
 - [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of free as in freedom software
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [cube-js/awesome-tools](https://github.com/cube-js/awesome-tools) - Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈
 - [lockys/Awesome.json](https://github.com/lockys/Awesome.json) - :eyeglasses: Awesome lists in JSON format.
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -2238,7 +2238,7 @@
 - [orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate awesome list over Github API
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
-- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
+- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - [WIP] Set your bookmarks ablaze
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [teler-sh/teler](https://github.com/teler-sh/teler) - Real-time HTTP Intrusion Detection
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
@@ -2668,7 +2668,7 @@
 - [Ankan-cyber/textutils](https://github.com/Ankan-cyber/textutils) - TextUtils is a simple and user-friendly text manipulation tool built with React. It allows you to easily convert text to uppercase, lowercase, and remove spaces.
 - [Swap-nil-2003/TextUtils-ReactApp01](https://github.com/Swap-nil-2003/TextUtils-ReactApp01) - TextUtils-A Text Utility App built with React.
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
-- [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
+- [zuchka/remove-markdown](https://github.com/zuchka/remove-markdown) - Strip Markdown stuff from text
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - help your ChatGPT conversation with prompt
@@ -3012,7 +3012,7 @@
 - [chrisdothtml/gpt-cmd](https://github.com/chrisdothtml/gpt-cmd) - Sit back and let ChatGPT run your commands for you.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 - [aakashshankar/llm-cli](https://github.com/aakashshankar/llm-cli) - Use LLMs from the command line!
-- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Still in development
+- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [jiacai2050/shellgpt](https://github.com/jiacai2050/shellgpt) - Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc.
@@ -3102,7 +3102,7 @@
 ## lua 
 
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 
 ## mac 
 
@@ -3310,7 +3310,7 @@
 - [Layjoo/MdToNotion](https://github.com/Layjoo/MdToNotion) - Parser markdown to Notion
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
-- [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
+- [zuchka/remove-markdown](https://github.com/zuchka/remove-markdown) - Strip Markdown stuff from text
 - [evbacher/gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML. This Docs add-on converts a Google Doc to simple Markdown and/or HTML.
 - [TimMikeladze/markdown-to-api](https://github.com/TimMikeladze/markdown-to-api) - 📑 Generates a minisearch powered GraphQL API from a directory of markdown files. Additional metadata like tags or descriptions can be added to the files in the form of YAML front matter, which will th
 - [jersou/markdown-explorer](https://github.com/jersou/markdown-explorer) - Easily explore, view and edit markdown documentation of a file tree
@@ -3672,7 +3672,7 @@
 - [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 
@@ -3830,7 +3830,7 @@
 - [hhpr98/lyric-app-web](https://github.com/hhpr98/lyric-app-web) - lyric app for web
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [ruancorrea/manipulating_Text](https://github.com/ruancorrea/manipulating_Text) - Responsive website of an online text editor and completely free. Developed with NodeJs, VueJs and Bootstrap.
-- [stiang/remove-markdown](https://github.com/stiang/remove-markdown) - Strip Markdown stuff from text
+- [zuchka/remove-markdown](https://github.com/zuchka/remove-markdown) - Strip Markdown stuff from text
 - [DiscreteTom/bimark](https://github.com/DiscreteTom/bimark) - Auto create bidirectional links between markdown files.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate your i18n localization with AI
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
@@ -3906,7 +3906,7 @@
 
 ## open-source 
 
-- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Still in development
+- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -4029,6 +4029,7 @@
 
 ## others 
 
+- [PBorocz/raindrop-io-py](https://github.com/PBorocz/raindrop-io-py) - API interface to the Raindrop Bookmark Manager.
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 - [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
 - [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
@@ -4327,7 +4328,7 @@
 - [robinmin/xally](https://github.com/robinmin/xally) - X-Ally is an elegant command line client and relay server for ChatGPT.
 - [Cranot/chatbot-injections-exploits](https://github.com/Cranot/chatbot-injections-exploits) - ChatBot Injection and Exploit Examples: A Curated List of Prompt Engineer Commands - ChatGPT
 - [ycnmhd/obsidian-graph-presets](https://github.com/ycnmhd/obsidian-graph-presets) - Markdown-based graph controls
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
 - [tvooo/awesome-plaintext](https://github.com/tvooo/awesome-plaintext) - 😎 Tools, applications and other resources for living a life in plain text
 - [YohannLeee/ChatGPT-Server](https://github.com/YohannLeee/ChatGPT-Server) - chat with ChatGPT via iMessage on Mac OS X
@@ -6248,7 +6249,7 @@
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [fastogt/fastocloud](https://github.com/fastogt/fastocloud) - FastoCloud Media
-- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
+- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - [WIP] Set your bookmarks ablaze
 - [giventofly/teikirize-bookmarks](https://github.com/giventofly/teikirize-bookmarks) - Your self host solution for bookmarks saving.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
@@ -6340,7 +6341,7 @@
 
 ## spacevim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 
 ## sql 
 
@@ -6363,7 +6364,7 @@
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider is a software for organizing and editing documents consisting of a main file and optionally different assets like images.
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.
-- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
+- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - [WIP] Set your bookmarks ablaze
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [tmo1/sms-db](https://github.com/tmo1/sms-db) - sms-db is a tool to build an SQLite database out of collections of SMS and MMS messages in various formats. The database can then be queried using standard SQLite queries, and the messages in the data
@@ -6441,7 +6442,7 @@
 - [bits-by-brandon/whisper-ui](https://github.com/bits-by-brandon/whisper-ui) - A GUI interface for Open AI Whisper based on Tauri and Sveltekit
 - [Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements) - Add achievements to Obsidian to help guide the user to build good habits in Obsidian.
 - [mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane) - 
-- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - Set your bookmarks ablaze
+- [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - [WIP] Set your bookmarks ablaze
 - [jajosheni/N95](https://github.com/jajosheni/N95) - Personal Website template made in svelte. Repo got the name from Kendrick Lamar's song
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
@@ -6684,7 +6685,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
