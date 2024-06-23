@@ -512,6 +512,7 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [AjGaht/Weboasis](https://github.com/AjGaht/Weboasis) - Oasis of web addresses
 - [Mara-Li/yet-another-free-publish-alternative](https://github.com/Mara-Li/yet-another-free-publish-alternative) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator) - A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 - [smartdevcode/awesome-wordpress](https://github.com/smartdevcode/awesome-wordpress) - 
@@ -2211,7 +2212,6 @@
 - [soxoj/maigret-adapter](https://github.com/soxoj/maigret-adapter) - Connect Maigret with other tools
 - [antonio-hickey/gDash](https://github.com/antonio-hickey/gDash) - gDash ( g- ) Open Source Intelligence Dashboard
 - [thewhiteh4t/pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [C0MPL3XDEV/E4GL30S1NT](https://github.com/C0MPL3XDEV/E4GL30S1NT) - E4GL30S1NT - Simple Information Gathering Tool
 - [s1z5d/raindrop-integrations](https://github.com/s1z5d/raindrop-integrations) - A set of scripts that connect various apps to Raindrop.io
 - [auroracramer/dayone-audio-summarizer](https://github.com/auroracramer/dayone-audio-summarizer) - Generating summarizations of DayOne audio journals in Markdown format
@@ -3061,7 +3061,7 @@
 - [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
 - [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [jacobhq/startrack](https://github.com/jacobhq/startrack) - Embed github stars into your next app
-- [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
+- [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
