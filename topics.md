@@ -2945,6 +2945,7 @@
 
 ## linux 
 
+- [h4x-host/e-DEX-UI](https://github.com/h4x-host/e-DEX-UI) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
@@ -3106,6 +3107,7 @@
 
 ## mac 
 
+- [h4x-host/e-DEX-UI](https://github.com/h4x-host/e-DEX-UI) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -3950,6 +3952,7 @@
 
 ## operating-system 
 
+- [Az107/eDEXos](https://github.com/Az107/eDEXos) - eDEXos is an opeating system based in winPE
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A list of resources in different fields of Computer Science
 - [jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 
@@ -4030,6 +4033,7 @@
 
 ## others 
 
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [PBorocz/raindrop-io-py](https://github.com/PBorocz/raindrop-io-py) - API interface to the Raindrop Bookmark Manager.
 - [debarshibasak/awesome-paas](https://github.com/debarshibasak/awesome-paas) - A curated list of PaaS, developer platforms, Self hosted PaaS, Cloud IDEs and ADNs.
 - [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
@@ -6506,6 +6510,7 @@
 
 ## terminal 
 
+- [h4x-host/e-DEX-UI](https://github.com/h4x-host/e-DEX-UI) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [jiacai2050/shellgpt](https://github.com/jiacai2050/shellgpt) - Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -6831,6 +6836,8 @@
 
 ## windows 
 
+- [h4x-host/e-DEX-UI](https://github.com/h4x-host/e-DEX-UI) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [Az107/eDEXos](https://github.com/Az107/eDEXos) - eDEXos is an opeating system based in winPE
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
