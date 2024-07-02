@@ -5851,7 +5851,7 @@
 - [MatthewRoush/Transcribe-MP3](https://github.com/MatthewRoush/Transcribe-MP3) - Generate synced and unsynced lyrics for .mp3 songs using openai-whisper.
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
 - [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets.
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [526christian/AI-Image-PromptGenerator](https://github.com/526christian/AI-Image-PromptGenerator) - A flexible UI script to help create and expand on prompts for generative AI art models, such as Stable Diffusion and MidJourney. Get inspired, and create.
 - [mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's gaslight everything; containers, ML, scripts, and everyone! #AUSPOL can wait.
 - [526christian/SD-Prompt-Generator](https://github.com/526christian/SD-Prompt-Generator) - moved to new repo: https://github.com/526christian/AI-Image-PromptGenerator
