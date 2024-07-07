@@ -1754,6 +1754,7 @@
 
 ## discord 
 
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
@@ -3041,7 +3042,7 @@
 - [chrisdothtml/gpt-cmd](https://github.com/chrisdothtml/gpt-cmd) - Sit back and let ChatGPT run your commands for you.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [aakashshankar/llm-cli](https://github.com/aakashshankar/llm-cli) - Use LLMs from the command line!
-- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM
+- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM (eventually)
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [curtisgray/wingman](https://github.com/curtisgray/wingman) - Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 - [jiacai2050/shellgpt](https://github.com/jiacai2050/shellgpt) - Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc.
@@ -3522,7 +3523,6 @@
 
 ## mastodon 
 
-- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 
 ## material-design 
@@ -3940,7 +3940,7 @@
 
 ## open-source 
 
-- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM
+- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM (eventually)
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -4124,7 +4124,7 @@
 - [gsaivinay/claude-prompt-optimizer](https://github.com/gsaivinay/claude-prompt-optimizer) - An open-source Claude 3 prompt optimizer
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.👇
 - [antlarr/bard](https://github.com/antlarr/bard) - Bard Music Manager - A database to manage your music, find duplicates and fix tags
 - [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
 - [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
@@ -4135,7 +4135,7 @@
 - [kixelo/AudioProcessing-with-Python](https://github.com/kixelo/AudioProcessing-with-Python) - Reversing, Overlaying nad Mixing Music audio with Pydub
 - [PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-](https://github.com/PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-) - This is an audio file metadata property editor written in python.
 - [samarasleal/Python-AudioProcessing](https://github.com/samarasleal/Python-AudioProcessing) - 
-- [Azur3-bit/AudioManiac_pythonCLI-MusicDownloader](https://github.com/Azur3-bit/AudioManiac_pythonCLI-MusicDownloader) - 
+- [Azur3-bit/Terminal-MusicPlayer](https://github.com/Azur3-bit/Terminal-MusicPlayer) - 
 - [materialvision/augment_audio_tools](https://github.com/materialvision/augment_audio_tools) - Simple python scripts to augment a dataset of audio
 - [nomonosound/fast-align-audio](https://github.com/nomonosound/fast-align-audio) - A fast python library for aligning similar audio snippets passed in as NumPy arrays
 - [karaokenerds/python-audio-separator](https://github.com/karaokenerds/python-audio-separator) - Easy to use vocal separation from CLI or as a python package, using a variety of amazing models (primarily trained by @Anjok07 as part of UVR)
