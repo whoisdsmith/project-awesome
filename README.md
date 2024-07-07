@@ -1717,7 +1717,7 @@
 - [gavi/chatgpt-markdown](https://github.com/gavi/chatgpt-markdown) - Converts chatgpt exported data to markdown so you can use it in Obsidian
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM
+- [rmusser01/tldw](https://github.com/rmusser01/tldw) - Too Long, Didn't Watch(TL/DW): Your Personal Research Multi-Tool - Open Source NotebookLM (eventually)
 - [jiacai2050/shellgpt](https://github.com/jiacai2050/shellgpt) - Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc.
 - [voidful/awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
 - [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大模型提供更高质量、更丰富、更易”消化“的数据！
@@ -1766,7 +1766,7 @@
 - [hiliuxg/geminichat](https://github.com/hiliuxg/geminichat) - A chatbot, powered by google gemini pro , gemini pro vision and ui is maked by streamlit.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.需要 suno API的可以看看这里👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc.👇
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
@@ -1779,7 +1779,7 @@
 - [kixelo/AudioProcessing-with-Python](https://github.com/kixelo/AudioProcessing-with-Python) - Reversing, Overlaying nad Mixing Music audio with Pydub
 - [PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-](https://github.com/PaulsGitHubs/Audio-File-Meta-Data-Properties-Editor-for-Python-) - This is an audio file metadata property editor written in python.
 - [samarasleal/Python-AudioProcessing](https://github.com/samarasleal/Python-AudioProcessing) - 
-- [Azur3-bit/AudioManiac_pythonCLI-MusicDownloader](https://github.com/Azur3-bit/AudioManiac_pythonCLI-MusicDownloader) - 
+- [Azur3-bit/Terminal-MusicPlayer](https://github.com/Azur3-bit/Terminal-MusicPlayer) - 
 - [andreimatveyeu/awesome-python-audio](https://github.com/andreimatveyeu/awesome-python-audio) - Awesome Python resources related to audio and music
 - [materialvision/augment_audio_tools](https://github.com/materialvision/augment_audio_tools) - Simple python scripts to augment a dataset of audio
 - [nomonosound/fast-align-audio](https://github.com/nomonosound/fast-align-audio) - A fast python library for aligning similar audio snippets passed in as NumPy arrays
