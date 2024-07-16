@@ -175,7 +175,7 @@
 - [jamiebullock/LibXtract](https://github.com/jamiebullock/LibXtract) - LibXtract is a simple, portable, lightweight library of audio feature extraction functions.
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
 - [HaikuArchives/ArmyKnife](https://github.com/HaikuArchives/ArmyKnife) - ArmyKnife is an application that lets you edit the metadata of audio files
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with a KoboldAI UI
 - [strizhov/super-simple-file-indexer](https://github.com/strizhov/super-simple-file-indexer) - A multi-threaded text file indexing command line application that prints 10 most repeated words and their counts.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [martinic/DrMixAISynth](https://github.com/martinic/DrMixAISynth) - Doctor Mix AI Synth CLAP/VST2/AU synthesizer plugin.
@@ -1739,7 +1739,7 @@
 - [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 70+ CLI tools to build, browse, and blend your media library. An index for your archive.
+- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library. An index for your archive.
 - [inclinedadarsh/termhand](https://github.com/inclinedadarsh/termhand) - TermHand is a command-line tool that generates terminal commands from natural language prompts.
 - [theghostrat/NaturalShell](https://github.com/theghostrat/NaturalShell) - NaturalShell, an AI-driven command-line tool, effortlessly translates natural language into shell commands. Say goodbye to complex syntax and hello to intuitive interaction with your system.
 - [Jing-yilin/E2M](https://github.com/Jing-yilin/E2M) - E2M API, converting everything to markdown (LLM-friendly Format).
