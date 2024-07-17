@@ -215,7 +215,6 @@
 - [daviddavo/jgmd](https://github.com/daviddavo/jgmd) - A directory of direct links to get your personal data from web services.
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
 - [subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT is OpenAI powered project that uses natural language processing (NLP) to simulate a conversation between a user and a computer.
-- [godmayhem7/social-media-stats](https://github.com/godmayhem7/social-media-stats) - 
 - [wchorski/PyWrite-Publisher](https://github.com/wchorski/PyWrite-Publisher) - alternative to Obsidian Publish
 - [lvwzhen/ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 - [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
