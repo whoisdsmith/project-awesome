@@ -4522,7 +4522,6 @@
 - [udayqq/Ai-File-Organizer](https://github.com/udayqq/Ai-File-Organizer) - 
 - [jamesmeisler/twitter-stats](https://github.com/jamesmeisler/twitter-stats) - User Twitter Stats
 - [nathanielastudillo/twitter-stats](https://github.com/nathanielastudillo/twitter-stats) - 
-- [godmayhem7/social-media-stats](https://github.com/godmayhem7/social-media-stats) - 
 - [cnrad/d](https://github.com/cnrad/d) - 📊 Minimal dashboard tracking stats of your various social medias
 - [ivoinestrachan/instagram-wrapped](https://github.com/ivoinestrachan/instagram-wrapped) - Lets unwrapped the year of photos and videos
 - [SongoMen/SocialMe](https://github.com/SongoMen/SocialMe) - App to show stats about your fb page or instagram account.
