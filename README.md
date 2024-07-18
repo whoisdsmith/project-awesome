@@ -541,6 +541,7 @@
 - [gmhafiz/timeline](https://github.com/gmhafiz/timeline) - Your Personal Timeline written in golang and javascript (vis.js)
 - [Maumagnaguagno/Timeline](https://github.com/Maumagnaguagno/Timeline) - :hourglass: Convert Markdown timeline to Graphviz DOT
 - [DistrictDataLabs/cultivar](https://github.com/DistrictDataLabs/cultivar) - Multidimensional data explorer and visualization tool.
+- [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [EdwardRutz/music-timeline-bullet-journal](https://github.com/EdwardRutz/music-timeline-bullet-journal) - Create your life's soundtrack by making a music timeline with the timeline-bullet-journal.
 - [The-SamminAter/repo](https://github.com/The-SamminAter/repo) - My (The-SamminAter's) repo for jailbroken devices - also apparently a good template
@@ -1738,7 +1739,7 @@
 - [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library. An index for your archive.
+- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
 - [inclinedadarsh/termhand](https://github.com/inclinedadarsh/termhand) - TermHand is a command-line tool that generates terminal commands from natural language prompts.
 - [theghostrat/NaturalShell](https://github.com/theghostrat/NaturalShell) - NaturalShell, an AI-driven command-line tool, effortlessly translates natural language into shell commands. Say goodbye to complex syntax and hello to intuitive interaction with your system.
 - [Jing-yilin/E2M](https://github.com/Jing-yilin/E2M) - E2M API, converting everything to markdown (LLM-friendly Format).
@@ -2331,7 +2332,6 @@
 - [ferran7e/facebook-parser](https://github.com/ferran7e/facebook-parser) - Parses exported Facebook JSON data.
 - [hulk66/timeline](https://github.com/hulk66/timeline) - Timeline - A photo organizer
 - [quickstats/quickstats-django](https://github.com/quickstats/quickstats-django) - Simple stats for my own use.
-- [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [wq/django-data-wizard](https://github.com/wq/django-data-wizard) - 🧙⚙️ Import structured data (e.g. Excel, CSV, XML, JSON) into one or more Django models via an interactive web-based wizard
 - [NicholasMamo/multiplex-plot](https://github.com/NicholasMamo/multiplex-plot) - Multiplex: visualizations that tell stories—A Python library to create and annotate beautiful network graph visualizations, text visualizations and more.
