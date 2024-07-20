@@ -106,6 +106,7 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
@@ -2614,6 +2615,16 @@
 - [syahravi/me](https://github.com/syahravi/me) - syahravi timeline - a timeline of important events in my life.
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 
+## html-css-javascript 
+
+- [Bonnie39/voyage](https://github.com/Bonnie39/voyage) - Simple frontend for Google Custom Search Engine
+- [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
+- [asrvd/gitbanner](https://github.com/asrvd/gitbanner) - Generate Banner for you Profile Readme on GitHub. GitHub Readme Banner Generator with Name, About section and Profile Picture.
+- [mayhemantt/Portfolio-Website](https://github.com/mayhemantt/Portfolio-Website) - Free to use portfolio website. Dont forget to start. Thank you.
+- [Tanuj-tj/PortfolioGenerator](https://github.com/Tanuj-tj/PortfolioGenerator) - DevSearch is a Professional Portfolio generator web application where users are allowed to maintain their profiles, add projects, and also can interact with one another.
+- [obsidian-html/obsidian-html](https://github.com/obsidian-html/obsidian-html) - Python code to convert Obsidian notes to proper markdown and optionally to create an html site too.
+- [mxamber/TimelineTool](https://github.com/mxamber/TimelineTool) - Simple timeline creator implemented in HTML & JavaScript.
+
 ## html5 
 
 - [ashish-makes/text-tools](https://github.com/ashish-makes/text-tools) - TextNinja is a versatile text editing tool with a modern and user-friendly design.
@@ -4155,7 +4166,7 @@
 - [Azur3-bit/Terminal-MusicPlayer](https://github.com/Azur3-bit/Terminal-MusicPlayer) - 
 - [materialvision/augment_audio_tools](https://github.com/materialvision/augment_audio_tools) - Simple python scripts to augment a dataset of audio
 - [nomonosound/fast-align-audio](https://github.com/nomonosound/fast-align-audio) - A fast python library for aligning similar audio snippets passed in as NumPy arrays
-- [karaokenerds/python-audio-separator](https://github.com/karaokenerds/python-audio-separator) - Easy to use vocal separation from CLI or as a python package, using a variety of amazing models (primarily trained by @Anjok07 as part of UVR)
+- [nomadkaraoke/python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator) - Easy to use vocal separation from CLI or as a python package, using a variety of amazing models (primarily trained by @Anjok07 as part of UVR)
 - [polifonia-project/music-meta-ontology](https://github.com/polifonia-project/music-meta-ontology) - A flexible ontology for the interoperability of music metadata
 - [EmulationAI/awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) - Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.
 - [wlamason/github-stars](https://github.com/wlamason/github-stars) - ⭐Create a searchable view of your github stars. Runs daily with github actions.
