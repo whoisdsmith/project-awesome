@@ -2733,7 +2733,7 @@
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The ⚡️ analytics-intensive, self-hostable link-shortener with a beautiful UI | AKA free bit.ly alternative 🚀
-- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose (fuzzy) URLs (including emails, which are conceptually a part of URLs) in texts with robust patterns.
+- [patternknife/url-knife](https://github.com/patternknife/url-knife) - Extract and decompose URLs (including emails, which are conceptually a part of URLs) with robust patterns.
 - [AndrejGajdos/link-preview-generator](https://github.com/AndrejGajdos/link-preview-generator) - Get preview data (a title, description, image, domain name) from a url. Library uses puppeteer headless browser to scrape the web site.
 - [Soham-Chakraborty-8455/Banner-Generator-](https://github.com/Soham-Chakraborty-8455/Banner-Generator-) - An automatic banner generator website
 - [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set of constants that can help you to parse markdown content
@@ -4152,7 +4152,7 @@
 - [gsaivinay/claude-prompt-optimizer](https://github.com/gsaivinay/claude-prompt-optimizer) - An open-source Claude 3 prompt optimizer
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno AI API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. I also provide the Suno API, no deployment is required, no subscription to suno is r
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Stable and reliable, no deployment required, pay-as-you-go music generation API. 👇
 - [antlarr/bard](https://github.com/antlarr/bard) - Bard Music Manager - A database to manage your music, find duplicates and fix tags
 - [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
 - [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
