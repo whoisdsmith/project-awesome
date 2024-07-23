@@ -2968,7 +2968,7 @@
 - [MatissJurevics/Gene-AI](https://github.com/MatissJurevics/Gene-AI) - An AI assistant plugin for Obsidian
 - [tuneflow/tuneflow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [stevenwaterman/musetree](https://github.com/stevenwaterman/musetree) - AI Music Generation for the Real World
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [giselle197/obsidian-external-links-in-document](https://github.com/giselle197/obsidian-external-links-in-document) - panel of External Links
 - [darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses a MarkDown document and creates an index with links using the document headings
