@@ -2896,7 +2896,6 @@
 
 ## julia 
 
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## jupyter-notebook 
@@ -3464,7 +3463,7 @@
 - [chuhlomin/genblog](https://github.com/chuhlomin/genblog) - Generates static site (blog) from Markdown files
 - [Bwc9876/menagerie](https://github.com/Bwc9876/menagerie) - A static site generator made for MarkDown, HTML, JsonSchema, XMLSchema, and more
 - [breck7/scroll](https://github.com/breck7/scroll) - Scroll is a language for scientists of all ages. Scroll includes a command line app that builds static blogs, websites, CSVs, text files, and more.
-- [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) - Your content driven static site generator.
+- [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) - A simple and powerful content-driven static site generator.
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
@@ -5508,7 +5507,7 @@
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP
 - [benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter) - One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Jekyll (or Hugo or any other Markdown and YAML based site e
-- [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) - Your content driven static site generator.
+- [Cecilapp/Cecil](https://github.com/Cecilapp/Cecil) - A simple and powerful content-driven static site generator.
 - [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
@@ -6001,7 +6000,6 @@
 - [trinker/textclean](https://github.com/trinker/textclean) - Tools for cleaning and normalizing text data
 - [juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
 - [tslmy/GoQuantifyYourself](https://github.com/tslmy/GoQuantifyYourself) - Visualizing Quantified Self data with R.
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## rails 
 
