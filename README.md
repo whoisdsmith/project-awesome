@@ -1786,7 +1786,7 @@
 - [nomonosound/fast-align-audio](https://github.com/nomonosound/fast-align-audio) - A fast python library for aligning similar audio snippets passed in as NumPy arrays
 - [Lallapallooza/fast-audiomentations](https://github.com/Lallapallooza/fast-audiomentations) - ⚡ Blazing fast audio augmentation in Python, powered by GPU for high-efficiency processing in machine learning and audio analysis tasks.
 - [rioharper/VocalForge](https://github.com/rioharper/VocalForge) - Your one-stop solution for voice dataset creation
-- [nomadkaraoke/python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator) - Easy to use vocal separation from CLI or as a python package, using a variety of amazing models (primarily trained by @Anjok07 as part of UVR)
+- [nomadkaraoke/python-audio-separator](https://github.com/nomadkaraoke/python-audio-separator) - Easy to use vocal separation from CLI or as a python package, using a variety of amazing pre-trained models (primarily from UVR)
 - [lucidrains/audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
 - [maphouse/analyze-tag-songs](https://github.com/maphouse/analyze-tag-songs) - Python script for analyzing and tagging music files by key and BPM
 - [mimbres/neural-audio-fp](https://github.com/mimbres/neural-audio-fp) - 
