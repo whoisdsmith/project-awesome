@@ -3602,7 +3602,7 @@
 - [Adrian-Winter/Meta-Music-Toolbox](https://github.com/Adrian-Winter/Meta-Music-Toolbox) - A collection of handy tools such as adding Key & BPM to your music library
 - [berkon/track-suggestor](https://github.com/berkon/track-suggestor) - DJ tool for suggesting tracks for harmonic mixing with Traktor Pro (from Native Instruments)
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
-- [qq-me/beat-manipulator](https://github.com/qq-me/beat-manipulator) - beat swapping powered by AI
+- [inikishev/beat-manipulator](https://github.com/inikishev/beat-manipulator) - beat swapping powered by AI
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
 - [ynop/audiomate](https://github.com/ynop/audiomate) - Python library for handling audio datasets.
@@ -5645,7 +5645,7 @@
 - [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment) - Wrapper for pydub AudioSegment objects
-- [qq-me/beat-manipulator](https://github.com/qq-me/beat-manipulator) - beat swapping powered by AI
+- [inikishev/beat-manipulator](https://github.com/inikishev/beat-manipulator) - beat swapping powered by AI
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
