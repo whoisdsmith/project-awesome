@@ -1803,7 +1803,7 @@
 - [Adrian-Winter/Meta-Music-Toolbox](https://github.com/Adrian-Winter/Meta-Music-Toolbox) - A collection of handy tools such as adding Key & BPM to your music library
 - [a-rich/DJ-Tools](https://github.com/a-rich/DJ-Tools) - DJ tools for downloading, processing, and sharing music / rekordbox data.
 - [pollinations/musicgen-remixer](https://github.com/pollinations/musicgen-remixer) - 
-- [qq-me/beat-manipulator](https://github.com/qq-me/beat-manipulator) - beat swapping powered by AI
+- [inikishev/beat-manipulator](https://github.com/inikishev/beat-manipulator) - beat swapping powered by AI
 - [dodiku/MixingBear](https://github.com/dodiku/MixingBear) - Package for automatic beat-mixing of music files in Python 🐻🎚
 - [Holzhaus/serato-tags](https://github.com/Holzhaus/serato-tags) - Serato DJ Pro GEOB tags documentation
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
