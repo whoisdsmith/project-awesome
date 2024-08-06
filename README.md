@@ -953,7 +953,7 @@
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
 - [guastallaigor/vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js (works with Vue 2 & Vue 3)
 - [makinacorpus/Leaflet.FileLayer](https://github.com/makinacorpus/Leaflet.FileLayer) - Loads files locally (GeoJSON, KML, GPX) as layers using HTML5 File API
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [ctf0/Laravel-Media-Manager](https://github.com/ctf0/Laravel-Media-Manager) - A "Vuejs & Laravel" Media Manager With Tons of Features
 - [quilicicf/markdown-formatter](https://github.com/quilicicf/markdown-formatter) - A markdown formatter intended for writing specifications
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
@@ -1713,7 +1713,7 @@
 - [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) - ‍✨ AI assistant for the command line
 - [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [gavi/chatgpt-markdown](https://github.com/gavi/chatgpt-markdown) - Converts chatgpt exported data to markdown so you can use it in Obsidian
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
