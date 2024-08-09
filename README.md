@@ -425,6 +425,7 @@
 - [Soulsender/hacking-osint-bookmarks](https://github.com/Soulsender/hacking-osint-bookmarks) - A collection of bookmarks for web tools, references, information, and other resources.
 - [marknakamura/osint-bookmarks](https://github.com/marknakamura/osint-bookmarks) - OSINT bookmarks
 - [Extravi/araa-search](https://github.com/Extravi/araa-search) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete.
+- [KLB7/IntraMine](https://github.com/KLB7/IntraMine) - Fast search and real autolinking for your Windows local and NAS storage
 - [jsmsj/sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get a
 - [timostrating/MEGA](https://github.com/timostrating/MEGA) - MEGA is my attempt to collect and analyze as much of my personal information as possible for a year. All scripts i write to automate actions will be stored in this repo.
 - [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
@@ -641,7 +642,6 @@
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [mbilokonsky/lyrical](https://github.com/mbilokonsky/lyrical) - a tool for scraping song lyrics
 - [brahma-dev/metafetch](https://github.com/brahma-dev/metafetch) - NodeJS package that fetches a given URL's title, description, images, links etc.
-- [KLB7/IntraMine](https://github.com/KLB7/IntraMine) - Fast search and real autolinking for your Windows local and NAS storage
 - [shukerov/dataforme](https://github.com/shukerov/dataforme) - A personal data analysis tool.
 - [austil/datapuller](https://github.com/austil/datapuller) - "Easy" data dump of your activity on various web services
 - [Nicholas-Lin/vibe](https://github.com/Nicholas-Lin/vibe) - Get insights into your Spotify listening history 🎶
