@@ -2704,6 +2704,7 @@
 
 ## javascript 
 
+- [pvishalkeerthan/PromptScape](https://github.com/pvishalkeerthan/PromptScape) - PromptScape is a dynamic platform for discovering, creating, and sharing creative prompts to inspire your writing and brainstorming
 - [Rowno/medic](https://github.com/Rowno/medic) - Perform bulk URL status checks and track changes.
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity and MaxAI-Google search threads into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! (formerly Sa
 - [Bonnie39/voyage](https://github.com/Bonnie39/voyage) - Simple frontend for Google Custom Search Engine
@@ -3892,6 +3893,7 @@
 
 ## nodejs 
 
+- [pvishalkeerthan/PromptScape](https://github.com/pvishalkeerthan/PromptScape) - PromptScape is a dynamic platform for discovering, creating, and sharing creative prompts to inspire your writing and brainstorming
 - [Rowno/medic](https://github.com/Rowno/medic) - Perform bulk URL status checks and track changes.
 - [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
 - [Mondonno/iLyrics](https://github.com/Mondonno/iLyrics) - Get lyrics of songs on your Mac that you play on iTunes, Spotify or QuickTimePlayer with speed of light.
@@ -4098,6 +4100,10 @@
 
 ## others 
 
+- [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
+- [lulu-wang/Creative-Writing-AI-Webapp](https://github.com/lulu-wang/Creative-Writing-AI-Webapp) - Creative writing sentence generator using user input prompts. Coded with OpenAI API, Stable Diffusion, HTML/CSS and Python (Flask) backend.
+- [Priyam-28/Prompt-Lab](https://github.com/Priyam-28/Prompt-Lab) - The Prompt Sharing Platform is a user-friendly web application enabling creative writers to generate, modify, and exchange writing prompts effortlessly. Integrated with Google authentication via NextA
+- [adriaorenstein/word-well](https://github.com/adriaorenstein/word-well) - A website for generating fun and creative writing prompts.
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [CognitiveCodes/NeuralGPT](https://github.com/CognitiveCodes/NeuralGPT) - Personalized all-purpose AI assistance platform based on hierarchical cooperative multi-agent framework which utilizes websocket connectivity for LLM&lt;-&gt;LLM communication
@@ -6139,6 +6145,7 @@
 
 ## reactjs 
 
+- [pvishalkeerthan/PromptScape](https://github.com/pvishalkeerthan/PromptScape) - PromptScape is a dynamic platform for discovering, creating, and sharing creative prompts to inspire your writing and brainstorming
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
 - [hhpr98/lyric-app-web](https://github.com/hhpr98/lyric-app-web) - lyric app for web
