@@ -599,6 +599,10 @@
 
 ## JavaScript 
 
+- [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
+- [Priyam-28/Prompt-Lab](https://github.com/Priyam-28/Prompt-Lab) - The Prompt Sharing Platform is a user-friendly web application enabling creative writers to generate, modify, and exchange writing prompts effortlessly. Integrated with Google authentication via NextA
+- [adriaorenstein/word-well](https://github.com/adriaorenstein/word-well) - A website for generating fun and creative writing prompts.
+- [pvishalkeerthan/PromptScape](https://github.com/pvishalkeerthan/PromptScape) - PromptScape is a dynamic platform for discovering, creating, and sharing creative prompts to inspire your writing and brainstorming
 - [neatsoftware/term-sheets](https://github.com/neatsoftware/term-sheets) - Create animated terminal presentations. Export as SVG, animated GIF, or HTML+CSS
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
@@ -1695,6 +1699,7 @@
 
 ## Python 
 
+- [lulu-wang/Creative-Writing-AI-Webapp](https://github.com/lulu-wang/Creative-Writing-AI-Webapp) - Creative writing sentence generator using user input prompts. Coded with OpenAI API, Stable Diffusion, HTML/CSS and Python (Flask) backend.
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API : )  (Don't need API KEY)
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
