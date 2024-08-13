@@ -1774,7 +1774,7 @@
 - [hiliuxg/geminichat](https://github.com/hiliuxg/geminichat) - A chatbot, powered by google gemini pro , gemini pro vision and ui is maked by streamlit.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Stable and reliable, no deployment required, pay-as-you-go music generation API. 👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. 👇
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
@@ -3245,7 +3245,7 @@
 - [lacunaverse/hawk](https://github.com/lacunaverse/hawk) - get a bird's eye view of you
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [bogurd/messenger-explorer](https://github.com/bogurd/messenger-explorer) - A messages explorer for data exported from Facebook Messenger
+- [agoatboi/messenger-explorer](https://github.com/agoatboi/messenger-explorer) - A messages explorer for data exported from Facebook Messenger
 - [proyecto26/MyAPI](https://github.com/proyecto26/MyAPI) - A template to create awesome APIs easily ⚡️
 - [apricote/Listory](https://github.com/apricote/Listory) - Track your Spotify listens
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
