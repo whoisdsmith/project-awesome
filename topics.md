@@ -4165,7 +4165,7 @@
 - [gsaivinay/claude-prompt-optimizer](https://github.com/gsaivinay/claude-prompt-optimizer) - An open-source Claude 3 prompt optimizer
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Stable and reliable, no deployment required, pay-as-you-go music generation API. 👇
+- [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. 👇
 - [antlarr/bard](https://github.com/antlarr/bard) - Bard Music Manager - A database to manage your music, find duplicates and fix tags
 - [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
 - [mendi/More_Spotify](https://github.com/mendi/More_Spotify) - A Spotify songs dataset was available in Kaggle. 1.2 million songs, suitable for clasification, dimensionreduction, data cleaning, data wrangling, etc.
@@ -5205,7 +5205,7 @@
 - [gamma032steam/fbtimestamp](https://github.com/gamma032steam/fbtimestamp) - Exports Facebook messenger timestamps for analysis.
 - [bencooper222/Facebook-Messenger-Export-Display](https://github.com/bencooper222/Facebook-Messenger-Export-Display) - A display of your exported Facebook messages
 - [bencooper222/Facebook-Messenger-Export](https://github.com/bencooper222/Facebook-Messenger-Export) - Converting Messenger's export into something useful
-- [bogurd/messenger-explorer](https://github.com/bogurd/messenger-explorer) - A messages explorer for data exported from Facebook Messenger
+- [agoatboi/messenger-explorer](https://github.com/agoatboi/messenger-explorer) - A messages explorer for data exported from Facebook Messenger
 - [quantitare/quantitare-categories](https://github.com/quantitare/quantitare-categories) - Category specifications for Quantitare scrobbles
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [ugilio/keen](https://github.com/ugilio/keen) - The Knowledge Engineering ENvironment for Timeline-based Planning
