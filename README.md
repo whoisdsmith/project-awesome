@@ -744,7 +744,7 @@
 - [limit-zero/url-juicer](https://github.com/limit-zero/url-juicer) - 🍊🔗 Squeeze some juice from URLs: A URL crawler/extraction library.
 - [sindresorhus/urls-md](https://github.com/sindresorhus/urls-md) - Convert URLs to Markdown links: Extracts URLs from text → Gets their article title → Creates Markdown links
 - [obsidianforensics/obsidianforensics](https://github.com/obsidianforensics/obsidianforensics) - 
-- [xyzes/selective-link-checker](https://github.com/xyzes/selective-link-checker) - This program recursively scans a website and outputs all found sub-pages and their broken links to two different CSV files
+- [xyzesteban/selective-link-checker](https://github.com/xyzesteban/selective-link-checker) - This program recursively scans a website and outputs all found sub-pages and their broken links to two different CSV files
 - [code-reaper08/Link-Master](https://github.com/code-reaper08/Link-Master) - Link-Master is a Web-APP which finds all the Broken-URL's in your Project's README file. It uses Cheerio for scraping the exact Readme file content and present you with status for each link either as 
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A rehype plugin to inspect, validate, or rewrite URLs anywhere in an HTML document
 - [timaschew/link-checker](https://github.com/timaschew/link-checker) - 🚀Superfast link checker for HTML pages
@@ -3289,7 +3289,7 @@
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+- [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Transform any link into an elegant visual web bookmark with just one click to copy the stunning bookmark image.
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
