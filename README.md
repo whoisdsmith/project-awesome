@@ -606,7 +606,7 @@
 - [pvishalkeerthan/PromptScape](https://github.com/pvishalkeerthan/PromptScape) - PromptScape is a dynamic platform for discovering, creating, and sharing creative prompts to inspire your writing and brainstorming
 - [neatsoftware/term-sheets](https://github.com/neatsoftware/term-sheets) - Create animated terminal presentations. Export as SVG, animated GIF, or HTML+CSS
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
-- [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
+- [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector) - Uncover broken links in your content.
 - [Rowno/medic](https://github.com/Rowno/medic) - Perform bulk URL status checks and track changes.
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity and MaxAI-Google search threads into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! (formerly Sa
