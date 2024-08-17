@@ -4109,7 +4109,7 @@
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [CognitiveCodes/NeuralGPT](https://github.com/CognitiveCodes/NeuralGPT) - Personalized all-purpose AI assistance platform based on hierarchical cooperative multi-agent framework which utilizes websocket connectivity for LLM&lt;-&gt;LLM communication
-- [pop-os/cosmic](https://github.com/pop-os/cosmic) - Computer Operating System Main Interface Components
+- [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [PBorocz/raindrop-io-py](https://github.com/PBorocz/raindrop-io-py) - API interface to the Raindrop Bookmark Manager.
