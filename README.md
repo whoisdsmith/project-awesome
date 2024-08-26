@@ -1649,7 +1649,7 @@
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [Kwaadpepper/Omen](https://github.com/Kwaadpepper/Omen) - Yet another Laravel file manager
 - [singlequote/laravel-filemanager](https://github.com/singlequote/laravel-filemanager) - A laravel filemanager package
-- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [mshossain110/LaravelDrive](https://github.com/mshossain110/LaravelDrive) - Private file storage and share with user build with laravel and vue inspired by google drive
 - [janloeffler/import-day-one](https://github.com/janloeffler/import-day-one) - WordPress plugin for importing entries from Day One export file
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
@@ -2910,7 +2910,7 @@
 - [ivan-lednev/obsidian-persistent-links](https://github.com/ivan-lednev/obsidian-persistent-links) - More robust internal links for Obsidian!
 - [mii-key/obsidian-links](https://github.com/mii-key/obsidian-links) - manipulate & manage obisidian links
 - [badgooooor/hugging-md](https://github.com/badgooooor/hugging-md) - 🤗📝 HuggingFace assisted Obsidian plugin
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [ega4432/notion-to-markdown-action](https://github.com/ega4432/notion-to-markdown-action) - Custom action to export Notion database to local as markdown files and images.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) - 😎 A static blog using notion database
