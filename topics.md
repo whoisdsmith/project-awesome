@@ -4247,7 +4247,7 @@
 - [Syrins/Gemini-Beta](https://github.com/Syrins/Gemini-Beta) - Like Google's Gemini demo, it harnesses the power of AI to answer questions based on visual input. By integrating GPT-4 Vision for image understanding, Whisper for voice recognition and Resemble AI fo
 - [buszk/obsidian-ai-editor](https://github.com/buszk/obsidian-ai-editor) - 
 - [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
-- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI-powered organization for people who struggle with organization
+- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI-powered organization and chat assistant for Obsidian
 - [mdiller/rock-assistant](https://github.com/mdiller/rock-assistant) - An obsidian + GPT ai assistant thing
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
