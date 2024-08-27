@@ -2862,7 +2862,7 @@
 - [A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana) - Supercharge your Obsidian note-taking through AI-powered insights and suggestions
 - [solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools) - Adding powerful semantic search, generative answers, and other AI tools to Obsidian, using Supabase + OpenAI.
 - [pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
-- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI-powered organization for people who struggle with organization
+- [different-ai/file-organizer-2000](https://github.com/different-ai/file-organizer-2000) - AI-powered organization and chat assistant for Obsidian
 - [eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant) - Your AI assistant in obsidian
 - [Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.) - Regex Obsidian Plugin
 - [alphaolomi/primelyrics](https://github.com/alphaolomi/primelyrics) - A finder any📃lyrics  for your music.🎶
