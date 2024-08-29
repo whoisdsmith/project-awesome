@@ -599,6 +599,7 @@
 
 ## JavaScript 
 
+- [syncwin/prompt-manager-browser-extension](https://github.com/syncwin/prompt-manager-browser-extension) - A robust and user-centric browser extension that will revolutionize the way we manage prompts for AI chatbot platforms like ChatGPT, Gemini, Claude, etc. This extension is designed to enhance prompt o
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
 - [Priyam-28/Prompt-Lab](https://github.com/Priyam-28/Prompt-Lab) - The Prompt Sharing Platform is a user-friendly web application enabling creative writers to generate, modify, and exchange writing prompts effortlessly. Integrated with Google authentication via NextA
@@ -1700,6 +1701,8 @@
 
 ## Python 
 
+- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - A powerful Streamlit application designed to help you become a prompt engineering and fine-tuning pro.  ⚡Powered by the latest (Aug 27, 2024) Gemini-1.5-flash-exp-0827 - Gemini-1.5-pro-exp-0827 - Gemi
+- [gptscript-ai/gemini-aistudio-provider](https://github.com/gptscript-ai/gemini-aistudio-provider) - 
 - [lulu-wang/Creative-Writing-AI-Webapp](https://github.com/lulu-wang/Creative-Writing-AI-Webapp) - Creative writing sentence generator using user input prompts. Coded with OpenAI API, Stable Diffusion, HTML/CSS and Python (Flask) backend.
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API : )  (Don't need API KEY)
