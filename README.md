@@ -923,7 +923,6 @@
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [2KAbhishek/projects](https://github.com/2KAbhishek/projects) - Showcase All Your Projects 🛍️🎇
-- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [azedo/raindrop-io-github-starred-repos](https://github.com/azedo/raindrop-io-github-starred-repos) - Add all of your starred repos to raindrop.io
 - [ProfessorKolodziej/idea-generator](https://github.com/ProfessorKolodziej/idea-generator) - An idea generator, powered by a selected set of bookmarks on Raindrop.io.
 - [sintaxi/harp](https://github.com/sintaxi/harp) - Static Web Server/Generator/Bundler
@@ -1701,7 +1700,7 @@
 
 ## Python 
 
-- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - A powerful Streamlit application designed to help you become a prompt engineering and fine-tuning pro.  ⚡Powered by the latest (Aug 27, 2024) Gemini-1.5-flash-exp-0827 - Gemini-1.5-pro-exp-0827 - Gemi
+- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - ⚡Powered by Goggle TPUs and the latest (Aug 27, 2024) Gemini 1.5 Pro and Flash Models to generate high-quality engineered prompts, analyze text and images, and create datasets for fine-tuning AI model
 - [gptscript-ai/gemini-aistudio-provider](https://github.com/gptscript-ai/gemini-aistudio-provider) - 
 - [lulu-wang/Creative-Writing-AI-Webapp](https://github.com/lulu-wang/Creative-Writing-AI-Webapp) - Creative writing sentence generator using user input prompts. Coded with OpenAI API, Stable Diffusion, HTML/CSS and Python (Flask) backend.
 - [RMNCLDYO/gemini-ai-toolkit](https://github.com/RMNCLDYO/gemini-ai-toolkit) - Unlock the potential of Google's Gemini AI models with this versatile toolkit. Offering seamless chat, text generation, and multimodal interactions, supporting various file types, including PDF's, ima
@@ -3203,6 +3202,7 @@
 - [kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url) - Copy or open the Obsidian Publish URL of a note. You can also open its Git commit history on GitHub.
 - [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [malipramod/google-photos-migration-app](https://github.com/malipramod/google-photos-migration-app) - Migrates Photo/Albums from one Google Photos Account to Another with a single click.
 - [scriptify/thesoundofus](https://github.com/scriptify/thesoundofus) - Connect your Google Photos and Spotify Account, select a photo album and a Spotify playlist, and the web app will create an interactive photo album with music from the time the photo was taken. Intend
