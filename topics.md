@@ -2624,7 +2624,7 @@
 
 ## html 
 
-- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - A powerful Streamlit application designed to help you become a prompt engineering and fine-tuning pro.  ⚡Powered by the latest (Aug 27, 2024) Gemini-1.5-flash-exp-0827 - Gemini-1.5-pro-exp-0827 - Gemi
+- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - ⚡Powered by Goggle TPUs and the latest (Aug 27, 2024) Gemini 1.5 Pro and Flash Models to generate high-quality engineered prompts, analyze text and images, and create datasets for fine-tuning AI model
 - [Bonnie39/voyage](https://github.com/Bonnie39/voyage) - Simple frontend for Google Custom Search Engine
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [akshaaatt/musicbrainz-web-next](https://github.com/akshaaatt/musicbrainz-web-next) - Web Application of MusicBrainz Revamp using Nextjs
@@ -5691,7 +5691,7 @@
 
 ## python 
 
-- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - A powerful Streamlit application designed to help you become a prompt engineering and fine-tuning pro.  ⚡Powered by the latest (Aug 27, 2024) Gemini-1.5-flash-exp-0827 - Gemini-1.5-pro-exp-0827 - Gemi
+- [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - ⚡Powered by Goggle TPUs and the latest (Aug 27, 2024) Gemini 1.5 Pro and Flash Models to generate high-quality engineered prompts, analyze text and images, and create datasets for fine-tuning AI model
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API : )  (Don't need API KEY)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
