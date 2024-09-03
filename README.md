@@ -2676,6 +2676,7 @@
 
 ## Shell 
 
+- [alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [jooni22/f2md](https://github.com/jooni22/f2md) - This script takes all files with a specific extension (specified with the -n argument) from a folder and subfolders and writes them to a markdown file. You can also exclude specific folders (using the
 - [Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
