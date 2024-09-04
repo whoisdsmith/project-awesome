@@ -599,6 +599,7 @@
 
 ## JavaScript 
 
+- [MedioAI/Chrome-Extension](https://github.com/MedioAI/Chrome-Extension) - A chrome extension to enhance experience of Udio.com (A.I. Music App Companion)
 - [syncwin/prompt-manager-browser-extension](https://github.com/syncwin/prompt-manager-browser-extension) - A robust and user-centric browser extension that will revolutionize the way we manage prompts for AI chatbot platforms like ChatGPT, Gemini, Claude, etc. This extension is designed to enhance prompt o
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
@@ -610,7 +611,7 @@
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector) - Uncover broken links in your content.
 - [Rowno/medic](https://github.com/Rowno/medic) - Perform bulk URL status checks and track changes.
-- [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity and MaxAI-Google search threads into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! (formerly Sa
+- [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity, ChatGPT and MaxAI-Google search threads into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! (fo
 - [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
@@ -1183,6 +1184,7 @@
 - [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An awesome list of illustrations to improve your projects, posts & portfolios. Fork & add your own.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mermaid 
 
@@ -1541,7 +1543,6 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [Azim-Vau/crack-pro](https://github.com/Azim-Vau/crack-pro) - NEW FACEBOOK COINING TOOL
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [alkashef/timeline-visualization](https://github.com/alkashef/timeline-visualization) - Visualization of parallel timelines in Excel
 - [stethoscope-js/stethoscope](https://github.com/stethoscope-js/stethoscope) - 🩺 Track, visualize, and embed your health and life data — location, health, work, play, and more
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
