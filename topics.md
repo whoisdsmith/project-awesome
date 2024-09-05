@@ -297,6 +297,7 @@
 - [llm-edge/hal-9100](https://github.com/llm-edge/hal-9100) - Edge full-stack LLM platform. Written in Rust
 - [AlexanderDotH/OpenLyricsClient](https://github.com/AlexanderDotH/OpenLyricsClient) - A lyrics synchronization tool for everyone
 - [jtCodes/lyrictor](https://github.com/jtCodes/lyrictor) - High-performance lyric video editor accessible on any browser
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [different-ai/embedbase-ava](https://github.com/different-ai/embedbase-ava) - Obsidian + Embedbase = Ava
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
@@ -767,7 +768,6 @@
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 
 ## awesome-list 
@@ -1105,6 +1105,7 @@
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API : )  (Don't need API KEY)
 - [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) - ‍✨ AI assistant for the command line
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
@@ -1355,6 +1356,7 @@
 ## cli 
 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [chrisdothtml/gpt-cmd](https://github.com/chrisdothtml/gpt-cmd) - Sit back and let ChatGPT run your commands for you.
 - [lzakharov/csv2md](https://github.com/lzakharov/csv2md) - Command line tool for converting CSV files into Markdown tables.
@@ -3637,7 +3639,6 @@
 
 - [thomasleplus/google-apps-scripts](https://github.com/thomasleplus/google-apps-scripts) - A collection of useful Google Apps Scripts.
 - [hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A list of awesome Visual Studio Code extensions.
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 
 ## mongodb 
 
@@ -4170,7 +4171,6 @@
 
 ## others 
 
-- [syncwin/prompt-manager-browser-extension](https://github.com/syncwin/prompt-manager-browser-extension) - A robust and user-centric browser extension that will revolutionize the way we manage prompts for AI chatbot platforms like ChatGPT, Gemini, Claude, etc. This extension is designed to enhance prompt o
 - [gptscript-ai/gemini-aistudio-provider](https://github.com/gptscript-ai/gemini-aistudio-provider) - 
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
@@ -4260,7 +4260,6 @@
 - [fortyTwo102/The-Spotify-Hit-Predictor-Dataset](https://github.com/fortyTwo102/The-Spotify-Hit-Predictor-Dataset) - A dataset of tracks with their various features fetched using Spotify's Web API, and classified as either a 'Hit' or 'Flop' based on a few criteria.
 - [ebrasha/abdal-duplicate-remover](https://github.com/ebrasha/abdal-duplicate-remover) - Find and delete duplicates in text files
 - [ichigo-afk/awesome-terminal](https://github.com/ichigo-afk/awesome-terminal) - Awesome Terminal Hacks. powershell, windows terminal and much more
-- [Awesome-Windows/awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - :black_medium_square: Use your Windows terminal to do awesome things.
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
 - [chirlu/sox](https://github.com/chirlu/sox) - SoX, Swiss Army knife of sound processing
@@ -4325,7 +4324,6 @@
 - [iXialumy/obsidian-sort-headings](https://github.com/iXialumy/obsidian-sort-headings) - Plugin to sort headings in Obsidian
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [nulltea/obsidian-hackmd](https://github.com/nulltea/obsidian-hackmd) - 🚀 Publish your Obsidian notes to HackMD!
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [arbre-app/browse-gedcom](https://github.com/arbre-app/browse-gedcom) - A modern Gedcom file viewer app built in the browser
 - [enzsmn/spotify-album-extract](https://github.com/enzsmn/spotify-album-extract) - Select a playlist and get the full album from each track.
 - [Borewit/music-metadata-browser](https://github.com/Borewit/music-metadata-browser) - Browser version of music-metadata parser Supporting a wide range of audio and tag formats.
@@ -7065,7 +7063,6 @@
 - [em429/selfspy](https://github.com/em429/selfspy) - Log everything you do on the computer, for statistics, future reference and all-around fun! (ported for python3)
 - [ANSSI-FR/ADTimeline](https://github.com/ANSSI-FR/ADTimeline) - Timeline of Active Directory changes with replication metadata
 - [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 
 ## wordpress 
