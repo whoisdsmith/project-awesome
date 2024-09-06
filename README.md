@@ -599,6 +599,7 @@
 
 ## JavaScript 
 
+- [DarkMistofWoods/lyrical_genius](https://github.com/DarkMistofWoods/lyrical_genius) - A tool designed to help songwriters write their lyrics for Suno AI with ease and dependability.
 - [MedioAI/Chrome-Extension](https://github.com/MedioAI/Chrome-Extension) - A chrome extension to enhance experience of Udio.com (A.I. Music App Companion)
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
@@ -610,7 +611,7 @@
 - [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector) - Uncover broken links in your content.
 - [Rowno/medic](https://github.com/Rowno/medic) - Perform bulk URL status checks and track changes.
-- [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity, ChatGPT and MaxAI-Google search threads into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! (fo
+- [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your Phind, Perplexity, ChatGPT and MaxAI-Google threads and pages into markdown files (unofficial). ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store! 
 - [vincentreynaud/resource-gen](https://github.com/vincentreynaud/resource-gen) - CLI utility to parse webloc & browser-printed pdf files into a comprehensive list of links in markdown
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
@@ -1699,6 +1700,7 @@
 
 ## Python 
 
+- [SunoApi/SunoApi](https://github.com/SunoApi/SunoApi) - SunoAPI Unofficial Suno AI client, currently supports the generation of music, access to music information and other functions.
 - [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - ⚡Powered by Goggle TPUs and the latest (Aug 27, 2024) Gemini 1.5 Pro and Flash Models to generate high-quality engineered prompts, analyze text and images, and create datasets for fine-tuning AI model
 - [gptscript-ai/gemini-aistudio-provider](https://github.com/gptscript-ai/gemini-aistudio-provider) - 
 - [lulu-wang/Creative-Writing-AI-Webapp](https://github.com/lulu-wang/Creative-Writing-AI-Webapp) - Creative writing sentence generator using user input prompts. Coded with OpenAI API, Stable Diffusion, HTML/CSS and Python (Flask) backend.
@@ -1721,7 +1723,7 @@
 - [beyimjan/shell-whiz](https://github.com/beyimjan/shell-whiz) - ‍✨ AI assistant for the command line
 - [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [gavi/chatgpt-markdown](https://github.com/gavi/chatgpt-markdown) - Converts chatgpt exported data to markdown so you can use it in Obsidian
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 wraps all package managers with a unifying CLI
