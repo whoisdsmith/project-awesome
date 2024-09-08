@@ -114,6 +114,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -250,6 +251,8 @@
 
 ## ai 
 
+- [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
+- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [Amery2010/TalkWithGemini](https://github.com/Amery2010/TalkWithGemini) - Deploy your private Gemini application for free with one click, supporting Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini Pro and Gemini Pro Vision models. 一键免费部署您的私人 Gemini 应用, 支持 Gemini 1.5 Pro、Gemini 1.5
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Claude, Gemini to API : )  (Don't need API KEY)
@@ -2748,6 +2751,21 @@
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 
+## instagram 
+
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
+- [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI software framework
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [daprofiler/DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recove
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
+- [mainigautam/instagram_backup_manager](https://github.com/mainigautam/instagram_backup_manager) - This Is A Simple Web Based Application which makes your Instagram Backup Data readable to a great extent. Call it "Instagram Backup Manager" or "Instagram Backup Data  Viewer"
+- [michabirklbauer/instagram_json_viewer](https://github.com/michabirklbauer/instagram_json_viewer) - Transforms Instagram's *.json / backup data - that you get via the Data Download Tool - to a readable format!
+- [Adoliin/insta-data-styled](https://github.com/Adoliin/insta-data-styled) - A program to format your Instagram's "messages.json" into a beautiful and readable web format.
+- [dudynets/Instagram-Direct-Stats](https://github.com/dudynets/Instagram-Direct-Stats) - An application that counts messages of various types from JSON.
+- [vibhavnirmal/InstaChatSave](https://github.com/vibhavnirmal/InstaChatSave) - Instagram messages easy to read after downloading json file
+- [LorenKociko/instagram-messages-json-to-txt](https://github.com/LorenKociko/instagram-messages-json-to-txt) - Script that extract all the text messages from the messages.json file and stores them into a user-friendly format.
+
 ## ios 
 
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -3137,6 +3155,7 @@
 
 ## llm 
 
+- [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
 - [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
 - [AkshitIreddy/CUPCAKEAGI](https://github.com/AkshitIreddy/CUPCAKEAGI) - 🧁👋 Welcome to CupcakeAGI, where we bake up some sweet and creamy AGI goodness! 🍰🤖
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
@@ -3670,6 +3689,7 @@
 
 ## music 
 
+- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [maphouse/analyze-tag-songs](https://github.com/maphouse/analyze-tag-songs) - Python script for analyzing and tagging music files by key and BPM
@@ -5123,7 +5143,6 @@
 - [chuwy/dnevnichok](https://github.com/chuwy/dnevnichok) - Poorman's Day One
 - [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
 - [ravatsindhav/Instagram-Backup-Data-Viewer-Latest-Format](https://github.com/ravatsindhav/Instagram-Backup-Data-Viewer-Latest-Format) - To view the download backup data(message) of instagram for the new format
-- [mainigautam/instagram_backup_manager](https://github.com/mainigautam/instagram_backup_manager) - This Is A Simple Web Based Application which makes your Instagram Backup Data readable to a great extent. Call it "Instagram Backup Manager" or "Instagram Backup Data  Viewer"
 - [D-Kats/InstagramJSON2HTML](https://github.com/D-Kats/InstagramJSON2HTML) - A python script to parse the Instagram 'messages.json' file and create an HTML report with all the conversations of the account under examination.
 - [kvnal/Instagram_Messages_Reader](https://github.com/kvnal/Instagram_Messages_Reader) - Instagram's "messages.txt/.json" into Readable Format Converter.
 - [silnshadow/InstagramMessages](https://github.com/silnshadow/InstagramMessages) - This project is an attempt to make Instagram backup messages from Json to readable format.
@@ -6596,6 +6615,7 @@
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 - [dudynets/Instagram-Direct-Stats](https://github.com/dudynets/Instagram-Direct-Stats) - An application that counts messages of various types from JSON.
 - [jeffshek/open](https://github.com/jeffshek/open) - The most boring open source you've ever seen ....
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
@@ -6796,6 +6816,7 @@
 
 ## typescript 
 
+- [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [dangchinh25/obsidian-gpt](https://github.com/dangchinh25/obsidian-gpt) - This plugin lets the user Q&A with their own notes, powered by OpenAI.
