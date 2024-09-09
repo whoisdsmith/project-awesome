@@ -2838,7 +2838,7 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [husjon/obsidian-file-cleaner-redux](https://github.com/husjon/obsidian-file-cleaner-redux) - A plugin for Obsidian to help clean up files in your vault
 - [ras0q/obsidian-graph-banner](https://github.com/ras0q/obsidian-graph-banner) - An Obsidian plugin to display a local graph view to the note header.
@@ -3160,7 +3160,7 @@
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
 - [nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link) - 
 - [sentialx/node-bookmarks-parser](https://github.com/sentialx/node-bookmarks-parser) - Parses Chrome HTML bookmarks files
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate) - 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 - [agreatfool/obsidian-utils](https://github.com/agreatfool/obsidian-utils) - Command line tools to help obsidian stuff
 - [ganesshkumar/obsidian-plugins-stats-ui](https://github.com/ganesshkumar/obsidian-plugins-stats-ui) - A tool to get plugin statistics of Obsidian plugin ecosystem.
