@@ -344,7 +344,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 - [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT cre
@@ -1217,7 +1217,7 @@
 - [sambarrowclough/chatcopilot](https://github.com/sambarrowclough/chatcopilot) - An open source modern ChatGPT clone with authentication
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [ambr0sial/unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 - [deepsarda/Aeona](https://github.com/deepsarda/Aeona) - A Multipurpose GPT Chatbot with AI Image Generator, Counting , Logging, Leveling, Reaction Roles, Boost Tracker, Welcomer, Ticket.
@@ -3233,7 +3233,7 @@
 - [Renset/macai](https://github.com/Renset/macai) - Swift powered native macOS client for Ollama, ChatGPT and compatible API-backends
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [carlsverre/obsidian-libllm](https://github.com/carlsverre/obsidian-libllm) - Exposes LLM backed APIs like OpenAI GPT via a set of utility functions that other plugins can use.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
@@ -3317,7 +3317,7 @@
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [MrAnayDongre/Machine-Learning-Collection](https://github.com/MrAnayDongre/Machine-Learning-Collection) - Repo for Implementing Research Papers & Projects related to Machine Learning
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [soliblue/songGPT](https://github.com/soliblue/songGPT) - songGPT is an experimental open-source project that explores the potential of Language Models, specifically ChatGPT, in generating original and customizable musical compositions. Using Python, the out
 - [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
@@ -3947,7 +3947,7 @@
 - [1994nikunj/nlp-toolkit-desktop-app](https://github.com/1994nikunj/nlp-toolkit-desktop-app) - The code is a collection of NLP analyses, including text cleaning, most common words, n-grams generation, co-occurrence matrix generation, wordcloud generation, topic modeling (using Latent Dirichlet 
 - [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [ahmedbesbes/audiolizr](https://github.com/ahmedbesbes/audiolizr) - A bentoML-powered API to transcribe audio and make sense of it
 - [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
@@ -4229,7 +4229,7 @@
 - [MLNLP-World/Awesome-LLM](https://github.com/MLNLP-World/Awesome-LLM) - This project collects awesome resources (e.g., papers, open-source models) for large language model (LLM)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool -  Find optimal RAG pipeline for your own data.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [husjon/obsidian-file-cleaner-redux](https://github.com/husjon/obsidian-file-cleaner-redux) - A plugin for Obsidian to help clean up files in your vault
 - [ras0q/obsidian-graph-banner](https://github.com/ras0q/obsidian-graph-banner) - An Obsidian plugin to display a local graph view to the note header.
@@ -4553,7 +4553,7 @@
 - [hay/audio2text](https://github.com/hay/audio2text) - Python command line utility wrappers for Whispercpp and other speech-to-text utilities
 - [felixbade/transcribe](https://github.com/felixbade/transcribe) - Web UI for OpenAI Whisper API
 - [tokenshift/obsidian-spotify](https://github.com/tokenshift/obsidian-spotify) - Embed songs, albums and playlists from Spotify in your Obsidian notes.
-- [conneroisu/Text-Dataset-Aid-Plugin](https://github.com/conneroisu/Text-Dataset-Aid-Plugin) - This is a obsidian plugin to help with the creation of personal datasets for text generation models.
+- [conneroisu/Text-Dataset-Aid-Plugin](https://github.com/conneroisu/Text-Dataset-Aid-Plugin) - This is a obsidian plugin to help with the creation of personal jsonl datasets for text generation models.
 - [nguyenvanduocit/obsidian-ai-assistant](https://github.com/nguyenvanduocit/obsidian-ai-assistant) - 
 - [sschepis/flint](https://github.com/sschepis/flint) - Flint is an Obsidian extension for generating and executing markdown-based AI directives using GPT-4
 - [bsaoptima/obsidianGPT](https://github.com/bsaoptima/obsidianGPT) - Obsidian plugin that connects search and knowledge organisation in one.
@@ -5817,7 +5817,7 @@
 - [raul23/convert-to-txt](https://github.com/raul23/convert-to-txt) - Convert documents (pdf, djvu, epub, word) to txt
 - [se7enack/ai-computing-assistant](https://github.com/se7enack/ai-computing-assistant) - Coeus is an A.I. Computing Assistant for MacOS that can answer just about any question you may have reading back the responses if you choose. It also creates realtime images using A.I., all by leverag
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [smaranjitghose/AIAudioTranscriber](https://github.com/smaranjitghose/AIAudioTranscriber) - A minimalistic web app to generate transciption for audio built using Python
 - [MatthewRoush/Transcribe-MP3](https://github.com/MatthewRoush/Transcribe-MP3) - Generate synced and unsynced lyrics for .mp3 songs using openai-whisper.
 - [Carleslc/AudioToText](https://github.com/Carleslc/AudioToText) - Transcribe and translate audio to text using Whisper and DeepL.
@@ -6076,7 +6076,7 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [Maitreyapatel/speech-conversion-between-different-modalities](https://github.com/Maitreyapatel/speech-conversion-between-different-modalities) - Generative Adversarial Networks for different impaired speech conversions
 - [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [alishdipani/Neural-Style-Transfer-Audio](https://github.com/alishdipani/Neural-Style-Transfer-Audio) - This is PyTorch Implementation of Neural Style Transfer Algorithm which is modified for Audios.
@@ -6176,7 +6176,7 @@
 - [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
 - [RafaelGB/obsidian-db-folder](https://github.com/RafaelGB/obsidian-db-folder) - Obsidian Plugin to Allow Notion like database based on folders
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats) - awesome GitHub repo star statistics generator
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [winhtaikaung/react-tiny-link](https://github.com/winhtaikaung/react-tiny-link) - Convert your links into rich previews
