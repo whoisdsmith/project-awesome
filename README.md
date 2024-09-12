@@ -1079,7 +1079,7 @@
 - [severian42/Vodalus-Expert-LLM-Forge](https://github.com/severian42/Vodalus-Expert-LLM-Forge) - Dataset Crafting w/ RAG/Wikipedia ground truth and Efficient Fine-Tuning Using MLX and Unsloth. Includes configurable dataset annotation editor Gradio UI.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [irembyzdm/Most-Streamed-Spotify-Songs-2023](https://github.com/irembyzdm/Most-Streamed-Spotify-Songs-2023) - This dataset contains a comprehensive list of the most famous songs of 2023 as listed on Spotify. The dataset offers a wealth of features beyond what is typically available in similar datasets. It pro
@@ -2140,6 +2140,7 @@
 - [casualsnek/onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 - [9gits/windsribe-account-generator-confirmation](https://github.com/9gits/windsribe-account-generator-confirmation) - 
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
+- [Rust1667/a-FMHY-search-engine](https://github.com/Rust1667/a-FMHY-search-engine) - A search engine for the link collection FMHY (https://fmhy.net/)
 - [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 - [dubs3c/Bookie](https://github.com/dubs3c/Bookie) - Save all your bookmarks!
 - [adriansteffan/obsidian-to-jekyll](https://github.com/adriansteffan/obsidian-to-jekyll) - This is a simple python script that converts Obsidian notes to a format that is compatible with Jekyll themes that support wikilinks and backlinking like Jekyll Garden or Digital Garden Jekyll Templat
