@@ -4252,7 +4252,7 @@
 - [felixqueisler/Obsidian-FileLink-Styling](https://github.com/felixqueisler/Obsidian-FileLink-Styling) - Improves the way linked files are displayed in Obsidian, making them beautifully distinct from notes.
 - [mark-when/obsidian-plugin](https://github.com/mark-when/obsidian-plugin) - Markwhen obsidian plugin
 - [hiliuxg/geminichat](https://github.com/hiliuxg/geminichat) - A chatbot, powered by google gemini pro , gemini pro vision and ui is maked by streamlit.
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [lks-ai/prompt-library](https://github.com/lks-ai/prompt-library) - This is a collection of `.prowl` scripts which act as modular prompts for use with PrOwl and ProwlStack and Local LLMs
 - [andremoreira73/prompt_collection](https://github.com/andremoreira73/prompt_collection) - This is my personal prompt collection, it is open source and free to use.
 - [mckaywrigley/prompts](https://github.com/mckaywrigley/prompts) - My favorite AI prompts.
@@ -4829,6 +4829,7 @@
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [jlord/git-it-electron](https://github.com/jlord/git-it-electron) - :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub
+- [Rust1667/a-FMHY-search-engine](https://github.com/Rust1667/a-FMHY-search-engine) - A search engine for the link collection FMHY (https://fmhy.net/)
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
