@@ -574,7 +574,7 @@
 
 ## atom 
 
-- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
+- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds wtih a simple CLI tool
 - [nWODT-Cobalt/markown-utilities](https://github.com/nWODT-Cobalt/markown-utilities) - Markdown stylesheets and other minutiae
 
 ## automation 
@@ -1387,7 +1387,7 @@
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 - [yogeshwaran01/lyricy](https://github.com/yogeshwaran01/lyricy) - A command line lyrics utility tool which search and add lyrics to your offline songs. 🎵
 - [senran101604/sagemode](https://github.com/senran101604/sagemode) - 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
-- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
+- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds wtih a simple CLI tool
 - [VladimirKalachikhin/GooglePhotosURLs](https://github.com/VladimirKalachikhin/GooglePhotosURLs) - create list of Google Photos from the Google Photo's album url
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
@@ -2300,7 +2300,7 @@
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move and delete notes!
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) - 🕸️  Crawl in the web network
-- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds.
+- [TheBigRoomXXL/tinyfeed](https://github.com/TheBigRoomXXL/tinyfeed) - Generate a static HTML page from a collection of feeds wtih a simple CLI tool
 - [go-dedup/fsimilar](https://github.com/go-dedup/fsimilar) - find/file similar
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
