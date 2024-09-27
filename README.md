@@ -1700,6 +1700,7 @@
 
 ## Python 
 
+- [the-jeebus/suno_ai_downloader](https://github.com/the-jeebus/suno_ai_downloader) - A python script to save Songs and data from Suno
 - [SunoApi/SunoApi](https://github.com/SunoApi/SunoApi) - SunoAPI Unofficial Suno AI client, currently supports the generation of music, access to music information and other functions.
 - [aiengineeringforgrandmas/gemini-prompt-engineer-toolkit](https://github.com/aiengineeringforgrandmas/gemini-prompt-engineer-toolkit) - ⚡Powered by Goggle TPUs and the latest (Aug 27, 2024) Gemini 1.5 Pro and Flash Models to generate high-quality engineered prompts, analyze text and images, and create datasets for fine-tuning AI model
 - [gptscript-ai/gemini-aistudio-provider](https://github.com/gptscript-ai/gemini-aistudio-provider) - 
@@ -2763,7 +2764,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [jaymakes11/prompts4all](https://github.com/jaymakes11/prompts4all) - A free and open-source library of AI prompts.
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
