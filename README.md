@@ -871,8 +871,6 @@
 - [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
 - [anyrange/measurify](https://github.com/anyrange/measurify) - Spotify listening stats [Last.fm + Stats.fm clone]
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
-- [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
-- [wobsoriano/spotify-stats](https://github.com/wobsoriano/spotify-stats) - 🎧 Your spotify profile's top artists and tracks with charts and playlist creator.
 - [cocktail-forensics/macCocktail](https://github.com/cocktail-forensics/macCocktail) - Parses forensic artifacts from macOS file systems
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension) - Add links to WebCrate via a browser extension
