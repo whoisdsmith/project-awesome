@@ -2033,7 +2033,6 @@
 ## express 
 
 - [hhpr98/lyric-app-web](https://github.com/hhpr98/lyric-app-web) - lyric app for web
-- [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 - [reubn/daylight](https://github.com/reubn/daylight) - Your life, on a map.
 
@@ -4021,7 +4020,6 @@
 - [pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks](https://github.com/pramit-marattha/Fullstack-projects-frontend-with-react-and-backend-with-various-stacks) - * W.I.P *🛠 Full-on full stack front end and a bit of back end web development challenge. Challenging every day to learn new stuffs about react & its in-depth features and also to explore the taste of 
 - [sentialx/node-bookmarks-parser](https://github.com/sentialx/node-bookmarks-parser) - Parses Chrome HTML bookmarks files
 - [OP-Engineering/link-preview-js](https://github.com/OP-Engineering/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
-- [wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify stats server
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
 - [shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
@@ -6320,7 +6318,6 @@
 - [zenje/spotify-visual-app](https://github.com/zenje/spotify-visual-app) - visualize personal spotify stats, react-based app
 - [aneeshnema/spotify-stats](https://github.com/aneeshnema/spotify-stats) - A React App to see your listening habits on Spotify.
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
-- [wobsoriano/spotify-stats](https://github.com/wobsoriano/spotify-stats) - 🎧 Your spotify profile's top artists and tracks with charts and playlist creator.
 - [codebytere/ViziMessage](https://github.com/codebytere/ViziMessage) - Visualize your iMessage history and interactions.
 - [Yukaii/messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - Browse and view the exported Facebook Messenger data / messages.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
