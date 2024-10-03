@@ -284,6 +284,7 @@
 - [micheam/ai-assistant-console](https://github.com/micheam/ai-assistant-console) - An intuitive CLI client and Vim9 plugin for the OpenAI API, enabling seamless AI-powered text generation directly from your command line or within Vim. Simple to use, yet powerful.
 - [c0mm4nd/command-windows](https://github.com/c0mm4nd/command-windows) - CommandWindows is a desktop opeating system copilot based on multi-modal large language model, supporting all-platforms which have application window
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [faetalize/zodiac](https://github.com/faetalize/zodiac) - A ⚡lightweight⚡ frontend for Google's Gemini Pro.
@@ -527,6 +528,7 @@
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
 - [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [kyegomez/prompts](https://github.com/kyegomez/prompts) - The prompts I use daily for building documentation, validating ideas, and other activities.
 - [kyegomez/forest-of-thoughts](https://github.com/kyegomez/forest-of-thoughts) - A forest of autonomous agents.
@@ -2482,6 +2484,7 @@
 - [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector) - Uncover broken links in your content.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [yoda-pa/yoda](https://github.com/yoda-pa/yoda) - Wise and powerful personal assistant, available in your nearest terminal
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -3206,6 +3209,7 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
 - [dvp-git/gemini-information-extractor](https://github.com/dvp-git/gemini-information-extractor) - A simple single interface information extractor app using the latest gemini-vision-pro  model
 - [faetalize/zodiac](https://github.com/faetalize/zodiac) - A ⚡lightweight⚡ frontend for Google's Gemini Pro.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
@@ -4384,7 +4388,6 @@
 - [adityanuar/clai](https://github.com/adityanuar/clai) - AI powered cli suggestion and auto complete. You don't have to remember cli commands & options, this AI tool is here to help you.
 - [tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform) - An Obsidian plugin for freeform visualization and JavaScript code
 - [anoopkcn/obsidian-reference-map](https://github.com/anoopkcn/obsidian-reference-map) - Reference and citation map for literature review and discovery
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 - [Aetherinox/obsidian-dataview-snippets](https://github.com/Aetherinox/obsidian-dataview-snippets) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link reporting, etc.
 - [czottmann/obsidian-logstravaganza](https://github.com/czottmann/obsidian-logstravaganza) - A simple Obsidian plugin that proxies `console.*()` calls and copies log messages and uncaught exceptions to a file in your vault.
