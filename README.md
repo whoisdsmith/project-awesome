@@ -317,6 +317,7 @@
 
 ## Go 
 
+- [Suno-API/Suno-API](https://github.com/Suno-API/Suno-API) - This is an unofficial Suno AI API based on Golang. It currently supports generating songs, lyrics, and OpenAI Chat
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [Aviksaikat/httpRex](https://github.com/Aviksaikat/httpRex) - 'httpRex' is a command-line tool for checking the status code of one or multiple URLs. It can also save the output to a file.
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
@@ -600,6 +601,8 @@
 
 ## JavaScript 
 
+- [Loszii/lyric-analyzer](https://github.com/Loszii/lyric-analyzer) - An application to get lyrics via currently playing Spotify song and analyze them using AI.
+- [gouveags/ai-music-video-generator](https://github.com/gouveags/ai-music-video-generator) - AI Music Video Generator automates music video creation using AI for lyrics, images, music, and video. It integrates OpenAI for lyrics, DALL-E for images, Suno for music, and FFmpeg for video processi
 - [DarkMistofWoods/lyrical_genius](https://github.com/DarkMistofWoods/lyrical_genius) - A tool designed to help songwriters write their lyrics for Suno AI with ease and dependability.
 - [MedioAI/Chrome-Extension](https://github.com/MedioAI/Chrome-Extension) - A chrome extension to enhance experience of Udio.com (A.I. Music App Companion)
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
@@ -1227,6 +1230,7 @@
 
 ## Others 
 
+- [vladimirovertheworld/createlyrics](https://github.com/vladimirovertheworld/createlyrics) - AI tool to create lyrics of a song .wav using OpenAI API, and the scheme developed by me.
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [h4x-host/e-DEX-UI](https://github.com/h4x-host/e-DEX-UI) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1698,6 +1702,8 @@
 
 ## Python 
 
+- [pavgos22/song-genre-ai](https://github.com/pavgos22/song-genre-ai) - A Python project for classifying music genres based on song lyrics using a Naive Bayes classifier, featuring data preprocessing and a user-friendly GUI for predictions.
+- [WaveGenAI/WaveAI](https://github.com/WaveGenAI/WaveAI) - A model that can generate music based on prompt and lyrics.
 - [Al0010/pexels.com-bulk-downloads-videos](https://github.com/Al0010/pexels.com-bulk-downloads-videos) - Download bulks videos on pexels.com with this simple Python script.
 - [the-jeebus/suno_ai_downloader](https://github.com/the-jeebus/suno_ai_downloader) - A python script to save Songs and data from Suno
 - [SunoApi/SunoApi](https://github.com/SunoApi/SunoApi) - SunoAPI Unofficial Suno AI client, currently supports the generation of music, access to music information and other functions.
@@ -1820,7 +1826,6 @@
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [descriptinc/audiotools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
-- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [psobot/wub-machine](https://github.com/psobot/wub-machine) - Automatic Dubstep/Electro-House remixer app, powered by the Echo Nest Remix API.
 - [drensin/Remixatron](https://github.com/drensin/Remixatron) - Infinite Jukebox on the command line in Python. It groups musically similar beats of a song into clusters and then plays a random path through the song that makes musical sense, but not does not repea
@@ -2816,6 +2821,7 @@
 
 ## TypeScript 
 
+- [iameddieyayaya/AI-LyricsGenerator](https://github.com/iameddieyayaya/AI-LyricsGenerator) - Using AI (OpenAI API) to generate lyrics based on prompts.
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
 - [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [Amery2010/TalkWithGemini](https://github.com/Amery2010/TalkWithGemini) - Deploy your private Gemini application for free with one click, supporting Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini Pro and Gemini Pro Vision models. 一键免费部署您的私人 Gemini 应用, 支持 Gemini 1.5 Pro、Gemini 1.5
