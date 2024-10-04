@@ -1745,6 +1745,7 @@
 
 ## deep-learning 
 
+- [WaveGenAI/WaveAI](https://github.com/WaveGenAI/WaveAI) - A model that can generate music based on prompt and lyrics.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJ
@@ -2332,6 +2333,7 @@
 
 ## golang 
 
+- [Suno-API/Suno-API](https://github.com/Suno-API/Suno-API) - This is an unofficial Suno AI API based on Golang. It currently supports generating songs, lyrics, and OpenAI Chat
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [Aviksaikat/httpRex](https://github.com/Aviksaikat/httpRex) - 'httpRex' is a command-line tool for checking the status code of one or multiple URLs. It can also save the output to a file.
@@ -3698,6 +3700,8 @@
 
 ## music 
 
+- [Suno-API/Suno-API](https://github.com/Suno-API/Suno-API) - This is an unofficial Suno AI API based on Golang. It currently supports generating songs, lyrics, and OpenAI Chat
+- [WaveGenAI/WaveAI](https://github.com/WaveGenAI/WaveAI) - A model that can generate music based on prompt and lyrics.
 - [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
@@ -4340,6 +4344,11 @@
 
 ## others 
 
+- [pavgos22/song-genre-ai](https://github.com/pavgos22/song-genre-ai) - A Python project for classifying music genres based on song lyrics using a Naive Bayes classifier, featuring data preprocessing and a user-friendly GUI for predictions.
+- [iameddieyayaya/AI-LyricsGenerator](https://github.com/iameddieyayaya/AI-LyricsGenerator) - Using AI (OpenAI API) to generate lyrics based on prompts.
+- [vladimirovertheworld/createlyrics](https://github.com/vladimirovertheworld/createlyrics) - AI tool to create lyrics of a song .wav using OpenAI API, and the scheme developed by me.
+- [Loszii/lyric-analyzer](https://github.com/Loszii/lyric-analyzer) - An application to get lyrics via currently playing Spotify song and analyze them using AI.
+- [gouveags/ai-music-video-generator](https://github.com/gouveags/ai-music-video-generator) - AI Music Video Generator automates music video creation using AI for lyrics, images, music, and video. It integrates OpenAI for lyrics, DALL-E for images, Suno for music, and FFmpeg for video processi
 - [the-jeebus/suno_ai_downloader](https://github.com/the-jeebus/suno_ai_downloader) - A python script to save Songs and data from Suno
 - [DarkMistofWoods/lyrical_genius](https://github.com/DarkMistofWoods/lyrical_genius) - A tool designed to help songwriters write their lyrics for Suno AI with ease and dependability.
 - [SunoApi/SunoApi](https://github.com/SunoApi/SunoApi) - SunoAPI Unofficial Suno AI client, currently supports the generation of music, access to music information and other functions.
@@ -4450,7 +4459,6 @@
 - [descriptinc/audiotools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
 - [czyczk/auto-music-info-server](https://github.com/czyczk/auto-music-info-server) - A Kotlin JVM project to make use of both rules and AI power to collect information about music from the Internet. See https://github.com/czyczk/auto_music_info for the Flutter client.
 - [mayphyusinthant/NeuralSymphony](https://github.com/mayphyusinthant/NeuralSymphony) - Neural Symphony is a music player application like Spotify integrated with AI Technology - Neural Network Architecture. The aim of this project is to use the advantage of AI - Machine Learning is for 
-- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [crlandsc/Music-Genre-Classification-Using-Convolutional-Neural-Networks](https://github.com/crlandsc/Music-Genre-Classification-Using-Convolutional-Neural-Networks) - Music genre classification system built on a convolutional neural network trained on Mel-spectrograms of 3-second audio samples.
 - [psobot/wub-machine](https://github.com/psobot/wub-machine) - Automatic Dubstep/Electro-House remixer app, powered by the Echo Nest Remix API.
@@ -6206,6 +6214,7 @@
 
 ## pytorch 
 
+- [WaveGenAI/WaveAI](https://github.com/WaveGenAI/WaveAI) - A model that can generate music based on prompt and lyrics.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大模型提供更高质量、更丰富、更易”消化“的数据！
 - [archinetai/audio-data-pytorch](https://github.com/archinetai/audio-data-pytorch) - A collection of useful audio datasets and transforms for PyTorch.
