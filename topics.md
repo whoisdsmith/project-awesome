@@ -2482,6 +2482,7 @@
 
 ## hacktoberfest 
 
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [UmbrellaDocs/linkspector](https://github.com/UmbrellaDocs/linkspector) - Uncover broken links in your content.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -4353,7 +4354,6 @@
 - [DarkMistofWoods/lyrical_genius](https://github.com/DarkMistofWoods/lyrical_genius) - A tool designed to help songwriters write their lyrics for Suno AI with ease and dependability.
 - [SunoApi/SunoApi](https://github.com/SunoApi/SunoApi) - SunoAPI Unofficial Suno AI client, currently supports the generation of music, access to music information and other functions.
 - [gptscript-ai/gemini-aistudio-provider](https://github.com/gptscript-ai/gemini-aistudio-provider) - 
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [allanbennatt/AI-Prompt-Generator](https://github.com/allanbennatt/AI-Prompt-Generator) - AI Prompt Generator: A creative spark at your fingertips! Generate custom AI prompts for effortless writing inspiration. Try it now!
 - [lulu-wang/Creative-Writing-AI-Webapp](https://github.com/lulu-wang/Creative-Writing-AI-Webapp) - Creative writing sentence generator using user input prompts. Coded with OpenAI API, Stable Diffusion, HTML/CSS and Python (Flask) backend.
 - [Priyam-28/Prompt-Lab](https://github.com/Priyam-28/Prompt-Lab) - The Prompt Sharing Platform is a user-friendly web application enabling creative writers to generate, modify, and exchange writing prompts effortlessly. Integrated with Google authentication via NextA
