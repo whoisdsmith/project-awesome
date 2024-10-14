@@ -1450,7 +1450,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [piotrmurach/tty-markdown-cli](https://github.com/piotrmurach/tty-markdown-cli) - CLI tool for displaying nicely formatted Markdown documents in the terminal
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [lorey/obsi](https://github.com/lorey/obsi) - 💎 supercharge your note-taking with index pages, Anki decks, calendar pages, and more.
 - [devidw/obsidian-to-hugo](https://github.com/devidw/obsidian-to-hugo) - Process Obsidian notes to publish them with Hugo. Supports transformation of Obsidian wiki links into Hugo shortcodes for internal linking.
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
@@ -2547,6 +2547,7 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their Twitter and LinkedIn bookmarks, see other shared bookmarks, and contribute to the community. This repository is participating in Hacktoberfe
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [vinitshahdeo/github-stars-feed](https://github.com/vinitshahdeo/github-stars-feed) - Get the latest feed of GitHub Stars out there! 🌟  ⭐  ✨
@@ -2576,6 +2577,7 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome bookmarks into markdown files
@@ -4520,7 +4522,7 @@
 - [cvzi/Share-Bandcamp.com-lyrics-and-songtexts-on-Genius.com](https://github.com/cvzi/Share-Bandcamp.com-lyrics-and-songtexts-on-Genius.com) - Userscript. Adds a link above the lyrics on bandcamp to share lyrics to genius.com. It then automatically copies all the available information (title, artist, release date, ...) to genius.com
 - [Faanilo/lyrics_finder](https://github.com/Faanilo/lyrics_finder) - Search lyrics from genius lyrics
 - [cvzi/genius-downloader](https://github.com/cvzi/genius-downloader) - A lyrics downloader for genius.com
-- [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
+- [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: Lyrics transcription & alignment using Whisper and yt-dlp
 - [taajik/lyricser](https://github.com/taajik/lyricser) - Adding lyrics to songs using Genius API, editing lyrics, reading lyrics and more.
 - [dtobrien23/LyricizeMe](https://github.com/dtobrien23/LyricizeMe) - An application that provides random song lyrics and annotations for a chosen artist, powered by the Genius API.
 - [8liam/FMLyrics](https://github.com/8liam/FMLyrics) - 🎤🎧 A web-based app that displays lyrics for your last.fm currently playing track
@@ -5790,7 +5792,7 @@
 - [adri/memex](https://github.com/adri/memex) - Search of my personal data
 - [bookmarks-tools/bookmarks2db](https://github.com/bookmarks-tools/bookmarks2db) - :bookmark: examples of storing bookmarks data in a database (Neo4j, PostgreSQL using mptt and ltree)
 - [net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link and bookmark manager and sharing platform for the wide web. Next.js, Node.js + Hyper Express, Nx
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
@@ -6504,7 +6506,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [neo-sh/neosh](https://github.com/neo-sh/neosh) - A next-gen shell for modern systems (wip)
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
@@ -6677,7 +6679,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [MichaelCurrin/url-manager](https://github.com/MichaelCurrin/url-manager) - Centralize, view, edit, label and organize collections of your favorite URLs 🔗 📙
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree program (FSND) course materials
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [smklancher/ExistExportToSQL](https://github.com/smklancher/ExistExportToSQL) - Import Exist.io data into SQL Server
@@ -6694,7 +6696,7 @@
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.
 - [abhijit-hota/rengoku](https://github.com/abhijit-hota/rengoku) - [WIP] Set your bookmarks ablaze
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [tmo1/sms-db](https://github.com/tmo1/sms-db) - sms-db is a tool to build an SQLite database out of collections of SMS and MMS messages in various formats. The database can then be queried using standard SQLite queries, and the messages in the data
 - [dogsheep/dogsheep-photos](https://github.com/dogsheep/dogsheep-photos) - Upload your photos to S3 and import metadata about them into a SQLite database
 - [dogsheep/google-takeout-to-sqlite](https://github.com/dogsheep/google-takeout-to-sqlite) - Save data from Google Takeout to a SQLite database
@@ -6758,7 +6760,7 @@
 - [kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized stats for your Spotify profile.
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) - Automatically generate summary GitHub statistics images for your profile using Actions, no server required
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [dudynets/Instagram-Direct-Stats](https://github.com/dudynets/Instagram-Direct-Stats) - An application that counts messages of various types from JSON.
 - [jeffshek/open](https://github.com/jeffshek/open) - The most boring open source you've ever seen ....
 - [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
