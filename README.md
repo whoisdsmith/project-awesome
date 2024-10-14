@@ -1093,7 +1093,7 @@
 - [musikalkemist/generativemusicaicourse](https://github.com/musikalkemist/generativemusicaicourse) - Resources for the Generative Music AI Course on The Sound of AI YouTube channel.
 - [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.
 - [sian0x0/Roud-Song-Clusters](https://github.com/sian0x0/Roud-Song-Clusters) - Lyrics clustering
-- [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: AI-driven lyric alignment & correction using Faster-Whisper, Genius, and GPT-4 for an unparalleled singing experience. 🎵🎤
+- [ras0k/auto-lyrics](https://github.com/ras0k/auto-lyrics) - Auto-Lyrics: Lyrics transcription & alignment using Whisper and yt-dlp
 - [dtobrien23/LyricizeMe](https://github.com/dtobrien23/LyricizeMe) - An application that provides random song lyrics and annotations for a chosen artist, powered by the Genius API.
 - [KR1GOS/Web-Scaping](https://github.com/KR1GOS/Web-Scaping) - This is a Python web scraper that extracts information about AI-related tools from "https://topai.tools/browse." The scraper fetches data from the website, including the tool name, URL, description, p
 - [amaiya/onprem](https://github.com/amaiya/onprem) - A tool for running on-premises large language models with non-public data
@@ -2646,7 +2646,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - Blazing-fast CSV data-wrangling toolkit
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
